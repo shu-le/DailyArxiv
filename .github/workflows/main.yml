@@ -47,12 +47,12 @@ jobs:
         run: |
           python arxiv-report.py
           
-      - name: Push new nlp-arxiv-daily.md
+      - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update NLP Arxiv Papers"
-          files: README.md nlp-arxiv-daily.json docs/nlp-arxiv-daily-web.json docs/index.md
+          commit-message: "Github Action Automatic Update Arxiv Papers"
+          files: README.md arxiv-daily.json docs/arxiv-daily-web.json docs/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
