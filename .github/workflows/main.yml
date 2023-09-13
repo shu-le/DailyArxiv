@@ -47,7 +47,10 @@ jobs:
       - name: Run arxiv report 
         run: |
           python arxiv-report.py
-          
+
+      - name: Fix git safe.directory in container
+        run: mkdir -p /home/runner/work/_temp/_github_home && printf "[safe]\n\tdirectory = /github/workspace" > /home/runner/work/_temp/_github_home/.gitconfig
+
       - name: Push new arxiv-daily.md
         uses: github-actions-x/commit@v2.8
         with:
