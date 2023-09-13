@@ -196,9 +196,9 @@ if __name__ == "__main__":
 
     keywords = dict()
     keywords["CV"] = "CV" + "OR" + "\"Computer Vision\""
-    keywords["Diffusion"] = "\"Diffusion Model\"OR\"Generative model\"OR\"Diffusion\"OR\"Text2Video\"OR\"Video Edit\""
-    keywords["Evaluation"] = "\"Evaluation\""
-    keywords["Large language model"] = "\"Large language model\""
+    keywords["Diffusion"] = "\"Diffusion Model\"OR\"Generative model\"OR\"Text2Video\"OR\"Video Edit\"OR\"Text2image\""
+    keywords["Evaluation"] = "\"Model Evaluation\"OR\"Video Evaluation\"OR\"Image Evaluation\"OR\"Video Assessment\"OR\"Image Assessment\""
+    keywords["Large language model"] = "\"Large language model\"OR\"GPT\""
     keywords["Multimodal Model"] = "\"Multimodal Model\"OR\"Vision language\""
     keywords["Multimodal Agents"] = "Multimodal Agents" + "OR" + "\"Agents\""
     keywords["3D Detection"] = "3D Detection" + "OR" + "\"3D Object Detection\""
