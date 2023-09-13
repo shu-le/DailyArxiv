@@ -42,6 +42,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install arxiv
           pip install requests
+          git config --global --add safe.directory /github/workspace
           
       - name: Run arxiv report 
         run: |
