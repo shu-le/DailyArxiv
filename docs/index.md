@@ -203,7 +203,7 @@ layout: default
 |**2023-09-12**|**The Moral Machine Experiment on Large Language Models**|Kazuhiro Takemoto et.al.|[2309.05958v1](http://arxiv.org/abs/2309.05958v1)|**[link](https://github.com/kztakemoto/mmllm)**|
 |**2023-09-12**|**Balanced and Explainable Social Media Analysis for Public Health with Large Language Models**|Yan Jiang et.al.|[2309.05951v1](http://arxiv.org/abs/2309.05951v1)|**[link](https://github.com/yanjiangjerry/alex)**|
 |**2023-09-12**|**Language Models as Black-Box Optimizers for Vision-Language Models**|Samuel Yu et.al.|[2309.05950v1](http://arxiv.org/abs/2309.05950v1)|**[link](https://github.com/shihongl1998/llm-as-a-blackbox-optimizer)**|
-|**2023-09-12**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v1](http://arxiv.org/abs/2309.05918v1)|null|
+|**2023-09-13**|**Stochastic LLMs do not Understand Language: Towards Symbolic, Explainable and Ontologically Based LLMs**|Walid S. Saba et.al.|[2309.05918v2](http://arxiv.org/abs/2309.05918v2)|null|
 |**2023-09-12**|**Strategic Behavior of Large Language Models: Game Structure vs. Contextual Framing**|Nunzio Lorè et.al.|[2309.05898v1](http://arxiv.org/abs/2309.05898v1)|null|
 |**2023-09-11**|**Uncovering mesa-optimization algorithms in Transformers**|Johannes von Oswald et.al.|[2309.05858v1](http://arxiv.org/abs/2309.05858v1)|null|
 |**2023-09-11**|**ChemSpaceAL: An Efficient Active Learning Methodology Applied to Protein-Specific Molecular Generation**|Gregory W. Kyro et.al.|[2309.05853v1](http://arxiv.org/abs/2309.05853v1)|null|
@@ -218,14 +218,14 @@ layout: default
 |**2023-09-12**|**Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models**|Mansi Sakarvadia et.al.|[2309.05605v2](http://arxiv.org/abs/2309.05605v2)|null|
 |**2023-09-12**|**An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**|Yukai Miao et.al.|[2309.05557v2](http://arxiv.org/abs/2309.05557v2)|null|
 |**2023-09-12**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520v2](http://arxiv.org/abs/2309.05520v2)|null|
-|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
+|**2023-09-13**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v2](http://arxiv.org/abs/2309.05519v2)|null|
 |**2023-09-11**|**Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs**|Wenhua Cheng et.al.|[2309.05516v1](http://arxiv.org/abs/2309.05516v1)|**[link](https://github.com/intel/neural-compressor)**|
 |**2023-09-11**|**Black-Box Analysis: GPTs Across Time in Legal Textual Entailment Task**|Ha-Thanh Nguyen et.al.|[2309.05501v1](http://arxiv.org/abs/2309.05501v1)|null|
 |**2023-09-11**|**Zero-shot Learning with Minimum Instruction to Extract Social Determinants and Family History from Clinical Notes using GPT Model**|Neel Jitesh Bhate et.al.|[2309.05475v1](http://arxiv.org/abs/2309.05475v1)|null|
 |**2023-09-11**|**Textbooks Are All You Need II: phi-1.5 technical report**|Yuanzhi Li et.al.|[2309.05463v1](http://arxiv.org/abs/2309.05463v1)|null|
 |**2023-09-11**|**Evaluating the Deductive Competence of Large Language Models**|S. M. Seals et.al.|[2309.05452v1](http://arxiv.org/abs/2309.05452v1)|null|
 |**2023-09-11**|**FuzzLLM: A Novel and Universal Fuzzing Framework for Proactively Discovering Jailbreak Vulnerabilities in Large Language Models**|Dongyu Yao et.al.|[2309.05274v1](http://arxiv.org/abs/2309.05274v1)|null|
-|**2023-09-11**|**Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach**|Tae Jin Park et.al.|[2309.05248v1](http://arxiv.org/abs/2309.05248v1)|null|
+|**2023-09-13**|**Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach**|Tae Jin Park et.al.|[2309.05248v2](http://arxiv.org/abs/2309.05248v2)|null|
 |**2023-09-11**|**Generating Natural Language Queries for More Effective Systematic Review Screening Prioritisation**|Shuai Wang et.al.|[2309.05238v1](http://arxiv.org/abs/2309.05238v1)|**[link](https://github.com/ielab/sigir-ap-2023-bolean2natural4sr)**|
 |**2023-09-11**|**Quantifying and Attributing the Hallucination of Large Language Models via Association Analysis**|Li Du et.al.|[2309.05217v1](http://arxiv.org/abs/2309.05217v1)|null|
 |**2023-09-13**|**Understanding the Impact of Post-Training Quantization on Large Language Models**|Somnath Roy et.al.|[2309.05210v2](http://arxiv.org/abs/2309.05210v2)|null|
@@ -292,7 +292,7 @@ layout: default
 |**2023-08-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Deng et.al.|[2308.15939v1](http://arxiv.org/abs/2308.15939v1)|**[link](https://github.com/hq-deng/AnoVL)**|
 |**2023-09-12**|**LLaSM: Large Language and Speech Model**|Yu Shu et.al.|[2308.15930v2](http://arxiv.org/abs/2308.15930v2)|**[link](https://github.com/linksoul-ai/llasm)**|
 |**2023-08-30**|**Prompting Vision Language Model with Knowledge from Large Language Model for Knowledge-Based VQA**|Yang Zhou et.al.|[2308.15851v1](http://arxiv.org/abs/2308.15851v1)|null|
-|**2023-09-04**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Gu et.al.|[2308.15366v2](http://arxiv.org/abs/2308.15366v2)|**[link](https://github.com/casia-iva-lab/anomalygpt)**|
+|**2023-09-13**|**AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models**|Zhaopeng Gu et.al.|[2308.15366v3](http://arxiv.org/abs/2308.15366v3)|**[link](https://github.com/casia-iva-lab/anomalygpt)**|
 |**2023-08-29**|**CLIPTrans: Transferring Visual Knowledge with Pre-trained Models for Multimodal Machine Translation**|Devaansh Gupta et.al.|[2308.15226v1](http://arxiv.org/abs/2308.15226v1)|**[link](https://github.com/devaansh100/cliptrans)**|
 
 ## Multimodal Agents
@@ -325,7 +325,7 @@ layout: default
 |**2023-09-11**|**Incorporating Pre-trained Model Prompting in Multimodal Stock Volume Movement Prediction**|Ruibo Chen et.al.|[2309.05608v1](http://arxiv.org/abs/2309.05608v1)|**[link](https://github.com/rayruibochen/promuse)**|
 |**2023-09-11**|**Distributional Probabilistic Model Checking**|Ingy Elsayed-Aly et.al.|[2309.05584v1](http://arxiv.org/abs/2309.05584v1)|null|
 |**2023-09-11**|**OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data**|Giuseppe Cartella et.al.|[2309.05551v1](http://arxiv.org/abs/2309.05551v1)|**[link](https://github.com/aimagelab/open-fashion-clip)**|
-|**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
+|**2023-09-13**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v2](http://arxiv.org/abs/2309.05519v2)|null|
 |**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455v1](http://arxiv.org/abs/2309.05455v1)|null|
 |**2023-09-11**|**Generation of three-dimensional cluster entangled state**|Chan Roh et.al.|[2309.05437v1](http://arxiv.org/abs/2309.05437v1)|null|
 |**2023-09-11**|**On Truthful Constrained Facility Location with Max-Variant Cost**|Mohammad Lotfi et.al.|[2309.05379v1](http://arxiv.org/abs/2309.05379v1)|null|
