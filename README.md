@@ -1,4 +1,4 @@
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 
 ## CV
 
@@ -13,7 +13,7 @@
 |**2023-09-12**|**Padding-free Convolution based on Preservation of Differential Characteristics of Kernels**|Kuangdai Leng et.al.|[2309.06370v1](http://arxiv.org/abs/2309.06370v1)|null|
 |**2023-09-12**|**Exploring Flat Minima for Domain Generalization with Large Learning Rates**|Jian Zhang et.al.|[2309.06337v1](http://arxiv.org/abs/2309.06337v1)|null|
 |**2023-09-12**|**Grounded Language Acquisition From Object and Action Imagery**|James Robert Kubricht et.al.|[2309.06335v1](http://arxiv.org/abs/2309.06335v1)|null|
-|**2023-09-12**|**SAMPLING: Scene-adaptive Hierarchical Multiplane Images Representation for Novel View Synthesis from a Single Image**|Xiaoyu Zhou et.al.|[2309.06323v1](http://arxiv.org/abs/2309.06323v1)|null|
+|**2023-09-13**|**SAMPLING: Scene-adaptive Hierarchical Multiplane Images Representation for Novel View Synthesis from a Single Image**|Xiaoyu Zhou et.al.|[2309.06323v2](http://arxiv.org/abs/2309.06323v2)|null|
 |**2023-09-12**|**Semantic and Articulated Pedestrian Sensing Onboard a Moving Vehicle**|Maria Priisalu et.al.|[2309.06313v1](http://arxiv.org/abs/2309.06313v1)|null|
 |**2023-09-12**|**AI4Food-NutritionFW: A Novel Framework for the Automatic Synthesis and Analysis of Eating Behaviours**|Sergio Romero-Tapiador et.al.|[2309.06308v1](http://arxiv.org/abs/2309.06308v1)|null|
 |**2023-09-12**|**Towards High-Quality Specular Highlight Removal by Leveraging Large-Scale Synthetic Data**|Gang Fu et.al.|[2309.06302v1](http://arxiv.org/abs/2309.06302v1)|null|
@@ -43,15 +43,15 @@
 |**2023-09-12**|**JOADAA: joint online action detection and action anticipation**|Mohammed Guermal et.al.|[2309.06130v1](http://arxiv.org/abs/2309.06130v1)|null|
 |**2023-09-12**|**LEyes: A Lightweight Framework for Deep Learning-Based Eye Tracking using Synthetic Eye Images**|sean anthony byrne et.al.|[2309.06129v1](http://arxiv.org/abs/2309.06129v1)|null|
 |**2023-09-12**|**Dynamic Visual Prompt Tuning for Parameter Efficient Transfer Learning**|Chunqing Ruan et.al.|[2309.06123v1](http://arxiv.org/abs/2309.06123v1)|null|
-|**2023-09-12**|**C-RITNet: Set Infrared and Visible Image Fusion Free from Complementary Information Mining**|Yafei Zhang et.al.|[2309.06118v1](http://arxiv.org/abs/2309.06118v1)|null|
+|**2023-09-13**|**C-RITNet: Set Infrared and Visible Image Fusion Free from Complementary Information Mining**|Yafei Zhang et.al.|[2309.06118v2](http://arxiv.org/abs/2309.06118v2)|null|
 |**2023-09-12**|**HOC-Search: Efficient CAD Model and Pose Retrieval from RGB-D Scans**|Stefan Ainetter et.al.|[2309.06107v1](http://arxiv.org/abs/2309.06107v1)|null|
 |**2023-09-12**|**Towards Visual Taxonomy Expansion**|Tinghui Zhu et.al.|[2309.06105v1](http://arxiv.org/abs/2309.06105v1)|**[link](https://github.com/darthzhu/vte)**|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102v1](http://arxiv.org/abs/2309.06102v1)|**[link](https://github.com/ombretta/most-replayed-data)**|
 |**2023-09-12**|**Estimating exercise-induced fatigue from thermal facial images**|Manuel Lage Cañellas et.al.|[2309.06095v1](http://arxiv.org/abs/2309.06095v1)|null|
 |**2023-09-12**|**Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning**|Alex Gomez-Villa et.al.|[2309.06086v1](http://arxiv.org/abs/2309.06086v1)|**[link](https://github.com/alviur/pocon_wacv2024)**|
 |**2023-09-12**|**A2V: A Semi-Supervised Domain Adaptation Framework for Brain Vessel Segmentation via Two-Phase Training Angiography-to-Venography Translation**|Francesco Galati et.al.|[2309.06075v1](http://arxiv.org/abs/2309.06075v1)|null|
-|**2023-09-12**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067v1](http://arxiv.org/abs/2309.06067v1)|null|
-|**2023-09-12**|**Selection of contributing factors for predicting landslide susceptibility using machine learning and deep learning models**|Cheng Chen et.al.|[2309.06062v1](http://arxiv.org/abs/2309.06062v1)|null|
+|**2023-09-13**|**Batch Implicit Neural Representation for MRI Parallel Reconstruction**|Hao Li et.al.|[2309.06067v2](http://arxiv.org/abs/2309.06067v2)|null|
+|**2023-09-13**|**Selection of contributing factors for predicting landslide susceptibility using machine learning and deep learning models**|Cheng Chen et.al.|[2309.06062v2](http://arxiv.org/abs/2309.06062v2)|null|
 |**2023-09-12**|**How does representation impact in-context learning: A exploration on a synthetic task**|Jingwen Fu et.al.|[2309.06054v1](http://arxiv.org/abs/2309.06054v1)|null|
 |**2023-09-12**|**Real-Time Semantic Segmentation: A Brief Survey & Comparative Study in Remote Sensing**|Clifford Broni-Bediako et.al.|[2309.06047v1](http://arxiv.org/abs/2309.06047v1)|null|
 
@@ -91,7 +91,7 @@
 |**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534v1](http://arxiv.org/abs/2309.05534v1)|null|
 |**2023-09-12**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406v2](http://arxiv.org/abs/2309.05406v2)|null|
 |**2023-09-11**|**Diff-Privacy: Diffusion-based Face Privacy Protection**|Xiao He et.al.|[2309.05330v1](http://arxiv.org/abs/2309.05330v1)|null|
-|**2023-09-10**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v1](http://arxiv.org/abs/2309.05153v1)|null|
+|**2023-09-12**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153v2](http://arxiv.org/abs/2309.05153v2)|null|
 |**2023-09-10**|**VoiceFlow: Efficient Text-to-Speech with Rectified Flow Matching**|Yiwei Guo et.al.|[2309.05027v1](http://arxiv.org/abs/2309.05027v1)|null|
 |**2023-09-10**|**SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models**|Shuchen Xue et.al.|[2309.05019v1](http://arxiv.org/abs/2309.05019v1)|null|
 |**2023-09-10**|**FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation**|Yan Meng et.al.|[2309.05007v1](http://arxiv.org/abs/2309.05007v1)|null|
@@ -211,7 +211,7 @@
 |**2023-09-11**|**Hypothesis Search: Inductive Reasoning with Language Models**|Ruocheng Wang et.al.|[2309.05660v1](http://arxiv.org/abs/2309.05660v1)|null|
 |**2023-09-11**|**MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning**|Xiang Yue et.al.|[2309.05653v1](http://arxiv.org/abs/2309.05653v1)|null|
 |**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
-|**2023-09-11**|**Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models**|Mansi Sakarvadia et.al.|[2309.05605v1](http://arxiv.org/abs/2309.05605v1)|null|
+|**2023-09-12**|**Memory Injections: Correcting Multi-Hop Reasoning Failures during Inference in Transformer-Based Language Models**|Mansi Sakarvadia et.al.|[2309.05605v2](http://arxiv.org/abs/2309.05605v2)|null|
 |**2023-09-12**|**An Empirical Study of NetOps Capability of Pre-Trained Large Language Models**|Yukai Miao et.al.|[2309.05557v2](http://arxiv.org/abs/2309.05557v2)|null|
 |**2023-09-12**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520v2](http://arxiv.org/abs/2309.05520v2)|null|
 |**2023-09-11**|**NExT-GPT: Any-to-Any Multimodal LLM**|Shengqiong Wu et.al.|[2309.05519v1](http://arxiv.org/abs/2309.05519v1)|null|
@@ -224,14 +224,14 @@
 |**2023-09-11**|**Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach**|Tae Jin Park et.al.|[2309.05248v1](http://arxiv.org/abs/2309.05248v1)|null|
 |**2023-09-11**|**Generating Natural Language Queries for More Effective Systematic Review Screening Prioritisation**|Shuai Wang et.al.|[2309.05238v1](http://arxiv.org/abs/2309.05238v1)|**[link](https://github.com/ielab/sigir-ap-2023-bolean2natural4sr)**|
 |**2023-09-11**|**Quantifying and Attributing the Hallucination of Large Language Models via Association Analysis**|Li Du et.al.|[2309.05217v1](http://arxiv.org/abs/2309.05217v1)|null|
-|**2023-09-11**|**Understanding the Impact of Post-Training Quantization on Large-scale Language Models**|Somnath Roy et.al.|[2309.05210v1](http://arxiv.org/abs/2309.05210v1)|null|
+|**2023-09-13**|**Understanding the Impact of Post-Training Quantization on Large Language Models**|Somnath Roy et.al.|[2309.05210v2](http://arxiv.org/abs/2309.05210v2)|null|
 |**2023-09-11**|**From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery**|Yuhan Chen et.al.|[2309.05203v1](http://arxiv.org/abs/2309.05203v1)|null|
 |**2023-09-11**|**Does Writing with Language Models Reduce Content Diversity?**|Vishakh Padmakumar et.al.|[2309.05196v1](http://arxiv.org/abs/2309.05196v1)|**[link](https://github.com/vishakhpk/hai-diversity)**|
 |**2023-09-11**|**HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving**|Xinpeng Ding et.al.|[2309.05186v1](http://arxiv.org/abs/2309.05186v1)|null|
 |**2023-09-11**|**DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning**|Zhengxiang Shi et.al.|[2309.05173v1](http://arxiv.org/abs/2309.05173v1)|**[link](https://github.com/zhengxiangshi/dept)**|
 |**2023-09-10**|**The Impact of AI in Physics Education: A Comprehensive Review from GCSE to University Levels**|Will Yeadon et.al.|[2309.05163v1](http://arxiv.org/abs/2309.05163v1)|null|
 |**2023-09-10**|**Large Language Models for Difficulty Estimation of Foreign Language Content with Application to Language Learning**|Michalis Vlachos et.al.|[2309.05142v1](http://arxiv.org/abs/2309.05142v1)|null|
-|**2023-09-10**|**Generalization error bounds for iterative learning algorithms with bounded updates**|Jingwen Fu et.al.|[2309.05077v1](http://arxiv.org/abs/2309.05077v1)|null|
+|**2023-09-13**|**Generalization error bounds for iterative learning algorithms with bounded updates**|Jingwen Fu et.al.|[2309.05077v2](http://arxiv.org/abs/2309.05077v2)|null|
 |**2023-09-10**|**An Appraisal-Based Chain-Of-Emotion Architecture for Affective Language Model Game Agents**|Maximilian Croissant et.al.|[2309.05076v1](http://arxiv.org/abs/2309.05076v1)|null|
 |**2023-09-10**|**Decolonial AI Alignment: Viśesadharma, Argument, and Artistic Expression**|Kush R. Varshney et.al.|[2309.05030v1](http://arxiv.org/abs/2309.05030v1)|null|
 |**2023-09-10**|**Chat2Brain: A Method for Mapping Open-Ended Semantic Queries to Brain Activation Maps**|Yaonai Wei et.al.|[2309.05021v1](http://arxiv.org/abs/2309.05021v1)|null|
@@ -361,7 +361,7 @@
 |**2023-09-12**|**Effect of Rare-earth Element Substitution in Superconducting R$_3$Ni$_2$O$_7$ Under Pressure**|Zhiming Pan et.al.|[2309.06173v1](http://arxiv.org/abs/2309.06173v1)|null|
 |**2023-09-12**|**HOC-Search: Efficient CAD Model and Pose Retrieval from RGB-D Scans**|Stefan Ainetter et.al.|[2309.06107v1](http://arxiv.org/abs/2309.06107v1)|null|
 |**2023-09-12**|**On the Effects of Tokamak Plasma Edge Symmetries on Turbulence Relaxation**|Nakia Carlevaro et.al.|[2309.06078v1](http://arxiv.org/abs/2309.06078v1)|null|
-|**2023-09-12**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036v1](http://arxiv.org/abs/2309.06036v1)|null|
+|**2023-09-13**|**Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar?**|Jianan Liu et.al.|[2309.06036v2](http://arxiv.org/abs/2309.06036v2)|null|
 |**2023-09-12**|**Gait Design of a Novel Arboreal Concertina Locomotion for Snake-like Robots**|Shuoqi Chen et.al.|[2309.06000v1](http://arxiv.org/abs/2309.06000v1)|null|
 |**2023-09-12**|**GA-Sketching: Shape Modeling from Multi-View Sketching with Geometry-Aligned Deep Implicit Functions**|Jie Zhou et.al.|[2309.05946v1](http://arxiv.org/abs/2309.05946v1)|null|
 |**2023-09-12**|**The drag of a filament moving in a supported spherical bilayer**|Wenzheng Shi et.al.|[2309.05928v1](http://arxiv.org/abs/2309.05928v1)|null|
