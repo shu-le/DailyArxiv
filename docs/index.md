@@ -502,7 +502,7 @@ layout: default
 |**2023-09-12**|**The drag of a filament moving in a supported spherical bilayer**|Wenzheng Shi et.al.|[2309.05928v1](http://arxiv.org/abs/2309.05928v1)|null|
 |**2023-09-12**|**Coexistence of near-EF flat band and van Hove singularity in a two-phase superconductor**|Xuezhi Chen et.al.|[2309.05895v1](http://arxiv.org/abs/2309.05895v1)|null|
 |**2023-09-11**|**Predicting Interloper Fraction with Graph Neural Networks**|Elena Massara et.al.|[2309.05850v1](http://arxiv.org/abs/2309.05850v1)|null|
-|**2023-09-11**|**WALLABY Pilot Survey: the Potential Polar Ring Galaxies NGC~4632 and NGC~6156**|N. Deg et.al.|[2309.05841v1](http://arxiv.org/abs/2309.05841v1)|null|
+|**2023-09-14**|**WALLABY Pilot Survey: the Potential Polar Ring Galaxies NGC~4632 and NGC~6156**|N. Deg et.al.|[2309.05841v2](http://arxiv.org/abs/2309.05841v2)|null|
 |**2023-09-11**|**SHIFT3D: Synthesizing Hard Inputs For Tricking 3D Detectors**|Hongge Chen et.al.|[2309.05810v1](http://arxiv.org/abs/2309.05810v1)|null|
 |**2023-09-11**|**Strong Pairing Originated from an Emergent $\mathbb{Z}_2$ Berry Phase in $\mathbf{La}_3 \mathbf{Ni}_2 \mathbf{O}_7$**|Jia-Xin Zhang et.al.|[2309.05726v1](http://arxiv.org/abs/2309.05726v1)|null|
 |**2023-09-11**|**21cmEMU: an emulator of 21cmFAST summary observables**|Daniela Breitman et.al.|[2309.05697v1](http://arxiv.org/abs/2309.05697v1)|null|
