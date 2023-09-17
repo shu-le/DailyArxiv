@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.16
+## Updated on 2023.09.17
 
 ## CV
 
@@ -39,7 +39,7 @@ layout: default
 |**2023-09-14**|**NutritionVerse: Empirical Study of Various Dietary Intake Estimation Approaches**|Chi-en Amy Tai et.al.|[2309.07704v1](http://arxiv.org/abs/2309.07704v1)|null|
 |**2023-09-14**|**Dataset Condensation via Generative Model**|David Junhao Zhang et.al.|[2309.07698v1](http://arxiv.org/abs/2309.07698v1)|null|
 |**2023-09-14**|**CoRF : Colorizing Radiance Fields using Knowledge Distillation**|Ankit Dhiman et.al.|[2309.07668v1](http://arxiv.org/abs/2309.07668v1)|null|
-|**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654v1](http://arxiv.org/abs/2309.07654v1)|null|
+|**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654v1](http://arxiv.org/abs/2309.07654v1)|**[link](https://github.com/thohemp/6drepnet360)**|
 |**2023-09-14**|**Indoor Scene Reconstruction with Fine-Grained Details Using Hybrid Representation and Normal Prior Enhancement**|Sheng Ye et.al.|[2309.07640v1](http://arxiv.org/abs/2309.07640v1)|null|
 |**2023-09-14**|**SwitchGPT: Adapting Large Language Models for Non-Text Outputs**|Xinyu Wang et.al.|[2309.07623v1](http://arxiv.org/abs/2309.07623v1)|null|
 |**2023-09-14**|**Road Disease Detection based on Latent Domain Background Feature Separation and Suppression**|Juwu Zheng et.al.|[2309.07616v1](http://arxiv.org/abs/2309.07616v1)|null|
@@ -196,7 +196,7 @@ layout: default
 |**2023-09-12**|**Resolvent approach to diffusions with discontinuous scale**|Liping Li et.al.|[2309.06211v1](http://arxiv.org/abs/2309.06211v1)|null|
 |**2023-09-12**|**Spreading speeds of a nonlocal diffusion model with free boundaries in the time almost periodic media**|Chengcheng Cheng et.al.|[2309.06190v1](http://arxiv.org/abs/2309.06190v1)|null|
 |**2023-09-12**|**Dynamics and spreading speeds of a nonlocal diffusion model with advection and free boundaries**|Chengcheng Cheng et.al.|[2309.06185v1](http://arxiv.org/abs/2309.06185v1)|null|
-|**2023-09-12**|**Elucidating the solution space of extended reverse-time SDE for diffusion models**|Qinpeng Cui et.al.|[2309.06169v1](http://arxiv.org/abs/2309.06169v1)|null|
+|**2023-09-12**|**Elucidating the solution space of extended reverse-time SDE for diffusion models**|Qinpeng Cui et.al.|[2309.06169v1](http://arxiv.org/abs/2309.06169v1)|**[link](https://github.com/qinpengcui/er-sde-solver)**|
 |**2023-09-12**|**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**|Zhi-Yi Chin et.al.|[2309.06135v1](http://arxiv.org/abs/2309.06135v1)|null|
 |**2023-09-12**|**Can we predict the Most Replayed data of video streaming platforms?**|Alessandro Duico et.al.|[2309.06102v1](http://arxiv.org/abs/2309.06102v1)|**[link](https://github.com/ombretta/most-replayed-data)**|
 |**2023-09-12**|**CToMP: A Cycle-task-oriented Memory Protection Scheme for Unmanned Systems**|Chengyan Ma et.al.|[2309.05978v1](http://arxiv.org/abs/2309.05978v1)|**[link](https://github.com/xidian-uav/uav_memory_isolation)**|
@@ -247,7 +247,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-13**|**The effect of data augmentation and 3D-CNN depth on Alzheimer's Disease detection**|Rosanna Turrisi et.al.|[2309.07192v1](http://arxiv.org/abs/2309.07192v1)|**[link](https://github.com/rturrisige/AD_classification)**|
-|**2023-09-13**|**Towards Reliable Dermatology Evaluation Benchmarks**|Fabian Gröger et.al.|[2309.06961v1](http://arxiv.org/abs/2309.06961v1)|null|
+|**2023-09-13**|**Towards Reliable Dermatology Evaluation Benchmarks**|Fabian Gröger et.al.|[2309.06961v1](http://arxiv.org/abs/2309.06961v1)|**[link](https://github.com/digital-dermatology/selfclean-revised-benchmarks)**|
 |**2023-09-12**|**Accelerating model evaluations in uncertainty propagation on tensor grids using computational graph transformations**|Bingran Wang et.al.|[2309.06617v1](http://arxiv.org/abs/2309.06617v1)|null|
 |**2023-09-12**|**Can the Parker Solar Probe Detect a CME-flare Current Sheet?**|Yuhao Chen et.al.|[2309.06432v1](http://arxiv.org/abs/2309.06432v1)|null|
 |**2023-09-12**|**Unveiling the potential of large language models in generating semantic and cross-language clones**|Palash R. Roy et.al.|[2309.06424v1](http://arxiv.org/abs/2309.06424v1)|null|
@@ -322,7 +322,7 @@ layout: default
 |**2023-09-14**|**Agents: An Open-source Framework for Autonomous Language Agents**|Wangchunshu Zhou et.al.|[2309.07870v1](http://arxiv.org/abs/2309.07870v1)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2023-09-14**|**The Rise and Potential of Large Language Model Based Agents: A Survey**|Zhiheng Xi et.al.|[2309.07864v1](http://arxiv.org/abs/2309.07864v1)|**[link](https://github.com/woooodyy/llm-agent-paper-list)**|
 |**2023-09-14**|**Two Timin': Repairing Smart Contracts With A Two-Layered Approach**|Abhinav Jain et.al.|[2309.07841v1](http://arxiv.org/abs/2309.07841v1)|null|
-|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|null|
+|**2023-09-14**|**CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration**|Rachneet Sachdeva et.al.|[2309.07822v1](http://arxiv.org/abs/2309.07822v1)|**[link](https://github.com/ukplab/catfood)**|
 |**2023-09-14**|**Generative AI Text Classification using Ensemble LLM Approaches**|Harika Abburi et.al.|[2309.07755v1](http://arxiv.org/abs/2309.07755v1)|null|
 |**2023-09-14**|**GRID: Scene-Graph-based Instruction-driven Robotic Task Planning**|Zhe Ni et.al.|[2309.07726v1](http://arxiv.org/abs/2309.07726v1)|null|
 |**2023-09-14**|**Tree of Uncertain Thoughts Reasoning for Large Language Models**|Shentong Mo et.al.|[2309.07694v1](http://arxiv.org/abs/2309.07694v1)|null|
@@ -349,7 +349,7 @@ layout: default
 |**2023-09-13**|**Sight Beyond Text: Multi-Modal Training Enhances LLMs in Truthfulness and Ethics**|Haoqin Tu et.al.|[2309.07120v1](http://arxiv.org/abs/2309.07120v1)|**[link](https://github.com/ucsc-vlaa/sight-beyond-text)**|
 |**2023-09-12**|**Comparing Llama-2 and GPT-3 LLMs for HPC kernels generation**|Pedro Valero-Lara et.al.|[2309.07103v1](http://arxiv.org/abs/2309.07103v1)|null|
 |**2023-09-11**|**Large Language Models for Compiler Optimization**|Chris Cummins et.al.|[2309.07062v1](http://arxiv.org/abs/2309.07062v1)|null|
-|**2023-09-13**|**SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions**|Zhexin Zhang et.al.|[2309.07045v1](http://arxiv.org/abs/2309.07045v1)|null|
+|**2023-09-13**|**SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions**|Zhexin Zhang et.al.|[2309.07045v1](http://arxiv.org/abs/2309.07045v1)|**[link](https://github.com/thu-coai/safetybench)**|
 |**2023-09-14**|**Adaptive KalmanNet: Data-Driven Kalman Filter with Fast Adaptation**|Xiaoyong Ni et.al.|[2309.07016v2](http://arxiv.org/abs/2309.07016v2)|**[link](https://github.com/kalmannet/adaptive-knet-icassp24)**|
 |**2023-09-13**|**Auto-Regressive Next-Token Predictors are Universal Learners**|Eran Malach et.al.|[2309.06979v1](http://arxiv.org/abs/2309.06979v1)|null|
 |**2023-09-13**|**TAP: Targeted Prompting for Task Adaptive Generation of Textual Training Instances for Visual Classification**|M. Jehanzeb Mirza et.al.|[2309.06809v1](http://arxiv.org/abs/2309.06809v1)|null|
@@ -505,7 +505,7 @@ layout: default
 |**2023-09-14**|**Asynchronous Spatial Allocation Protocol for Trajectory Planning of Heterogeneous Multi-Agent Systems**|Yuda Chen et.al.|[2309.07431v1](http://arxiv.org/abs/2309.07431v1)|null|
 |**2023-09-14**|**Masked Diffusion with Task-awareness for Procedure Planning in Instructional Videos**|Fen Fang et.al.|[2309.07409v1](http://arxiv.org/abs/2309.07409v1)|**[link](https://github.com/ffzzy840304/masked-pdpp)**|
 |**2023-09-14**|**On Autonomous Agents in a Cyber Defence Environment**|Mitchell Kiely et.al.|[2309.07388v1](http://arxiv.org/abs/2309.07388v1)|null|
-|**2023-09-14**|**Training Audio Captioning Models without Audio**|Soham Deshmukh et.al.|[2309.07372v1](http://arxiv.org/abs/2309.07372v1)|null|
+|**2023-09-14**|**Training Audio Captioning Models without Audio**|Soham Deshmukh et.al.|[2309.07372v1](http://arxiv.org/abs/2309.07372v1)|**[link](https://github.com/microsoft/noaudiocaptioning)**|
 |**2023-09-14**|**Linking Mechanisms: Limits and Robustness**|Ian Ball et.al.|[2309.07363v1](http://arxiv.org/abs/2309.07363v1)|null|
 |**2023-09-13**|**Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward**|Lingfeng Tao et.al.|[2309.07349v1](http://arxiv.org/abs/2309.07349v1)|null|
 |**2023-09-13**|**Efficient quantum recurrent reinforcement learning via quantum reservoir computing**|Samuel Yen-Chi Chen et.al.|[2309.07339v1](http://arxiv.org/abs/2309.07339v1)|null|
