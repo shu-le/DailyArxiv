@@ -13,7 +13,7 @@
 |**2023-09-15**|**Automated dermatoscopic pattern discovery by clustering neural network output for human-computer interaction**|Lidia Talavera-Martinez et.al.|[2309.08533v1](http://arxiv.org/abs/2309.08533v1)|null|
 |**2023-09-15**|**Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens**|Minsu Kim et.al.|[2309.08531v1](http://arxiv.org/abs/2309.08531v1)|null|
 |**2023-09-15**|**Breathing New Life into 3D Assets with Generative Repainting**|Tianfu Wang et.al.|[2309.08523v1](http://arxiv.org/abs/2309.08523v1)|**[link](https://github.com/toshas/remesh_isotropic_planar)**|
-|**2023-09-15**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v1](http://arxiv.org/abs/2309.08513v1)|**[link](https://github.com/zhaohengyuan1/sct)**|
+|**2023-09-18**|**SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels**|Henry Hengyuan Zhao et.al.|[2309.08513v2](http://arxiv.org/abs/2309.08513v2)|**[link](https://github.com/zhaohengyuan1/sct)**|
 |**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511v1](http://arxiv.org/abs/2309.08511v1)|null|
 |**2023-09-15**|**OccupancyDETR: Making Semantic Scene Completion as Straightforward as Object Detection**|Yupeng Jia et.al.|[2309.08504v1](http://arxiv.org/abs/2309.08504v1)|**[link](https://github.com/jypjypjypjyp/occupancydetr)**|
 |**2023-09-15**|**YCB-Ev: Event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2309.08482v1](http://arxiv.org/abs/2309.08482v1)|**[link](https://github.com/paroj/ycbev)**|
@@ -403,7 +403,7 @@
 |**2023-09-14**|**Investigating Gender Bias in News Summarization**|Julius Steen et.al.|[2309.08047v1](http://arxiv.org/abs/2309.08047v1)|null|
 |**2023-09-14**|**An Empirical Evaluation of Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing**|Sonish Sivarajkumar et.al.|[2309.08008v1](http://arxiv.org/abs/2309.08008v1)|null|
 |**2023-09-14**|**An Assessment of ChatGPT on Log Data**|Priyanka Mudgal et.al.|[2309.07938v1](http://arxiv.org/abs/2309.07938v1)|null|
-|**2023-09-14**|**Unified Human-Scene Interaction via Prompted Chain-of-Contacts**|Zeqi Xiao et.al.|[2309.07918v1](http://arxiv.org/abs/2309.07918v1)|**[link](https://github.com/openrobotlab/unihsi)**|
+|**2023-09-17**|**Unified Human-Scene Interaction via Prompted Chain-of-Contacts**|Zeqi Xiao et.al.|[2309.07918v2](http://arxiv.org/abs/2309.07918v2)|**[link](https://github.com/openrobotlab/unihsi)**|
 |**2023-09-14**|**Looking at words and points with attention: a benchmark for text-to-shape coherence**|Andrea Amaduzzi et.al.|[2309.07917v1](http://arxiv.org/abs/2309.07917v1)|null|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**Ambiguity-Aware In-Context Learning with Large Language Models**|Lingyu Gao et.al.|[2309.07900v1](http://arxiv.org/abs/2309.07900v1)|null|
@@ -512,7 +512,7 @@
 |---|---|---|---|---|
 |**2023-09-15**|**Viewpoint Integration and Registration with Vision Language Foundation Model for Image Change Understanding**|Xiaonan Lu et.al.|[2309.08585v1](http://arxiv.org/abs/2309.08585v1)|null|
 |**2023-09-15**|**Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens**|Minsu Kim et.al.|[2309.08531v1](http://arxiv.org/abs/2309.08531v1)|null|
-|**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v1](http://arxiv.org/abs/2309.07970v1)|null|
+|**2023-09-18**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v2](http://arxiv.org/abs/2309.07970v2)|null|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**Gradient constrained sharpness-aware prompt learning for vision-language models**|Liangchen Liu et.al.|[2309.07866v1](http://arxiv.org/abs/2309.07866v1)|null|
 |**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794v1](http://arxiv.org/abs/2309.07794v1)|null|
@@ -523,7 +523,7 @@
 |**2023-09-12**|**Zero-Shot Visual Classification with Guided Cropping**|Piyapat Saranrittichai et.al.|[2309.06581v1](http://arxiv.org/abs/2309.06581v1)|null|
 |**2023-09-12**|**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**|Yong Lin et.al.|[2309.06256v1](http://arxiv.org/abs/2309.06256v1)|null|
 |**2023-09-12**|**Language Models as Black-Box Optimizers for Vision-Language Models**|Samuel Yu et.al.|[2309.05950v1](http://arxiv.org/abs/2309.05950v1)|**[link](https://github.com/shihongl1998/llm-as-a-blackbox-optimizer)**|
-|**2023-09-12**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v1](http://arxiv.org/abs/2309.05904v1)|null|
+|**2023-09-18**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v2](http://arxiv.org/abs/2309.05904v2)|null|
 |**2023-09-11**|**Dual-view Curricular Optimal Transport for Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2309.05451v1](http://arxiv.org/abs/2309.05451v1)|null|
 |**2023-09-11**|**Panoptic Vision-Language Feature Fields**|Haoran Chen et.al.|[2309.05448v1](http://arxiv.org/abs/2309.05448v1)|**[link](https://github.com/ethz-asl/autolabel)**|
 |**2023-09-11**|**DePT: Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning**|Zhengxiang Shi et.al.|[2309.05173v1](http://arxiv.org/abs/2309.05173v1)|**[link](https://github.com/zhengxiangshi/dept)**|
@@ -555,7 +555,7 @@
 |**2023-09-03**|**VGDiffZero: Text-to-image Diffusion Models Can Be Zero-shot Visual Grounders**|Xuyang Liu et.al.|[2309.01141v1](http://arxiv.org/abs/2309.01141v1)|null|
 |**2023-09-01**|**Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models**|Dezhao Luo et.al.|[2309.00661v1](http://arxiv.org/abs/2309.00661v1)|null|
 |**2023-09-04**|**OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation**|Zhening Huang et.al.|[2309.00616v2](http://arxiv.org/abs/2309.00616v2)|**[link](https://github.com/Pointcept/OpenIns3D)**|
-|**2023-09-01**|**Image Hijacking: Adversarial Images can Control Generative Models at Runtime**|Luke Bailey et.al.|[2309.00236v1](http://arxiv.org/abs/2309.00236v1)|null|
+|**2023-09-18**|**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**|Luke Bailey et.al.|[2309.00236v2](http://arxiv.org/abs/2309.00236v2)|null|
 |**2023-09-01**|**Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding**|Joshua Feinglass et.al.|[2309.00215v1](http://arxiv.org/abs/2309.00215v1)|null|
 |**2023-08-31**|**Distraction-free Embeddings for Robust VQA**|Atharvan Dogra et.al.|[2309.00133v1](http://arxiv.org/abs/2309.00133v1)|null|
 |**2023-08-31**|**Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation**|Chaofan Ma et.al.|[2309.00096v1](http://arxiv.org/abs/2309.00096v1)|null|
@@ -716,7 +716,7 @@
 |**2023-09-14**|**The Dependence of Gamma-Ray Burst Jet Collimation on Black Hole Spin**|Valeria U. Hurtado et.al.|[2309.07999v1](http://arxiv.org/abs/2309.07999v1)|null|
 |**2023-09-14**|**Viewpoint Textual Inversion: Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models**|James Burgess et.al.|[2309.07986v1](http://arxiv.org/abs/2309.07986v1)|null|
 |**2023-09-14**|**M3Dsynth: A dataset of medical 3D images with AI-generated local manipulations**|Giada Zingarini et.al.|[2309.07973v1](http://arxiv.org/abs/2309.07973v1)|null|
-|**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v1](http://arxiv.org/abs/2309.07970v1)|null|
+|**2023-09-18**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v2](http://arxiv.org/abs/2309.07970v2)|null|
 |**2023-09-14**|**Slow Invariant Manifolds of Singularly Perturbed Systems via Physics-Informed Machine Learning**|Dimitrios G. Patsatzis et.al.|[2309.07946v1](http://arxiv.org/abs/2309.07946v1)|null|
 |**2023-09-15**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920v2](http://arxiv.org/abs/2309.07920v2)|null|
 |**2023-09-14**|**Looking at words and points with attention: a benchmark for text-to-shape coherence**|Andrea Amaduzzi et.al.|[2309.07917v1](http://arxiv.org/abs/2309.07917v1)|null|
