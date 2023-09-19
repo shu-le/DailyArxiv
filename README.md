@@ -496,7 +496,7 @@
 |**2023-09-17**|**Optimal Scene Graph Planning with Large Language Model Guidance**|Zhirui Dai et.al.|[2309.09182v1](http://arxiv.org/abs/2309.09182v1)|null|
 |**2023-09-17**|**From Cooking Recipes to Robot Task Trees -- Improving Planning Correctness and Task Efficiency by Leveraging LLMs with a Knowledge Network**|Md Sadman Sakib et.al.|[2309.09181v1](http://arxiv.org/abs/2309.09181v1)|null|
 |**2023-09-17**|**Can Large Language Models Understand Real-World Complex Instructions?**|Qianyu He et.al.|[2309.09150v1](http://arxiv.org/abs/2309.09150v1)|**[link](https://github.com/abbey4799/cello)**|
-|**2023-09-17**|**ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**|Ian Arawjo et.al.|[2309.09128v1](http://arxiv.org/abs/2309.09128v1)|null|
+|**2023-09-17**|**ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing**|Ian Arawjo et.al.|[2309.09128v1](http://arxiv.org/abs/2309.09128v1)|**[link](https://github.com/ianarawjo/ChainForge)**|
 |**2023-09-17**|**Public Perceptions of Gender Bias in Large Language Models: Cases of ChatGPT and Ernie**|Kyrie Zhixuan Zhou et.al.|[2309.09120v1](http://arxiv.org/abs/2309.09120v1)|null|
 |**2023-09-17**|**Contrastive Decoding Improves Reasoning in Large Language Models**|Sean O'Brien et.al.|[2309.09117v1](http://arxiv.org/abs/2309.09117v1)|null|
 |**2023-09-16**|**RMDM: A Multilabel Fakenews Dataset for Vietnamese Evidence Verification**|Hai-Long Nguyen et.al.|[2309.09071v1](http://arxiv.org/abs/2309.09071v1)|null|
