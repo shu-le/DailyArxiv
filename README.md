@@ -475,7 +475,7 @@
 |**2023-09-18**|**R2GenGPT: Radiology Report Generation with Frozen LLMs**|Zhanyu Wang et.al.|[2309.09812v1](http://arxiv.org/abs/2309.09812v1)|**[link](https://github.com/wang-zhanyu/r2gengpt)**|
 |**2023-09-18**|**VisualProg Distiller: Learning to Fine-tune Non-differentiable Visual Programming Frameworks**|Wentao Wan et.al.|[2309.09809v1](http://arxiv.org/abs/2309.09809v1)|null|
 |**2023-09-18**|**When Large Language Models Meet Citation: A Survey**|Yang Zhang et.al.|[2309.09727v1](http://arxiv.org/abs/2309.09727v1)|null|
-|**2023-09-19**|**LLM4Jobs: Unsupervised occupation extraction and standardization leveraging Large Language Models**|Nan Li et.al.|[2309.09708v2](http://arxiv.org/abs/2309.09708v2)|null|
+|**2023-09-19**|**LLM4Jobs: Unsupervised occupation extraction and standardization leveraging Large Language Models**|Nan Li et.al.|[2309.09708v2](http://arxiv.org/abs/2309.09708v2)|**[link](https://github.com/aida-ugent/skillgpt)**|
 |**2023-09-18**|**Summarization is (Almost) Dead**|Xiao Pu et.al.|[2309.09558v1](http://arxiv.org/abs/2309.09558v1)|null|
 |**2023-09-18**|**Adapting Large Language Models via Reading Comprehension**|Daixuan Cheng et.al.|[2309.09530v1](http://arxiv.org/abs/2309.09530v1)|**[link](https://github.com/microsoft/lmops)**|
 |**2023-09-18**|**Pruning Large Language Models via Accuracy Predictor**|Yupeng Ji et.al.|[2309.09507v1](http://arxiv.org/abs/2309.09507v1)|null|
