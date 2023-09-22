@@ -20,7 +20,7 @@
 |**2023-09-20**|**3D Face Reconstruction: the Road to Forensics**|Simone Maurizio La Cava et.al.|[2309.11357v1](http://arxiv.org/abs/2309.11357v1)|null|
 |**2023-09-21**|**Self-supervised learning unveils change in urban housing from street-level images**|Steven Stalder et.al.|[2309.11354v2](http://arxiv.org/abs/2309.11354v2)|null|
 |**2023-09-20**|**You can have your ensemble and run it too -- Deep Ensembles Spread Over Time**|Isak Meding et.al.|[2309.11333v1](http://arxiv.org/abs/2309.11333v1)|null|
-|**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing/tree/master/Detection/Gold-YOLO)**|
+|**2023-09-21**|**Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism**|Chengcheng Wang et.al.|[2309.11331v2](http://arxiv.org/abs/2309.11331v2)|**[link](https://github.com/huawei-noah/Efficient-Computing)**|
 |**2023-09-20**|**How to turn your camera into a perfect pinhole model**|Ivan De Boi et.al.|[2309.11326v1](http://arxiv.org/abs/2309.11326v1)|null|
 |**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321v1](http://arxiv.org/abs/2309.11321v1)|**[link](https://github.com/MunchkinChen/FADING)**|
 |**2023-09-20**|**Uncovering the effects of model initialization on deep model generalization: A study with adult and pediatric Chest X-ray images**|Sivaramakrishnan Rajaraman et.al.|[2309.11318v1](http://arxiv.org/abs/2309.11318v1)|null|
@@ -39,9 +39,9 @@
 |**2023-09-20**|**Partition-A-Medical-Image: Extracting Multiple Representative Sub-regions for Few-shot Medical Image Segmentation**|Yazhou Zhu et.al.|[2309.11172v1](http://arxiv.org/abs/2309.11172v1)|**[link](https://github.com/YazhouZhu19/PAMI)**|
 |**2023-09-20**|**AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration**|Zheng Dang et.al.|[2309.11170v1](http://arxiv.org/abs/2309.11170v1)|null|
 |**2023-09-20**|**Multi-grained Temporal Prototype Learning for Few-shot Video Object Segmentation**|Nian Liu et.al.|[2309.11160v1](http://arxiv.org/abs/2309.11160v1)|**[link](https://github.com/nankepan/VIPMT)**|
-|**2023-09-20**|**Learning Deformable 3D Graph Similarity to Track Plant Cells in Unregistered Time Lapse Images**|Md Shazid Islam et.al.|[2309.11157v1](http://arxiv.org/abs/2309.11157v1)|null|
+|**2023-09-21**|**Learning Deformable 3D Graph Similarity to Track Plant Cells in Unregistered Time Lapse Images**|Md Shazid Islam et.al.|[2309.11157v2](http://arxiv.org/abs/2309.11157v2)|null|
 |**2023-09-20**|**CNN-based local features for navigation near an asteroid**|Olli Knuuttila et.al.|[2309.11156v1](http://arxiv.org/abs/2309.11156v1)|null|
-|**2023-09-20**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v1](http://arxiv.org/abs/2309.11148v1)|null|
+|**2023-09-21**|**Online Calibration of a Single-Track Ground Vehicle Dynamics Model by Tight Fusion with Visual-Inertial Odometry**|Haolong Li et.al.|[2309.11148v2](http://arxiv.org/abs/2309.11148v2)|null|
 |**2023-09-20**|**GraphEcho: Graph-Driven Unsupervised Domain Adaptation for Echocardiogram Video Segmentation**|Jiewen Yang et.al.|[2309.11145v1](http://arxiv.org/abs/2309.11145v1)|**[link](https://github.com/xmed-lab/GraphEcho)**|
 |**2023-09-20**|**GL-Fusion: Global-Local Fusion Network for Multi-view Echocardiogram Video Segmentation**|Ziyang Zheng et.al.|[2309.11144v1](http://arxiv.org/abs/2309.11144v1)|**[link](https://github.com/xmed-lab/GL-Fusion)**|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140v1](http://arxiv.org/abs/2309.11140v1)|null|
@@ -387,7 +387,7 @@
 |**2023-09-19**|**Fundamental limitations of time measurement precision in Hong-Ou-Mandel interferometry**|Othmane Meskine et.al.|[2309.10633v1](http://arxiv.org/abs/2309.10633v1)|null|
 |**2023-09-19**|**Forgedit: Text Guided Image Editing via Learning and Forgetting**|Shiwen Zhang et.al.|[2309.10556v1](http://arxiv.org/abs/2309.10556v1)|**[link](https://github.com/witcherofresearch/forgedit)**|
 |**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547v1](http://arxiv.org/abs/2309.10547v1)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
-|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v1](http://arxiv.org/abs/2309.10505v1)|null|
+|**2023-09-21**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505v2](http://arxiv.org/abs/2309.10505v2)|null|
 |**2023-09-19**|**Diffusion-based speech enhancement with a weighted generative-supervised learning loss**|Jean-Eudes Ayilo et.al.|[2309.10457v1](http://arxiv.org/abs/2309.10457v1)|null|
 |**2023-09-19**|**Unsupervised speech enhancement with diffusion-based generative models**|Berné Nortier et.al.|[2309.10450v1](http://arxiv.org/abs/2309.10450v1)|**[link](https://github.com/sp-uhh/sgmse)**|
 |**2023-09-19**|**Posterior sampling algorithms for unsupervised speech enhancement with recurrent variational autoencoder**|Mostafa Sadeghi et.al.|[2309.10439v1](http://arxiv.org/abs/2309.10439v1)|null|
@@ -614,7 +614,7 @@
 |---|---|---|---|---|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
 |**2023-09-20**|**Chain-of-Verification Reduces Hallucination in Large Language Models**|Shehzaad Dhuliawala et.al.|[2309.11495v1](http://arxiv.org/abs/2309.11495v1)|null|
-|**2023-09-20**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v1](http://arxiv.org/abs/2309.11489v1)|null|
+|**2023-09-21**|**Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning**|Tianbao Xie et.al.|[2309.11489v2](http://arxiv.org/abs/2309.11489v2)|null|
 |**2023-09-20**|**Fictional Worlds, Real Connections: Developing Community Storytelling Social Chatbots through LLMs**|Yuqian Sun et.al.|[2309.11478v1](http://arxiv.org/abs/2309.11478v1)|null|
 |**2023-09-20**|**Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence**|Navid Ghaffarzadegan et.al.|[2309.11456v1](http://arxiv.org/abs/2309.11456v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|null|
@@ -1184,7 +1184,7 @@
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258v1](http://arxiv.org/abs/2309.11258v1)|null|
 |**2023-09-20**|**MS-GWaM: A 3-dimensional transient gravity wave parametrization for atmospheric models**|Georg S. Voelker et.al.|[2309.11257v1](http://arxiv.org/abs/2309.11257v1)|null|
 |**2023-09-20**|**AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration**|Zheng Dang et.al.|[2309.11170v1](http://arxiv.org/abs/2309.11170v1)|null|
-|**2023-09-20**|**Learning Deformable 3D Graph Similarity to Track Plant Cells in Unregistered Time Lapse Images**|Md Shazid Islam et.al.|[2309.11157v1](http://arxiv.org/abs/2309.11157v1)|null|
+|**2023-09-21**|**Learning Deformable 3D Graph Similarity to Track Plant Cells in Unregistered Time Lapse Images**|Md Shazid Islam et.al.|[2309.11157v2](http://arxiv.org/abs/2309.11157v2)|null|
 |**2023-09-21**|**More complex encoder is not all you need**|Weibin Yang et.al.|[2309.11139v2](http://arxiv.org/abs/2309.11139v2)|**[link](https://github.com/aitechlabcn/neUNet)**|
 |**2023-09-20**|**Shape Anchor Guided Holistic Indoor Scene Understanding**|Mingyue Dong et.al.|[2309.11133v1](http://arxiv.org/abs/2309.11133v1)|**[link](https://github.com/Geo-Tell/AncRec)**|
 |**2023-09-21**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119v2](http://arxiv.org/abs/2309.11119v2)|null|
@@ -1192,7 +1192,7 @@
 |**2023-09-20**|**Dense 2D-3D Indoor Prediction with Sound via Aligned Cross-Modal Distillation**|Heeseung Yun et.al.|[2309.11081v1](http://arxiv.org/abs/2309.11081v1)|null|
 |**2023-09-20**|**3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images**|Yifu Zhang et.al.|[2309.11015v1](http://arxiv.org/abs/2309.11015v1)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
-|**2023-09-20**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v1](http://arxiv.org/abs/2309.11009v1)|null|
+|**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009v2](http://arxiv.org/abs/2309.11009v2)|null|
 |**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987v1](http://arxiv.org/abs/2309.10987v1)|null|
 |**2023-09-19**|**Multi-Spectral Reflection Matrix for Ultra-Fast 3D Label-Free Microscopy**|Paul Balondrade et.al.|[2309.10951v1](http://arxiv.org/abs/2309.10951v1)|null|
 |**2023-09-19**|**Open-Vocabulary Affordance Detection using Knowledge Distillation and Text-Point Correlation**|Tuan Van Vo et.al.|[2309.10932v1](http://arxiv.org/abs/2309.10932v1)|null|
