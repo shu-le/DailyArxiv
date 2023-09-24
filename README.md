@@ -45,7 +45,7 @@
 |**2023-09-21**|**Neural Stochastic Screened Poisson Reconstruction**|Silvia Sellán et.al.|[2309.11993v1](http://arxiv.org/abs/2309.11993v1)|null|
 |**2023-09-21**|**Crop Row Switching for Vision-Based Navigation: A Comprehensive Approach for Efficient Crop Field Navigation**|Rajitha de Silva et.al.|[2309.11989v1](http://arxiv.org/abs/2309.11989v1)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
-|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|null|
+|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|null|
 |**2023-09-21**|**A Study of Forward-Forward Algorithm for Self-Supervised Learning**|Jonas Brenig et.al.|[2309.11955v1](http://arxiv.org/abs/2309.11955v1)|null|
 |**2023-09-21**|**Fully Transformer-Equipped Architecture for End-to-End Referring Video Object Segmentation**|Ping Li et.al.|[2309.11933v1](http://arxiv.org/abs/2309.11933v1)|null|
@@ -1088,7 +1088,7 @@
 |**2023-09-20**|**Rating Prediction in Conversational Task Assistants with Behavioral and Conversational-Flow Features**|Rafael Ferreira et.al.|[2309.11307v1](http://arxiv.org/abs/2309.11307v1)|**[link](https://github.com/rafaelhferreira/cta_rating_prediction)**|
 |**2023-09-20**|**The Wizard of Curiosities: Enriching Dialogues with Fun Facts**|Frederico Vicente et.al.|[2309.11283v1](http://arxiv.org/abs/2309.11283v1)|null|
 |**2023-09-20**|**The Scenario Refiner: Grounding subjects in images at the morphological level**|Claudia Tagliaferri et.al.|[2309.11252v1](http://arxiv.org/abs/2309.11252v1)|null|
-|**2023-09-20**|**Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering**|Ardian Selmonaj et.al.|[2309.11247v1](http://arxiv.org/abs/2309.11247v1)|null|
+|**2023-09-20**|**Hierarchical Multi-Agent Reinforcement Learning for Air Combat Maneuvering**|Ardian Selmonaj et.al.|[2309.11247v1](http://arxiv.org/abs/2309.11247v1)|**[link](https://github.com/IDSIA/marl)**|
 |**2023-09-20**|**Delays in Reinforcement Learning**|Pierre Liotet et.al.|[2309.11096v1](http://arxiv.org/abs/2309.11096v1)|null|
 |**2023-09-20**|**Safe and Robust Multi-Agent Reinforcement Learning for Connected Autonomous Vehicles under State Perturbations**|Zhili Zhang et.al.|[2309.11057v1](http://arxiv.org/abs/2309.11057v1)|null|
 |**2023-09-20**|**Stein Variational Guided Model Predictive Path Integral Control: Proposal and Experiments with Fast Maneuvering Vehicles**|Kohei Honda et.al.|[2309.11040v1](http://arxiv.org/abs/2309.11040v1)|**[link](https://github.com/kohonda/proj-svg_mppi)**|
@@ -1307,7 +1307,7 @@
 |**2023-09-21**|**3D Muographic Inversion in the Exploration of Cavities and Low-density Fractured Zones**|László Balázs et.al.|[2309.12057v1](http://arxiv.org/abs/2309.12057v1)|null|
 |**2023-09-21**|**Neural Stochastic Screened Poisson Reconstruction**|Silvia Sellán et.al.|[2309.11993v1](http://arxiv.org/abs/2309.11993v1)|null|
 |**2023-09-21**|**UAV Swarm Deployment and Trajectory for 3D Area Coverage via Reinforcement Learning**|Jia He et.al.|[2309.11992v1](http://arxiv.org/abs/2309.11992v1)|null|
-|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|null|
+|**2023-09-21**|**NeuralLabeling: A versatile toolset for labeling vision datasets using Neural Radiance Fields**|Floris Erich et.al.|[2309.11966v1](http://arxiv.org/abs/2309.11966v1)|**[link](https://github.com/FlorisE/neural-labeling)**|
 |**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|null|
 |**2023-09-21**|**On the statistical correlations of random polarization and electric depolarization fields in ferroelectrics**|Yuri A. Genenko et.al.|[2309.11951v1](http://arxiv.org/abs/2309.11951v1)|null|
 |**2023-09-21**|**Thermal tides in neutrally stratified atmospheres: Revisiting the Earth's Precambrian rotational equilibrium**|Mohammad Farhat et.al.|[2309.11946v1](http://arxiv.org/abs/2309.11946v1)|null|
