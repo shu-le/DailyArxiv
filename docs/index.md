@@ -55,7 +55,7 @@ layout: default
 |**2023-09-22**|**Decision Fusion Network with Perception Fine-tuning for Defect Classification**|Xiaoheng Jiang et.al.|[2309.12630v1](http://arxiv.org/abs/2309.12630v1)|null|
 |**2023-09-22**|**DeFormer: Integrating Transformers with Deformable Models for 3D Shape Abstraction from a Single Image**|Di Liu et.al.|[2309.12594v1](http://arxiv.org/abs/2309.12594v1)|null|
 |**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593v1](http://arxiv.org/abs/2309.12593v1)|null|
-|**2023-09-22**|**BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**|Ming Kang et.al.|[2309.12585v1](http://arxiv.org/abs/2309.12585v1)|**[link](https://github.com/mkang315/bgf-yolo)**|
+|**2023-09-25**|**BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection**|Ming Kang et.al.|[2309.12585v2](http://arxiv.org/abs/2309.12585v2)|**[link](https://github.com/mkang315/bgf-yolo)**|
 |**2023-09-22**|**Classification of Alzheimers Disease with Deep Learning on Eye-tracking Data**|Harshinee Sriram et.al.|[2309.12574v1](http://arxiv.org/abs/2309.12574v1)|null|
 |**2023-09-22**|**Interpretable 3D Multi-Modal Residual Convolutional Neural Network for Mild Traumatic Brain Injury Diagnosis**|Hanem Ellethy et.al.|[2309.12572v1](http://arxiv.org/abs/2309.12572v1)|null|
 |**2023-09-21**|**Active Stereo Without Pattern Projector**|Luca Bartolomei et.al.|[2309.12315v1](http://arxiv.org/abs/2309.12315v1)|**[link](https://github.com/bartn8/vppstereo)**|
@@ -486,7 +486,7 @@ layout: default
 |**2023-09-21**|**PIE: Simulating Disease Progression via Progressive Image Editing**|Kaizhao Liang et.al.|[2309.11745v1](http://arxiv.org/abs/2309.11745v1)|null|
 |**2023-09-21**|**Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal**|Xiao Feng Zhang et.al.|[2309.11715v1](http://arxiv.org/abs/2309.11715v1)|null|
 |**2023-09-20**|**Cloud-Based Hierarchical Imitation Learning for Scalable Transfer of Construction Skills from Human Workers to Assisting Robots**|Hongrui Yu et.al.|[2309.11619v1](http://arxiv.org/abs/2309.11619v1)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v1](http://arxiv.org/abs/2309.11601v1)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601v2](http://arxiv.org/abs/2309.11601v2)|null|
 |**2023-09-20**|**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**|Manuel Brack et.al.|[2309.11575v1](http://arxiv.org/abs/2309.11575v1)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525v1](http://arxiv.org/abs/2309.11525v1)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
@@ -496,7 +496,7 @@ layout: default
 |**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321v1](http://arxiv.org/abs/2309.11321v1)|null|
 |**2023-09-20**|**Deep generative model conditioned by phase picks for synthesizing labeled seismic waveforms with limited data**|Guoyi Chen et.al.|[2309.11297v1](http://arxiv.org/abs/2309.11297v1)|**[link](https://github.com/billy-chen0327/phasegen)**|
 |**2023-09-20**|**Overview of AuTexTification at IberLEF 2023: Detection and Attribution of Machine-Generated Text in Multiple Domains**|Areg Mikael Sarvazyan et.al.|[2309.11285v1](http://arxiv.org/abs/2309.11285v1)|**[link](https://github.com/autextification/AuTexTification-Overview)**|
-|**2023-09-20**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v1](http://arxiv.org/abs/2309.11281v1)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
+|**2023-09-25**|**Language-driven Object Fusion into Neural Radiance Fields with Pose-Conditioned Dataset Updates**|Ka Chun Shum et.al.|[2309.11281v2](http://arxiv.org/abs/2309.11281v2)|**[link](https://github.com/kcshum/pose-conditioned-NeRF-object-fusion)**|
 |**2023-09-20**|**Active Inference for Sum Rate Maximization in UAV-Assisted Cognitive NOMA Networks**|Felix Obite et.al.|[2309.11263v1](http://arxiv.org/abs/2309.11263v1)|null|
 |**2023-09-20**|**TwinTex: Geometry-aware Texture Generation for Abstracted 3D Architectural Models**|Weidan Xiong et.al.|[2309.11258v1](http://arxiv.org/abs/2309.11258v1)|null|
 |**2023-09-20**|**Investigating Personalization Methods in Text to Music Generation**|Manos Plitsis et.al.|[2309.11140v1](http://arxiv.org/abs/2309.11140v1)|null|
@@ -752,7 +752,7 @@ layout: default
 |**2023-09-22**|**Affect Recognition in Conversations Using Large Language Models**|Shutong Feng et.al.|[2309.12881v1](http://arxiv.org/abs/2309.12881v1)|null|
 |**2023-09-22**|**AnglE-Optimized Text Embeddings**|Xianming Li et.al.|[2309.12871v1](http://arxiv.org/abs/2309.12871v1)|null|
 |**2023-09-22**|**Domain Adaptation for Arabic Machine Translation: The Case of Financial Texts**|Emad A. Alghamdi et.al.|[2309.12863v1](http://arxiv.org/abs/2309.12863v1)|null|
-|**2023-09-22**|**ChatPRCS: A Personalized Support System for English Reading Comprehension based on ChatGPT**|Xizhe Wang et.al.|[2309.12808v1](http://arxiv.org/abs/2309.12808v1)|null|
+|**2023-09-25**|**ChatPRCS: A Personalized Support System for English Reading Comprehension based on ChatGPT**|Xizhe Wang et.al.|[2309.12808v2](http://arxiv.org/abs/2309.12808v2)|null|
 |**2023-09-22**|**Furthest Reasoning with Plan Assessment: Stable Reasoning Path with Retrieval-Augmented Large Language Models**|Yin Zhu et.al.|[2309.12767v1](http://arxiv.org/abs/2309.12767v1)|null|
 |**2023-09-22**|**OpenAi's GPT4 as coding assistant**|Lefteris Moussiades et.al.|[2309.12732v1](http://arxiv.org/abs/2309.12732v1)|**[link](https://github.com/lmous/openai-gpt4-coding-assistant)**|
 |**2023-09-22**|**Defeasible Reasoning with Knowledge Graphs**|Dave Raggett et.al.|[2309.12731v1](http://arxiv.org/abs/2309.12731v1)|null|
@@ -762,7 +762,7 @@ layout: default
 |**2023-09-22**|**Construction contract risk identification based on knowledge-augmented language model**|Saika Wong et.al.|[2309.12626v1](http://arxiv.org/abs/2309.12626v1)|null|
 |**2023-09-22**|**DRG-LLaMA : Tuning LLaMA Model to Predict Diagnosis-related Group for Hospitalized Patients**|Hanyin Wang et.al.|[2309.12625v1](http://arxiv.org/abs/2309.12625v1)|null|
 |**2023-09-22**|**User Migration across Multiple Social Media Platforms**|Ujun Jeong et.al.|[2309.12613v1](http://arxiv.org/abs/2309.12613v1)|null|
-|**2023-09-22**|**Creativity Support in the Age of Large Language Models: An Empirical Study Involving Emerging Writers**|Tuhin Chakrabarty et.al.|[2309.12570v1](http://arxiv.org/abs/2309.12570v1)|null|
+|**2023-09-25**|**Creativity Support in the Age of Large Language Models: An Empirical Study Involving Emerging Writers**|Tuhin Chakrabarty et.al.|[2309.12570v2](http://arxiv.org/abs/2309.12570v2)|null|
 |**2023-09-22**|**PlanFitting: Tailoring Personalized Exercise Plans with Large Language Models**|Donghoon Shin et.al.|[2309.12555v1](http://arxiv.org/abs/2309.12555v1)|null|
 |**2023-09-22**|**Is it Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models**|Asma Farajidizaji et.al.|[2309.12551v1](http://arxiv.org/abs/2309.12551v1)|null|
 |**2023-09-21**|**CodePlan: Repository-level Coding using LLMs and Planning**|Ramakrishna Bairi et.al.|[2309.12499v1](http://arxiv.org/abs/2309.12499v1)|null|
@@ -1097,7 +1097,7 @@ layout: default
 |**2023-09-16**|**Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation**|Yixing Lu et.al.|[2309.06618v2](http://arxiv.org/abs/2309.06618v2)|null|
 |**2023-09-12**|**Zero-Shot Visual Classification with Guided Cropping**|Piyapat Saranrittichai et.al.|[2309.06581v1](http://arxiv.org/abs/2309.06581v1)|null|
 |**2023-09-12**|**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**|Yong Lin et.al.|[2309.06256v1](http://arxiv.org/abs/2309.06256v1)|null|
-|**2023-09-12**|**Language Models as Black-Box Optimizers for Vision-Language Models**|Samuel Yu et.al.|[2309.05950v1](http://arxiv.org/abs/2309.05950v1)|**[link](https://github.com/shihongl1998/llm-as-a-blackbox-optimizer)**|
+|**2023-09-25**|**Language Models as Black-Box Optimizers for Vision-Language Models**|Shihong Liu et.al.|[2309.05950v2](http://arxiv.org/abs/2309.05950v2)|**[link](https://github.com/shihongl1998/llm-as-a-blackbox-optimizer)**|
 |**2023-09-18**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v2](http://arxiv.org/abs/2309.05904v2)|null|
 |**2023-09-11**|**Dual-view Curricular Optimal Transport for Cross-lingual Cross-modal Retrieval**|Yabing Wang et.al.|[2309.05451v1](http://arxiv.org/abs/2309.05451v1)|null|
 |**2023-09-11**|**Panoptic Vision-Language Feature Fields**|Haoran Chen et.al.|[2309.05448v1](http://arxiv.org/abs/2309.05448v1)|**[link](https://github.com/ethz-asl/autolabel)**|
@@ -1185,7 +1185,7 @@ layout: default
 |**2023-09-21**|**Decomposing large unitaries into multimode devices of arbitrary size**|Christian Arends et.al.|[2309.12440v1](http://arxiv.org/abs/2309.12440v1)|null|
 |**2023-09-21**|**Twenty-five years of random asset exchange modeling**|Max Greenberg et.al.|[2309.12418v1](http://arxiv.org/abs/2309.12418v1)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
-|**2023-09-21**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295v1](http://arxiv.org/abs/2309.12295v1)|null|
+|**2023-09-25**|**Learning to Drive Anywhere**|Ruizhao Zhu et.al.|[2309.12295v2](http://arxiv.org/abs/2309.12295v2)|null|
 |**2023-09-21**|**Distributed Conjugate Gradient Method via Conjugate Direction Tracking**|Ola Shorinwa et.al.|[2309.12235v1](http://arxiv.org/abs/2309.12235v1)|null|
 |**2023-09-21**|**Towards Answering Health-related Questions from Medical Videos: Datasets and Approaches**|Deepak Gupta et.al.|[2309.12224v1](http://arxiv.org/abs/2309.12224v1)|null|
 |**2023-09-22**|**Mental imagery timing affects hybrid BCI control of robotic arms**|Tristan Venot et.al.|[2309.12195v2](http://arxiv.org/abs/2309.12195v2)|null|
