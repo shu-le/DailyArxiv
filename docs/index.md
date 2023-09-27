@@ -1636,12 +1636,12 @@ layout: default
 |**2023-09-24**|**A Novel Stochastic Interacting Particle-Field Algorithm for 3D Parabolic-Parabolic Keller-Segel Chemotaxis System**|Zhongjian Wang et.al.|[2309.13554v1](http://arxiv.org/abs/2309.13554v1)|null|
 |**2023-09-24**|**Generalized Dice Focal Loss trained 3D Residual UNet for Automated Lesion Segmentation in Whole-Body FDG PET/CT Images**|Shadab Ahamed et.al.|[2309.13553v1](http://arxiv.org/abs/2309.13553v1)|null|
 |**2023-09-24**|**Towards Robust Robot 3D Perception in Urban Environments: The UT Campus Object Dataset**|Arthur Zhang et.al.|[2309.13549v1](http://arxiv.org/abs/2309.13549v1)|null|
-|**2023-09-24**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v1](http://arxiv.org/abs/2309.13524v1)|null|
+|**2023-09-26**|**Global-correlated 3D-decoupling Transformer for Clothed Avatar Reconstruction**|Zechuan Zhang et.al.|[2309.13524v2](http://arxiv.org/abs/2309.13524v2)|null|
 |**2023-09-23**|**Lattice Green's Functions for High Order Finite Difference Stencils**|James Gabbard et.al.|[2309.13503v1](http://arxiv.org/abs/2309.13503v1)|null|
 |**2023-09-23**|**Identifying Systematic Errors in Object Detectors with the SCROD Pipeline**|Valentyn Boreiko et.al.|[2309.13489v1](http://arxiv.org/abs/2309.13489v1)|null|
 |**2023-09-23**|**Edge Aware Learning for 3D Point Cloud**|Lei Li et.al.|[2309.13472v1](http://arxiv.org/abs/2309.13472v1)|null|
 |**2023-09-23**|**Spin-driven electric polarization from strong 4d-4f cross-coupling in 6H-perovskite Ba3HoRu2O9**|E. Kushwaha et.al.|[2309.13465v1](http://arxiv.org/abs/2309.13465v1)|null|
-|**2023-09-23**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v1](http://arxiv.org/abs/2309.13457v1)|null|
+|**2023-09-26**|**Turbulence in Focus: Benchmarking Scaling Behavior of 3D Volumetric Super-Resolution with BLASTNet 2.0 Data**|Wai Tong Chung et.al.|[2309.13457v2](http://arxiv.org/abs/2309.13457v2)|null|
 |**2023-09-23**|**A mirror-Unet architecture for PET/CT lesion segmentation**|Yamila Rotstein Habarnau et.al.|[2309.13398v1](http://arxiv.org/abs/2309.13398v1)|**[link](https://github.com/yrotstein/autopet2023_mv1)**|
 |**2023-09-23**|**Smart City Digital Twin Framework for Real-Time Multi-Data Integration and Wide Public Distribution**|Lorenzo Adreani et.al.|[2309.13394v1](http://arxiv.org/abs/2309.13394v1)|null|
 |**2023-09-23**|**Robust light bullets in Rydberg gases with moiré lattice**|Ze-Yang Li et.al.|[2309.13379v1](http://arxiv.org/abs/2309.13379v1)|null|
