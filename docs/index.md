@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 
 ## CV
 
@@ -31,7 +31,7 @@ layout: default
 |**2023-09-25**|**Automatic Animation of Hair Blowing in Still Portrait Photos**|Wenpeng Xiao et.al.|[2309.14207v1](http://arxiv.org/abs/2309.14207v1)|null|
 |**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203v1](http://arxiv.org/abs/2309.14203v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
 |**2023-09-25**|**(Predictable) Performance Bias in Unsupervised Anomaly Detection**|Felix Meissen et.al.|[2309.14198v1](http://arxiv.org/abs/2309.14198v1)|null|
-|**2023-09-25**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v1](http://arxiv.org/abs/2309.14183v1)|null|
+|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
 |**2023-09-25**|**Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision**|Haoning Wu et.al.|[2309.14181v1](http://arxiv.org/abs/2309.14181v1)|**[link](https://github.com/VQAssessment/Q-Bench)**|
 |**2023-09-25**|**Data Upcycling Knowledge Distillation for Image Super-Resolution**|Yun Zhang et.al.|[2309.14162v1](http://arxiv.org/abs/2309.14162v1)|null|
 |**2023-09-25**|**LAPP: Layer Adaptive Progressive Pruning for Compressing CNNs from Scratch**|Pucheng Zhai et.al.|[2309.14157v1](http://arxiv.org/abs/2309.14157v1)|null|
@@ -42,7 +42,7 @@ layout: default
 |**2023-09-25**|**Convolutional autoencoder-based multimodal one-class classification**|Firas Laakom et.al.|[2309.14090v1](http://arxiv.org/abs/2309.14090v1)|null|
 |**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|**[link](https://github.com/uyoung-jeong/BoIR)**|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068v1](http://arxiv.org/abs/2309.14068v1)|null|
-|**2023-09-25**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v1](http://arxiv.org/abs/2309.14065v1)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v2](http://arxiv.org/abs/2309.14065v2)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-25**|**FeCAM: Exploiting the Heterogeneity of Class Distributions in Exemplar-Free Continual Learning**|Dipam Goswami et.al.|[2309.14062v1](http://arxiv.org/abs/2309.14062v1)|**[link](https://github.com/dipamgoswami/fecam)**|
 |**2023-09-25**|**Weakly Supervised Semantic Segmentation by Knowledge Graph Inference**|Jia Zhang et.al.|[2309.14057v1](http://arxiv.org/abs/2309.14057v1)|null|
 |**2023-09-25**|**Adapt then Unlearn: Exploiting Parameter Space Semantics for Unlearning in Generative Adversarial Networks**|Piyush Tiwary et.al.|[2309.14054v1](http://arxiv.org/abs/2309.14054v1)|null|
@@ -525,7 +525,7 @@ layout: default
 |**2023-09-25**|**Beam Enumeration: Probabilistic Explainability For Sample Efficient Self-conditioned Molecular Design**|Jeff Guo et.al.|[2309.13957v1](http://arxiv.org/abs/2309.13957v1)|null|
 |**2023-09-25**|**Adversarial Attacks on Video Object Segmentation with Hard Region Discovery**|Ping Li et.al.|[2309.13857v1](http://arxiv.org/abs/2309.13857v1)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
-|**2023-09-24**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v1](http://arxiv.org/abs/2309.13655v1)|**[link](https://github.com/naagar/art_restoration_dm)**|
+|**2023-09-26**|**Adaptation of the super resolution SOTA for Art Restoration in camera capture images**|Sandeep Nagar et.al.|[2309.13655v2](http://arxiv.org/abs/2309.13655v2)|**[link](https://github.com/naagar/art_restoration_dm)**|
 |**2023-09-24**|**On the Posterior Distribution in Denoising: Application to Uncertainty Quantification**|Hila Manor et.al.|[2309.13598v1](http://arxiv.org/abs/2309.13598v1)|null|
 |**2023-09-23**|**Identifying Systematic Errors in Object Detectors with the SCROD Pipeline**|Valentyn Boreiko et.al.|[2309.13489v1](http://arxiv.org/abs/2309.13489v1)|null|
 |**2023-09-23**|**A Review on Practical Challenges of Aerial Quantum Communication**|Umang Dubey et.al.|[2309.13417v1](http://arxiv.org/abs/2309.13417v1)|null|
@@ -827,7 +827,7 @@ layout: default
 |**2023-09-25**|**How Novices Use LLM-Based Code Generators to Solve CS1 Coding Tasks in a Self-Paced Learning Environment**|Majeed Kazemitabaar et.al.|[2309.14049v1](http://arxiv.org/abs/2309.14049v1)|null|
 |**2023-09-25**|**DeWave: Discrete EEG Waves Encoding for Brain Dynamics to Text Translation**|Yiqun Duan et.al.|[2309.14030v1](http://arxiv.org/abs/2309.14030v1)|null|
 |**2023-09-25**|**LORD: Low Rank Decomposition Of Monolingual Code LLMs For One-Shot Compression**|Ayush Kaushal et.al.|[2309.14021v1](http://arxiv.org/abs/2309.14021v1)|null|
-|**2023-09-25**|**Connecting Speech Encoder and Large Language Model for ASR**|Wenyi Yu et.al.|[2309.13963v1](http://arxiv.org/abs/2309.13963v1)|null|
+|**2023-09-26**|**Connecting Speech Encoder and Large Language Model for ASR**|Wenyi Yu et.al.|[2309.13963v2](http://arxiv.org/abs/2309.13963v2)|null|
 |**2023-09-25**|**SPOTS: Stable Placement of Objects with Reasoning in Semi-Autonomous Teleoperation Systems**|Joonhyung Lee et.al.|[2309.13937v1](http://arxiv.org/abs/2309.13937v1)|null|
 |**2023-09-25**|**AutoPrep: An Automatic Preprocessing Framework for In-the-Wild Speech Data**|Jianwei Yu et.al.|[2309.13905v1](http://arxiv.org/abs/2309.13905v1)|null|
 |**2023-09-25**|**LLM-Powered Conversational Voice Assistants: Interaction Patterns, Opportunities, Challenges, and Design Guidelines**|Amama Mahmood et.al.|[2309.13879v1](http://arxiv.org/abs/2309.13879v1)|null|
@@ -1287,9 +1287,9 @@ layout: default
 |**2023-09-25**|**MultiModN- Multimodal, Multi-Task, Interpretable Modular Networks**|Vinitra Swamy et.al.|[2309.14118v1](http://arxiv.org/abs/2309.14118v1)|**[link](https://github.com/epfl-iglobalhealth/multimodn)**|
 |**2023-09-25**|**Convolutional autoencoder-based multimodal one-class classification**|Firas Laakom et.al.|[2309.14090v1](http://arxiv.org/abs/2309.14090v1)|null|
 |**2023-09-25**|**ODE-based Recurrent Model-free Reinforcement Learning for POMDPs**|Xuanle Zhao et.al.|[2309.14078v1](http://arxiv.org/abs/2309.14078v1)|null|
-|**2023-09-25**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v1](http://arxiv.org/abs/2309.14065v1)|**[link](https://github.com/Fourier7754/AsymFormer)**|
+|**2023-09-26**|**AsymFormer: Asymmetrical Cross-Modal Representation Learning for Mobile Platform Real-Time RGB-D Semantic Segmentation**|Siqi Du et.al.|[2309.14065v2](http://arxiv.org/abs/2309.14065v2)|**[link](https://github.com/Fourier7754/AsymFormer)**|
 |**2023-09-25**|**Revisiting LARS for Large Batch Training Generalization of Neural Networks**|Khoi Do et.al.|[2309.14053v1](http://arxiv.org/abs/2309.14053v1)|null|
-|**2023-09-25**|**Synchronous Agents, Verification, and Blame -- A Deontic View**|Karam Kharraz et.al.|[2309.14048v1](http://arxiv.org/abs/2309.14048v1)|null|
+|**2023-09-26**|**Synchronous Agents, Verification, and Blame -- A Deontic View**|Karam Kharraz et.al.|[2309.14048v2](http://arxiv.org/abs/2309.14048v2)|null|
 |**2023-09-25**|**Hierarchical Imitation Learning for Stochastic Environments**|Maximilian Igl et.al.|[2309.14003v1](http://arxiv.org/abs/2309.14003v1)|null|
 |**2023-09-25**|**Morphological Computing as Logic Underlying Cognition in Human, Animal, and Intelligent Machine**|Gordana Dodig-Crnkovic et.al.|[2309.13979v1](http://arxiv.org/abs/2309.13979v1)|null|
 |**2023-09-25**|**A Cyberpunk 2077 perspective on the prediction and understanding of future technology**|Miguel Bordallo López et.al.|[2309.13970v1](http://arxiv.org/abs/2309.13970v1)|null|
@@ -1631,7 +1631,7 @@ layout: default
 |**2023-09-24**|**PanopticNDT: Efficient and Robust Panoptic Mapping**|Daniel Seichter et.al.|[2309.13635v1](http://arxiv.org/abs/2309.13635v1)|**[link](https://github.com/tui-nicr/panoptic-mapping)**|
 |**2023-09-24**|**MM-NeRF: Multimodal-Guided 3D Multi-Style Transfer of Neural Radiance Field**|Zijiang Yang et.al.|[2309.13607v1](http://arxiv.org/abs/2309.13607v1)|null|
 |**2023-09-24**|**Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development**|Runkai Zhao et.al.|[2309.13596v1](http://arxiv.org/abs/2309.13596v1)|null|
-|**2023-09-24**|**Benchmarking Encoder-Decoder Architectures for Biplanar X-ray to 3D Shape Reconstruction**|Mahesh Shakya et.al.|[2309.13587v1](http://arxiv.org/abs/2309.13587v1)|null|
+|**2023-09-26**|**Benchmarking Encoder-Decoder Architectures for Biplanar X-ray to 3D Shape Reconstruction**|Mahesh Shakya et.al.|[2309.13587v2](http://arxiv.org/abs/2309.13587v2)|null|
 |**2023-09-24**|**Towards Subcentimeter Accuracy Digital-Twin Tracking via An RGBD-based Transformer Model and A Comprehensive Mobile Dataset**|Zixun Huang et.al.|[2309.13570v1](http://arxiv.org/abs/2309.13570v1)|null|
 |**2023-09-24**|**A Novel Stochastic Interacting Particle-Field Algorithm for 3D Parabolic-Parabolic Keller-Segel Chemotaxis System**|Zhongjian Wang et.al.|[2309.13554v1](http://arxiv.org/abs/2309.13554v1)|null|
 |**2023-09-24**|**Generalized Dice Focal Loss trained 3D Residual UNet for Automated Lesion Segmentation in Whole-Body FDG PET/CT Images**|Shadab Ahamed et.al.|[2309.13553v1](http://arxiv.org/abs/2309.13553v1)|null|
@@ -1650,7 +1650,7 @@ layout: default
 |**2023-09-23**|**Discwise Active Learning for LiDAR Semantic Segmentation**|Ozan Unal et.al.|[2309.13276v1](http://arxiv.org/abs/2309.13276v1)|null|
 |**2023-09-23**|**Randomize to Generalize: Domain Randomization for Runway FOD Detection**|Javaria Farooq et.al.|[2309.13264v1](http://arxiv.org/abs/2309.13264v1)|null|
 |**2023-09-23**|**Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation**|Ke Fan et.al.|[2309.13248v1](http://arxiv.org/abs/2309.13248v1)|**[link](https://github.com/kfan21/eoras)**|
-|**2023-09-23**|**Real3D-AD: A Dataset of Point Cloud Anomaly Detection**|Jiaqi Liu et.al.|[2309.13226v1](http://arxiv.org/abs/2309.13226v1)|**[link](https://github.com/m-3lab/real3d-ad)**|
+|**2023-09-26**|**Real3D-AD: A Dataset of Point Cloud Anomaly Detection**|Jiaqi Liu et.al.|[2309.13226v2](http://arxiv.org/abs/2309.13226v2)|**[link](https://github.com/m-3lab/real3d-ad)**|
 |**2023-09-22**|**Enhancing resonant circular-section haloscopes for dark matter axion detection: approaches and limitations in volume expansion**|J. M. García-Barceló et.al.|[2309.13199v1](http://arxiv.org/abs/2309.13199v1)|null|
 |**2023-09-22**|**Visualizing Topological Importance: A Class-Driven Approach**|Yu Qin et.al.|[2309.13185v1](http://arxiv.org/abs/2309.13185v1)|null|
 |**2023-09-22**|**Real-time, noise and drift resilient formaldehyde sensing at room temperature with aerogel filaments**|Zhuo Chen et.al.|[2309.13156v1](http://arxiv.org/abs/2309.13156v1)|null|
