@@ -9,7 +9,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-26**|**Generating Visual Scenes from Touch**|Fengyu Yang et.al.|[2309.15117v1](http://arxiv.org/abs/2309.15117v1)|null|
-|**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v1](http://arxiv.org/abs/2309.15112v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|null|
 |**2023-09-26**|**DistillBEV: Boosting Multi-Camera 3D Object Detection with Cross-Modal Knowledge Distillation**|Zeyu Wang et.al.|[2309.15109v1](http://arxiv.org/abs/2309.15109v1)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103v2](http://arxiv.org/abs/2309.15103v2)|null|
@@ -29,7 +29,7 @@ layout: default
 |**2023-09-26**|**An Ensemble Model for Distorted Images in Real Scenarios**|Boyuan Ji et.al.|[2309.14998v1](http://arxiv.org/abs/2309.14998v1)|null|
 |**2023-09-26**|**IAIFNet: An Illumination-Aware Infrared and Visible Image Fusion Network**|Qiao Yang et.al.|[2309.14997v1](http://arxiv.org/abs/2309.14997v1)|null|
 |**2023-09-26**|**Robust Sequential DeepFake Detection**|Rui Shao et.al.|[2309.14991v1](http://arxiv.org/abs/2309.14991v1)|**[link](https://github.com/rshaojimmy/seqdeepfake)**|
-|**2023-09-26**|**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**|Kemal Oksuz et.al.|[2309.14976v1](http://arxiv.org/abs/2309.14976v1)|null|
+|**2023-09-27**|**MoCaE: Mixture of Calibrated Experts Significantly Improves Object Detection**|Kemal Oksuz et.al.|[2309.14976v2](http://arxiv.org/abs/2309.14976v2)|null|
 |**2023-09-26**|**Improving Unsupervised Visual Program Inference with Code Rewriting Families**|Aditya Ganeshan et.al.|[2309.14972v1](http://arxiv.org/abs/2309.14972v1)|null|
 |**2023-09-26**|**A novel approach for holographic 3D content generation without depth map**|Hakdong Kim et.al.|[2309.14967v1](http://arxiv.org/abs/2309.14967v1)|null|
 |**2023-09-26**|**GridFormer: Towards Accurate Table Structure Recognition via Grid Prediction**|Pengyuan Lyu et.al.|[2309.14962v1](http://arxiv.org/abs/2309.14962v1)|null|
@@ -40,7 +40,7 @@ layout: default
 |**2023-09-26**|**Noise-Tolerant Unsupervised Adapter for Vision-Language Models**|Eman Ali et.al.|[2309.14928v1](http://arxiv.org/abs/2309.14928v1)|null|
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916v1](http://arxiv.org/abs/2309.14916v1)|null|
 |**2023-09-26**|**Face Cartoonisation For Various Poses Using StyleGAN**|Kushal Jain et.al.|[2309.14908v1](http://arxiv.org/abs/2309.14908v1)|null|
-|**2023-09-26**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900v1](http://arxiv.org/abs/2309.14900v1)|**[link](https://github.com/knightzjz/ncl-iml)**|
+|**2023-09-27**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900v2](http://arxiv.org/abs/2309.14900v2)|**[link](https://github.com/knightzjz/ncl-iml)**|
 |**2023-09-26**|**FDLS: A Deep Learning Approach to Production Quality, Controllable, and Retargetable Facial Performances**|Wan-Duo Kurt Ma et.al.|[2309.14897v1](http://arxiv.org/abs/2309.14897v1)|null|
 |**2023-09-26**|**Nearest Neighbor Guidance for Out-of-Distribution Detection**|Jaewoo Park et.al.|[2309.14888v1](http://arxiv.org/abs/2309.14888v1)|**[link](https://github.com/roomo7time/nnguide)**|
 |**2023-09-26**|**Locality-preserving Directions for Interpreting the Latent Space of Satellite Image GANs**|Georgia Kourmouli et.al.|[2309.14883v1](http://arxiv.org/abs/2309.14883v1)|null|
@@ -1293,7 +1293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-26**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v1](http://arxiv.org/abs/2309.15112v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|**[link](https://github.com/rxliang/vision)**|
 |**2023-09-26**|**Noise-Tolerant Unsupervised Adapter for Vision-Language Models**|Eman Ali et.al.|[2309.14928v1](http://arxiv.org/abs/2309.14928v1)|null|
 |**2023-09-26**|**BLIP-Adapter: Parameter-Efficient Transfer Learning for Mobile Screenshot Captioning**|Ching-Yu Chiang et.al.|[2309.14774v1](http://arxiv.org/abs/2309.14774v1)|**[link](https://github.com/rainyugg/blip-adapter)**|
@@ -1417,7 +1417,7 @@ layout: default
 |**2023-09-25**|**Tasks Makyth Models: Machine Learning Assisted Surrogates for Tipping Points**|Gianluca Fabiani et.al.|[2309.14334v1](http://arxiv.org/abs/2309.14334v1)|null|
 |**2023-09-25**|**MUTEX: Learning Unified Policies from Multimodal Task Specifications**|Rutav Shah et.al.|[2309.14320v1](http://arxiv.org/abs/2309.14320v1)|null|
 |**2023-09-25**|**Navigation with shadow prices to optimize multi-commodity flow rates**|Ignacio Boero et.al.|[2309.14284v1](http://arxiv.org/abs/2309.14284v1)|null|
-|**2023-09-25**|**Enhancing data efficiency in reinforcement learning: a novel imagination mechanism based on mesh information propagation**|Zihang Wang et.al.|[2309.14243v1](http://arxiv.org/abs/2309.14243v1)|**[link](https://github.com/zero-coder/fecam)**|
+|**2023-09-27**|**Enhancing data efficiency in reinforcement learning: a novel imagination mechanism based on mesh information propagation**|Zihang Wang et.al.|[2309.14243v2](http://arxiv.org/abs/2309.14243v2)|**[link](https://github.com/ouazusakou/imagination_mechanism)**|
 |**2023-09-25**|**MoDem-V2: Visuo-Motor World Models for Real-World Robot Manipulation**|Patrick Lancaster et.al.|[2309.14236v1](http://arxiv.org/abs/2309.14236v1)|null|
 |**2023-09-25**|**Detecting and Grounding Multi-Modal Media Manipulation and Beyond**|Rui Shao et.al.|[2309.14203v1](http://arxiv.org/abs/2309.14203v1)|**[link](https://github.com/rshaojimmy/multimodal-deepfake)**|
 |**2023-09-25**|**Designing and evaluating an online reinforcement learning agent for physical exercise recommendations in N-of-1 trials**|Dominik Meier et.al.|[2309.14156v1](http://arxiv.org/abs/2309.14156v1)|**[link](https://github.com/hialab/reinforcement-learning-agents-in-n-of-1-trials)**|
