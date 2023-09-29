@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 
 ## CV
 
@@ -648,7 +648,7 @@ layout: default
 |**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751v1](http://arxiv.org/abs/2309.14751v1)|null|
 |**2023-09-26**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709v1](http://arxiv.org/abs/2309.14709v1)|null|
 |**2023-09-26**|**Efficient Post-training Quantization with FP8 Formats**|Haihao Shen et.al.|[2309.14592v1](http://arxiv.org/abs/2309.14592v1)|**[link](https://github.com/intel/neural-compressor)**|
-|**2023-09-25**|**Generative Escher Meshes**|Noam Aigerman et.al.|[2309.14564v1](http://arxiv.org/abs/2309.14564v1)|null|
+|**2023-09-28**|**Generative Escher Meshes**|Noam Aigerman et.al.|[2309.14564v2](http://arxiv.org/abs/2309.14564v2)|null|
 |**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494v1](http://arxiv.org/abs/2309.14494v1)|**[link](https://github.com/soolab/free-bloom)**|
 |**2023-09-25**|**Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation**|Tsiry Mayet et.al.|[2309.14394v1](http://arxiv.org/abs/2309.14394v1)|null|
 |**2023-09-25**|**Sampling - Variational Auto Encoder - Ensemble: In the Quest of Explainable Artificial Intelligence**|Sarit Maitra et.al.|[2309.14385v1](http://arxiv.org/abs/2309.14385v1)|null|
@@ -1879,7 +1879,7 @@ layout: default
 |**2023-09-27**|**Towards Human-Like RL: Taming Non-Naturalistic Behavior in Deep RL via Adaptive Behavioral Costs in 3D Games**|Kuo-Hao Ho et.al.|[2309.15484v1](http://arxiv.org/abs/2309.15484v1)|null|
 |**2023-09-27**|**Template Model Inspired Task Space Learning for Robust Bipedal Locomotion**|Guillermo A. Castillo et.al.|[2309.15442v1](http://arxiv.org/abs/2309.15442v1)|null|
 |**2023-09-27**|**NeuRBF: A Neural Fields Representation with Adaptive Radial Basis Functions**|Zhang Chen et.al.|[2309.15426v1](http://arxiv.org/abs/2309.15426v1)|null|
-|**2023-09-27**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411v1](http://arxiv.org/abs/2309.15411v1)|null|
+|**2023-09-28**|**3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.|[2309.15411v2](http://arxiv.org/abs/2309.15411v2)|null|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
 |**2023-09-27**|**Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378v1](http://arxiv.org/abs/2309.15378v1)|null|
 |**2023-09-27**|**DREAM-PCD: Deep Reconstruction and Enhancement of mmWave Radar Pointcloud**|Ruixu Geng et.al.|[2309.15374v1](http://arxiv.org/abs/2309.15374v1)|null|
