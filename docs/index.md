@@ -48,7 +48,7 @@ layout: default
 |**2023-09-27**|**Confidence-based Visual Dispersal for Few-shot Unsupervised Domain Adaptation**|Yizhe Xiong et.al.|[2309.15575v1](http://arxiv.org/abs/2309.15575v1)|**[link](https://github.com/bostoncake/c-visdit)**|
 |**2023-09-27**|**The Maximum Cover with Rotating Field of View**|Igor Potapov et.al.|[2309.15573v1](http://arxiv.org/abs/2309.15573v1)|null|
 |**2023-09-27**|**HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**|Yuhang Liu et.al.|[2309.15572v1](http://arxiv.org/abs/2309.15572v1)|null|
-|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v1](http://arxiv.org/abs/2309.15564v1)|null|
+|**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v2](http://arxiv.org/abs/2309.15564v2)|null|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
 |**2023-09-27**|**Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization**|Mayara E. Bonani et.al.|[2309.15562v1](http://arxiv.org/abs/2309.15562v1)|null|
 |**2023-09-27**|**Learning Dense Flow Field for Highly-accurate Cross-view Camera Localization**|Zhenbo Song et.al.|[2309.15556v1](http://arxiv.org/abs/2309.15556v1)|null|
@@ -621,7 +621,7 @@ layout: default
 |**2023-09-27**|**A Unified View of Differentially Private Deep Generative Modeling**|Dingfan Chen et.al.|[2309.15696v1](http://arxiv.org/abs/2309.15696v1)|null|
 |**2023-09-27**|**Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**|Kai Wang et.al.|[2309.15664v1](http://arxiv.org/abs/2309.15664v1)|**[link](https://github.com/wangkai930418/DPL)**|
 |**2023-09-27**|**SANGEA: Scalable and Attributed Network Generation**|Valentin Lemaire et.al.|[2309.15648v1](http://arxiv.org/abs/2309.15648v1)|null|
-|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v1](http://arxiv.org/abs/2309.15564v1)|null|
+|**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v2](http://arxiv.org/abs/2309.15564v2)|null|
 |**2023-09-27**|**Guided Frequency Loss for Image Restoration**|Bilel Benjdiraa et.al.|[2309.15563v1](http://arxiv.org/abs/2309.15563v1)|null|
 |**2023-09-27**|**Uncertainty Quantification via Neural Posterior Principal Components**|Elias Nehme et.al.|[2309.15533v1](http://arxiv.org/abs/2309.15533v1)|null|
 |**2023-09-27**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512v1](http://arxiv.org/abs/2309.15512v1)|null|
@@ -1383,7 +1383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v1](http://arxiv.org/abs/2309.15564v1)|null|
+|**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v2](http://arxiv.org/abs/2309.15564v2)|null|
 |**2023-09-26**|**VPA: Fully Test-Time Visual Prompt Adaptation**|Jiachen Sun et.al.|[2309.15251v1](http://arxiv.org/abs/2309.15251v1)|null|
 |**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|**[link](https://github.com/rxliang/vision)**|
@@ -1485,7 +1485,7 @@ layout: default
 |**2023-09-27**|**Distill Knowledge in Multi-task Reinforcement Learning with Optimal-Transport Regularization**|Bang Giang Le et.al.|[2309.15603v1](http://arxiv.org/abs/2309.15603v1)|null|
 |**2023-09-27**|**PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation**|Shizhe Chen et.al.|[2309.15596v1](http://arxiv.org/abs/2309.15596v1)|null|
 |**2023-09-27**|**HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**|Yuhang Liu et.al.|[2309.15572v1](http://arxiv.org/abs/2309.15572v1)|null|
-|**2023-09-27**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v1](http://arxiv.org/abs/2309.15564v1)|null|
+|**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v2](http://arxiv.org/abs/2309.15564v2)|null|
 |**2023-09-27**|**Exploiting holographically encoded variance to transmit labelled images through a multimode optical fiber**|Liam Collard et.al.|[2309.15532v1](http://arxiv.org/abs/2309.15532v1)|null|
 |**2023-09-27**|**Raijū: Reinforcement Learning-Guided Post-Exploitation for Automating Security Assessment of Network Systems**|Van-Hau Pham et.al.|[2309.15518v1](http://arxiv.org/abs/2309.15518v1)|null|
 |**2023-09-27**|**Finite Scalar Quantization: VQ-VAE Made Simple**|Fabian Mentzer et.al.|[2309.15505v1](http://arxiv.org/abs/2309.15505v1)|null|
