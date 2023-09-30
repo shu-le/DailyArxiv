@@ -1,4 +1,4 @@
-## Updated on 2023.09.29
+## Updated on 2023.09.30
 
 ## CV
 
@@ -1030,7 +1030,7 @@
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|null|
 |**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|null|
 |**2023-09-28**|**Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why**|Jin Huang et.al.|[2309.16595v1](http://arxiv.org/abs/2309.16595v1)|null|
-|**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|null|
+|**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|**[link](https://github.com/openai/evals)**|
 |**2023-09-28**|**A Benchmark for Learning to Translate a New Language from One Grammar Book**|Garrett Tanzer et.al.|[2309.16575v1](http://arxiv.org/abs/2309.16575v1)|null|
 |**2023-09-28**|**Augmenting LLMs with Knowledge: A survey on hallucination prevention**|Konstantinos Andriopoulos et.al.|[2309.16459v1](http://arxiv.org/abs/2309.16459v1)|null|
 |**2023-09-28**|**Neuro Symbolic Reasoning for Planning: Counterexample Guided Inductive Synthesis using Large Language Models and Satisfiability Solving**|Sumit Kumar Jha et.al.|[2309.16436v1](http://arxiv.org/abs/2309.16436v1)|null|
