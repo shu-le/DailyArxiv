@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 
 ## CV
 
@@ -19,7 +19,7 @@ layout: default
 |**2023-09-28**|**Novel Deep Learning Pipeline for Automatic Weapon Detection**|Haribharathi Sivakumar et.al.|[2309.16654v1](http://arxiv.org/abs/2309.16654v1)|null|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653v1](http://arxiv.org/abs/2309.16653v1)|null|
 |**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650v1](http://arxiv.org/abs/2309.16650v1)|null|
-|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Improving Equivariance in State-of-the-Art Supervised Depth and Normal Predictors**|Yuanyi Zhong et.al.|[2309.16646v1](http://arxiv.org/abs/2309.16646v1)|**[link](https://github.com/mikuhatsune/equivariance)**|
 |**2023-09-28**|**Deep Geometrized Cartoon Line Inbetweening**|Li Siyao et.al.|[2309.16643v1](http://arxiv.org/abs/2309.16643v1)|**[link](https://github.com/lisiyao21/animeinbet)**|
 |**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634v1](http://arxiv.org/abs/2309.16634v1)|null|
@@ -1032,7 +1032,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639v1](http://arxiv.org/abs/2309.16639v1)|null|
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|null|
-|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|null|
+|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|**[link](https://github.com/QwenLM/Qwen-7B)**|
 |**2023-09-28**|**Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why**|Jin Huang et.al.|[2309.16595v1](http://arxiv.org/abs/2309.16595v1)|null|
 |**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|**[link](https://github.com/openai/evals)**|
 |**2023-09-28**|**A Benchmark for Learning to Translate a New Language from One Grammar Book**|Garrett Tanzer et.al.|[2309.16575v1](http://arxiv.org/abs/2309.16575v1)|null|
@@ -1066,7 +1066,7 @@ layout: default
 |**2023-09-27**|**Lyra: Orchestrating Dual Correction in Automated Theorem Proving**|Chuanyang Zheng et.al.|[2309.15806v1](http://arxiv.org/abs/2309.15806v1)|**[link](https://github.com/chuanyang-zheng/lyra-theorem-prover)**|
 |**2023-09-27**|**Large Language Model Routing with Benchmark Datasets**|Tal Shnitzer et.al.|[2309.15789v1](http://arxiv.org/abs/2309.15789v1)|null|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785v1](http://arxiv.org/abs/2309.15785v1)|null|
-|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729v1](http://arxiv.org/abs/2309.15729v1)|null|
+|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729v1](http://arxiv.org/abs/2309.15729v1)|**[link](https://github.com/jxuanc/mindgpt)**|
 |**2023-09-27**|**ChatGPT-BCI: Word-Level Neural State Classification Using GPT, EEG, and Eye-Tracking Biomarkers in Semantic Inference Reading Comprehension**|Yuhong Zhang et.al.|[2309.15714v1](http://arxiv.org/abs/2309.15714v1)|null|
 |**2023-09-27**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen et.al.|[2309.15701v1](http://arxiv.org/abs/2309.15701v1)|null|
 |**2023-09-27**|**Conversational Feedback in Scripted versus Spontaneous Dialogues: A Comparative Analysis**|Ildikó Pilán et.al.|[2309.15656v1](http://arxiv.org/abs/2309.15656v1)|null|
@@ -1482,7 +1482,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650v1](http://arxiv.org/abs/2309.16650v1)|null|
-|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|null|
 |**2023-09-28**|**QwenGrasp: A Usage of Large Vision Language Model for Target-oriented Grasping**|Xinyu Chen et.al.|[2309.16426v1](http://arxiv.org/abs/2309.16426v1)|null|
 |**2023-09-28**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414v1](http://arxiv.org/abs/2309.16414v1)|null|
@@ -1586,8 +1586,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
-|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|null|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
+|**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|**[link](https://github.com/QwenLM/Qwen-7B)**|
 |**2023-09-28**|**A Design Toolbox for the Development of Collaborative Distributed Machine Learning Systems**|David Jin et.al.|[2309.16584v1](http://arxiv.org/abs/2309.16584v1)|null|
 |**2023-09-28**|**CRIMED: Lower and Upper Bounds on Regret for Bandits with Unbounded Stochastic Corruption**|Shubhada Agrawal et.al.|[2309.16563v1](http://arxiv.org/abs/2309.16563v1)|null|
 |**2023-09-28**|**MotionLM: Multi-Agent Motion Forecasting as Language Modeling**|Ari Seff et.al.|[2309.16534v1](http://arxiv.org/abs/2309.16534v1)|null|
@@ -1610,7 +1610,7 @@ layout: default
 |**2023-09-28**|**Leveraging Untrustworthy Commands for Multi-Robot Coordination in Unpredictable Environments: A Bandit Submodular Maximization Approach**|Zirui Xu et.al.|[2309.16161v1](http://arxiv.org/abs/2309.16161v1)|null|
 |**2023-09-28**|**Scalable Exact Output Synchronization of Discrete-Time Multi-Agent Systems in the Presence of Disturbances and Measurement Noise With Known Frequencies**|Zhenwei Liu et.al.|[2309.16144v1](http://arxiv.org/abs/2309.16144v1)|null|
 |**2023-09-28**|**MASK4D: Mask Transformer for 4D Panoptic Segmentation**|Kadir Yilmaz et.al.|[2309.16133v1](http://arxiv.org/abs/2309.16133v1)|null|
-|**2023-09-28**|**Comparing Active Learning Performance Driven by Gaussian Processes or Bayesian Neural Networks for Constrained Trajectory Exploration**|Sapphira Akins et.al.|[2309.16114v1](http://arxiv.org/abs/2309.16114v1)|null|
+|**2023-09-28**|**Comparing Active Learning Performance Driven by Gaussian Processes or Bayesian Neural Networks for Constrained Trajectory Exploration**|Sapphira Akins et.al.|[2309.16114v1](http://arxiv.org/abs/2309.16114v1)|**[link](https://github.com/xfyna/al-bnn-gp)**|
 |**2023-09-28**|**Stackelberg Game-Theoretic Trajectory Guidance for Multi-Robot Systems with Koopman Operator**|Yuhan Zhao et.al.|[2309.16098v1](http://arxiv.org/abs/2309.16098v1)|null|
 |**2023-09-27**|**AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model**|Seungwhan Moon et.al.|[2309.16058v1](http://arxiv.org/abs/2309.16058v1)|null|
 |**2023-09-27**|**WiDEVIEW: An UltraWideBand and Vision Dataset for Deciphering Pedestrian-Vehicle Interactions**|Jia Huang et.al.|[2309.16057v1](http://arxiv.org/abs/2309.16057v1)|null|
