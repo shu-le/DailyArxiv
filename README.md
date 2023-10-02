@@ -24,7 +24,7 @@
 |**2023-09-28**|**KV Inversion: KV Embeddings Learning for Text-Conditioned Real Image Action Editing**|Jiancheng Huang et.al.|[2309.16608v1](http://arxiv.org/abs/2309.16608v1)|null|
 |**2023-09-28**|**Tensor Factorization for Leveraging Cross-Modal Knowledge in Data-Constrained Infrared Object Detection**|Manish Sharma et.al.|[2309.16592v1](http://arxiv.org/abs/2309.16592v1)|null|
 |**2023-09-28**|**Vision Transformers Need Registers**|Timothée Darcet et.al.|[2309.16588v1](http://arxiv.org/abs/2309.16588v1)|null|
-|**2023-09-28**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585v1](http://arxiv.org/abs/2309.16585v1)|**[link](https://github.com/gsgen3d/gsgen)**|
+|**2023-09-29**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585v2](http://arxiv.org/abs/2309.16585v2)|**[link](https://github.com/gsgen3d/gsgen)**|
 |**2023-09-28**|**Audio-Visual Speaker Verification via Joint Cross-Attention**|R. Gnana Praveen et.al.|[2309.16569v1](http://arxiv.org/abs/2309.16569v1)|null|
 |**2023-09-28**|**Voting Network for Contour Levee Farmland Segmentation and Classification**|Abolfazl Meyarian et.al.|[2309.16561v1](http://arxiv.org/abs/2309.16561v1)|null|
 |**2023-09-28**|**MatrixCity: A Large-scale City Dataset for City-scale Neural Rendering and Beyond**|Yixuan Li et.al.|[2309.16553v1](http://arxiv.org/abs/2309.16553v1)|null|
@@ -971,7 +971,7 @@
 |**2023-09-12**|**Modeling Cognitive-Affective Processes with Appraisal and Reinforcement Learning**|Jiayi Zhang et.al.|[2309.06367v1](http://arxiv.org/abs/2309.06367v1)|null|
 |**2023-09-12**|**Learning to Predict Concept Ordering for Common Sense Generation**|Tianhui Zhang et.al.|[2309.06363v1](http://arxiv.org/abs/2309.06363v1)|**[link](https://github.com/tianhuizhang/concept_ordering)**|
 |**2023-09-12**|**Band-gap regression with architecture-optimized message-passing neural networks**|Tim Bechtel et.al.|[2309.06348v1](http://arxiv.org/abs/2309.06348v1)|null|
-|**2023-09-16**|**PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis**|Dylan Zhang et.al.|[2309.05833v2](http://arxiv.org/abs/2309.05833v2)|null|
+|**2023-09-29**|**PACE-LM: Prompting and Augmentation for Calibrated Confidence Estimation with GPT-4 in Cloud Incident Root Cause Analysis**|Dylan Zhang et.al.|[2309.05833v3](http://arxiv.org/abs/2309.05833v3)|null|
 |**2023-09-04**|**Neural network-based emulation of interstellar medium models**|Pierre Palud et.al.|[2309.01724v1](http://arxiv.org/abs/2309.01724v1)|**[link](https://github.com/einigl/ism-model-nn-approximation)**|
 |**2023-09-04**|**Deep Learning Overloaded Vehicle Identification for Long Span Bridges Based on Structural Health Monitoring Data**|Yuqin Li et.al.|[2309.01593v1](http://arxiv.org/abs/2309.01593v1)|null|
 |**2023-08-30**|**From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**|Shreyank N Gowda et.al.|[2308.16041v1](http://arxiv.org/abs/2308.16041v1)|null|
@@ -1486,7 +1486,7 @@
 |**2023-09-23**|**A Survey on Image-text Multimodal Models**|Ruifeng Guo et.al.|[2309.15857v1](http://arxiv.org/abs/2309.15857v1)|**[link](https://github.com/i2vec/a-survey-on-image-text-multimodal-models)**|
 |**2023-09-28**|**Jointly Training Large Autoregressive Multimodal Models**|Emanuele Aiello et.al.|[2309.15564v2](http://arxiv.org/abs/2309.15564v2)|null|
 |**2023-09-26**|**VPA: Fully Test-Time Visual Prompt Adaptation**|Jiachen Sun et.al.|[2309.15251v1](http://arxiv.org/abs/2309.15251v1)|null|
-|**2023-09-27**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v2](http://arxiv.org/abs/2309.15112v2)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2023-09-29**|**InternLM-XComposer: A Vision-Language Large Model for Advanced Text-image Comprehension and Composition**|Pan Zhang et.al.|[2309.15112v3](http://arxiv.org/abs/2309.15112v3)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2023-09-26**|**Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex**|Ruixing Liang et.al.|[2309.15018v1](http://arxiv.org/abs/2309.15018v1)|**[link](https://github.com/rxliang/vision)**|
 |**2023-09-26**|**Noise-Tolerant Unsupervised Adapter for Vision-Language Models**|Eman Ali et.al.|[2309.14928v1](http://arxiv.org/abs/2309.14928v1)|null|
 |**2023-09-26**|**BLIP-Adapter: Parameter-Efficient Transfer Learning for Mobile Screenshot Captioning**|Ching-Yu Chiang et.al.|[2309.14774v1](http://arxiv.org/abs/2309.14774v1)|**[link](https://github.com/rainyugg/blip-adapter)**|
@@ -2000,7 +2000,7 @@
 |**2023-09-28**|**Geodesic Regression Characterizes 3D Shape Changes in the Female Brain During Menstruation**|Adele Myers et.al.|[2309.16662v1](http://arxiv.org/abs/2309.16662v1)|**[link](https://github.com/bioshape-lab/my28brains)**|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653v1](http://arxiv.org/abs/2309.16653v1)|null|
 |**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650v1](http://arxiv.org/abs/2309.16650v1)|null|
-|**2023-09-28**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585v1](http://arxiv.org/abs/2309.16585v1)|**[link](https://github.com/gsgen3d/gsgen)**|
+|**2023-09-29**|**Text-to-3D using Gaussian Splatting**|Zilong Chen et.al.|[2309.16585v2](http://arxiv.org/abs/2309.16585v2)|**[link](https://github.com/gsgen3d/gsgen)**|
 |**2023-09-28**|**AtomSurf : Surface Representation for Learning on Protein Structures**|Vincent Mallet et.al.|[2309.16519v1](http://arxiv.org/abs/2309.16519v1)|**[link](https://github.com/vincentx15/atom2d)**|
 |**2023-09-28**|**HTC-DC Net: Monocular Height Estimation from Single Remote Sensing Images**|Sining Chen et.al.|[2309.16486v1](http://arxiv.org/abs/2309.16486v1)|**[link](https://github.com/zhu-xlab/htc-dc-net)**|
 |**2023-09-28**|**HyperLISTA-ABT: An Ultra-light Unfolded Network for Accurate Multi-component Differential Tomographic SAR Inversion**|Kun Qian et.al.|[2309.16468v1](http://arxiv.org/abs/2309.16468v1)|null|
