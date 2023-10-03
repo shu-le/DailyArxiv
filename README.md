@@ -728,7 +728,7 @@
 |**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952v1](http://arxiv.org/abs/2309.16952v1)|null|
 |**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|**[link](https://github.com/alexzhou907/DDBM)**|
 |**2023-09-28**|**Stochastic Digital Twin for Copy Detection Patterns**|Yury Belousov et.al.|[2309.16866v1](http://arxiv.org/abs/2309.16866v1)|null|
-|**2023-09-28**|**Models for gaps $g=2p_1$**|Fred B. Holt et.al.|[2309.16833v1](http://arxiv.org/abs/2309.16833v1)|null|
+|**2023-10-02**|**Models for gaps $g=2p_1$**|Fred B. Holt et.al.|[2309.16833v2](http://arxiv.org/abs/2309.16833v2)|null|
 |**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
 |**2023-09-28**|**Intriguing properties of generative classifiers**|Priyank Jaini et.al.|[2309.16779v1](http://arxiv.org/abs/2309.16779v1)|null|
 |**2023-09-28**|**Memory in Plain Sight: A Survey of the Uncanny Resemblances between Diffusion Models and Associative Memories**|Benjamin Hoover et.al.|[2309.16750v1](http://arxiv.org/abs/2309.16750v1)|null|
@@ -1139,7 +1139,7 @@
 |**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639v1](http://arxiv.org/abs/2309.16639v1)|null|
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|null|
 |**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|**[link](https://github.com/QwenLM/Qwen-7B)**|
-|**2023-09-29**|**Can LLMs Effectively Leverage Graph Structural Information: When and Why**|Jin Huang et.al.|[2309.16595v2](http://arxiv.org/abs/2309.16595v2)|null|
+|**2023-09-29**|**Can LLMs Effectively Leverage Graph Structural Information: When and Why**|Jin Huang et.al.|[2309.16595v2](http://arxiv.org/abs/2309.16595v2)|**[link](https://github.com/trais-lab/llm-structured-data)**|
 |**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|**[link](https://github.com/openai/evals)**|
 |**2023-09-28**|**A Benchmark for Learning to Translate a New Language from One Grammar Book**|Garrett Tanzer et.al.|[2309.16575v1](http://arxiv.org/abs/2309.16575v1)|null|
 |**2023-09-28**|**Augmenting LLMs with Knowledge: A survey on hallucination prevention**|Konstantinos Andriopoulos et.al.|[2309.16459v1](http://arxiv.org/abs/2309.16459v1)|null|
@@ -1632,7 +1632,7 @@
 |**2023-09-15**|**Viewpoint Integration and Registration with Vision Language Foundation Model for Image Change Understanding**|Xiaonan Lu et.al.|[2309.08585v1](http://arxiv.org/abs/2309.08585v1)|null|
 |**2023-09-15**|**Towards Practical and Efficient Image-to-Speech Captioning with Vision-Language Pre-training and Multi-modal Tokens**|Minsu Kim et.al.|[2309.08531v1](http://arxiv.org/abs/2309.08531v1)|null|
 |**2023-09-18**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v2](http://arxiv.org/abs/2309.07970v2)|null|
-|**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
+|**2023-10-02**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v2](http://arxiv.org/abs/2309.07915v2)|**[link](https://github.com/pkunlp-icler/mic)**|
 |**2023-09-20**|**Gradient constrained sharpness-aware prompt learning for vision-language models**|Liangchen Liu et.al.|[2309.07866v2](http://arxiv.org/abs/2309.07866v2)|null|
 |**2023-09-14**|**Improving Multimodal Classification of Social Media Posts by Leveraging Image-Text Auxiliary tasks**|Danae Sánchez Villegas et.al.|[2309.07794v1](http://arxiv.org/abs/2309.07794v1)|null|
 |**2023-09-14**|**PRE: Vision-Language Prompt Learning with Reparameterization Encoder**|Anh Pham Thi Minh et.al.|[2309.07760v1](http://arxiv.org/abs/2309.07760v1)|**[link](https://github.com/minhanh151/respro)**|
@@ -1697,7 +1697,7 @@
 |---|---|---|---|---|
 |**2023-09-29**|**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**|Zhibin Gou et.al.|[2309.17452v1](http://arxiv.org/abs/2309.17452v1)|**[link](https://github.com/microsoft/tora)**|
 |**2023-09-29**|**DREAM: Decentralized Reinforcement Learning for Exploration and Efficient Energy Management in Multi-Robot Systems**|Dipam Patel et.al.|[2309.17433v1](http://arxiv.org/abs/2309.17433v1)|null|
-|**2023-09-29**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425v1](http://arxiv.org/abs/2309.17425v1)|null|
+|**2023-10-02**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425v2](http://arxiv.org/abs/2309.17425v2)|null|
 |**2023-09-29**|**The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)**|Zhengyuan Yang et.al.|[2309.17421v1](http://arxiv.org/abs/2309.17421v1)|null|
 |**2023-09-29**|**Resilient Model-Free Asymmetric Bipartite Consensus for Nonlinear Multi-Agent Systems against DoS Attacks**|Yi Zhang et.al.|[2309.17411v1](http://arxiv.org/abs/2309.17411v1)|null|
 |**2023-09-29**|**Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency**|Zhihan Liu et.al.|[2309.17382v1](http://arxiv.org/abs/2309.17382v1)|null|
@@ -1743,7 +1743,7 @@
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292v1](http://arxiv.org/abs/2309.16292v1)|null|
 |**2023-09-28**|**A Framework to Assess Knowledge Graphs Accountability**|Jennie Andersen et.al.|[2309.16285v1](http://arxiv.org/abs/2309.16285v1)|null|
 |**2023-09-28**|**Social Media Fashion Knowledge Extraction as Captioning**|Yifei Yuan et.al.|[2309.16270v1](http://arxiv.org/abs/2309.16270v1)|null|
-|**2023-10-01**|**Cooperation Dynamics in Multi-Agent Systems: Exploring Game-Theoretic Scenarios with Mean-Field Equilibria**|Vaigarai Sathi et.al.|[2309.16263v2](http://arxiv.org/abs/2309.16263v2)|null|
+|**2023-10-01**|**Cooperation Dynamics in Multi-Agent Systems: Exploring Game-Theoretic Scenarios with Mean-Field Equilibria**|Vaigarai Sathi et.al.|[2309.16263v2](http://arxiv.org/abs/2309.16263v2)|**[link](https://github.com/dawnorak/marl-kart-simulator)**|
 |**2023-09-28**|**VDC: Versatile Data Cleanser for Detecting Dirty Samples via Visual-Linguistic Inconsistency**|Zihao Zhu et.al.|[2309.16211v1](http://arxiv.org/abs/2309.16211v1)|null|
 |**2023-09-28**|**Cross-Modal Transformer GAN: Brain Structural-Functional Deep Fusing Network for Alzheimer's Disease Analysis**|Qiankun Zuo et.al.|[2309.16206v1](http://arxiv.org/abs/2309.16206v1)|null|
 |**2023-09-28**|**DiffGAN-F2S: Symmetric and Efficient Denoising Diffusion GANs for Structural Connectivity Prediction from Brain fMRI**|Qiankun Zuo et.al.|[2309.16205v1](http://arxiv.org/abs/2309.16205v1)|null|
