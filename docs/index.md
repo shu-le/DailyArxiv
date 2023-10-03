@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 
 ## CV
 
@@ -730,7 +730,7 @@ layout: default
 |**2023-09-29**|**Bayesian Methodologies with pyhf**|Matthew Feickert et.al.|[2309.17005v1](http://arxiv.org/abs/2309.17005v1)|null|
 |**2023-09-29**|**Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning**|Zihan Ding et.al.|[2309.16984v1](http://arxiv.org/abs/2309.16984v1)|null|
 |**2023-09-29**|**Leveraging Optimization for Adaptive Attacks on Image Watermarks**|Nils Lukas et.al.|[2309.16952v1](http://arxiv.org/abs/2309.16952v1)|null|
-|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|null|
+|**2023-09-29**|**Denoising Diffusion Bridge Models**|Linqi Zhou et.al.|[2309.16948v1](http://arxiv.org/abs/2309.16948v1)|**[link](https://github.com/alexzhou907/DDBM)**|
 |**2023-09-28**|**Stochastic Digital Twin for Copy Detection Patterns**|Yury Belousov et.al.|[2309.16866v1](http://arxiv.org/abs/2309.16866v1)|null|
 |**2023-09-28**|**Models for gaps $g=2p_1$**|Fred B. Holt et.al.|[2309.16833v1](http://arxiv.org/abs/2309.16833v1)|null|
 |**2023-09-28**|**SatDM: Synthesizing Realistic Satellite Image with Semantic Layout Conditioning using Diffusion Models**|Orkhan Baghirli et.al.|[2309.16812v1](http://arxiv.org/abs/2309.16812v1)|null|
@@ -1143,7 +1143,7 @@ layout: default
 |**2023-09-28**|**MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention**|Ruolan Wu et.al.|[2309.16639v1](http://arxiv.org/abs/2309.16639v1)|null|
 |**2023-09-28**|**Stress Testing Chain-of-Thought Prompting for Large Language Models**|Aayush Mishra et.al.|[2309.16621v1](http://arxiv.org/abs/2309.16621v1)|null|
 |**2023-09-28**|**Qwen Technical Report**|Jinze Bai et.al.|[2309.16609v1](http://arxiv.org/abs/2309.16609v1)|**[link](https://github.com/QwenLM/Qwen-7B)**|
-|**2023-09-28**|**Can LLMs Effectively Leverage Structural Information for Graph Learning: When and Why**|Jin Huang et.al.|[2309.16595v1](http://arxiv.org/abs/2309.16595v1)|null|
+|**2023-09-29**|**Can LLMs Effectively Leverage Graph Structural Information: When and Why**|Jin Huang et.al.|[2309.16595v2](http://arxiv.org/abs/2309.16595v2)|null|
 |**2023-09-28**|**GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond**|Shen Zheng et.al.|[2309.16583v1](http://arxiv.org/abs/2309.16583v1)|**[link](https://github.com/openai/evals)**|
 |**2023-09-28**|**A Benchmark for Learning to Translate a New Language from One Grammar Book**|Garrett Tanzer et.al.|[2309.16575v1](http://arxiv.org/abs/2309.16575v1)|null|
 |**2023-09-28**|**Augmenting LLMs with Knowledge: A survey on hallucination prevention**|Konstantinos Andriopoulos et.al.|[2309.16459v1](http://arxiv.org/abs/2309.16459v1)|null|
@@ -1152,7 +1152,7 @@ layout: default
 |**2023-09-28**|**RLLTE: Long-Term Evolution Project of Reinforcement Learning**|Mingqi Yuan et.al.|[2309.16382v1](http://arxiv.org/abs/2309.16382v1)|null|
 |**2023-09-28**|**Human Feedback is not Gold Standard**|Tom Hosking et.al.|[2309.16349v1](http://arxiv.org/abs/2309.16349v1)|null|
 |**2023-09-28**|**Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks**|Eleftherios Triantafyllidis et.al.|[2309.16347v1](http://arxiv.org/abs/2309.16347v1)|null|
-|**2023-09-28**|**At Which Training Stage Does Cocde Data Help LLMs Reasoning?**|Yingwei Ma et.al.|[2309.16298v1](http://arxiv.org/abs/2309.16298v1)|**[link](https://github.com/yingweima2022/codellm)**|
+|**2023-09-30**|**At Which Training Stage Does Code Data Help LLMs Reasoning?**|Yingwei Ma et.al.|[2309.16298v2](http://arxiv.org/abs/2309.16298v2)|**[link](https://github.com/yingweima2022/codellm)**|
 |**2023-09-28**|**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**|Licheng Wen et.al.|[2309.16292v1](http://arxiv.org/abs/2309.16292v1)|null|
 |**2023-09-28**|**LawBench: Benchmarking Legal Knowledge of Large Language Models**|Zhiwei Fei et.al.|[2309.16289v1](http://arxiv.org/abs/2309.16289v1)|**[link](https://github.com/open-compass/lawbench)**|
 |**2023-09-28**|**Spider4SPARQL: A Complex Benchmark for Evaluating Knowledge Graph Question Answering Systems**|Catherine Kosten et.al.|[2309.16248v1](http://arxiv.org/abs/2309.16248v1)|null|
