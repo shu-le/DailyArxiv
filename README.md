@@ -1,4 +1,4 @@
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 
 ## CV
 
@@ -45,11 +45,11 @@
 |**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908v1](http://arxiv.org/abs/2310.01908v1)|null|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|null|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897v1](http://arxiv.org/abs/2310.01897v1)|null|
-|**2023-10-03**|**Effective and Parameter-Efficient Reusing Fine-Tuned Models**|Weisen Jiang et.al.|[2310.01886v1](http://arxiv.org/abs/2310.01886v1)|null|
+|**2023-10-04**|**Effective and Parameter-Efficient Reusing Fine-Tuned Models**|Weisen Jiang et.al.|[2310.01886v2](http://arxiv.org/abs/2310.01886v2)|null|
 |**2023-10-03**|**Adaptive Multi-NeRF: Exploit Efficient Parallelism in Adaptive Multiple Scale Neural Radiance Field Rendering**|Tong Wang et.al.|[2310.01881v1](http://arxiv.org/abs/2310.01881v1)|null|
 |**2023-10-03**|**A Dual Attentive Generative Adversarial Network for Remote Sensing Image Change Detection**|Luyi Qiu et.al.|[2310.01876v1](http://arxiv.org/abs/2310.01876v1)|null|
 |**2023-10-03**|**Shifting More Attention to Breast Lesion Segmentation in Ultrasound Videos**|Junhao Lin et.al.|[2310.01861v1](http://arxiv.org/abs/2310.01861v1)|**[link](https://github.com/jhl-det/fla-net)**|
-|**2023-10-03**|**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**|Bin Zhu et.al.|[2310.01852v1](http://arxiv.org/abs/2310.01852v1)|**[link](https://github.com/pku-yuangroup/languagebind)**|
+|**2023-10-04**|**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**|Bin Zhu et.al.|[2310.01852v2](http://arxiv.org/abs/2310.01852v2)|**[link](https://github.com/pku-yuangroup/languagebind)**|
 |**2023-10-03**|**Zero-Shot Refinement of Buildings' Segmentation Models using SAM**|Ali Mayladan et.al.|[2310.01845v1](http://arxiv.org/abs/2310.01845v1)|null|
 |**2023-10-03**|**Selective Feature Adapter for Dense Vision Transformers**|Xueqing Deng et.al.|[2310.01843v1](http://arxiv.org/abs/2310.01843v1)|null|
 |**2023-10-03**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering**|Bruno Souza et.al.|[2310.01842v1](http://arxiv.org/abs/2310.01842v1)|null|
@@ -1207,7 +1207,7 @@
 |**2023-10-03**|**A Neural Scaling Law from Lottery Ticket Ensembling**|Ziming Liu et.al.|[2310.02258v1](http://arxiv.org/abs/2310.02258v1)|null|
 |**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255v1](http://arxiv.org/abs/2310.02255v1)|null|
 |**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239v1](http://arxiv.org/abs/2310.02239v1)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
-|**2023-10-03**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v1](http://arxiv.org/abs/2310.02238v1)|null|
+|**2023-10-04**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238v2](http://arxiv.org/abs/2310.02238v2)|null|
 |**2023-10-03**|**Extraction of Medication and Temporal Relation from Clinical Text by Harnessing Different Deep Learning Models**|Hangyu Tu et.al.|[2310.02229v1](http://arxiv.org/abs/2310.02229v1)|null|
 |**2023-10-03**|**Language Models Represent Space and Time**|Wes Gurnee et.al.|[2310.02207v1](http://arxiv.org/abs/2310.02207v1)|**[link](https://github.com/wesg52/world-models)**|
 |**2023-10-03**|**Ask Again, Then Fail: Large Language Models' Vacillations in Judgement**|Qiming Xie et.al.|[2310.02174v1](http://arxiv.org/abs/2310.02174v1)|null|
@@ -1224,7 +1224,7 @@
 |**2023-10-03**|**Security Weaknesses of Copilot Generated Code in GitHub**|Yujia Fu et.al.|[2310.02059v1](http://arxiv.org/abs/2310.02059v1)|null|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
 |**2023-10-03**|**Improving web element localization by using a large language model**|Michel Nass et.al.|[2310.02046v1](http://arxiv.org/abs/2310.02046v1)|null|
-|**2023-10-03**|**OceanGPT: A Large Language Model for Ocean Science Tasks**|Zhen Bi et.al.|[2310.02031v1](http://arxiv.org/abs/2310.02031v1)|**[link](https://github.com/zjunlp/knowlm)**|
+|**2023-10-04**|**OceanGPT: A Large Language Model for Ocean Science Tasks**|Zhen Bi et.al.|[2310.02031v2](http://arxiv.org/abs/2310.02031v2)|**[link](https://github.com/zjunlp/knowlm)**|
 |**2023-10-03**|**Language Models as Knowledge Bases for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.01960v1](http://arxiv.org/abs/2310.01960v1)|**[link](https://github.com/anastasiakrith/llm-for-vwsd)**|
 |**2023-10-03**|**Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving**|Long Chen et.al.|[2310.01957v1](http://arxiv.org/abs/2310.01957v1)|**[link](https://github.com/wayveai/driving-with-llms)**|
 |**2023-10-03**|**DeepDecipher: Accessing and Investigating Neuron Activation in Large Language Models**|Albert Garde et.al.|[2310.01870v1](http://arxiv.org/abs/2310.01870v1)|null|
@@ -1244,7 +1244,7 @@
 |**2023-10-02**|**Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation**|Bo Peng et.al.|[2310.01612v1](http://arxiv.org/abs/2310.01612v1)|null|
 |**2023-10-02**|**CAT-LM: Training Language Models on Aligned Code And Tests**|Nikitha Rao et.al.|[2310.01602v1](http://arxiv.org/abs/2310.01602v1)|**[link](https://github.com/raonikitha/cat-lm)**|
 |**2023-10-02**|**On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?**|Hangfan Zhang et.al.|[2310.01581v1](http://arxiv.org/abs/2310.01581v1)|null|
-|**2023-10-02**|**SmartPlay : A Benchmark for LLMs as Intelligent Agents**|Yue Wu et.al.|[2310.01557v1](http://arxiv.org/abs/2310.01557v1)|null|
+|**2023-10-04**|**SmartPlay : A Benchmark for LLMs as Intelligent Agents**|Yue Wu et.al.|[2310.01557v2](http://arxiv.org/abs/2310.01557v2)|null|
 |**2023-10-02**|**GPT-Driver: Learning to Drive with GPT**|Jiageng Mao et.al.|[2310.01415v1](http://arxiv.org/abs/2310.01415v1)|null|
 |**2023-10-02**|**DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model**|Zhenhua Xu et.al.|[2310.01412v1](http://arxiv.org/abs/2310.01412v1)|null|
 |**2023-10-03**|**Representation Engineering: A Top-Down Approach to AI Transparency**|Andy Zou et.al.|[2310.01405v2](http://arxiv.org/abs/2310.01405v2)|**[link](https://github.com/andyzoujm/representation-engineering)**|
@@ -1753,7 +1753,7 @@
 |**2023-10-02**|**Understanding Transferable Representation Learning and Zero-shot Transfer in CLIP**|Zixiang Chen et.al.|[2310.00927v1](http://arxiv.org/abs/2310.00927v1)|null|
 |**2023-10-01**|**Analyzing and Mitigating Object Hallucination in Large Vision-Language Models**|Yiyang Zhou et.al.|[2310.00754v1](http://arxiv.org/abs/2310.00754v1)|**[link](https://github.com/yiyangzhou/lure)**|
 |**2023-10-01**|**Reformulating Vision-Language Foundation Models and Datasets Towards Universal Multimodal Assistants**|Tianyu Yu et.al.|[2310.00653v1](http://arxiv.org/abs/2310.00653v1)|null|
-|**2023-10-01**|**Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning**|Mustafa Shukor et.al.|[2310.00647v1](http://arxiv.org/abs/2310.00647v1)|null|
+|**2023-10-01**|**Beyond Task Performance: Evaluating and Reducing the Flaws of Large Multimodal Models with In-Context Learning**|Mustafa Shukor et.al.|[2310.00647v1](http://arxiv.org/abs/2310.00647v1)|**[link](https://github.com/mshukor/EvALign-ICL)**|
 |**2023-10-01**|**RegBN: Batch Normalization of Multimodal Data with Regularization**|Morteza Ghahremani et.al.|[2310.00641v1](http://arxiv.org/abs/2310.00641v1)|null|
 |**2023-10-01**|**Pink: Unveiling the Power of Referential Comprehension for Multi-modal LLMs**|Shiyu Xuan et.al.|[2310.00582v1](http://arxiv.org/abs/2310.00582v1)|**[link](https://github.com/sy-xuan/pink)**|
 |**2023-09-30**|**LANCAR: Leveraging Language for Context-Aware Robot Locomotion in Unstructured Environments**|Chak Lam Shek et.al.|[2310.00481v1](http://arxiv.org/abs/2310.00481v1)|null|
@@ -1883,7 +1883,7 @@
 |**2023-10-03**|**Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond**|Liang Chen et.al.|[2310.02071v1](http://arxiv.org/abs/2310.02071v1)|**[link](https://github.com/pkunlp-icler/pca-eval)**|
 |**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054v1](http://arxiv.org/abs/2310.02054v1)|null|
 |**2023-10-03**|**Tuning Large language model for End-to-end Speech Translation**|Hao Zhang et.al.|[2310.02050v1](http://arxiv.org/abs/2310.02050v1)|null|
-|**2023-10-03**|**OceanGPT: A Large Language Model for Ocean Science Tasks**|Zhen Bi et.al.|[2310.02031v1](http://arxiv.org/abs/2310.02031v1)|**[link](https://github.com/zjunlp/knowlm)**|
+|**2023-10-04**|**OceanGPT: A Large Language Model for Ocean Science Tasks**|Zhen Bi et.al.|[2310.02031v2](http://arxiv.org/abs/2310.02031v2)|**[link](https://github.com/zjunlp/knowlm)**|
 |**2023-10-03**|**Between accurate prediction and poor decision making: the AI/ML gap**|Gianluca Bontempi et.al.|[2310.02029v1](http://arxiv.org/abs/2310.02029v1)|null|
 |**2023-10-03**|**A Vision-Based Tactile Sensing System for Multimodal Contact Information Perception via Neural Network**|Weiliang Xu et.al.|[2310.01986v1](http://arxiv.org/abs/2310.01986v1)|null|
 |**2023-10-03**|**Collaborative Active SLAM: Synchronous and Asynchronous Coordination Among Agents**|Matteo Maragliano et.al.|[2310.01967v1](http://arxiv.org/abs/2310.01967v1)|null|
@@ -1892,7 +1892,7 @@
 |**2023-10-03**|**Homotopy-Aware Multi-Agent Path Planning in Plane**|Kazumi Kasaura et.al.|[2310.01945v1](http://arxiv.org/abs/2310.01945v1)|null|
 |**2023-10-03**|**Improved Automatic Diabetic Retinopathy Severity Classification Using Deep Multimodal Fusion of UWF-CFP and OCTA Images**|Mostafa El Habib Daho et.al.|[2310.01912v1](http://arxiv.org/abs/2310.01912v1)|null|
 |**2023-10-03**|**A Collaborative System of Systems Simulation of Urban Air Mobility**|Nabih Naeem et.al.|[2310.01900v1](http://arxiv.org/abs/2310.01900v1)|null|
-|**2023-10-03**|**Route Design in Sheepdog System--Traveling Salesman Problem Formulation and Evolutionary Computation Solution--**|Wataru. Imahayashi et.al.|[2310.01866v1](http://arxiv.org/abs/2310.01866v1)|null|
+|**2023-10-04**|**Route Design in Sheepdog System--Traveling Salesman Problem Formulation and Evolutionary Computation Solution--**|Wataru Imahayashi et.al.|[2310.01866v2](http://arxiv.org/abs/2310.01866v2)|null|
 |**2023-10-03**|**Multipartite Entanglement in Bright Frequency Combs from Microresonators**|Adrien Bensemhoun et.al.|[2310.01855v1](http://arxiv.org/abs/2310.01855v1)|null|
 |**2023-10-03**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering**|Bruno Souza et.al.|[2310.01842v1](http://arxiv.org/abs/2310.01842v1)|null|
 |**2023-10-03**|**Learning and reusing primitive behaviours to improve Hindsight Experience Replay sample efficiency**|Francisco Roldan Sanchez et.al.|[2310.01827v1](http://arxiv.org/abs/2310.01827v1)|**[link](https://github.com/franroldans/qmp-her)**|
@@ -1908,7 +1908,7 @@
 |**2023-10-02**|**Solving Two-Player General-Sum Games Between Swarms**|Mukesh Ghimire et.al.|[2310.01682v1](http://arxiv.org/abs/2310.01682v1)|null|
 |**2023-10-02**|**Distributed Multi-agent Interaction Generation with Imagined Potential Games**|Lingfeng Sun et.al.|[2310.01614v1](http://arxiv.org/abs/2310.01614v1)|null|
 |**2023-10-02**|**Hybrid Platform for Swarm Robotics: Experiments and High-Dimensional Continuification Control**|Gian Carlo Maffettone et.al.|[2310.01573v1](http://arxiv.org/abs/2310.01573v1)|null|
-|**2023-10-02**|**SmartPlay : A Benchmark for LLMs as Intelligent Agents**|Yue Wu et.al.|[2310.01557v1](http://arxiv.org/abs/2310.01557v1)|null|
+|**2023-10-04**|**SmartPlay : A Benchmark for LLMs as Intelligent Agents**|Yue Wu et.al.|[2310.01557v2](http://arxiv.org/abs/2310.01557v2)|**[link](https://github.com/microsoft/smartplay)**|
 |**2023-10-02**|**RF-ULM: Deep Learning for Radio-Frequency Ultrasound Localization Microscopy**|Christopher Hahne et.al.|[2310.01545v1](http://arxiv.org/abs/2310.01545v1)|**[link](https://github.com/hahnec/rf-ulm)**|
 |**2023-10-02**|**Algebras of actions in an agent's representations of the world**|Alexander Dean et.al.|[2310.01536v1](http://arxiv.org/abs/2310.01536v1)|null|
 |**2023-10-02**|**DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model**|Zhenhua Xu et.al.|[2310.01412v1](http://arxiv.org/abs/2310.01412v1)|null|
