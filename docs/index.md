@@ -1289,7 +1289,7 @@ layout: default
 |**2023-10-04**|**xVal: A Continuous Number Encoding for Large Language Models**|Siavash Golkar et.al.|[2310.02989v1](http://arxiv.org/abs/2310.02989v1)|null|
 |**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
 |**2023-10-04**|**UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network**|Siddhant Arora et.al.|[2310.02973v1](http://arxiv.org/abs/2310.02973v1)|null|
-|**2023-10-04**|**DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**|Jiong Xiong et.al.|[2310.02954v1](http://arxiv.org/abs/2310.02954v1)|null|
+|**2023-10-05**|**DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**|Jiong Xiong et.al.|[2310.02954v2](http://arxiv.org/abs/2310.02954v2)|null|
 |**2023-10-04**|**JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning**|Chang Gao et.al.|[2310.02953v1](http://arxiv.org/abs/2310.02953v1)|**[link](https://github.com/gao-xiao-bai/jsontuning)**|
 |**2023-10-04**|**Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models**|Xianjun Yang et.al.|[2310.02949v1](http://arxiv.org/abs/2310.02949v1)|null|
 |**2023-10-04**|**Assessing Large Language Models on Climate Information**|Jannis Bulian et.al.|[2310.02932v1](http://arxiv.org/abs/2310.02932v1)|null|
