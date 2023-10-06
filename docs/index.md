@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 
 ## CV
 
@@ -13,7 +13,7 @@ layout: default
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**Towards Domain-Specific Features Disentanglement for Domain Generalization**|Hao Chen et.al.|[2310.03007v1](http://arxiv.org/abs/2310.03007v1)|null|
-|**2023-10-04**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006v1](http://arxiv.org/abs/2310.03006v1)|null|
+|**2023-10-05**|**COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.|[2310.03006v2](http://arxiv.org/abs/2310.03006v2)|**[link](https://github.com/BoSmallEar/COOLer)**|
 |**2023-10-04**|**Reversing Deep Face Embeddings with Probable Privacy Protection**|Daile Osorio-Roig et.al.|[2310.03005v1](http://arxiv.org/abs/2310.03005v1)|null|
 |**2023-10-04**|**Soft Convex Quantization: Revisiting Vector Quantization with Convex Optimization**|Tanmay Gautam et.al.|[2310.03004v1](http://arxiv.org/abs/2310.03004v1)|null|
 |**2023-10-04**|**ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models**|Yi-Lin Sung et.al.|[2310.02998v1](http://arxiv.org/abs/2310.02998v1)|null|
@@ -48,16 +48,16 @@ layout: default
 |**2023-10-04**|**Bridging the Domain Gap by Clustering-based Image-Text Graph Matching**|Nokyung Park et.al.|[2310.02692v1](http://arxiv.org/abs/2310.02692v1)|null|
 |**2023-10-04**|**Multi-Dimension-Embedding-Aware Modality Fusion Transformer for Psychiatric Disorder Clasification**|Guoxin Wang et.al.|[2310.02690v1](http://arxiv.org/abs/2310.02690v1)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
-|**2023-10-04**|**PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting**|Yujin Tang et.al.|[2310.02676v1](http://arxiv.org/abs/2310.02676v1)|null|
+|**2023-10-05**|**PostRainBench: A comprehensive benchmark and a new model for precipitation forecasting**|Yujin Tang et.al.|[2310.02676v2](http://arxiv.org/abs/2310.02676v2)|null|
 |**2023-10-04**|**Land-cover change detection using paired OpenStreetMap data and optical high-resolution imagery via object-guided Transformer**|Hongruixuan Chen et.al.|[2310.02674v1](http://arxiv.org/abs/2310.02674v1)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|null|
 |**2023-10-04**|**MedPrompt: Cross-Modal Prompting for Multi-Task Medical Image Translation**|Xuhang Chen et.al.|[2310.02663v1](http://arxiv.org/abs/2310.02663v1)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650v1](http://arxiv.org/abs/2310.02650v1)|null|
-|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|null|
+|**2023-10-04**|**GET: Group Event Transformer for Event-Based Vision**|Yansong Peng et.al.|[2310.02642v1](http://arxiv.org/abs/2310.02642v1)|**[link](https://github.com/peterande/get-group-event-transformer)**|
 |**2023-10-04**|**Deformation-Invariant Neural Network and Its Applications in Distorted Image Restoration and Analysis**|Han Zhang et.al.|[2310.02641v1](http://arxiv.org/abs/2310.02641v1)|null|
 |**2023-10-04**|**P2CADNet: An End-to-End Reconstruction Network for Parametric 3D CAD Model from Point Clouds**|Zhihao Zong et.al.|[2310.02638v1](http://arxiv.org/abs/2310.02638v1)|null|
 |**2023-10-04**|**Analyzing and Improving OT-based Adversarial Networks**|Jaemoo Choi et.al.|[2310.02611v1](http://arxiv.org/abs/2310.02611v1)|null|
-|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v1](http://arxiv.org/abs/2310.02601v1)|null|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
 |**2023-10-03**|**DREAM: Visual Decoding from Reversing Human Visual System**|Weihao Xia et.al.|[2310.02265v1](http://arxiv.org/abs/2310.02265v1)|null|
 |**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264v1](http://arxiv.org/abs/2310.02264v1)|null|
 |**2023-10-03**|**RSRD: A Road Surface Reconstruction Dataset and Benchmark for Safe and Comfortable Autonomous Driving**|Tong Zhao et.al.|[2310.02262v1](http://arxiv.org/abs/2310.02262v1)|null|
@@ -826,7 +826,7 @@ layout: default
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|null|
 |**2023-10-04**|**Generative Modeling of Regular and Irregular Time Series Data via Koopman VAEs**|Ilan Naiman et.al.|[2310.02619v1](http://arxiv.org/abs/2310.02619v1)|null|
 |**2023-10-04**|**Analyzing and Improving OT-based Adversarial Networks**|Jaemoo Choi et.al.|[2310.02611v1](http://arxiv.org/abs/2310.02611v1)|null|
-|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v1](http://arxiv.org/abs/2310.02601v1)|null|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
 |**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596v1](http://arxiv.org/abs/2310.02596v1)|null|
 |**2023-10-04**|**Improving Automatic VQA Evaluation Using Large Language Models**|Oscar Mañas et.al.|[2310.02567v1](http://arxiv.org/abs/2310.02567v1)|null|
 |**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557v1](http://arxiv.org/abs/2310.02557v1)|null|
@@ -850,9 +850,9 @@ layout: default
 |**2023-10-03**|**A generative approach to frame-level multi-competitor races**|Tyrel Stokes et.al.|[2310.01748v1](http://arxiv.org/abs/2310.01748v1)|null|
 |**2023-10-03**|**Generative Autoencoding of Dropout Patterns**|Shunta Maeda et.al.|[2310.01712v1](http://arxiv.org/abs/2310.01712v1)|**[link](https://github.com/shuntama/deciphering-autoencoders)**|
 |**2023-10-02**|**Transcending Domains through Text-to-Image Diffusion: A Source-Free Approach to Domain Adaptation**|Shivang Chopra et.al.|[2310.01701v1](http://arxiv.org/abs/2310.01701v1)|null|
-|**2023-10-02**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690v1](http://arxiv.org/abs/2310.01690v1)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
+|**2023-10-04**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690v2](http://arxiv.org/abs/2310.01690v2)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
 |**2023-10-02**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via conditional diffusion model**|Tim Hsu et.al.|[2310.01678v1](http://arxiv.org/abs/2310.01678v1)|null|
-|**2023-10-02**|**SYRAC: Synthesize, Rank, and Count**|Adriano D'Alessandro et.al.|[2310.01662v1](http://arxiv.org/abs/2310.01662v1)|null|
+|**2023-10-04**|**SYRAC: Synthesize, Rank, and Count**|Adriano D'Alessandro et.al.|[2310.01662v2](http://arxiv.org/abs/2310.01662v2)|null|
 |**2023-10-02**|**Role of signal degradation in directional chemosensing**|Ryan LeFebre et.al.|[2310.01648v1](http://arxiv.org/abs/2310.01648v1)|null|
 |**2023-10-02**|**Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods**|Emanuele Zappala et.al.|[2310.01618v1](http://arxiv.org/abs/2310.01618v1)|null|
 |**2023-10-02**|**CAT-LM: Training Language Models on Aligned Code And Tests**|Nikitha Rao et.al.|[2310.01602v1](http://arxiv.org/abs/2310.01602v1)|**[link](https://github.com/raonikitha/cat-lm)**|
@@ -2002,11 +2002,11 @@ layout: default
 |**2023-10-04**|**Learning-Aided Warmstart of Model Predictive Control in Uncertain Fast-Changing Traffic**|Mohamed-Khalil Bouzidi et.al.|[2310.02918v1](http://arxiv.org/abs/2310.02918v1)|null|
 |**2023-10-04**|**Online Mechanism Design with Predictions**|Eric Balkanski et.al.|[2310.02879v1](http://arxiv.org/abs/2310.02879v1)|null|
 |**2023-10-04**|**Improving Vision Anomaly Detection with the Guidance of Language Modality**|Dong Chen et.al.|[2310.02821v1](http://arxiv.org/abs/2310.02821v1)|null|
-|**2023-10-04**|**Graph-based Simultaneous Localization and Bias Tracking**|Alexander Venus et.al.|[2310.02814v1](http://arxiv.org/abs/2310.02814v1)|null|
+|**2023-10-05**|**Graph-based Simultaneous Localization and Bias Tracking**|Alexander Venus et.al.|[2310.02814v2](http://arxiv.org/abs/2310.02814v2)|null|
 |**2023-10-04**|**DOMINO: A Dual-System for Multi-step Visual Language Reasoning**|Peifang Wang et.al.|[2310.02804v1](http://arxiv.org/abs/2310.02804v1)|null|
 |**2023-10-04**|**Integer Mixtures and Their Generating Functions**|Philip Cuthbertson et.al.|[2310.02796v1](http://arxiv.org/abs/2310.02796v1)|null|
 |**2023-10-04**|**Kernel-based function learning in dynamic and non stationary environments**|Alberto Giaretta et.al.|[2310.02767v1](http://arxiv.org/abs/2310.02767v1)|null|
-|**2023-10-04**|**Likelihood-Based Methods Improve Parameter Estimation in Opinion Dynamics Models**|Jacopo Lenti et.al.|[2310.02766v1](http://arxiv.org/abs/2310.02766v1)|null|
+|**2023-10-05**|**Likelihood-Based Methods Improve Parameter Estimation in Opinion Dynamics Models**|Jacopo Lenti et.al.|[2310.02766v2](http://arxiv.org/abs/2310.02766v2)|null|
 |**2023-10-04**|**Online Clustering of Bandits with Misspecified User Models**|Zhiyong Wang et.al.|[2310.02717v1](http://arxiv.org/abs/2310.02717v1)|null|
 |**2023-10-04**|**Continual Contrastive Spoken Language Understanding**|Umberto Cappellazzo et.al.|[2310.02699v1](http://arxiv.org/abs/2310.02699v1)|null|
 |**2023-10-04**|**Bridging the Domain Gap by Clustering-based Image-Text Graph Matching**|Nokyung Park et.al.|[2310.02692v1](http://arxiv.org/abs/2310.02692v1)|null|
@@ -2550,7 +2550,7 @@ layout: default
 |**2023-10-04**|**The LoReLi database: 21 cm signal inference with 3D radiative hydrodynamics simulations**|Romain Meriot et.al.|[2310.02684v1](http://arxiv.org/abs/2310.02684v1)|null|
 |**2023-10-04**|**Open Gimbal: A 3 Degrees of Freedom Open Source Sensing and Testing Platform for Nano and Micro UAVs**|Suryansh Sharma et.al.|[2310.02678v1](http://arxiv.org/abs/2310.02678v1)|null|
 |**2023-10-04**|**P2CADNet: An End-to-End Reconstruction Network for Parametric 3D CAD Model from Point Clouds**|Zhihao Zong et.al.|[2310.02638v1](http://arxiv.org/abs/2310.02638v1)|null|
-|**2023-10-04**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v1](http://arxiv.org/abs/2310.02601v1)|null|
+|**2023-10-05**|**MagicDrive: Street View Generation with Diverse 3D Geometry Control**|Ruiyuan Gao et.al.|[2310.02601v2](http://arxiv.org/abs/2310.02601v2)|null|
 |**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596v1](http://arxiv.org/abs/2310.02596v1)|null|
 |**2023-10-04**|**Localising two sub-diffraction emitters in 3D using quantum correlation microscopy**|Shuo Li et.al.|[2310.02585v1](http://arxiv.org/abs/2310.02585v1)|null|
 |**2023-10-04**|**Full-Atom Protein Pocket Design via Iterative Refinement**|Zaixi Zhang et.al.|[2310.02553v1](http://arxiv.org/abs/2310.02553v1)|null|
