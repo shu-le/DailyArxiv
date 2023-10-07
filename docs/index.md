@@ -34,8 +34,8 @@ layout: default
 |**2023-10-05**|**V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges**|Tao Huang et.al.|[2310.03525v1](http://arxiv.org/abs/2310.03525v1)|null|
 |**2023-10-05**|**PrototypeFormer: Learning to Explore Prototype Relationships for Few-shot Image Classification**|Feihong He et.al.|[2310.03517v1](http://arxiv.org/abs/2310.03517v1)|null|
 |**2023-10-05**|**Exploring DINO: Emergent Properties and Limitations for Synthetic Aperture Radar Imagery**|Joseph A. Gallego-Mejia et.al.|[2310.03513v1](http://arxiv.org/abs/2310.03513v1)|null|
-|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507v1](http://arxiv.org/abs/2310.03507v1)|null|
-|**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|null|
+|**2023-10-05**|**RL-based Stateful Neural Adaptive Sampling and Denoising for Real-Time Path Tracing**|Antoine Scardigli et.al.|[2310.03507v1](http://arxiv.org/abs/2310.03507v1)|**[link](https://github.com/ajsvb/rl_path_tracing)**|
+|**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502v1](http://arxiv.org/abs/2310.03502v1)|**[link](https://github.com/ai-forever/movqgan)**|
 |**2023-10-05**|**IceCloudNet: Cirrus and mixed-phase cloud prediction from SEVIRI input learned from sparse supervision**|Kai Jeggle et.al.|[2310.03499v1](http://arxiv.org/abs/2310.03499v1)|null|
 |**2023-10-05**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v1](http://arxiv.org/abs/2310.03485v1)|null|
 |**2023-10-05**|**Ammonia-Net: A Multi-task Joint Learning Model for Multi-class Segmentation and Classification in Tooth-marked Tongue Diagnosis**|Shunkai Shi et.al.|[2310.03472v1](http://arxiv.org/abs/2310.03472v1)|null|
@@ -894,10 +894,10 @@ layout: default
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|null|
 |**2023-10-04**|**Probing Intersectional Biases in Vision-Language Models with Counterfactual Examples**|Phillip Howard et.al.|[2310.02988v1](http://arxiv.org/abs/2310.02988v1)|null|
-|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**Fast, Expressive SE$(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970v1](http://arxiv.org/abs/2310.02970v1)|**[link](https://github.com/ebekkers/ponita)**|
 |**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906v1](http://arxiv.org/abs/2310.02906v1)|null|
-|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|**[link](https://github.com/exisas/Magicremover)**|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848v1](http://arxiv.org/abs/2310.02848v1)|null|
 |**2023-10-04**|**GETAvatar: Generative Textured Meshes for Animatable Human Avatars**|Xuanmeng Zhang et.al.|[2310.02714v1](http://arxiv.org/abs/2310.02714v1)|null|
 |**2023-10-04**|**ED-NeRF: Efficient Text-Guided Editing of 3D Scene using Latent Space NeRF**|Jangho Park et.al.|[2310.02712v1](http://arxiv.org/abs/2310.02712v1)|null|
 |**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664v1](http://arxiv.org/abs/2310.02664v1)|**[link](https://github.com/sail-sg/DiffMemorize)**|
@@ -1373,7 +1373,7 @@ layout: default
 |**2023-10-05**|**Large Language Models for Software Engineering: Survey and Open Problems**|Angela Fan et.al.|[2310.03533v1](http://arxiv.org/abs/2310.03533v1)|null|
 |**2023-10-05**|**Controllable Multi-document Summarization: Coverage & Coherence Intuitive Policy with Large Language Model Based Rewards**|Litton J Kurisinkel et.al.|[2310.03473v1](http://arxiv.org/abs/2310.03473v1)|null|
 |**2023-10-05**|**Adapting Large Language Models for Content Moderation: Pitfalls in Data Engineering and Supervised Fine-tuning**|Huan Ma et.al.|[2310.03400v1](http://arxiv.org/abs/2310.03400v1)|null|
-|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|null|
+|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|**[link](https://github.com/jd-coderepos/proc-tm)**|
 |**2023-10-05**|**Evaluating Hallucinations in Chinese Large Language Models**|Qinyuan Cheng et.al.|[2310.03368v1](http://arxiv.org/abs/2310.03368v1)|null|
 |**2023-10-05**|**Fine-tune Language Models to Approximate Unbiased In-context Learning**|Timothy Chu et.al.|[2310.03331v1](http://arxiv.org/abs/2310.03331v1)|null|
 |**2023-10-05**|**Reformulating Domain Adaptation of Large Language Models as Adapt-Retrieve-Revise**|Zhen wan et.al.|[2310.03328v1](http://arxiv.org/abs/2310.03328v1)|null|
@@ -1397,14 +1397,14 @@ layout: default
 |**2023-10-04**|**Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly**|Herbert Woisetschläger et.al.|[2310.03150v1](http://arxiv.org/abs/2310.03150v1)|null|
 |**2023-10-04**|**MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use**|Yue Huang et.al.|[2310.03128v1](http://arxiv.org/abs/2310.03128v1)|null|
 |**2023-10-04**|**DP-SGD for non-decomposable objective functions**|William Kong et.al.|[2310.03104v1](http://arxiv.org/abs/2310.03104v1)|null|
-|**2023-10-04**|**Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning**|Murong Yue et.al.|[2310.03094v1](http://arxiv.org/abs/2310.03094v1)|null|
+|**2023-10-04**|**Large Language Model Cascades with Mixture of Thoughts Representations for Cost-efficient Reasoning**|Murong Yue et.al.|[2310.03094v1](http://arxiv.org/abs/2310.03094v1)|**[link](https://github.com/murongyue/llm_mot_cascade)**|
 |**2023-10-04**|**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**|Hao Sha et.al.|[2310.03026v1](http://arxiv.org/abs/2310.03026v1)|null|
 |**2023-10-04**|**Retrieval meets Long Context Large Language Models**|Peng Xu et.al.|[2310.03025v1](http://arxiv.org/abs/2310.03025v1)|null|
 |**2023-10-04**|**Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions**|Satwik Bhattamishra et.al.|[2310.03016v1](http://arxiv.org/abs/2310.03016v1)|null|
 |**2023-10-04**|**From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference**|Siddharth Samsi et.al.|[2310.03003v1](http://arxiv.org/abs/2310.03003v1)|null|
 |**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992v1](http://arxiv.org/abs/2310.02992v1)|**[link](https://github.com/microsoft/unilm/tree/master/kosmos-g)**|
-|**2023-10-04**|**xVal: A Continuous Number Encoding for Large Language Models**|Siavash Golkar et.al.|[2310.02989v1](http://arxiv.org/abs/2310.02989v1)|**[link](https://github.com/PolymathicAI/xVal)**|
-|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
+|**2023-10-04**|**xVal: A Continuous Number Encoding for Large Language Models**|Siavash Golkar et.al.|[2310.02989v1](http://arxiv.org/abs/2310.02989v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
 |**2023-10-04**|**UniverSLU: Universal Spoken Language Understanding for Diverse Classification and Sequence Generation Tasks with a Single Network**|Siddhant Arora et.al.|[2310.02973v1](http://arxiv.org/abs/2310.02973v1)|null|
 |**2023-10-05**|**DQ-LoRe: Dual Queries with Low Rank Approximation Re-ranking for In-Context Learning**|Jiong Xiong et.al.|[2310.02954v2](http://arxiv.org/abs/2310.02954v2)|null|
 |**2023-10-04**|**JsonTuning: Towards Generalizable, Robust, and Controllable Instruction Tuning**|Chang Gao et.al.|[2310.02953v1](http://arxiv.org/abs/2310.02953v1)|**[link](https://github.com/gao-xiao-bai/jsontuning)**|
@@ -2717,14 +2717,14 @@ layout: default
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**Diagnostic Tomography of Applied Holography**|D. V. Khveshchenko et.al.|[2310.02991v1](http://arxiv.org/abs/2310.02991v1)|null|
-|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|null|
-|**2023-10-04**|**Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Mehdi Astaraki et.al.|[2310.02972v1](http://arxiv.org/abs/2310.02972v1)|null|
+|**2023-10-04**|**T$^3$Bench: Benchmarking Current Progress in Text-to-3D Generation**|Yuze He et.al.|[2310.02977v1](http://arxiv.org/abs/2310.02977v1)|**[link](https://github.com/THU-LYJ-Lab/T3Bench)**|
+|**2023-10-04**|**Fully Automatic Segmentation of Gross Target Volume and Organs-at-Risk for Radiotherapy Planning of Nasopharyngeal Carcinoma**|Mehdi Astaraki et.al.|[2310.02972v1](http://arxiv.org/abs/2310.02972v1)|**[link](https://github.com/astarakee/segrap2023)**|
 |**2023-10-04**|**Fast, Expressive SE$(n)$ Equivariant Networks through Weight-Sharing in Position-Orientation Space**|Erik J Bekkers et.al.|[2310.02970v1](http://arxiv.org/abs/2310.02970v1)|**[link](https://github.com/ebekkers/ponita)**|
 |**2023-10-04**|**CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**|Yang Cao et.al.|[2310.02960v1](http://arxiv.org/abs/2310.02960v1)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
 |**2023-10-04**|**Anomalous dissipation and Euler flows**|Jan Burczak et.al.|[2310.02934v1](http://arxiv.org/abs/2310.02934v1)|null|
 |**2023-10-04**|**3D Global Simulations of Accretion onto Gap-opening Planets: Implications for Circumplanetary Disc Structures and Accretion Rates**|Ya-Ping Li et.al.|[2310.02822v1](http://arxiv.org/abs/2310.02822v1)|null|
 |**2023-10-04**|**Total and dark mass from observations of galaxy centers with Machine Learning**|Sirui Wu et.al.|[2310.02816v1](http://arxiv.org/abs/2310.02816v1)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|**[link](https://github.com/MasterHow/CoBEV)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
 |**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792v1](http://arxiv.org/abs/2310.02792v1)|null|
 |**2023-10-04**|**MUNCH: Modelling Unique 'N Controllable Heads**|Debayan Deb et.al.|[2310.02753v1](http://arxiv.org/abs/2310.02753v1)|null|
 |**2023-10-04**|**Numerical modeling of hydrogel scaffold anisotropy during extrusion-based 3D printing for tissue engineering**|V. T. Mai et.al.|[2310.02734v1](http://arxiv.org/abs/2310.02734v1)|null|
