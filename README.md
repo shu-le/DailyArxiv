@@ -871,7 +871,7 @@
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
 |**2023-10-05**|**Analysis of learning a flow-based generative model from limited sample complexity**|Hugo Cui et.al.|[2310.03575v1](http://arxiv.org/abs/2310.03575v1)|**[link](https://github.com/spoc-group/diffusion_gmm)**|
 |**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
-|**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511v1](http://arxiv.org/abs/2310.03511v1)|null|
+|**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511v1](http://arxiv.org/abs/2310.03511v1)|**[link](https://github.com/rhyan10/_schnebby_)**|
 |**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
 |**2023-10-05**|**ACT-Net: Anchor-context Action Detection in Surgery Videos**|Luoying Hao et.al.|[2310.03377v1](http://arxiv.org/abs/2310.03377v1)|null|
@@ -885,7 +885,7 @@
 |**2023-10-05**|**Modeling spatial asymmetries in teleconnected extreme temperatures**|Mitchell L. Krock et.al.|[2310.03220v1](http://arxiv.org/abs/2310.03220v1)|null|
 |**2023-10-05**|**Learning Energy-Based Prior Model with Diffusion-Amortized MCMC**|Peiyu Yu et.al.|[2310.03218v1](http://arxiv.org/abs/2310.03218v1)|**[link](https://github.com/yupeiyu98/diffusion-amortized-mcmc)**|
 |**2023-10-04**|**Low-Energy Radiative Backgrounds in CCD-Based Dark-Matter Detectors**|Peizhi Du et.al.|[2310.03068v1](http://arxiv.org/abs/2310.03068v1)|null|
-|**2023-10-04**|**Posterior Sampling Based on Gradient Flows of the MMD with Negative Distance Kernel**|Paul Hagemann et.al.|[2310.03054v1](http://arxiv.org/abs/2310.03054v1)|null|
+|**2023-10-04**|**Posterior Sampling Based on Gradient Flows of the MMD with Negative Distance Kernel**|Paul Hagemann et.al.|[2310.03054v1](http://arxiv.org/abs/2310.03054v1)|**[link](https://github.com/fabianaltekrueger/conditional_mmd_flows)**|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Efficient-3DiM: Learning a Generalizable Single-image Novel-view Synthesizer in One Day**|Yifan Jiang et.al.|[2310.03015v1](http://arxiv.org/abs/2310.03015v1)|null|
 |**2023-10-04**|**SemiReward: A General Reward Model for Semi-supervised Learning**|Siyuan Li et.al.|[2310.03013v1](http://arxiv.org/abs/2310.03013v1)|null|
@@ -1358,7 +1358,7 @@
 |**2023-10-05**|**HeaP: Hierarchical Policies for Web Actions using LLMs**|Paloma Sodhi et.al.|[2310.03720v1](http://arxiv.org/abs/2310.03720v1)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716v1](http://arxiv.org/abs/2310.03716v1)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
-|**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693v1](http://arxiv.org/abs/2310.03693v1)|null|
+|**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693v1](http://arxiv.org/abs/2310.03693v1)|**[link](https://github.com/llm-tuning-safety/llms-finetuning-safety)**|
 |**2023-10-05**|**DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models**|Damien Masson et.al.|[2310.03691v1](http://arxiv.org/abs/2310.03691v1)|null|
 |**2023-10-05**|**SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks**|Alexander Robey et.al.|[2310.03684v1](http://arxiv.org/abs/2310.03684v1)|null|
 |**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668v1](http://arxiv.org/abs/2310.03668v1)|**[link](https://github.com/hitz-zentroa/gollie)**|
@@ -1377,7 +1377,7 @@
 |**2023-10-05**|**Concise and Organized Perception Facilitates Large Language Models for Deductive Reasoning**|Shaotian Yan et.al.|[2310.03309v1](http://arxiv.org/abs/2310.03309v1)|null|
 |**2023-10-05**|**Learning Personalized Story Evaluation**|Danqing Wang et.al.|[2310.03304v1](http://arxiv.org/abs/2310.03304v1)|**[link](https://github.com/dqwang122/perse)**|
 |**2023-10-05**|**Benchmarking Large Language Models As AI Research Agents**|Qian Huang et.al.|[2310.03302v1](http://arxiv.org/abs/2310.03302v1)|**[link](https://github.com/snap-stanford/mlagentbench)**|
-|**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|null|
+|**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|**[link](https://github.com/rulinshao/lightseq)**|
 |**2023-10-05**|**A New Dialogue Response Generation Agent for Large Language Models by Asking Questions to Detect User's Intentions**|Siwei Wu et.al.|[2310.03293v1](http://arxiv.org/abs/2310.03293v1)|null|
 |**2023-10-05**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v1](http://arxiv.org/abs/2310.03291v1)|null|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283v1](http://arxiv.org/abs/2310.03283v1)|null|
