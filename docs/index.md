@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 
 ## CV
 
@@ -28,7 +28,7 @@ layout: default
 |**2023-10-05**|**How Good Are Synthetic Medical Images? An Empirical Study with Lung Ultrasound**|Menghan Yu et.al.|[2310.03608v1](http://arxiv.org/abs/2310.03608v1)|**[link](https://github.com/global-health-labs/us-dcgan)**|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
+|**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Towards Unified Deep Image Deraining: A Survey and A New Benchmark**|Xiang Chen et.al.|[2310.03535v1](http://arxiv.org/abs/2310.03535v1)|null|
 |**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
 |**2023-10-05**|**V2X Cooperative Perception for Autonomous Driving: Recent Advances and Challenges**|Tao Huang et.al.|[2310.03525v1](http://arxiv.org/abs/2310.03525v1)|null|
@@ -874,7 +874,7 @@ layout: default
 |**2023-10-05**|**How Good Are Synthetic Medical Images? An Empirical Study with Lung Ultrasound**|Menghan Yu et.al.|[2310.03608v1](http://arxiv.org/abs/2310.03608v1)|**[link](https://github.com/global-health-labs/us-dcgan)**|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
 |**2023-10-05**|**Analysis of learning a flow-based generative model from limited sample complexity**|Hugo Cui et.al.|[2310.03575v1](http://arxiv.org/abs/2310.03575v1)|**[link](https://github.com/spoc-group/diffusion_gmm)**|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
+|**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Reinforcement learning for traversing chemical structure space: Optimizing transition states and minimum energy paths of molecules**|Rhyan Barrett et.al.|[2310.03511v1](http://arxiv.org/abs/2310.03511v1)|**[link](https://github.com/rhyan10/_schnebby_)**|
 |**2023-10-05**|**Deep Generative Models of Music Expectation**|Ninon Lizé Masclef et.al.|[2310.03500v1](http://arxiv.org/abs/2310.03500v1)|null|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
@@ -1365,7 +1365,7 @@ layout: default
 |**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693v1](http://arxiv.org/abs/2310.03693v1)|**[link](https://github.com/llm-tuning-safety/llms-finetuning-safety)**|
 |**2023-10-05**|**DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models**|Damien Masson et.al.|[2310.03691v1](http://arxiv.org/abs/2310.03691v1)|null|
 |**2023-10-05**|**SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks**|Alexander Robey et.al.|[2310.03684v1](http://arxiv.org/abs/2310.03684v1)|null|
-|**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668v1](http://arxiv.org/abs/2310.03668v1)|**[link](https://github.com/hitz-zentroa/gollie)**|
+|**2023-10-06**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668v2](http://arxiv.org/abs/2310.03668v2)|**[link](https://github.com/hitz-zentroa/gollie)**|
 |**2023-10-05**|**MapperGPT: Large Language Models for Linking and Mapping Entities**|Nicolas Matentzoglu et.al.|[2310.03666v1](http://arxiv.org/abs/2310.03666v1)|null|
 |**2023-10-05**|**Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures**|Thorsten Händler et.al.|[2310.03659v1](http://arxiv.org/abs/2310.03659v1)|null|
 |**2023-10-05**|**Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally**|Shawqi Al-Maliki et.al.|[2310.03614v1](http://arxiv.org/abs/2310.03614v1)|null|
@@ -1379,7 +1379,7 @@ layout: default
 |**2023-10-05**|**Reformulating Domain Adaptation of Large Language Models as Adapt-Retrieve-Revise**|Zhen wan et.al.|[2310.03328v1](http://arxiv.org/abs/2310.03328v1)|null|
 |**2023-10-05**|**Investigating the Limitation of CLIP Models: The Worst-Performing Categories**|Jie-Jing Shao et.al.|[2310.03324v1](http://arxiv.org/abs/2310.03324v1)|null|
 |**2023-10-05**|**Concise and Organized Perception Facilitates Large Language Models for Deductive Reasoning**|Shaotian Yan et.al.|[2310.03309v1](http://arxiv.org/abs/2310.03309v1)|null|
-|**2023-10-05**|**Learning Personalized Story Evaluation**|Danqing Wang et.al.|[2310.03304v1](http://arxiv.org/abs/2310.03304v1)|**[link](https://github.com/dqwang122/perse)**|
+|**2023-10-06**|**Learning Personalized Story Evaluation**|Danqing Wang et.al.|[2310.03304v2](http://arxiv.org/abs/2310.03304v2)|**[link](https://github.com/dqwang122/perse)**|
 |**2023-10-05**|**Benchmarking Large Language Models As AI Research Agents**|Qian Huang et.al.|[2310.03302v1](http://arxiv.org/abs/2310.03302v1)|**[link](https://github.com/snap-stanford/mlagentbench)**|
 |**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|**[link](https://github.com/rulinshao/lightseq)**|
 |**2023-10-05**|**A New Dialogue Response Generation Agent for Large Language Models by Asking Questions to Detect User's Intentions**|Siwei Wu et.al.|[2310.03293v1](http://arxiv.org/abs/2310.03293v1)|null|
@@ -2126,7 +2126,7 @@ layout: default
 |**2023-10-05**|**Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures**|Thorsten Händler et.al.|[2310.03659v1](http://arxiv.org/abs/2310.03659v1)|null|
 |**2023-10-05**|**Strategic Evaluation: Subjects, Evaluators, and Society**|Benjamin Laufer et.al.|[2310.03655v1](http://arxiv.org/abs/2310.03655v1)|null|
 |**2023-10-05**|**High-Degrees-of-Freedom Dynamic Neural Fields for Robot Self-Modeling and Motion Planning**|Lennart Schulze et.al.|[2310.03624v1](http://arxiv.org/abs/2310.03624v1)|null|
-|**2023-10-05**|**Best-Response Dynamics in Tullock Contests with Convex Costs**|Abheek Ghosh et.al.|[2310.03528v1](http://arxiv.org/abs/2310.03528v1)|null|
+|**2023-10-06**|**Best-Response Dynamics in Tullock Contests with Convex Costs**|Abheek Ghosh et.al.|[2310.03528v2](http://arxiv.org/abs/2310.03528v2)|null|
 |**2023-10-05**|**How the level sampling process impacts zero-shot generalisation in deep reinforcement learning**|Samuel Garcin et.al.|[2310.03494v1](http://arxiv.org/abs/2310.03494v1)|null|
 |**2023-10-05**|**Analyzing multimodal probability measures with autoencoders**|Tony Lelièvre et.al.|[2310.03492v1](http://arxiv.org/abs/2310.03492v1)|null|
 |**2023-10-05**|**Fair Division with Allocator's Preference**|Xiaolin Bu et.al.|[2310.03475v1](http://arxiv.org/abs/2310.03475v1)|null|
@@ -2688,7 +2688,7 @@ layout: default
 |**2023-10-05**|**Animatable Virtual Humans: Learning pose-dependent human representations in UV space for interactive performance synthesis**|Wieland Morgenstern et.al.|[2310.03615v1](http://arxiv.org/abs/2310.03615v1)|null|
 |**2023-10-05**|**Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints**|Chuan Fang et.al.|[2310.03602v1](http://arxiv.org/abs/2310.03602v1)|null|
 |**2023-10-05**|**Targeted Adversarial Attacks on Generalizable Neural Radiance Fields**|Andras Horvath et.al.|[2310.03578v1](http://arxiv.org/abs/2310.03578v1)|null|
-|**2023-10-05**|**MedSynV1: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v1](http://arxiv.org/abs/2310.03559v1)|null|
+|**2023-10-06**|**MedSyn: Text-guided Anatomy-aware Synthesis of High-Fidelity 3D CT Images**|Yanwu Xu et.al.|[2310.03559v2](http://arxiv.org/abs/2310.03559v2)|null|
 |**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537v1](http://arxiv.org/abs/2310.03537v1)|null|
 |**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
 |**2023-10-05**|**Vocal Fold Reconstruction from Optical Velocity and Displacement Measurements**|Daniel Zieger et.al.|[2310.03514v1](http://arxiv.org/abs/2310.03514v1)|null|
@@ -2707,7 +2707,7 @@ layout: default
 |**2023-10-05**|**3D structure of HII regions in the star-forming complex S254-S258**|Maria S. Kirsanova et.al.|[2310.03277v1](http://arxiv.org/abs/2310.03277v1)|null|
 |**2023-10-05**|**The squish map and the $\text{SL}_2$ double dimer model**|Leigh Foster et.al.|[2310.03230v1](http://arxiv.org/abs/2310.03230v1)|null|
 |**2023-10-05**|**History Matching for Geological Carbon Storage using Data-Space Inversion with Spatio-Temporal Data Parameterization**|Su Jiang et.al.|[2310.03228v1](http://arxiv.org/abs/2310.03228v1)|null|
-|**2023-10-04**|**A Large-Scale 3D Face Mesh Video Dataset via Neural Re-parameterized Optimization**|Kim Youwang et.al.|[2310.03205v1](http://arxiv.org/abs/2310.03205v1)|null|
+|**2023-10-06**|**A Large-Scale 3D Face Mesh Video Dataset via Neural Re-parameterized Optimization**|Kim Youwang et.al.|[2310.03205v2](http://arxiv.org/abs/2310.03205v2)|null|
 |**2023-10-04**|**Multi-Domain Walking with Reduced-Order Models of Locomotion**|Min Dai et.al.|[2310.03179v1](http://arxiv.org/abs/2310.03179v1)|null|
 |**2023-10-04**|**Magneto-Thermal Thin Shell Approximation for 3D Finite Element Analysis of No-Insulation Coils**|Erik Schnaubelt et.al.|[2310.03138v1](http://arxiv.org/abs/2310.03138v1)|null|
 |**2023-10-04**|**Shielding the Unseen: Privacy Protection through Poisoning NeRF with Spatial Deformation**|Yihan Wu et.al.|[2310.03125v1](http://arxiv.org/abs/2310.03125v1)|null|
@@ -2723,7 +2723,7 @@ layout: default
 |**2023-10-04**|**CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection**|Yang Cao et.al.|[2310.02960v1](http://arxiv.org/abs/2310.02960v1)|**[link](https://github.com/yangcaoai/CoDA_NeurIPS2023)**|
 |**2023-10-04**|**Anomalous dissipation and Euler flows**|Jan Burczak et.al.|[2310.02934v1](http://arxiv.org/abs/2310.02934v1)|null|
 |**2023-10-04**|**3D Global Simulations of Accretion onto Gap-opening Planets: Implications for Circumplanetary Disc Structures and Accretion Rates**|Ya-Ping Li et.al.|[2310.02822v1](http://arxiv.org/abs/2310.02822v1)|null|
-|**2023-10-04**|**Total and dark mass from observations of galaxy centers with Machine Learning**|Sirui Wu et.al.|[2310.02816v1](http://arxiv.org/abs/2310.02816v1)|null|
+|**2023-10-06**|**Total and dark mass from observations of galaxy centers with Machine Learning**|Sirui Wu et.al.|[2310.02816v2](http://arxiv.org/abs/2310.02816v2)|null|
 |**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815v1](http://arxiv.org/abs/2310.02815v1)|null|
 |**2023-10-04**|**Tracking Anything in Heart All at Once**|Chengkang Shen et.al.|[2310.02792v1](http://arxiv.org/abs/2310.02792v1)|null|
 |**2023-10-04**|**MUNCH: Modelling Unique 'N Controllable Heads**|Debayan Deb et.al.|[2310.02753v1](http://arxiv.org/abs/2310.02753v1)|null|
