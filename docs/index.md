@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 
 ## CV
 
@@ -943,8 +943,8 @@ layout: default
 |**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363v1](http://arxiv.org/abs/2310.03363v1)|null|
 |**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337v1](http://arxiv.org/abs/2310.03337v1)|null|
 |**2023-10-05**|**Deep Variational Multivariate Information Bottleneck -- A Framework for Variational Losses**|Eslam Abdelaleem et.al.|[2310.03311v1](http://arxiv.org/abs/2310.03311v1)|null|
-|**2023-10-05**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v1](http://arxiv.org/abs/2310.03291v1)|null|
-|**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270v1](http://arxiv.org/abs/2310.03270v1)|null|
+|**2023-10-07**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v2](http://arxiv.org/abs/2310.03291v2)|null|
+|**2023-10-07**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270v2](http://arxiv.org/abs/2310.03270v2)|null|
 |**2023-10-05**|**UniPredict: Large Language Models are Universal Tabular Predictors**|Ruiyu Wang et.al.|[2310.03266v1](http://arxiv.org/abs/2310.03266v1)|null|
 |**2023-10-05**|**Molecule Design by Latent Prompt Transformer**|Deqian Kong et.al.|[2310.03253v1](http://arxiv.org/abs/2310.03253v1)|null|
 |**2023-10-05**|**Modeling spatial asymmetries in teleconnected extreme temperatures**|Mitchell L. Krock et.al.|[2310.03220v1](http://arxiv.org/abs/2310.03220v1)|null|
@@ -1467,7 +1467,7 @@ layout: default
 |**2023-10-05**|**Benchmarking Large Language Models As AI Research Agents**|Qian Huang et.al.|[2310.03302v1](http://arxiv.org/abs/2310.03302v1)|**[link](https://github.com/snap-stanford/mlagentbench)**|
 |**2023-10-05**|**LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers**|Dacheng Li et.al.|[2310.03294v1](http://arxiv.org/abs/2310.03294v1)|**[link](https://github.com/rulinshao/lightseq)**|
 |**2023-10-05**|**A New Dialogue Response Generation Agent for Large Language Models by Asking Questions to Detect User's Intentions**|Siwei Wu et.al.|[2310.03293v1](http://arxiv.org/abs/2310.03293v1)|null|
-|**2023-10-05**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v1](http://arxiv.org/abs/2310.03291v1)|null|
+|**2023-10-07**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v2](http://arxiv.org/abs/2310.03291v2)|null|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283v1](http://arxiv.org/abs/2310.03283v1)|null|
 |**2023-10-05**|**InstructProtein: Aligning Human and Protein Language via Knowledge Instruction**|Zeyuan Wang et.al.|[2310.03269v1](http://arxiv.org/abs/2310.03269v1)|null|
 |**2023-10-05**|**UniPredict: Large Language Models are Universal Tabular Predictors**|Ruiyu Wang et.al.|[2310.03266v1](http://arxiv.org/abs/2310.03266v1)|null|
@@ -2063,7 +2063,7 @@ layout: default
 |**2023-10-05**|**Improved Baselines with Visual Instruction Tuning**|Haotian Liu et.al.|[2310.03744v1](http://arxiv.org/abs/2310.03744v1)|null|
 |**2023-10-05**|**Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**|Tianhong Li et.al.|[2310.03734v1](http://arxiv.org/abs/2310.03734v1)|null|
 |**2023-10-05**|**Artificial Intelligence Index Report 2023**|Nestor Maslej et.al.|[2310.03715v1](http://arxiv.org/abs/2310.03715v1)|null|
-|**2023-10-05**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v1](http://arxiv.org/abs/2310.03291v1)|null|
+|**2023-10-07**|**SimVLG: Simple and Efficient Pretraining of Visual Language Generative Models**|Yiren Jian et.al.|[2310.03291v2](http://arxiv.org/abs/2310.03291v2)|null|
 |**2023-10-04**|**Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models**|An Yan et.al.|[2310.03182v1](http://arxiv.org/abs/2310.03182v1)|null|
 |**2023-10-04**|**Dual Prompt Tuning for Domain-Aware Federated Learning**|Guoyizhe Wei et.al.|[2310.03103v1](http://arxiv.org/abs/2310.03103v1)|null|
 |**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|
@@ -2102,7 +2102,7 @@ layout: default
 |**2023-09-28**|**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**|Qiao Gu et.al.|[2309.16650v1](http://arxiv.org/abs/2309.16650v1)|null|
 |**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Semantic Scene Difference Detection in Daily Life Patroling by Mobile Robots using Pre-Trained Large-Scale Vision-Language Model**|Yoshiki Obinata et.al.|[2309.16552v1](http://arxiv.org/abs/2309.16552v1)|null|
-|**2023-09-28**|**QwenGrasp: A Usage of Large Vision Language Model for Target-oriented Grasping**|Xinyu Chen et.al.|[2309.16426v1](http://arxiv.org/abs/2309.16426v1)|null|
+|**2023-10-08**|**QwenGrasp: A Usage of Large Vision-Language Model for Target-Oriented Grasping**|Xinyu Chen et.al.|[2309.16426v2](http://arxiv.org/abs/2309.16426v2)|null|
 |**2023-09-29**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414v2](http://arxiv.org/abs/2309.16414v2)|null|
 |**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915v1](http://arxiv.org/abs/2309.15915v1)|null|
 |**2023-09-23**|**A Survey on Image-text Multimodal Models**|Ruifeng Guo et.al.|[2309.15857v1](http://arxiv.org/abs/2309.15857v1)|**[link](https://github.com/i2vec/a-survey-on-image-text-multimodal-models)**|
@@ -2803,7 +2803,7 @@ layout: default
 |**2023-10-06**|**Three-dimensional characterization of the steel-concrete interface by FIB-SEM nanotomography**|Nicolas Ruffray et.al.|[2310.04322v1](http://arxiv.org/abs/2310.04322v1)|null|
 |**2023-10-06**|**Towards Non-contact 3D Ultrasound for Wrist Imaging**|Antony Jerald et.al.|[2310.04296v1](http://arxiv.org/abs/2310.04296v1)|null|
 |**2023-10-06**|**Searching for Optimal Runtime Assurance via Reachability and Reinforcement Learning**|Kristina Miller et.al.|[2310.04288v1](http://arxiv.org/abs/2310.04288v1)|null|
-|**2023-10-06**|**Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs**|Marc Eisoldt et.al.|[2310.04172v1](http://arxiv.org/abs/2310.04172v1)|null|
+|**2023-10-06**|**Towards 6D MCL for LiDARs in 3D TSDF Maps on Embedded Systems with GPUs**|Marc Eisoldt et.al.|[2310.04172v1](http://arxiv.org/abs/2310.04172v1)|**[link](https://github.com/uos/tsdf_localization)**|
 |**2023-10-06**|**Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation**|Hye Bin Yoo et.al.|[2310.04152v1](http://arxiv.org/abs/2310.04152v1)|null|
 |**2023-10-06**|**Aorta Segmentation from 3D CT in MICCAI SEG.A. 2023 Challenge**|Andriy Myronenko et.al.|[2310.04114v1](http://arxiv.org/abs/2310.04114v1)|**[link](https://github.com/Project-MONAI/MONAI)**|
 |**2023-10-06**|**Doppler-only Single-scan 3D Vehicle Odometry**|Andres Galeote-Luque et.al.|[2310.04113v1](http://arxiv.org/abs/2310.04113v1)|null|
@@ -2833,11 +2833,11 @@ layout: default
 |**2023-10-05**|**Inverse design of self-folding 3D shells**|Diogo E. P. Pinto et.al.|[2310.03537v1](http://arxiv.org/abs/2310.03537v1)|null|
 |**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
 |**2023-10-05**|**Vocal Fold Reconstruction from Optical Velocity and Displacement Measurements**|Daniel Zieger et.al.|[2310.03514v1](http://arxiv.org/abs/2310.03514v1)|null|
-|**2023-10-05**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v1](http://arxiv.org/abs/2310.03485v1)|null|
+|**2023-10-07**|**BTDNet: a Multi-Modal Approach for Brain Tumor Radiogenomic Classification**|Dimitrios Kollias et.al.|[2310.03485v2](http://arxiv.org/abs/2310.03485v2)|null|
 |**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
 |**2023-10-05**|**Robust Zero Level-Set Extraction from Unsigned Distance Fields Based on Double Covering**|Fei Hou et.al.|[2310.03431v1](http://arxiv.org/abs/2310.03431v1)|**[link](https://github.com/jjjkkyz/dcudf)**|
 |**2023-10-05**|**RUSOpt: Robotic UltraSound Probe Normalization with Bayesian Optimization for In-plane and Out-plane Scanning**|Deepak Raina et.al.|[2310.03406v1](http://arxiv.org/abs/2310.03406v1)|null|
-|**2023-10-05**|**OpenPatch: a 3D patchwork for Out-Of-Distribution detectionpdf icon**|Paolo Rabino et.al.|[2310.03388v1](http://arxiv.org/abs/2310.03388v1)|null|
+|**2023-10-06**|**OpenPatch: a 3D patchwork for Out-Of-Distribution detection**|Paolo Rabino et.al.|[2310.03388v2](http://arxiv.org/abs/2310.03388v2)|null|
 |**2023-10-05**|**Large-Scale Bottom-Up Fabricated 3D Nonlinear Photonic Crystals**|Viola Valentina Vogler-Neuling et.al.|[2310.03386v1](http://arxiv.org/abs/2310.03386v1)|null|
 |**2023-10-05**|**Point-Based Radiance Fields for Controllable Human Motion Synthesis**|Haitao Yu et.al.|[2310.03375v1](http://arxiv.org/abs/2310.03375v1)|**[link](https://github.com/dehezhang2/point_based_nerf_editing)**|
 |**2023-10-05**|**Swin-Tempo: Temporal-Aware Lung Nodule Detection in CT Scans as Video Sequences Using Swin Transformer-Enhanced UNet**|Hossein Jafari et.al.|[2310.03365v1](http://arxiv.org/abs/2310.03365v1)|null|
