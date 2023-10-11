@@ -14,7 +14,7 @@ layout: default
 |**2023-10-10**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v2](http://arxiv.org/abs/2310.05916v2)|null|
 |**2023-10-09**|**Streaming Anchor Loss: Augmenting Supervision with Temporal Significance**|Utkarsh et.al.|[2310.05886v1](http://arxiv.org/abs/2310.05886v1)|null|
 |**2023-10-09**|**Controllable Chest X-Ray Report Generation from Longitudinal Representations**|Francesco Dalla Serra et.al.|[2310.05881v1](http://arxiv.org/abs/2310.05881v1)|null|
-|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v1](http://arxiv.org/abs/2310.05873v1)|null|
+|**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
 |**2023-10-09**|**ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**|Kaiwen Zhou et.al.|[2310.05872v1](http://arxiv.org/abs/2310.05872v1)|null|
 |**2023-10-09**|**Domain-wise Invariant Learning for Panoptic Scene Graph Generation**|Li Li et.al.|[2310.05867v1](http://arxiv.org/abs/2310.05867v1)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866v1](http://arxiv.org/abs/2310.05866v1)|null|
@@ -965,7 +965,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing**|Yuren Cong et.al.|[2310.05922v1](http://arxiv.org/abs/2310.05922v1)|null|
 |**2023-10-09**|**Controllable Chest X-Ray Report Generation from Longitudinal Representations**|Francesco Dalla Serra et.al.|[2310.05881v1](http://arxiv.org/abs/2310.05881v1)|null|
-|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v1](http://arxiv.org/abs/2310.05873v1)|null|
+|**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873v2](http://arxiv.org/abs/2310.05873v2)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866v1](http://arxiv.org/abs/2310.05866v1)|null|
 |**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833v1](http://arxiv.org/abs/2310.05833v1)|null|
 |**2023-10-09**|**Are Large Language Models Post Hoc Explainers?**|Nicholas Kroeger et.al.|[2310.05797v1](http://arxiv.org/abs/2310.05797v1)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2023-10-09**|**EdVAE: Mitigating Codebook Collapse with Evidential Discrete Variational Autoencoders**|Gulcin Baykal et.al.|[2310.05718v1](http://arxiv.org/abs/2310.05718v1)|null|
 |**2023-10-09**|**Perceptual Artifacts Localization for Image Synthesis Tasks**|Lingzhi Zhang et.al.|[2310.05590v1](http://arxiv.org/abs/2310.05590v1)|**[link](https://github.com/open-mmlab/mmsegmentation)**|
 |**2023-10-09**|**Establishing Trustworthiness: Rethinking Tasks and Model Evaluation**|Robert Litschko et.al.|[2310.05442v1](http://arxiv.org/abs/2310.05442v1)|null|
-|**2023-10-09**|**Molecular De Novo Design through Transformer-based Reinforcement Learning**|Tao Feng et.al.|[2310.05365v1](http://arxiv.org/abs/2310.05365v1)|null|
+|**2023-10-10**|**Molecular De Novo Design through Transformer-based Reinforcement Learning**|Tao Feng et.al.|[2310.05365v2](http://arxiv.org/abs/2310.05365v2)|null|
 |**2023-10-09**|**C^2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network**|Ruizhi Wang et.al.|[2310.05355v1](http://arxiv.org/abs/2310.05355v1)|null|
 |**2023-10-09**|**DiffCPS: Diffusion Model based Constrained Policy Search for Offline Reinforcement Learning**|Longxiang He et.al.|[2310.05333v1](http://arxiv.org/abs/2310.05333v1)|**[link](https://github.com/felix-thu/DiffCPS)**|
 |**2023-10-08**|**Optimizing Solution-Samplers for Combinatorial Problems: The Landscape of Policy-Gradient Methods**|Constantine Caramanis et.al.|[2310.05309v1](http://arxiv.org/abs/2310.05309v1)|null|
@@ -1555,7 +1555,7 @@ layout: default
 |**2023-10-09**|**SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF**|Yi Dong et.al.|[2310.05344v1](http://arxiv.org/abs/2310.05344v1)|null|
 |**2023-10-09**|**Negative Object Presence Evaluation (NOPE) to Measure Object Hallucination in Vision-Language Models**|Holy Lovenia et.al.|[2310.05338v1](http://arxiv.org/abs/2310.05338v1)|null|
 |**2023-10-09**|**Resolving the Imbalance Issue in Hierarchical Disciplinary Topic Inference via LLM-based Data Augmentation**|Xunxin Cai et.al.|[2310.05318v1](http://arxiv.org/abs/2310.05318v1)|null|
-|**2023-10-10**|**Enhancing Long-form Text Generation in Mental Health with Task-adaptive Tokenization**|Siyang Liu et.al.|[2310.05317v2](http://arxiv.org/abs/2310.05317v2)|**[link](https://github.com/lsy641/task-adptive-tokenization)**|
+|**2023-10-10**|**Enhancing Long-form Text Generation in Mental Health with Task-adaptive Tokenization**|Siyang Liu et.al.|[2310.05317v2](http://arxiv.org/abs/2310.05317v2)|null|
 |**2023-10-09**|**Quality Assurance of A GPT-based Sentiment Analysis System: Adversarial Review Data Generation and Detection**|Tinghui Ouyang et.al.|[2310.05312v1](http://arxiv.org/abs/2310.05312v1)|null|
 |**2023-10-08**|**HypoCompass: Large-Language-Model-based Tutor for Hypothesis Construction in Debugging for Novices**|Qianou Ma et.al.|[2310.05292v1](http://arxiv.org/abs/2310.05292v1)|null|
 |**2023-10-08**|**Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems**|Yixin Wan et.al.|[2310.05280v1](http://arxiv.org/abs/2310.05280v1)|null|
@@ -2383,7 +2383,7 @@ layout: default
 |**2023-10-09**|**Causal Reasoning through Two Layers of Cognition for Improving Generalization in Visual Question Answering**|Trang Nguyen et.al.|[2310.05410v1](http://arxiv.org/abs/2310.05410v1)|null|
 |**2023-10-09**|**SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction**|Conghao Wong et.al.|[2310.05370v1](http://arxiv.org/abs/2310.05370v1)|**[link](https://github.com/cocoon2wong/socialcircle)**|
 |**2023-10-09**|**Measuring Acoustics with Collaborative Multiple Agents**|Yinfeng Yu et.al.|[2310.05368v1](http://arxiv.org/abs/2310.05368v1)|null|
-|**2023-10-09**|**Increasing Entropy to Boost Policy Gradient Performance on Personalization Tasks**|Andrew Starnes et.al.|[2310.05324v1](http://arxiv.org/abs/2310.05324v1)|null|
+|**2023-10-09**|**Increasing Entropy to Boost Policy Gradient Performance on Personalization Tasks**|Andrew Starnes et.al.|[2310.05324v1](http://arxiv.org/abs/2310.05324v1)|**[link](https://github.com/acstarnes/wain23-policy-regularization)**|
 |**2023-10-09**|**Accelerating Deep Neural Network guided MCTS using Adaptive Parallelism**|Yuan Meng et.al.|[2310.05313v1](http://arxiv.org/abs/2310.05313v1)|null|
 |**2023-10-08**|**Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems**|Yixin Wan et.al.|[2310.05280v1](http://arxiv.org/abs/2310.05280v1)|null|
 |**2023-10-08**|**Quantifying Zero-shot Coordination Capability with Behavior Preferring Partners**|Xihuai Wang et.al.|[2310.05208v1](http://arxiv.org/abs/2310.05208v1)|null|
