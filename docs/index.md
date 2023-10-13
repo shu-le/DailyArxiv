@@ -2631,7 +2631,7 @@ layout: default
 |**2023-10-12**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522v2](http://arxiv.org/abs/2310.07522v2)|null|
 |**2023-10-11**|**Sample-Driven Federated Learning for Energy-Efficient and Real-Time IoT Sensing**|Minh Ngoc Luu et.al.|[2310.07497v1](http://arxiv.org/abs/2310.07497v1)|**[link](https://github.com/skyd-fl/scfl)**|
 |**2023-10-11**|**Diversity for Contingency: Learning Diverse Behaviors for Efficient Adaptation and Transfer**|Finn Rietz et.al.|[2310.07493v1](http://arxiv.org/abs/2310.07493v1)|null|
-|**2023-10-11**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478v1](http://arxiv.org/abs/2310.07478v1)|null|
+|**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478v2](http://arxiv.org/abs/2310.07478v2)|null|
 |**2023-10-11**|**FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation**|Xinyu Sun et.al.|[2310.07473v1](http://arxiv.org/abs/2310.07473v1)|null|
 |**2023-10-11**|**RealityDrop: A Multimodal Mixed Reality Framework to Manipulate Virtual Content between Cross-system Displays**|Jeremy McDade et.al.|[2310.07458v1](http://arxiv.org/abs/2310.07458v1)|null|
 |**2023-10-11**|**DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction**|Rezaul Karim et.al.|[2310.07438v1](http://arxiv.org/abs/2310.07438v1)|null|
