@@ -1,10 +1,10 @@
-## Updated on 2023.10.14
+## Updated on 2023.10.15
 
 ## CV
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Is Generalized Dynamic Novel View Synthesis from Monocular Videos Possible Today?**|Xiaoming Zhao et.al.|[2310.08587v1](http://arxiv.org/abs/2310.08587v1)|null|
 |**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586v1](http://arxiv.org/abs/2310.08586v1)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Im4D: High-Fidelity and Real-Time Novel View Synthesis for Dynamic Scenes**|Haotong Lin et.al.|[2310.08585v1](http://arxiv.org/abs/2310.08585v1)|null|
@@ -37,8 +37,8 @@
 |**2023-10-12**|**AutoVP: An Automated Visual Prompting Framework and Benchmark**|Hsi-Ai Tsao et.al.|[2310.08381v1](http://arxiv.org/abs/2310.08381v1)|**[link](https://github.com/IBM/AutoVP)**|
 |**2023-10-12**|**Worst-Case Morphs using Wasserstein ALI and Improved MIPGAN**|Una M. Kelly et.al.|[2310.08371v1](http://arxiv.org/abs/2310.08371v1)|null|
 |**2023-10-12**|**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**|Honghui Yang et.al.|[2310.08370v1](http://arxiv.org/abs/2310.08370v1)|**[link](https://github.com/Nightmare-n/UniPAD)**|
-|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|null|
-|**2023-10-12**|**MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft**|Haowei Lin et.al.|[2310.08367v1](http://arxiv.org/abs/2310.08367v1)|null|
+|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|**[link](https://github.com/miccunifi/issues)**|
+|**2023-10-12**|**MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft**|Haowei Lin et.al.|[2310.08367v1](http://arxiv.org/abs/2310.08367v1)|**[link](https://github.com/craftjarvis/mcu)**|
 |**2023-10-12**|**A Generic Software Framework for Distributed Topological Analysis Pipelines**|Eve Le Guillou et.al.|[2310.08339v1](http://arxiv.org/abs/2310.08339v1)|null|
 |**2023-10-12**|**Real-Time Neural BRDF with Spherically Distributed Primitives**|Yishun Dou et.al.|[2310.08332v1](http://arxiv.org/abs/2310.08332v1)|null|
 |**2023-10-12**|**NSM4D: Neural Scene Model Based Online 4D Point Cloud Sequence Understanding**|Yuhao Dong et.al.|[2310.08326v1](http://arxiv.org/abs/2310.08326v1)|null|
@@ -53,7 +53,7 @@
 |**2023-10-12**|**Distilling from Vision-Language Models for Improved OOD Generalization in Vision Tasks**|Sravanti Addepalli et.al.|[2310.08255v1](http://arxiv.org/abs/2310.08255v1)|**[link](https://github.com/val-iisc/VL2V-ADiP)**|
 |**2023-10-12**|**Fast Discrete Optimisation for Geometrically Consistent 3D Shape Matching**|Paul Roetzer et.al.|[2310.08230v1](http://arxiv.org/abs/2310.08230v1)|null|
 |**2023-10-12**|**Structural analysis of Hindi online handwritten characters for character recognition**|Anand Sharma et.al.|[2310.08222v1](http://arxiv.org/abs/2310.08222v1)|null|
-|**2023-10-12**|**TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion**|Preetha Vijayan et.al.|[2310.08217v1](http://arxiv.org/abs/2310.08217v1)|**[link](https://github.com/NeurAI-Lab/TriRE)**|
+|**2023-10-12**|**TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion**|Preetha Vijayan et.al.|[2310.08217v1](http://arxiv.org/abs/2310.08217v1)|null|
 |**2023-10-11**|**PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection**|Qiang Zhou et.al.|[2310.07716v1](http://arxiv.org/abs/2310.07716v1)|**[link](https://github.com/ericlee0224/pad)**|
 |**2023-10-11**|**MatFormer: Nested Transformer for Elastic Inference**|Devvrit et.al.|[2310.07707v1](http://arxiv.org/abs/2310.07707v1)|null|
 |**2023-10-11**|**Ferret: Refer and Ground Anything Anywhere at Any Granularity**|Haoxuan You et.al.|[2310.07704v1](http://arxiv.org/abs/2310.07704v1)|**[link](https://github.com/apple/ml-ferret)**|
@@ -1121,8 +1121,8 @@
 |**2023-10-12**|**GePSAn: Generative Procedure Step Anticipation in Cooking Videos**|Mohamed Ashraf Abdelsalam et.al.|[2310.08312v1](http://arxiv.org/abs/2310.08312v1)|null|
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
 |**2023-10-12**|**ZEST: Attention-based Zero-Shot Learning for Unseen IoT Device Classification**|Binghui Wu et.al.|[2310.08036v1](http://arxiv.org/abs/2310.08036v1)|**[link](https://github.com/Binghui99/ZEST)**|
-|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|null|
-|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969v1](http://arxiv.org/abs/2310.07969v1)|**[link](https://github.com/abdullah-tamu/CleftGAN)**|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972v1](http://arxiv.org/abs/2310.07972v1)|**[link](https://github.com/kxh001/info-decomp)**|
+|**2023-10-12**|**CleftGAN: Adapting A Style-Based Generative Adversarial Network To Create Images Depicting Cleft Lip Deformity**|Abdullah Hayajneh et.al.|[2310.07969v1](http://arxiv.org/abs/2310.07969v1)|null|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896v1](http://arxiv.org/abs/2310.07896v1)|null|
 |**2023-10-11**|**Efficient Integrators for Diffusion Generative Models**|Kushagra Pandey et.al.|[2310.07894v1](http://arxiv.org/abs/2310.07894v1)|**[link](https://github.com/mandt-lab/PSLD)**|
 |**2023-10-11**|**Assessing Evaluation Metrics for Neural Test Oracle Generation**|Jiho Shin et.al.|[2310.07856v1](http://arxiv.org/abs/2310.07856v1)|null|
@@ -1737,22 +1737,22 @@
 |**2023-10-12**|**Do pretrained Transformers Really Learn In-context by Gradient Descent?**|Lingfeng Shen et.al.|[2310.08540v1](http://arxiv.org/abs/2310.08540v1)|null|
 |**2023-10-12**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
 |**2023-10-12**|**HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science**|Yu Song et.al.|[2310.08511v1](http://arxiv.org/abs/2310.08511v1)|**[link](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee)**|
-|**2023-10-12**|**Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**|Seungone Kim et.al.|[2310.08491v1](http://arxiv.org/abs/2310.08491v1)|**[link](https://github.com/kaistAI/Prometheus)**|
+|**2023-10-12**|**Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**|Seungone Kim et.al.|[2310.08491v1](http://arxiv.org/abs/2310.08491v1)|null|
 |**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487v1](http://arxiv.org/abs/2310.08487v1)|**[link](https://github.com/happen2me/cross-gnn)**|
 |**2023-10-12**|**Can We Edit Multimodal Large Language Models?**|Siyuan Cheng et.al.|[2310.08475v1](http://arxiv.org/abs/2310.08475v1)|**[link](https://github.com/zjunlp/easyedit)**|
 |**2023-10-12**|**DistillSpec: Improving Speculative Decoding via Knowledge Distillation**|Yongchao Zhou et.al.|[2310.08461v1](http://arxiv.org/abs/2310.08461v1)|null|
-|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|**[link](https://github.com/LINs-lab/M3)**|
-|**2023-10-12**|**Jailbreaking Black Box Large Language Models in Twenty Queries**|Patrick Chao et.al.|[2310.08419v1](http://arxiv.org/abs/2310.08419v1)|**[link](https://github.com/patrickrchao/JailbreakLLMs)**|
+|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|null|
+|**2023-10-12**|**Jailbreaking Black Box Large Language Models in Twenty Queries**|Patrick Chao et.al.|[2310.08419v1](http://arxiv.org/abs/2310.08419v1)|null|
 |**2023-10-12**|**Evaluation of ChatGPT-Generated Medical Responses: A Systematic Review and Meta-Analysis**|Qiuhong Wei et.al.|[2310.08410v1](http://arxiv.org/abs/2310.08410v1)|null|
 |**2023-10-12**|**Prompting Large Language Models with Chain-of-Thought for Few-Shot Knowledge Base Question Generation**|Yuanyuan Liang et.al.|[2310.08395v1](http://arxiv.org/abs/2310.08395v1)|null|
 |**2023-10-12**|**Towards Better Evaluation of Instruction-Following: A Case-Study in Summarization**|Ondrej Skopek et.al.|[2310.08394v1](http://arxiv.org/abs/2310.08394v1)|null|
-|**2023-10-12**|**From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2310.08365v1](http://arxiv.org/abs/2310.08365v1)|**[link](https://github.com/rezacsedu/llms_to_kgs_for_cancer)**|
+|**2023-10-12**|**From Large Language Models to Knowledge Graphs for Biomarker Discovery in Cancer**|Md. Rezaul Karim et.al.|[2310.08365v1](http://arxiv.org/abs/2310.08365v1)|null|
 |**2023-10-12**|**Fine-Tuning LLaMA for Multi-Stage Text Retrieval**|Xueguang Ma et.al.|[2310.08319v1](http://arxiv.org/abs/2310.08319v1)|null|
 |**2023-10-12**|**Not All Demonstration Examples are Equally Beneficial: Reweighting Demonstration Examples for In-Context Learning**|Zhe Yang et.al.|[2310.08309v1](http://arxiv.org/abs/2310.08309v1)|**[link](https://github.com/Zhe-Young/WICL)**|
 |**2023-10-12**|**Expanding the Vocabulary of BERT for Knowledge Base Construction**|Dong Yang et.al.|[2310.08291v1](http://arxiv.org/abs/2310.08291v1)|**[link](https://github.com/MaastrichtU-IDS/LMKBC-2023)**|
 |**2023-10-12**|**CP-KGC: Constrained-Prompt Knowledge Graph Completion with Large Language Models**|Rui Yang et.al.|[2310.08279v1](http://arxiv.org/abs/2310.08279v1)|null|
 |**2023-10-12**|**Harnessing the Power of LLM to Support Binary Taint Analysis**|Puzhuo Liu et.al.|[2310.08275v1](http://arxiv.org/abs/2310.08275v1)|null|
-|**2023-10-12**|**Impact of Co-occurrence on Factual Knowledge of Large Language Models**|Cheongwoong Kang et.al.|[2310.08256v1](http://arxiv.org/abs/2310.08256v1)|null|
+|**2023-10-12**|**Impact of Co-occurrence on Factual Knowledge of Large Language Models**|Cheongwoong Kang et.al.|[2310.08256v1](http://arxiv.org/abs/2310.08256v1)|**[link](https://github.com/cheongwoong/impact_of_cooccurrence)**|
 |**2023-10-12**|**Language Models are Universal Embedders**|Xin Zhang et.al.|[2310.08232v1](http://arxiv.org/abs/2310.08232v1)|**[link](https://github.com/izhx/uni-rep)**|
 |**2023-10-12**|**EIPE-text: Evaluation-Guided Iterative Plan Extraction for Long-Form Narrative Text Generation**|Wang You et.al.|[2310.08185v1](http://arxiv.org/abs/2310.08185v1)|null|
 |**2023-10-12**|**Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach**|Zheyuan Zhang et.al.|[2310.08172v1](http://arxiv.org/abs/2310.08172v1)|null|
@@ -1770,14 +1770,14 @@
 |**2023-10-12**|**Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles**|Can Cui et.al.|[2310.08034v1](http://arxiv.org/abs/2310.08034v1)|null|
 |**2023-10-12**|**Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection**|Yi Dai et.al.|[2310.08027v1](http://arxiv.org/abs/2310.08027v1)|null|
 |**2023-10-12**|**Harnessing Large Language Models' Empathetic Response Generation Capabilities for Online Mental Health Counselling Support**|Siyuan Brandon Loh et.al.|[2310.08017v1](http://arxiv.org/abs/2310.08017v1)|null|
-|**2023-10-12**|**Large Language Models for Scientific Synthesis, Inference and Explanation**|Yizhen Zheng et.al.|[2310.07984v1](http://arxiv.org/abs/2310.07984v1)|null|
+|**2023-10-12**|**Large Language Models for Scientific Synthesis, Inference and Explanation**|Yizhen Zheng et.al.|[2310.07984v1](http://arxiv.org/abs/2310.07984v1)|**[link](https://github.com/zyzisastudyreallyhardguy/llm4sd)**|
 |**2023-10-12**|**Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation**|Yinpei Dai et.al.|[2310.07968v1](http://arxiv.org/abs/2310.07968v1)|null|
 |**2023-10-11**|**AutoRepo: A general framework for multi-modal LLM-based automated construction reporting**|Hongxu Pu et.al.|[2310.07944v1](http://arxiv.org/abs/2310.07944v1)|null|
 |**2023-10-11**|**Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models**|Bangguo Yu et.al.|[2310.07937v1](http://arxiv.org/abs/2310.07937v1)|null|
 |**2023-10-11**|**LangNav: Language as a Perceptual Representation for Navigation**|Bowen Pan et.al.|[2310.07889v1](http://arxiv.org/abs/2310.07889v1)|null|
 |**2023-10-11**|**Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations**|Zhuoyan Li et.al.|[2310.07849v1](http://arxiv.org/abs/2310.07849v1)|null|
 |**2023-10-11**|**Does Synthetic Data Make Large Language Models More Efficient?**|Sia Gholami et.al.|[2310.07830v1](http://arxiv.org/abs/2310.07830v1)|null|
-|**2023-10-11**|**Large Language Models Are Zero-Shot Time Series Forecasters**|Nate Gruver et.al.|[2310.07820v1](http://arxiv.org/abs/2310.07820v1)|null|
+|**2023-10-11**|**Large Language Models Are Zero-Shot Time Series Forecasters**|Nate Gruver et.al.|[2310.07820v1](http://arxiv.org/abs/2310.07820v1)|**[link](https://github.com/ngruver/llmtime)**|
 |**2023-10-11**|**Exploring the Relationship between Analogy Identification and Sentence Structure Encoding in Large Language Models**|Thilini Wijesiriwardene et.al.|[2310.07818v1](http://arxiv.org/abs/2310.07818v1)|null|
 |**2023-10-11**|**GenTKG: Generative Forecasting on Temporal Knowledge Graph**|Ruotong Liao et.al.|[2310.07793v1](http://arxiv.org/abs/2310.07793v1)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
@@ -2564,11 +2564,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
 |**2023-10-12**|**Idea2Img: Iterative Self-Refinement with GPT-4V(ision) for Automatic Image Design and Generation**|Zhengyuan Yang et.al.|[2310.08541v1](http://arxiv.org/abs/2310.08541v1)|null|
 |**2023-10-12**|**Can We Edit Multimodal Large Language Models?**|Siyuan Cheng et.al.|[2310.08475v1](http://arxiv.org/abs/2310.08475v1)|**[link](https://github.com/zjunlp/easyedit)**|
-|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|null|
+|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|**[link](https://github.com/miccunifi/issues)**|
 |**2023-10-12**|**Distilling from Vision-Language Models for Improved OOD Generalization in Vision Tasks**|Sravanti Addepalli et.al.|[2310.08255v1](http://arxiv.org/abs/2310.08255v1)|**[link](https://github.com/val-iisc/VL2V-ADiP)**|
 |**2023-10-12**|**Ziya-VL: Bilingual Large Vision-Language Model via Multi-Task Instruction Tuning**|Junyu Lu et.al.|[2310.08166v1](http://arxiv.org/abs/2310.08166v1)|null|
 |**2023-10-11**|**From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions**|Zhengfeng Lai et.al.|[2310.07699v1](http://arxiv.org/abs/2310.07699v1)|null|
@@ -2745,7 +2745,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|null|
+|**2023-10-12**|**Octopus: Embodied Vision-Language Programmer from Environmental Feedback**|Jingkang Yang et.al.|[2310.08588v1](http://arxiv.org/abs/2310.08588v1)|**[link](https://github.com/dongyh20/octopus)**|
 |**2023-10-12**|**Discovering Fatigued Movements for Virtual Character Animation**|Noshaba Cheema et.al.|[2310.08583v1](http://arxiv.org/abs/2310.08583v1)|null|
 |**2023-10-12**|**Jigsaw: Supporting Designers in Prototyping Multimodal Applications by Assembling AI Foundation Models**|David Chuan-En Lin et.al.|[2310.08574v1](http://arxiv.org/abs/2310.08574v1)|null|
 |**2023-10-12**|**A Lightweight Calibrated Simulation Enabling Efficient Offline Learning for Optimal Control of Real Buildings**|Judah Goldfeder et.al.|[2310.08569v1](http://arxiv.org/abs/2310.08569v1)|null|
@@ -2760,10 +2760,10 @@
 |**2023-10-12**|**No-Regret Learning and Equilibrium Computation in Quantum Games**|Wayne Lin et.al.|[2310.08473v1](http://arxiv.org/abs/2310.08473v1)|null|
 |**2023-10-12**|**Belief formation and the persistence of biased beliefs**|Olivier Compte et.al.|[2310.08466v1](http://arxiv.org/abs/2310.08466v1)|null|
 |**2023-10-12**|**A Survey on Heterogeneous Transfer Learning**|Runxue Bao et.al.|[2310.08459v1](http://arxiv.org/abs/2310.08459v1)|null|
-|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|**[link](https://github.com/LINs-lab/M3)**|
+|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446v1](http://arxiv.org/abs/2310.08446v1)|null|
 |**2023-10-12**|**MeanAP-Guided Reinforced Active Learning for Object Detection**|Zhixuan Liang et.al.|[2310.08387v1](http://arxiv.org/abs/2310.08387v1)|null|
-|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|null|
-|**2023-10-12**|**MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft**|Haowei Lin et.al.|[2310.08367v1](http://arxiv.org/abs/2310.08367v1)|null|
+|**2023-10-12**|**Mapping Memes to Words for Multimodal Hateful Meme Classification**|Giovanni Burbi et.al.|[2310.08368v1](http://arxiv.org/abs/2310.08368v1)|**[link](https://github.com/miccunifi/issues)**|
+|**2023-10-12**|**MCU: A Task-centric Framework for Open-ended Agent Evaluation in Minecraft**|Haowei Lin et.al.|[2310.08367v1](http://arxiv.org/abs/2310.08367v1)|**[link](https://github.com/craftjarvis/mcu)**|
 |**2023-10-12**|**Multi-Value Alignment in Normative Multi-Agent System: An Evolutionary Optimisation Approach**|Maha Riad et.al.|[2310.08362v1](http://arxiv.org/abs/2310.08362v1)|null|
 |**2023-10-12**|**ALPHA: Attention-based Long-horizon Pathfinding in Highly-structured Areas**|Chengyang He et.al.|[2310.08350v1](http://arxiv.org/abs/2310.08350v1)|null|
 |**2023-10-12**|**LightZero: A Unified Benchmark for Monte Carlo Tree Search in General Sequential Decision Scenarios**|Yazhe Niu et.al.|[2310.08348v1](http://arxiv.org/abs/2310.08348v1)|**[link](https://github.com/opendilab/LightZero)**|
@@ -2785,7 +2785,7 @@
 |**2023-10-12**|**Promptor: A Conversational and Autonomous Prompt Generation Agent for Intelligent Text Entry Techniques**|Junxiao Shen et.al.|[2310.08101v1](http://arxiv.org/abs/2310.08101v1)|null|
 |**2023-10-12**|**GameGPT: Multi-agent Collaborative Framework for Game Development**|Dake Chen et.al.|[2310.08067v1](http://arxiv.org/abs/2310.08067v1)|null|
 |**2023-10-12**|**Incorporating Domain Knowledge Graph into Multimodal Movie Genre Classification with Self-Supervised Attention and Contrastive Learning**|Jiaqi Li et.al.|[2310.08032v1](http://arxiv.org/abs/2310.08032v1)|**[link](https://github.com/aoluming/IDKG)**|
-|**2023-10-12**|**MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging**|Zeyu Cai et.al.|[2310.08002v1](http://arxiv.org/abs/2310.08002v1)|null|
+|**2023-10-12**|**MLP-AMDC: An MLP Architecture for Adaptive-Mask-based Dual-Camera snapshot hyperspectral imaging**|Zeyu Cai et.al.|[2310.08002v1](http://arxiv.org/abs/2310.08002v1)|**[link](https://github.com/caizeyu1992/MLP-AMDC)**|
 |**2023-10-12**|**Think, Act, and Ask: Open-World Interactive Personalized Robot Navigation**|Yinpei Dai et.al.|[2310.07968v1](http://arxiv.org/abs/2310.07968v1)|null|
 |**2023-10-11**|**AutoRepo: A general framework for multi-modal LLM-based automated construction reporting**|Hongxu Pu et.al.|[2310.07944v1](http://arxiv.org/abs/2310.07944v1)|null|
 |**2023-10-11**|**Discrete and continuous mathematical models of sharp-fronted collective cell migration and invasion**|Matthew J Simpson et.al.|[2310.07938v1](http://arxiv.org/abs/2310.07938v1)|null|
