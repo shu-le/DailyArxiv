@@ -62,10 +62,10 @@
 |**2023-10-11**|**ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation**|Bo Peng et.al.|[2310.07697v1](http://arxiv.org/abs/2310.07697v1)|null|
 |**2023-10-11**|**Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole**|Aviad Levis et.al.|[2310.07687v1](http://arxiv.org/abs/2310.07687v1)|null|
 |**2023-10-11**|**Prediction of MET Overexpression in Non-Small Cell Lung Adenocarcinomas from Hematoxylin and Eosin Images**|Kshitij Ingale et.al.|[2310.07682v1](http://arxiv.org/abs/2310.07682v1)|null|
-|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678v1](http://arxiv.org/abs/2310.07678v1)|**[link](https://github.com/ioannislivieris/grad_cam_siamese)**|
+|**2023-10-11**|**Explainable Image Similarity: Integrating Siamese Networks and Grad-CAM**|Ioannis E. Livieris et.al.|[2310.07678v1](http://arxiv.org/abs/2310.07678v1)|null|
 |**2023-10-11**|**HaarNet: Large-scale Linear-Morphological Hybrid Network for RGB-D Semantic Segmentation**|Rick Groenendijk et.al.|[2310.07669v1](http://arxiv.org/abs/2310.07669v1)|null|
 |**2023-10-11**|**Accelerating Vision Transformers Based on Heterogeneous Attention Patterns**|Deli Yu et.al.|[2310.07664v1](http://arxiv.org/abs/2310.07664v1)|null|
-|**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|null|
+|**2023-10-11**|**Deep Video Inpainting Guided by Audio-Visual Self-Supervision**|Kyuyeon Kim et.al.|[2310.07663v1](http://arxiv.org/abs/2310.07663v1)|**[link](https://github.com/kyuyeonpooh/Audio-Visual-Deep-Video-Inpainting)**|
 |**2023-10-11**|**Context-Enhanced Detector For Building Detection From Remote Sensing Images**|Ziyue Huang et.al.|[2310.07638v1](http://arxiv.org/abs/2310.07638v1)|null|
 |**2023-10-11**|**Attention-Map Augmentation for Hypercomplex Breast Cancer Classification**|Eleonora Lopez et.al.|[2310.07633v1](http://arxiv.org/abs/2310.07633v1)|null|
 |**2023-10-11**|**Prompt Backdoors in Visual Prompt Learning**|Hai Huang et.al.|[2310.07632v1](http://arxiv.org/abs/2310.07632v1)|null|
@@ -103,7 +103,7 @@
 |**2023-10-11**|**Guided Attention for Interpretable Motion Captioning**|Karim Radouane et.al.|[2310.07324v1](http://arxiv.org/abs/2310.07324v1)|**[link](https://github.com/rd20karim/m2t-interpretable)**|
 |**2023-10-11**|**A webcam-based machine learning approach for three-dimensional range of motion evaluation**|Xiaoye Michael Wang et.al.|[2310.07322v1](http://arxiv.org/abs/2310.07322v1)|null|
 |**2023-10-11**|**Deep Aramaic: Towards a Synthetic Data Paradigm Enabling Machine Learning in Epigraphy**|Andrei C. Aioanei et.al.|[2310.07310v1](http://arxiv.org/abs/2310.07310v1)|null|
-|**2023-10-11**|**uxSense: Supporting User Experience Analysis with Visualization and Computer Vision**|Andrea Batch et.al.|[2310.07300v1](http://arxiv.org/abs/2310.07300v1)|null|
+|**2023-10-11**|**uxSense: Supporting User Experience Analysis with Visualization and Computer Vision**|Andrea Batch et.al.|[2310.07300v1](http://arxiv.org/abs/2310.07300v1)|**[link](https://github.com/dreajulca/uxsense)**|
 |**2023-10-10**|**AutoAD II: The Sequel -- Who, When, and What in Movie Audio Description**|Tengda Han et.al.|[2310.06838v1](http://arxiv.org/abs/2310.06838v1)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836v1](http://arxiv.org/abs/2310.06836v1)|null|
 |**2023-10-10**|**NECO: NEural Collapse Based Out-of-distribution detection**|Mouïn Ben Ammar et.al.|[2310.06823v1](http://arxiv.org/abs/2310.06823v1)|null|
@@ -1787,7 +1787,7 @@
 |**2023-10-11**|**From Scarcity to Efficiency: Improving CLIP Training via Visual-enriched Captions**|Zhengfeng Lai et.al.|[2310.07699v1](http://arxiv.org/abs/2310.07699v1)|null|
 |**2023-10-11**|**Composite Backdoor Attacks Against Large Language Models**|Hai Huang et.al.|[2310.07676v1](http://arxiv.org/abs/2310.07676v1)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653v1](http://arxiv.org/abs/2310.07653v1)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
-|**2023-10-11**|**Evaluating Large Language Models at Evaluating Instruction Following**|Zhiyuan Zeng et.al.|[2310.07641v1](http://arxiv.org/abs/2310.07641v1)|null|
+|**2023-10-11**|**Evaluating Large Language Models at Evaluating Instruction Following**|Zhiyuan Zeng et.al.|[2310.07641v1](http://arxiv.org/abs/2310.07641v1)|**[link](https://github.com/princeton-nlp/llmbar)**|
 |**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
 |**2023-10-11**|**The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values**|Hannah Rose Kirk et.al.|[2310.07629v1](http://arxiv.org/abs/2310.07629v1)|null|
 |**2023-10-11**|**Linear Latent World Models in Simple Transformers: A Case Study on Othello-GPT**|Dean S. Hazineh et.al.|[2310.07582v1](http://arxiv.org/abs/2310.07582v1)|**[link](https://github.com/deanhazineh/emergent-world-representations-othello)**|
@@ -1800,8 +1800,8 @@
 |**2023-10-11**|**On the Impact of Cross-Domain Data on German Language Models**|Amin Dada et.al.|[2310.07321v1](http://arxiv.org/abs/2310.07321v1)|null|
 |**2023-10-11**|**Parrot: Enhancing Multi-Turn Chat Models by Learning to Ask Questions**|Yuchong Sun et.al.|[2310.07301v1](http://arxiv.org/abs/2310.07301v1)|null|
 |**2023-10-11**|**Beyond Memorization: Violating Privacy Via Inference with Large Language Models**|Robin Staab et.al.|[2310.07298v1](http://arxiv.org/abs/2310.07298v1)|null|
-|**2023-10-11**|**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**|Liang Chen et.al.|[2310.07289v1](http://arxiv.org/abs/2310.07289v1)|null|
-|**2023-10-12**|**Typing to Listen at the Cocktail Party: Text-Guided Target Speaker Extraction**|Xiang Hao et.al.|[2310.07284v2](http://arxiv.org/abs/2310.07284v2)|null|
+|**2023-10-11**|**Beyond Factuality: A Comprehensive Evaluation of Large Language Models as Knowledge Generators**|Liang Chen et.al.|[2310.07289v1](http://arxiv.org/abs/2310.07289v1)|**[link](https://github.com/chanliang/conner)**|
+|**2023-10-12**|**Typing to Listen at the Cocktail Party: Text-Guided Target Speaker Extraction**|Xiang Hao et.al.|[2310.07284v2](http://arxiv.org/abs/2310.07284v2)|**[link](https://github.com/haoxiangsnr/llm-tse)**|
 |**2023-10-12**|**An Analysis on Large Language Models in Healthcare: A Case Study of BioBERT**|Shyni Sharaf et.al.|[2310.07282v2](http://arxiv.org/abs/2310.07282v2)|null|
 |**2023-10-11**|**CoPAL: Corrective Planning of Robot Actions with Large Language Models**|Frank Joublin et.al.|[2310.07263v1](http://arxiv.org/abs/2310.07263v1)|null|
 |**2023-10-11**|**CacheGen: Fast Context Loading for Language Model Applications**|Yuhan Liu et.al.|[2310.07240v1](http://arxiv.org/abs/2310.07240v1)|null|
@@ -1814,13 +1814,13 @@
 |**2023-10-11**|**QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources**|Zhikai Li et.al.|[2310.07147v1](http://arxiv.org/abs/2310.07147v1)|null|
 |**2023-10-11**|**Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting**|Zhiyu Chen et.al.|[2310.07146v1](http://arxiv.org/abs/2310.07146v1)|null|
 |**2023-10-11**|**Risk Assessment and Statistical Significance in the Age of Foundation Models**|Apoorva Nitsure et.al.|[2310.07132v1](http://arxiv.org/abs/2310.07132v1)|null|
-|**2023-10-11**|**CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace**|Yuchao Huang et.al.|[2310.07128v1](http://arxiv.org/abs/2310.07128v1)|null|
+|**2023-10-11**|**CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace**|Yuchao Huang et.al.|[2310.07128v1](http://arxiv.org/abs/2310.07128v1)|**[link](https://github.com/wuchiuwong/crashtranslator)**|
 |**2023-10-11**|**ClausewitzGPT Framework: A New Frontier in Theoretical Large Language Model Enhanced Information Operations**|Benjamin Kereopa-Yorke et.al.|[2310.07099v1](http://arxiv.org/abs/2310.07099v1)|null|
 |**2023-10-11**|**Argumentative Stance Prediction: An Exploratory Study on Multimodality and Few-Shot Learning**|Arushi Sharma et.al.|[2310.07093v1](http://arxiv.org/abs/2310.07093v1)|null|
 |**2023-10-11**|**Diversity of Thought Improves Reasoning Abilities of Large Language Models**|Ranjita Naik et.al.|[2310.07088v1](http://arxiv.org/abs/2310.07088v1)|null|
 |**2023-10-10**|**Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding**|Kexun Zhang et.al.|[2310.07075v1](http://arxiv.org/abs/2310.07075v1)|**[link](https://github.com/chenhongqiao/tooldec)**|
 |**2023-10-10**|**Large Language Models can Learn Rules**|Zhaocheng Zhu et.al.|[2310.07064v1](http://arxiv.org/abs/2310.07064v1)|null|
-|**2023-10-10**|**QualiGPT: GPT as an easy-to-use tool for qualitative coding**|He Zhang et.al.|[2310.07061v1](http://arxiv.org/abs/2310.07061v1)|null|
+|**2023-10-10**|**QualiGPT: GPT as an easy-to-use tool for qualitative coding**|He Zhang et.al.|[2310.07061v1](http://arxiv.org/abs/2310.07061v1)|**[link](https://github.com/kindopstar/qualigpt)**|
 |**2023-10-10**|**DKEC: Domain Knowledge Enhanced Multi-Label Classification for Electronic Health Records**|Xueren Ge et.al.|[2310.07059v1](http://arxiv.org/abs/2310.07059v1)|null|
 |**2023-10-10**|**Automatic Macro Mining from Interaction Traces at Scale**|Forrest Huang et.al.|[2310.07023v1](http://arxiv.org/abs/2310.07023v1)|null|
 |**2023-10-10**|**NEWTON: Are Large Language Models Capable of Physical Reasoning?**|Yi Ru Wang et.al.|[2310.07018v1](http://arxiv.org/abs/2310.07018v1)|null|
@@ -2807,7 +2807,7 @@
 |**2023-10-12**|**S4C: Self-Supervised Semantic Scene Completion with Neural Fields**|Adrian Hayler et.al.|[2310.07522v2](http://arxiv.org/abs/2310.07522v2)|null|
 |**2023-10-11**|**Sample-Driven Federated Learning for Energy-Efficient and Real-Time IoT Sensing**|Minh Ngoc Luu et.al.|[2310.07497v1](http://arxiv.org/abs/2310.07497v1)|**[link](https://github.com/skyd-fl/scfl)**|
 |**2023-10-11**|**Diversity for Contingency: Learning Diverse Behaviors for Efficient Adaptation and Transfer**|Finn Rietz et.al.|[2310.07493v1](http://arxiv.org/abs/2310.07493v1)|null|
-|**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478v2](http://arxiv.org/abs/2310.07478v2)|null|
+|**2023-10-12**|**Multimodal Graph Learning for Generative Tasks**|Minji Yoon et.al.|[2310.07478v2](http://arxiv.org/abs/2310.07478v2)|**[link](https://github.com/minjiyoon/mmgl)**|
 |**2023-10-11**|**FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation**|Xinyu Sun et.al.|[2310.07473v1](http://arxiv.org/abs/2310.07473v1)|null|
 |**2023-10-11**|**RealityDrop: A Multimodal Mixed Reality Framework to Manipulate Virtual Content between Cross-system Displays**|Jeremy McDade et.al.|[2310.07458v1](http://arxiv.org/abs/2310.07458v1)|null|
 |**2023-10-11**|**DESTINE: Dynamic Goal Queries with Temporal Transductive Alignment for Trajectory Prediction**|Rezaul Karim et.al.|[2310.07438v1](http://arxiv.org/abs/2310.07438v1)|null|
@@ -2834,7 +2834,7 @@
 |**2023-10-10**|**Violation of Expectation via Metacognitive Prompting Reduces Theory of Mind Prediction Error in Large Language Models**|Courtland Leer et.al.|[2310.06983v1](http://arxiv.org/abs/2310.06983v1)|**[link](https://github.com/plastic-labs/voe-paper-eval)**|
 |**2023-10-10**|**Extended Wigner's friend paradoxes do not require nonlocal correlations**|Laurens Walleghem et.al.|[2310.06976v1](http://arxiv.org/abs/2310.06976v1)|null|
 |**2023-10-10**|**LLMs Killed the Script Kiddie: How Agents Supported by Large Language Models Change the Landscape of Network Threat Testing**|Stephen Moskal et.al.|[2310.06936v1](http://arxiv.org/abs/2310.06936v1)|null|
-|**2023-10-10**|**Bayesian inference and cure rate modeling for event history data**|Panagiotis Papastamoulis et.al.|[2310.06926v1](http://arxiv.org/abs/2310.06926v1)|null|
+|**2023-10-10**|**Bayesian inference and cure rate modeling for event history data**|Panagiotis Papastamoulis et.al.|[2310.06926v1](http://arxiv.org/abs/2310.06926v1)|**[link](https://github.com/mqbssppe/bayesian_cure_rate_model)**|
 |**2023-10-10**|**Reinforcement Learning in a Safety-Embedded MDP with Trajectory Optimization**|Fan Yang et.al.|[2310.06903v1](http://arxiv.org/abs/2310.06903v1)|null|
 |**2023-10-10**|**Scalable Semantic Non-Markovian Simulation Proxy for Reinforcement Learning**|Kaustuv Mukherji et.al.|[2310.06835v1](http://arxiv.org/abs/2310.06835v1)|null|
 |**2023-10-10**|**Lemur: Harmonizing Natural Language and Code for Language Agents**|Yiheng Xu et.al.|[2310.06830v1](http://arxiv.org/abs/2310.06830v1)|**[link](https://github.com/openlemur/lemur)**|
