@@ -3144,7 +3144,7 @@
 |**2023-10-17**|**Stealthy Terrain-Aware Multi-Agent Active Search**|Nikhil Angad Bakshi et.al.|[2310.10961v1](http://arxiv.org/abs/2310.10961v1)|**[link](https://github.com/bakshienator77/stealthy-terrain-aware-reconnaissance-and-search)**|
 |**2023-10-17**|**Combat Urban Congestion via Collaboration: Heterogeneous GNN-based MARL for Coordinated Platooning and Traffic Signal Control**|Xianyue Peng et.al.|[2310.10948v1](http://arxiv.org/abs/2310.10948v1)|null|
 |**2023-10-17**|**Iterative Clustering Material Decomposition Aided by Empirical Spectral Correction for High-Resolution Photon-Counting Detectors in Micro-CT**|Juan C. R. Luna et.al.|[2310.10913v1](http://arxiv.org/abs/2310.10913v1)|null|
-|**2023-10-17**|**Surrogate Active Subspaces for Jump-Discontinuous Functions**|Nathan Wycoff et.al.|[2310.10907v1](http://arxiv.org/abs/2310.10907v1)|null|
+|**2023-10-18**|**Surrogate Active Subspaces for Jump-Discontinuous Functions**|Nathan Wycoff et.al.|[2310.10907v2](http://arxiv.org/abs/2310.10907v2)|null|
 |**2023-10-16**|**Designing Shared Information Displays for Agents of Varying Strategic Sophistication**|Dongping Zhang et.al.|[2310.10858v1](http://arxiv.org/abs/2310.10858v1)|null|
 |**2023-10-16**|**Joint Optimization of Traffic Signal Control and Vehicle Routing in Signalized Road Networks using Multi-Agent Deep Reinforcement Learning**|Xianyue Peng et.al.|[2310.10856v1](http://arxiv.org/abs/2310.10856v1)|null|
 |**2023-10-16**|**Survey of Vulnerabilities in Large Language Models Revealed by Adversarial Attacks**|Erfan Shayegani et.al.|[2310.10844v1](http://arxiv.org/abs/2310.10844v1)|null|
