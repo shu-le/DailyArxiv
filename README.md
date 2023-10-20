@@ -1,4 +1,4 @@
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 
 ## CV
 
@@ -16,7 +16,7 @@
 |**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
 |**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|null|
-|**2023-10-18**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v1](http://arxiv.org/abs/2310.12060v1)|null|
+|**2023-10-19**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v2](http://arxiv.org/abs/2310.12060v2)|null|
 |**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|null|
 |**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020v1](http://arxiv.org/abs/2310.12020v1)|null|
 |**2023-10-18**|**Exploring Decision-based Black-box Attacks on Face Forgery Detection**|Zhaoyu Chen et.al.|[2310.12017v1](http://arxiv.org/abs/2310.12017v1)|null|
@@ -1332,15 +1332,15 @@
 |**2023-10-17**|**Improving Video Deepfake Detection: A DCT-Based Approach with Patch-Level Analysis**|Luca Guarnera et.al.|[2310.11204v1](http://arxiv.org/abs/2310.11204v1)|null|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142v1](http://arxiv.org/abs/2310.11142v1)|null|
 |**2023-10-17**|**3D Structure-guided Network for Tooth Alignment in 2D Photograph**|Yulong Dou et.al.|[2310.11106v1](http://arxiv.org/abs/2310.11106v1)|**[link](https://github.com/douyl/2DToothAlignment)**|
-|**2023-10-18**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102v2](http://arxiv.org/abs/2310.11102v2)|null|
+|**2023-10-19**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102v3](http://arxiv.org/abs/2310.11102v3)|null|
 |**2023-10-17**|**Intelligent Resource Allocation for UAV-Based Cognitive NOMA Networks: An Active Inference Approach**|Felix Obite et.al.|[2310.11070v1](http://arxiv.org/abs/2310.11070v1)|null|
 |**2023-10-17**|**Robust Trading in a Generalized Lattice Market**|Chung-Han Hsieh et.al.|[2310.11023v1](http://arxiv.org/abs/2310.11023v1)|null|
 |**2023-10-17**|**From Identifiable Causal Representations to Controllable Counterfactual Generation: A Survey on Causal Generative Modeling**|Aneesh Komanduri et.al.|[2310.11011v1](http://arxiv.org/abs/2310.11011v1)|null|
 |**2023-10-17**|**Latent class analysis with weighted responses**|Huan Qing et.al.|[2310.10984v1](http://arxiv.org/abs/2310.10984v1)|null|
 |**2023-10-16**|**Probabilistic Classification by Density Estimation Using Gaussian Mixture Model and Masked Autoregressive Flow**|Benyamin Ghojogh et.al.|[2310.10843v1](http://arxiv.org/abs/2310.10843v1)|**[link](https://github.com/bghojogh/density-based-classifiers)**|
 |**2023-10-18**|**Demystifying Poisoning Backdoor Attacks from a Statistical Perspective**|Ganghua Wang et.al.|[2310.10780v2](http://arxiv.org/abs/2310.10780v2)|null|
-|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769v1](http://arxiv.org/abs/2310.10769v1)|null|
-|**2023-10-16**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765v1](http://arxiv.org/abs/2310.10765v1)|null|
+|**2023-10-16**|**LAMP: Learn A Motion Pattern for Few-Shot-Based Video Generation**|Ruiqi Wu et.al.|[2310.10769v1](http://arxiv.org/abs/2310.10769v1)|**[link](https://github.com/RQ-Wu/LAMP)**|
+|**2023-10-18**|**BiomedJourney: Counterfactual Biomedical Image Generation by Instruction-Learning from Multimodal Patient Journeys**|Yu Gu et.al.|[2310.10765v2](http://arxiv.org/abs/2310.10765v2)|null|
 |**2023-10-16**|**MOFDiff: Coarse-grained Diffusion for Metal-Organic Framework Design**|Xiang Fu et.al.|[2310.10732v1](http://arxiv.org/abs/2310.10732v1)|null|
 |**2023-10-16**|**Data-Driven Score-Based Models for Generating Stable Structures with Adaptive Crystal Cells**|Arsen Sultanov et.al.|[2310.10695v1](http://arxiv.org/abs/2310.10695v1)|**[link](https://github.com/findooshka/diffusion-atoms)**|
 |**2023-10-15**|**ACES: generating diverse programming puzzles with autotelic language models and semantic descriptors**|Julien Pourcel et.al.|[2310.10692v1](http://arxiv.org/abs/2310.10692v1)|null|
@@ -3269,7 +3269,7 @@
 |**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335v1](http://arxiv.org/abs/2310.11335v1)|null|
 |**2023-10-17**|**Agent-Specific Effects**|Stelios Triantafyllou et.al.|[2310.11334v1](http://arxiv.org/abs/2310.11334v1)|**[link](https://github.com/stelios30/agent-specific-effects)**|
 |**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270v2](http://arxiv.org/abs/2310.11270v2)|null|
-|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|null|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|**[link](https://github.com/ai4ce/occ4cast)**|
 |**2023-10-17**|**On the Effectiveness of Creating Conversational Agent Personalities Through Prompting**|Heng Gu et.al.|[2310.11182v1](http://arxiv.org/abs/2310.11182v1)|null|
 |**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169v1](http://arxiv.org/abs/2310.11169v1)|null|
 |**2023-10-17**|**Quarantine as a delay, not a definitive solution**|Mintu Karmakar et.al.|[2310.11121v1](http://arxiv.org/abs/2310.11121v1)|null|
@@ -4161,7 +4161,7 @@
 |**2023-10-18**|**4K4D: Real-Time 4D View Synthesis at 4K Resolution**|Zhen Xu et.al.|[2310.11448v2](http://arxiv.org/abs/2310.11448v2)|null|
 |**2023-10-17**|**Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching**|Dongliang Cao et.al.|[2310.11420v1](http://arxiv.org/abs/2310.11420v1)|null|
 |**2023-10-17**|**Updates on the FRi3D CME model in EUHFORIA**|Anwesha Maharana et.al.|[2310.11402v1](http://arxiv.org/abs/2310.11402v1)|null|
-|**2023-10-17**|**A method for crystallographic mapping of an alpha-beta titanium alloy with nanometre resolution using scanning precession electron diffraction and open-source software libraries**|Ian MacLaren et.al.|[2310.11395v1](http://arxiv.org/abs/2310.11395v1)|null|
+|**2023-10-19**|**A method for crystallographic mapping of an alpha-beta titanium alloy with nanometre resolution using scanning precession electron diffraction and open-source software libraries**|Ian MacLaren et.al.|[2310.11395v2](http://arxiv.org/abs/2310.11395v2)|null|
 |**2023-10-17**|**3D Force and Contact Estimation for a Soft-Bubble Visuotactile Sensor Using FEM**|Jing-Chen Peng et.al.|[2310.11372v1](http://arxiv.org/abs/2310.11372v1)|null|
 |**2023-10-17**|**Deep learning segmentation of low-resolution images for prostate magnetic resonance-guided radiotherapy**|Samuel Fransson et.al.|[2310.11358v1](http://arxiv.org/abs/2310.11358v1)|null|
 |**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346v1](http://arxiv.org/abs/2310.11346v1)|null|
@@ -4171,7 +4171,7 @@
 |**2023-10-17**|**CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation**|Zhaojie Chu et.al.|[2310.11295v1](http://arxiv.org/abs/2310.11295v1)|null|
 |**2023-10-17**|**Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior**|Ruibo Li et.al.|[2310.11284v1](http://arxiv.org/abs/2310.11284v1)|null|
 |**2023-10-17**|**The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes**|Daniel J. Cornwell et.al.|[2310.11268v1](http://arxiv.org/abs/2310.11268v1)|null|
-|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|null|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|**[link](https://github.com/ai4ce/occ4cast)**|
 |**2023-10-17**|**Chromospheric evaporation by particle beams in multi-dimensional flare models**|Malcolm Keith Druett et.al.|[2310.11226v1](http://arxiv.org/abs/2310.11226v1)|null|
 |**2023-10-17**|**Sparse Multi-Object Render-and-Compare**|Florian Langer et.al.|[2310.11184v1](http://arxiv.org/abs/2310.11184v1)|null|
 |**2023-10-17**|**FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus**|Xueyang Kang et.al.|[2310.11178v1](http://arxiv.org/abs/2310.11178v1)|null|
