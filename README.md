@@ -17,7 +17,7 @@
 |**2023-10-18**|**Exploring Fairness in Pre-trained Visual Transformer based Natural and GAN Generated Image Detection Systems and Understanding the Impact of Image Compression in Fairness**|Manjary P. Gangan et.al.|[2310.12076v1](http://arxiv.org/abs/2310.12076v1)|null|
 |**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|null|
 |**2023-10-19**|**Robust Class-Conditional Distribution Alignment for Partial Domain Adaptation**|Sandipan Choudhuri et.al.|[2310.12060v2](http://arxiv.org/abs/2310.12060v2)|null|
-|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|null|
+|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|**[link](https://github.com/wingrune/segmatron)**|
 |**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020v1](http://arxiv.org/abs/2310.12020v1)|null|
 |**2023-10-18**|**Exploring Decision-based Black-box Attacks on Face Forgery Detection**|Zhaoyu Chen et.al.|[2310.12017v1](http://arxiv.org/abs/2310.12017v1)|null|
 |**2023-10-18**|**KI-PMF: Knowledge Integrated Plausible Motion Forecasting**|Abhishek Vivekanandan et.al.|[2310.12007v1](http://arxiv.org/abs/2310.12007v1)|null|
@@ -30,7 +30,7 @@
 |**2023-10-18**|**Analyze Mass Spectrometry data with Artificial Intelligence to assist the understanding of past habitability of Mars and provide insights for future missions**|Ioannis Nasios et.al.|[2310.11888v1](http://arxiv.org/abs/2310.11888v1)|**[link](https://github.com/ioannisnasios/marsspectrometry2_gaschromatography)**|
 |**2023-10-18**|**From Neural Activations to Concepts: A Survey on Explaining Concepts in Neural Networks**|Jae Hee Lee et.al.|[2310.11884v1](http://arxiv.org/abs/2310.11884v1)|null|
 |**2023-10-18**|**A Comparative Study of Image Restoration Networks for General Backbone Network Design**|Xiangyu Chen et.al.|[2310.11881v1](http://arxiv.org/abs/2310.11881v1)|null|
-|**2023-10-18**|**Fractional Concepts in Neural Networks: Enhancing Activation and Loss Functions**|Zahra Alijani et.al.|[2310.11875v1](http://arxiv.org/abs/2310.11875v1)|null|
+|**2023-10-18**|**Fractional Concepts in Neural Networks: Enhancing Activation and Loss Functions**|Zahra Alijani et.al.|[2310.11875v1](http://arxiv.org/abs/2310.11875v1)|**[link](https://gitlab.com/irafm-ai/frac_calculus_01)**|
 |**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868v1](http://arxiv.org/abs/2310.11868v1)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867v1](http://arxiv.org/abs/2310.11867v1)|null|
 |**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864v1](http://arxiv.org/abs/2310.11864v1)|null|
@@ -43,7 +43,7 @@
 |**2023-10-18**|**Multi Task Consistency Guided Source-Free Test-Time Domain Adaptation Medical Image Segmentation**|Yanyu Ye et.al.|[2310.11766v1](http://arxiv.org/abs/2310.11766v1)|null|
 |**2023-10-18**|**Perceptual Measurements, Distances and Metrics**|Jonathan Vacher et.al.|[2310.11759v1](http://arxiv.org/abs/2310.11759v1)|**[link](https://github.com/jonathanvacher/perceptual_metric)**|
 |**2023-10-18**|**Domain-Generalized Face Anti-Spoofing with Unknown Attacks**|Zong-Wei Hong et.al.|[2310.11758v1](http://arxiv.org/abs/2310.11758v1)|**[link](https://github.com/ai-application-and-integration-lab/dgua_fas)**|
-|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755v1](http://arxiv.org/abs/2310.11755v1)|null|
+|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755v1](http://arxiv.org/abs/2310.11755v1)|**[link](https://github.com/aim-uofa/rgm)**|
 |**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748v1](http://arxiv.org/abs/2310.11748v1)|null|
 |**2023-10-18**|**DBDNet:Partial-to-Partial Point Cloud Registration with Dual Branches Decoupling**|Shiqi Li et.al.|[2310.11733v1](http://arxiv.org/abs/2310.11733v1)|null|
 |**2023-10-18**|**VST++: Efficient and Stronger Visual Saliency Transformer**|Nian Liu et.al.|[2310.11725v1](http://arxiv.org/abs/2310.11725v1)|null|
@@ -1312,7 +1312,7 @@
 |**2023-10-18**|**Quality Diversity through Human Feedback**|Li Ding et.al.|[2310.12103v1](http://arxiv.org/abs/2310.12103v1)|null|
 |**2023-10-18**|**Black-Box Training Data Identification in GANs via Detector Networks**|Lukman Olagoke et.al.|[2310.12063v1](http://arxiv.org/abs/2310.12063v1)|null|
 |**2023-10-18**|**Simultaneous Learning of Contact and Continuous Dynamics**|Bibit Bianchini et.al.|[2310.12054v1](http://arxiv.org/abs/2310.12054v1)|null|
-|**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|null|
+|**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|**[link](https://github.com/qwerty6191/projected-lmc)**|
 |**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v1](http://arxiv.org/abs/2310.12004v1)|null|
 |**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001v1](http://arxiv.org/abs/2310.12001v1)|null|
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976v1](http://arxiv.org/abs/2310.11976v1)|**[link](https://github.com/rzhwang/infodiffusion)**|
@@ -1327,7 +1327,7 @@
 |**2023-10-17**|**Bias and Error Mitigation in Software-Generated Data: An Advanced Search and Optimization Framework Leveraging Generative Code Models**|Ernesto Giralt Hernández et.al.|[2310.11546v1](http://arxiv.org/abs/2310.11546v1)|null|
 |**2023-10-17**|**GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment**|Dhruba Ghosh et.al.|[2310.11513v1](http://arxiv.org/abs/2310.11513v1)|**[link](https://github.com/djghosh13/geneval)**|
 |**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440v2](http://arxiv.org/abs/2310.11440v2)|null|
-|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311v1](http://arxiv.org/abs/2310.11311v1)|null|
+|**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311v1](http://arxiv.org/abs/2310.11311v1)|**[link](https://github.com/alexmaols/elucd)**|
 |**2023-10-17**|**Learning to Sample Better**|Michael S. Albergo et.al.|[2310.11232v1](http://arxiv.org/abs/2310.11232v1)|null|
 |**2023-10-17**|**Improving Video Deepfake Detection: A DCT-Based Approach with Patch-Level Analysis**|Luca Guarnera et.al.|[2310.11204v1](http://arxiv.org/abs/2310.11204v1)|null|
 |**2023-10-17**|**BayesDiff: Estimating Pixel-wise Uncertainty in Diffusion via Bayesian Inference**|Siqi Kou et.al.|[2310.11142v1](http://arxiv.org/abs/2310.11142v1)|null|
@@ -1932,7 +1932,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135v1](http://arxiv.org/abs/2310.12135v1)|null|
-|**2023-10-17**|**Unveiling the General Intelligence Factor in Language Models: A Psychometric Approach**|David Ilić et.al.|[2310.11616v1](http://arxiv.org/abs/2310.11616v1)|null|
+|**2023-10-17**|**Unveiling the General Intelligence Factor in Language Models: A Psychometric Approach**|David Ilić et.al.|[2310.11616v1](http://arxiv.org/abs/2310.11616v1)|**[link](https://github.com/davidilic/g-in-llms)**|
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451v1](http://arxiv.org/abs/2310.11451v1)|null|
 |**2023-10-12**|**XAI Benchmark for Visual Explanation**|Yifei Zhang et.al.|[2310.08537v1](http://arxiv.org/abs/2310.08537v1)|null|
 |**2023-10-11**|**The Thousand Faces of Explainable AI Along the Machine Learning Life Cycle: Industrial Reality and Current State of Research**|Thomas Decker et.al.|[2310.07882v1](http://arxiv.org/abs/2310.07882v1)|null|
@@ -2042,7 +2042,7 @@
 |**2023-10-18**|**A Comprehensive Evaluation of Large Language Models on Legal Judgment Prediction**|Ruihao Shui et.al.|[2310.11761v1](http://arxiv.org/abs/2310.11761v1)|**[link](https://github.com/srhthu/lm-compeval-legal)**|
 |**2023-10-18**|**Quantify Health-Related Atomic Knowledge in Chinese Medical Large Language Models: A Computational Analysis**|Yaxin Fan et.al.|[2310.11722v1](http://arxiv.org/abs/2310.11722v1)|null|
 |**2023-10-18**|**Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding**|Caoyun Fan et.al.|[2310.11721v1](http://arxiv.org/abs/2310.11721v1)|null|
-|**2023-10-18**|**Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning**|Ming Li et.al.|[2310.11716v1](http://arxiv.org/abs/2310.11716v1)|null|
+|**2023-10-18**|**Reflection-Tuning: Data Recycling Improves LLM Instruction-Tuning**|Ming Li et.al.|[2310.11716v1](http://arxiv.org/abs/2310.11716v1)|**[link](https://github.com/mingliiii/reflection_tuning)**|
 |**2023-10-18**|**A Comprehensive Survey on Vector Database: Storage and Retrieval Technique, Challenge**|Yikun Han et.al.|[2310.11703v1](http://arxiv.org/abs/2310.11703v1)|null|
 |**2023-10-18**|**MISAR: A Multimodal Instructional System with Augmented Reality**|Jing Bi et.al.|[2310.11699v1](http://arxiv.org/abs/2310.11699v1)|**[link](https://github.com/nguyennm1024/misar)**|
 |**2023-10-18**|**Adaptation with Self-Evaluation to Improve Selective Prediction in LLMs**|Jiefeng Chen et.al.|[2310.11689v1](http://arxiv.org/abs/2310.11689v1)|null|
@@ -2071,7 +2071,7 @@
 |**2023-10-17**|**Emulating Human Cognitive Processes for Expert-Level Medical Question-Answering with Large Language Models**|Khushboo Verma et.al.|[2310.11266v1](http://arxiv.org/abs/2310.11266v1)|null|
 |**2023-10-17**|**Revealing the Unwritten: Visual Investigation of Beam Search Trees to Address Language Model Prompting Challenges**|Thilo Spinner et.al.|[2310.11252v1](http://arxiv.org/abs/2310.11252v1)|null|
 |**2023-10-17**|**Leveraging Large Language Model for Automatic Evolving of Industrial Data-Centric R&D Cycle**|Xu Yang et.al.|[2310.11249v1](http://arxiv.org/abs/2310.11249v1)|null|
-|**2023-10-17**|**Entity Matching using Large Language Models**|Ralph Peeters et.al.|[2310.11244v1](http://arxiv.org/abs/2310.11244v1)|null|
+|**2023-10-17**|**Entity Matching using Large Language Models**|Ralph Peeters et.al.|[2310.11244v1](http://arxiv.org/abs/2310.11244v1)|**[link](https://github.com/wbsg-uni-mannheim/matchgpt)**|
 |**2023-10-17**|**Watermarking LLMs with Weight Quantization**|Linyang Li et.al.|[2310.11237v1](http://arxiv.org/abs/2310.11237v1)|**[link](https://github.com/twilight92z/quantize-watermark)**|
 |**2023-10-17**|**KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models**|Jiho Kim et.al.|[2310.11220v1](http://arxiv.org/abs/2310.11220v1)|**[link](https://github.com/jiho283/kg-gpt)**|
 |**2023-10-17**|**Can Large Language Models Explain Themselves? A Study of LLM-Generated Self-Explanations**|Shiyuan Huang et.al.|[2310.11207v1](http://arxiv.org/abs/2310.11207v1)|null|
@@ -3234,7 +3234,7 @@
 |**2023-10-18**|**DiagrammerGPT: Generating Open-Domain, Open-Platform Diagrams via LLM Planning**|Abhay Zala et.al.|[2310.12128v1](http://arxiv.org/abs/2310.12128v1)|null|
 |**2023-10-18**|**An Online Learning Theory of Brokerage**|Nataša Bolić et.al.|[2310.12107v1](http://arxiv.org/abs/2310.12107v1)|null|
 |**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100v1](http://arxiv.org/abs/2310.12100v1)|null|
-|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|null|
+|**2023-10-18**|**SegmATRon: Embodied Adaptive Semantic Segmentation for Indoor Environment**|Tatiana Zemskova et.al.|[2310.12031v1](http://arxiv.org/abs/2310.12031v1)|**[link](https://github.com/wingrune/segmatron)**|
 |**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020v1](http://arxiv.org/abs/2310.12020v1)|null|
 |**2023-10-18**|**DesignQuizzer: A Community-Powered Conversational Agent for Learning Visual Design**|Zhenhui Peng et.al.|[2310.12019v1](http://arxiv.org/abs/2310.12019v1)|null|
 |**2023-10-18**|**A Consensus-Based Generalized Multi-Population Aggregative Game with Application to Charging Coordination of Electric Vehicles**|Mahsa Ghavami et.al.|[2310.11983v1](http://arxiv.org/abs/2310.11983v1)|null|
@@ -3269,7 +3269,7 @@
 |**2023-10-17**|**Non-ergodicity in reinforcement learning: robustness via ergodicity transformations**|Dominik Baumann et.al.|[2310.11335v1](http://arxiv.org/abs/2310.11335v1)|null|
 |**2023-10-17**|**Agent-Specific Effects**|Stelios Triantafyllou et.al.|[2310.11334v1](http://arxiv.org/abs/2310.11334v1)|**[link](https://github.com/stelios30/agent-specific-effects)**|
 |**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270v2](http://arxiv.org/abs/2310.11270v2)|null|
-|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|**[link](https://github.com/ai4ce/occ4cast)**|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|null|
 |**2023-10-17**|**On the Effectiveness of Creating Conversational Agent Personalities Through Prompting**|Heng Gu et.al.|[2310.11182v1](http://arxiv.org/abs/2310.11182v1)|null|
 |**2023-10-17**|**MST-GAT: A Multimodal Spatial-Temporal Graph Attention Network for Time Series Anomaly Detection**|Chaoyue Ding et.al.|[2310.11169v1](http://arxiv.org/abs/2310.11169v1)|null|
 |**2023-10-17**|**Quarantine as a delay, not a definitive solution**|Mintu Karmakar et.al.|[2310.11121v1](http://arxiv.org/abs/2310.11121v1)|null|
@@ -4171,7 +4171,7 @@
 |**2023-10-17**|**CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation**|Zhaojie Chu et.al.|[2310.11295v1](http://arxiv.org/abs/2310.11295v1)|null|
 |**2023-10-17**|**Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior**|Ruibo Li et.al.|[2310.11284v1](http://arxiv.org/abs/2310.11284v1)|null|
 |**2023-10-17**|**The localization of galaxy groups in close proximity to galaxy clusters using cosmic web nodes**|Daniel J. Cornwell et.al.|[2310.11268v1](http://arxiv.org/abs/2310.11268v1)|null|
-|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|**[link](https://github.com/ai4ce/occ4cast)**|
+|**2023-10-17**|**LiDAR-based 4D Occupancy Completion and Forecasting**|Xinhao Liu et.al.|[2310.11239v1](http://arxiv.org/abs/2310.11239v1)|null|
 |**2023-10-17**|**Chromospheric evaporation by particle beams in multi-dimensional flare models**|Malcolm Keith Druett et.al.|[2310.11226v1](http://arxiv.org/abs/2310.11226v1)|null|
 |**2023-10-17**|**Sparse Multi-Object Render-and-Compare**|Florian Langer et.al.|[2310.11184v1](http://arxiv.org/abs/2310.11184v1)|null|
 |**2023-10-17**|**FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus**|Xueyang Kang et.al.|[2310.11178v1](http://arxiv.org/abs/2310.11178v1)|null|
