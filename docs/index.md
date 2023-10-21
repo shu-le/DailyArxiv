@@ -28,7 +28,7 @@ layout: default
 |**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|null|
 |**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v1](http://arxiv.org/abs/2310.12787v1)|null|
 |**2023-10-19**|**Mixing Histopathology Prototypes into Robust Slide-Level Representations for Cancer Subtyping**|Joshua Butke et.al.|[2310.12769v1](http://arxiv.org/abs/2310.12769v1)|**[link](https://github.com/butkej/protomixer)**|
-|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755v1](http://arxiv.org/abs/2310.12755v1)|null|
+|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755v1](http://arxiv.org/abs/2310.12755v1)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-19**|**ExtSwap: Leveraging Extended Latent Mapper for Generating High Quality Face Swapping**|Aravinda Reddy PN et.al.|[2310.12736v1](http://arxiv.org/abs/2310.12736v1)|**[link](https://github.com/aravinda27/extswap)**|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733v1](http://arxiv.org/abs/2310.12733v1)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724v1](http://arxiv.org/abs/2310.12724v1)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2023-10-19**|**Diverse Diffusion: Enhancing Image Diversity in Text-to-Image Generation**|Mariia Zameshina et.al.|[2310.12583v1](http://arxiv.org/abs/2310.12583v1)|null|
 |**2023-10-19**|**A reproducible 3D convolutional neural network with dual attention module (3D-DAM) for Alzheimer's disease classification**|Gia Minh Hoang et.al.|[2310.12574v1](http://arxiv.org/abs/2310.12574v1)|null|
 |**2023-10-19**|**DA-TransUNet: Integrating Spatial and Channel Dual Attention with Transformer U-Net for Medical Image Segmentation**|Guanqun Sun et.al.|[2310.12570v1](http://arxiv.org/abs/2310.12570v1)|**[link](https://github.com/sun-1024/da-transunet)**|
-|**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562v1](http://arxiv.org/abs/2310.12562v1)|null|
+|**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562v1](http://arxiv.org/abs/2310.12562v1)|**[link](https://github.com/li-haoqing/com)**|
 |**2023-10-19**|**Explanation-Based Training with Differentiable Insertion/Deletion Metric-Aware Regularizers**|uya Yoshikawa et.al.|[2310.12553v1](http://arxiv.org/abs/2310.12553v1)|null|
 |**2023-10-19**|**PGA: Personalizing Grasping Agents with Single Human-Robot Interaction**|Junghyun Kim et.al.|[2310.12547v1](http://arxiv.org/abs/2310.12547v1)|null|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
@@ -1365,7 +1365,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-19**|**Structured Generation and Exploration of Design Space with Large Language Models for Human-AI Co-Creation**|Sangho Suh et.al.|[2310.12953v1](http://arxiv.org/abs/2310.12953v1)|null|
 |**2023-10-19**|**Cousins Of The Vendi Score: A Family Of Similarity-Based Diversity Metrics For Science And Machine Learning**|Amey Pasarkar et.al.|[2310.12952v1](http://arxiv.org/abs/2310.12952v1)|**[link](https://github.com/vertaix/vendi-sampling)**|
-|**2023-10-19**|**Generative Marginalization Models**|Sulin Liu et.al.|[2310.12920v1](http://arxiv.org/abs/2310.12920v1)|null|
+|**2023-10-19**|**Generative Marginalization Models**|Sulin Liu et.al.|[2310.12920v1](http://arxiv.org/abs/2310.12920v1)|**[link](https://github.com/princetonlips/mam)**|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868v1](http://arxiv.org/abs/2310.12868v1)|null|
 |**2023-10-19**|**Fine-Tuning Generative Models as an Inference Method for Robotic Tasks**|Orr Krupnik et.al.|[2310.12862v1](http://arxiv.org/abs/2310.12862v1)|null|
 |**2023-10-19**|**Audio Editing with Non-Rigid Text Prompts**|Francesco Paissan et.al.|[2310.12858v1](http://arxiv.org/abs/2310.12858v1)|null|
@@ -2112,7 +2112,7 @@ layout: default
 |**2023-10-19**|**Experimental Narratives: A Comparison of Human Crowdsourced Storytelling and AI Storytelling**|Nina Begus et.al.|[2310.12902v1](http://arxiv.org/abs/2310.12902v1)|null|
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
-|**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|null|
+|**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|**[link](https://github.com/thudm/agenttuning)**|
 |**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
 |**2023-10-19**|**Prompt Injection Attacks and Defenses in LLM-Integrated Applications**|Yupei Liu et.al.|[2310.12815v1](http://arxiv.org/abs/2310.12815v1)|**[link](https://github.com/liu00222/open-prompt-injection)**|
 |**2023-10-19**|**Model Merging by Uncertainty-Based Gradient Matching**|Nico Daheim et.al.|[2310.12808v1](http://arxiv.org/abs/2310.12808v1)|null|
@@ -2135,8 +2135,8 @@ layout: default
 |**2023-10-19**|**An Exploration of In-Context Learning for Speech Language Model**|Ming-Hao Hsu et.al.|[2310.12477v1](http://arxiv.org/abs/2310.12477v1)|null|
 |**2023-10-19**|**Contrastive Learning for Inference in Dialogue**|Etsuko Ishii et.al.|[2310.12467v1](http://arxiv.org/abs/2310.12467v1)|**[link](https://github.com/hltchkust/contrastive_inference_dialogue)**|
 |**2023-10-19**|**Know Where to Go: Make LLM a Relevant, Responsible, and Trustworthy Searcher**|Xiang Shi et.al.|[2310.12443v1](http://arxiv.org/abs/2310.12443v1)|null|
-|**2023-10-19**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439v1](http://arxiv.org/abs/2310.12439v1)|null|
-|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|null|
+|**2023-10-19**|**PoisonPrompt: Backdoor Attack on Prompt-based Large Language Models**|Hongwei Yao et.al.|[2310.12439v1](http://arxiv.org/abs/2310.12439v1)|**[link](https://github.com/grasses/poisonprompt)**|
+|**2023-10-19**|**MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models**|Deepak Nathani et.al.|[2310.12426v1](http://arxiv.org/abs/2310.12426v1)|**[link](https://github.com/deepakn97/maf)**|
 |**2023-10-19**|**Automated Repair of Declarative Software Specifications in the Era of Large Language Models**|Md Rashedul Hasan et.al.|[2310.12425v1](http://arxiv.org/abs/2310.12425v1)|null|
 |**2023-10-19**|**The Shifted and The Overlooked: A Task-oriented Investigation of User-GPT Interactions**|Siru Ouyang et.al.|[2310.12418v1](http://arxiv.org/abs/2310.12418v1)|null|
 |**2023-10-19**|**Loop Copilot: Conducting AI Ensembles for Music Generation and Iterative Editing**|Yixiao Zhang et.al.|[2310.12404v1](http://arxiv.org/abs/2310.12404v1)|null|
@@ -3371,10 +3371,10 @@ layout: default
 |**2023-10-19**|**Influence of Team Interactions on Multi-Robot Cooperation: A Relational Network Perspective**|Yasin Findik et.al.|[2310.12910v1](http://arxiv.org/abs/2310.12910v1)|null|
 |**2023-10-19**|**Collaborative Adaptation: Learning to Recover from Unforeseen Malfunctions in Multi-Robot Teams**|Yasin Findik et.al.|[2310.12909v1](http://arxiv.org/abs/2310.12909v1)|null|
 |**2023-10-19**|**Fine-Tuning Generative Models as an Inference Method for Robotic Tasks**|Orr Krupnik et.al.|[2310.12862v1](http://arxiv.org/abs/2310.12862v1)|null|
-|**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|null|
+|**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|**[link](https://github.com/thudm/agenttuning)**|
 |**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
-|**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|null|
+|**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|**[link](https://github.com/tud-amr/multi-robot-fabrics)**|
 |**2023-10-19**|**Self-triggered Consensus Control of Multi-agent Systems from Data**|Yifei Li et.al.|[2310.12795v1](http://arxiv.org/abs/2310.12795v1)|null|
 |**2023-10-19**|**Query-aware Long Video Localization and Relation Discrimination for Deep Video Understanding**|Yuanxing Xu et.al.|[2310.12724v1](http://arxiv.org/abs/2310.12724v1)|null|
 |**2023-10-19**|**Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark**|Jiaming Ji et.al.|[2310.12567v1](http://arxiv.org/abs/2310.12567v1)|null|
@@ -3383,7 +3383,7 @@ layout: default
 |**2023-10-19**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531v1](http://arxiv.org/abs/2310.12531v1)|**[link](https://github.com/gjwubyron/icu)**|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
 |**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
-|**2023-10-19**|**SDGym: Low-Code Reinforcement Learning Environments using System Dynamics Models**|Emmanuel Klu et.al.|[2310.12494v1](http://arxiv.org/abs/2310.12494v1)|null|
+|**2023-10-19**|**SDGym: Low-Code Reinforcement Learning Environments using System Dynamics Models**|Emmanuel Klu et.al.|[2310.12494v1](http://arxiv.org/abs/2310.12494v1)|**[link](https://github.com/google-research/google-research)**|
 |**2023-10-19**|**Affective Conversational Agents: Understanding Expectations and Personal Influences**|Javier Hernandez et.al.|[2310.12459v1](http://arxiv.org/abs/2310.12459v1)|null|
 |**2023-10-19**|**CAT: Closed-loop Adversarial Training for Safe End-to-End Driving**|Linrui Zhang et.al.|[2310.12432v1](http://arxiv.org/abs/2310.12432v1)|null|
 |**2023-10-18**|**No-Regret Learning in Bilateral Trade via Global Budget Balance**|Martino Bernasconi et.al.|[2310.12370v1](http://arxiv.org/abs/2310.12370v1)|null|
