@@ -26,7 +26,7 @@ layout: default
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793v1](http://arxiv.org/abs/2310.12793v1)|null|
 |**2023-10-19**|**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**|Jiawen Zhu et.al.|[2310.12790v1](http://arxiv.org/abs/2310.12790v1)|null|
-|**2023-10-19**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v1](http://arxiv.org/abs/2310.12787v1)|null|
+|**2023-10-20**|**DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot**|David Liu et.al.|[2310.12787v2](http://arxiv.org/abs/2310.12787v2)|null|
 |**2023-10-19**|**Mixing Histopathology Prototypes into Robust Slide-Level Representations for Cancer Subtyping**|Joshua Butke et.al.|[2310.12769v1](http://arxiv.org/abs/2310.12769v1)|**[link](https://github.com/butkej/protomixer)**|
 |**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755v1](http://arxiv.org/abs/2310.12755v1)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-19**|**ExtSwap: Leveraging Extended Latent Mapper for Generating High Quality Face Swapping**|Aravinda Reddy PN et.al.|[2310.12736v1](http://arxiv.org/abs/2310.12736v1)|**[link](https://github.com/aravinda27/extswap)**|
@@ -1389,7 +1389,7 @@ layout: default
 |**2023-10-18**|**Black-Box Training Data Identification in GANs via Detector Networks**|Lukman Olagoke et.al.|[2310.12063v1](http://arxiv.org/abs/2310.12063v1)|null|
 |**2023-10-18**|**Simultaneous Learning of Contact and Continuous Dynamics**|Bibit Bianchini et.al.|[2310.12054v1](http://arxiv.org/abs/2310.12054v1)|null|
 |**2023-10-18**|**Exact and efficient solutions of the LMC Multitask Gaussian Process model**|Olivier Truffinet et.al.|[2310.12032v1](http://arxiv.org/abs/2310.12032v1)|**[link](https://github.com/qwerty6191/projected-lmc)**|
-|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v1](http://arxiv.org/abs/2310.12004v1)|null|
+|**2023-10-20**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004v2](http://arxiv.org/abs/2310.12004v2)|null|
 |**2023-10-18**|**Bayesian Flow Networks in Continual Learning**|Mateusz Pyla et.al.|[2310.12001v1](http://arxiv.org/abs/2310.12001v1)|null|
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976v1](http://arxiv.org/abs/2310.11976v1)|**[link](https://github.com/rzhwang/infodiffusion)**|
 |**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868v1](http://arxiv.org/abs/2310.11868v1)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
