@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 
 ## CV
 
@@ -48,7 +48,7 @@ layout: default
 |**2023-10-19**|**A reproducible 3D convolutional neural network with dual attention module (3D-DAM) for Alzheimer's disease classification**|Gia Minh Hoang et.al.|[2310.12574v1](http://arxiv.org/abs/2310.12574v1)|null|
 |**2023-10-19**|**DA-TransUNet: Integrating Spatial and Channel Dual Attention with Transformer U-Net for Medical Image Segmentation**|Guanqun Sun et.al.|[2310.12570v1](http://arxiv.org/abs/2310.12570v1)|**[link](https://github.com/sun-1024/da-transunet)**|
 |**2023-10-19**|**Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection**|Haoqing Li et.al.|[2310.12562v1](http://arxiv.org/abs/2310.12562v1)|**[link](https://github.com/li-haoqing/com)**|
-|**2023-10-19**|**Explanation-Based Training with Differentiable Insertion/Deletion Metric-Aware Regularizers**|uya Yoshikawa et.al.|[2310.12553v1](http://arxiv.org/abs/2310.12553v1)|null|
+|**2023-10-20**|**Explanation-Based Training with Differentiable Insertion/Deletion Metric-Aware Regularizers**|Yuya Yoshikawa et.al.|[2310.12553v2](http://arxiv.org/abs/2310.12553v2)|null|
 |**2023-10-19**|**PGA: Personalizing Grasping Agents with Single Human-Robot Interaction**|Junghyun Kim et.al.|[2310.12547v1](http://arxiv.org/abs/2310.12547v1)|null|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
 |**2023-10-19**|**Machine Learning for Leaf Disease Classification: Data, Techniques and Applications**|Jianping Yao et.al.|[2310.12509v1](http://arxiv.org/abs/2310.12509v1)|null|
@@ -1394,7 +1394,7 @@ layout: default
 |**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976v1](http://arxiv.org/abs/2310.11976v1)|**[link](https://github.com/rzhwang/infodiffusion)**|
 |**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868v1](http://arxiv.org/abs/2310.11868v1)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
 |**2023-10-18**|**Anisotropic Approach: Compact star as generalized Model**|B. S. Ratanpal et.al.|[2310.11842v1](http://arxiv.org/abs/2310.11842v1)|null|
-|**2023-10-18**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838v1](http://arxiv.org/abs/2310.11838v1)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
+|**2023-10-20**|**Equivariant Bootstrapping for Uncertainty Quantification in Imaging Inverse Problems**|Julian Tachella et.al.|[2310.11838v2](http://arxiv.org/abs/2310.11838v2)|**[link](https://github.com/tachella/equivariant_bootstrap)**|
 |**2023-10-18**|**Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts**|Xinhua Cheng et.al.|[2310.11784v1](http://arxiv.org/abs/2310.11784v1)|null|
 |**2023-10-18**|**Language Agents for Detecting Implicit Stereotypes in Text-to-image Models at Scale**|Qichao Wang et.al.|[2310.11778v1](http://arxiv.org/abs/2310.11778v1)|null|
 |**2023-10-18**|**Perceptual Measurements, Distances and Metrics**|Jonathan Vacher et.al.|[2310.11759v1](http://arxiv.org/abs/2310.11759v1)|**[link](https://github.com/jonathanvacher/perceptual_metric)**|
@@ -2113,7 +2113,7 @@ layout: default
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
 |**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|**[link](https://github.com/thudm/agenttuning)**|
-|**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
+|**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**Prompt Injection Attacks and Defenses in LLM-Integrated Applications**|Yupei Liu et.al.|[2310.12815v1](http://arxiv.org/abs/2310.12815v1)|**[link](https://github.com/liu00222/open-prompt-injection)**|
 |**2023-10-19**|**Model Merging by Uncertainty-Based Gradient Matching**|Nico Daheim et.al.|[2310.12808v1](http://arxiv.org/abs/2310.12808v1)|null|
 |**2023-10-19**|**Causal-structure Driven Augmentations for Text OOD Generalization**|Amir Feder et.al.|[2310.12803v1](http://arxiv.org/abs/2310.12803v1)|null|
@@ -3171,7 +3171,7 @@ layout: default
 |**2023-10-15**|**VLIS: Unimodal Language Models Guide Multimodal Language Generation**|Jiwan Chung et.al.|[2310.09767v1](http://arxiv.org/abs/2310.09767v1)|**[link](https://github.com/jiwanchung/vlis)**|
 |**2023-10-15**|**Progressive Evidence Refinement for Open-domain Multimodal Retrieval Question Answering**|Shuwen Yang et.al.|[2310.09696v1](http://arxiv.org/abs/2310.09696v1)|null|
 |**2023-10-14**|**RethinkingTMSC: An Empirical Study for Target-Oriented Multimodal Sentiment Classification**|Junjie Ye et.al.|[2310.09596v1](http://arxiv.org/abs/2310.09596v1)|**[link](https://github.com/junjie-ye/rethinkingtmsc)**|
-|**2023-10-14**|**JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues**|Jiayi Ji et.al.|[2310.09503v1](http://arxiv.org/abs/2310.09503v1)|**[link](https://github.com/mr-neko/jm3d)**|
+|**2023-10-20**|**JM3D & JM3D-LLM: Elevating 3D Representation with Joint Multi-modal Cues**|Jiayi Ji et.al.|[2310.09503v2](http://arxiv.org/abs/2310.09503v2)|**[link](https://github.com/mr-neko/jm3d)**|
 |**2023-10-14**|**MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning**|Jun Chen et.al.|[2310.09478v1](http://arxiv.org/abs/2310.09478v1)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-17**|**PaLI-3 Vision Language Models: Smaller, Faster, Stronger**|Xi Chen et.al.|[2310.09199v2](http://arxiv.org/abs/2310.09199v2)|null|
@@ -3372,7 +3372,7 @@ layout: default
 |**2023-10-19**|**Collaborative Adaptation: Learning to Recover from Unforeseen Malfunctions in Multi-Robot Teams**|Yasin Findik et.al.|[2310.12909v1](http://arxiv.org/abs/2310.12909v1)|null|
 |**2023-10-19**|**Fine-Tuning Generative Models as an Inference Method for Robotic Tasks**|Orr Krupnik et.al.|[2310.12862v1](http://arxiv.org/abs/2310.12862v1)|null|
 |**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|**[link](https://github.com/thudm/agenttuning)**|
-|**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
+|**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|**[link](https://github.com/tud-amr/multi-robot-fabrics)**|
 |**2023-10-19**|**Self-triggered Consensus Control of Multi-agent Systems from Data**|Yifei Li et.al.|[2310.12795v1](http://arxiv.org/abs/2310.12795v1)|null|
@@ -3380,7 +3380,7 @@ layout: default
 |**2023-10-19**|**Safety-Gymnasium: A Unified Safe Reinforcement Learning Benchmark**|Jiaming Ji et.al.|[2310.12567v1](http://arxiv.org/abs/2310.12567v1)|null|
 |**2023-10-19**|**PGA: Personalizing Grasping Agents with Single Human-Robot Interaction**|Junghyun Kim et.al.|[2310.12547v1](http://arxiv.org/abs/2310.12547v1)|null|
 |**2023-10-19**|**Cormas: The Software for Participatory Modelling and its Application for Managing Natural Resources in Senegal**|Oleksandr Zaitsev et.al.|[2310.12534v1](http://arxiv.org/abs/2310.12534v1)|null|
-|**2023-10-19**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531v1](http://arxiv.org/abs/2310.12531v1)|**[link](https://github.com/gjwubyron/icu)**|
+|**2023-10-20**|**ICU: Conquering Language Barriers in Vision-and-Language Modeling by Dividing the Tasks into Image Captioning and Language Understanding**|Guojun Wu et.al.|[2310.12531v2](http://arxiv.org/abs/2310.12531v2)|**[link](https://github.com/gjwubyron/icu)**|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
 |**2023-10-19**|**WeaveNet for Approximating Two-sided Matching Problems**|Shusaku Sone et.al.|[2310.12515v1](http://arxiv.org/abs/2310.12515v1)|null|
 |**2023-10-19**|**SDGym: Low-Code Reinforcement Learning Environments using System Dynamics Models**|Emmanuel Klu et.al.|[2310.12494v1](http://arxiv.org/abs/2310.12494v1)|**[link](https://github.com/google-research/google-research)**|
@@ -4333,7 +4333,7 @@ layout: default
 |**2023-10-18**|**Mesh Represented Recycle Learning for 3D Hand Pose and Mesh Estimation**|Bosang Kim et.al.|[2310.12189v1](http://arxiv.org/abs/2310.12189v1)|null|
 |**2023-10-18**|**Design and testing of an affordable desktop wind tunnel**|Miguel De La Cruz et.al.|[2310.12101v1](http://arxiv.org/abs/2310.12101v1)|null|
 |**2023-10-18**|**IRAS4A1: Multi-wavelength continuum analysis of a very flared Class 0 disk**|O. M. Guerra-Alvarado et.al.|[2310.11999v1](http://arxiv.org/abs/2310.11999v1)|null|
-|**2023-10-18**|**The JWST Galactic Center Survey -- A White Paper**|Rainer Schoedel et.al.|[2310.11912v1](http://arxiv.org/abs/2310.11912v1)|null|
+|**2023-10-20**|**The JWST Galactic Center Survey -- A White Paper**|Rainer Schoedel et.al.|[2310.11912v2](http://arxiv.org/abs/2310.11912v2)|null|
 |**2023-10-18**|**Malicious Agent Detection for Robust Multi-Agent Collaborative Perception**|Yangheng Zhao et.al.|[2310.11901v1](http://arxiv.org/abs/2310.11901v1)|null|
 |**2023-10-18**|**VQ-NeRF: Neural Reflectance Decomposition and Editing with Vector Quantization**|Hongliang Zhong et.al.|[2310.11864v1](http://arxiv.org/abs/2310.11864v1)|null|
 |**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra et.al.|[2310.11811v1](http://arxiv.org/abs/2310.11811v1)|null|
