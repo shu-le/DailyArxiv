@@ -19,7 +19,7 @@ layout: default
 |**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593v1](http://arxiv.org/abs/2310.13593v1)|null|
 |**2023-10-20**|**POTLoc: Pseudo-Label Oriented Transformer for Point-Supervised Temporal Action Localization**|Elahe Vahdani et.al.|[2310.13585v1](http://arxiv.org/abs/2310.13585v1)|null|
 |**2023-10-20**|**Progressive Dual Priori Network for Generalized Breast Tumor Segmentation**|Li Wang et.al.|[2310.13574v1](http://arxiv.org/abs/2310.13574v1)|null|
-|**2023-10-20**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573v1](http://arxiv.org/abs/2310.13573v1)|null|
+|**2023-10-23**|**Boosting Generalization with Adaptive Style Techniques for Fingerprint Liveness Detection**|Kexin Zhu et.al.|[2310.13573v2](http://arxiv.org/abs/2310.13573v2)|null|
 |**2023-10-20**|**A Simple Baseline for Knowledge-Based Visual Question Answering**|Alexandros Xenos et.al.|[2310.13570v1](http://arxiv.org/abs/2310.13570v1)|null|
 |**2023-10-20**|**ROSS: Radar Off-road Semantic Segmentation**|Peng Jiang et.al.|[2310.13551v1](http://arxiv.org/abs/2310.13551v1)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545v1](http://arxiv.org/abs/2310.13545v1)|**[link](https://github.com/sail-sg/scalelong)**|
@@ -28,7 +28,7 @@ layout: default
 |**2023-10-20**|**RaceLens: A Machine Intelligence-Based Application for Racing Photo Analysis**|Andrei Boiarov et.al.|[2310.13515v1](http://arxiv.org/abs/2310.13515v1)|null|
 |**2023-10-20**|**Application of deep learning for livestock behaviour recognition: A systematic literature review**|Ali Rohan et.al.|[2310.13483v1](http://arxiv.org/abs/2310.13483v1)|null|
 |**2023-10-20**|**A review of individual tree crown detection and delineation from optical remote sensing images**|Juepeng Zheng et.al.|[2310.13481v1](http://arxiv.org/abs/2310.13481v1)|null|
-|**2023-10-20**|**Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation**|Francisco Eiras et.al.|[2310.13479v1](http://arxiv.org/abs/2310.13479v1)|null|
+|**2023-10-23**|**Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation**|Francisco Eiras et.al.|[2310.13479v2](http://arxiv.org/abs/2310.13479v2)|null|
 |**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473v1](http://arxiv.org/abs/2310.13473v1)|null|
 |**2023-10-20**|**Two-Stage Triplet Loss Training with Curriculum Augmentation for Audio-Visual Retrieval**|Donghuo Zeng et.al.|[2310.13451v1](http://arxiv.org/abs/2310.13451v1)|null|
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
@@ -2171,13 +2171,13 @@ layout: default
 |**2023-10-20**|**Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback**|Nathan Lambert et.al.|[2310.13595v1](http://arxiv.org/abs/2310.13595v1)|null|
 |**2023-10-20**|**Why Can Large Language Models Generate Correct Chain-of-Thoughts?**|Rasul Tutunov et.al.|[2310.13571v1](http://arxiv.org/abs/2310.13571v1)|null|
 |**2023-10-20**|**Cache & Distil: Optimising API Calls to Large Language Models**|Guillem Ramírez et.al.|[2310.13561v1](http://arxiv.org/abs/2310.13561v1)|null|
-|**2023-10-20**|**Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning**|Jinyuan Wang et.al.|[2310.13552v1](http://arxiv.org/abs/2310.13552v1)|**[link](https://github.com/noewangjy/sp-cot)**|
+|**2023-10-23**|**Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning**|Jinyuan Wang et.al.|[2310.13552v2](http://arxiv.org/abs/2310.13552v2)|**[link](https://github.com/noewangjy/sp-cot)**|
 |**2023-10-20**|**The Perils & Promises of Fact-checking with Large Language Models**|Dorian Quelle et.al.|[2310.13549v1](http://arxiv.org/abs/2310.13549v1)|null|
 |**2023-10-20**|**Teaching Language Models to Self-Improve through Interactive Demonstrations**|Xiao Yu et.al.|[2310.13522v1](http://arxiv.org/abs/2310.13522v1)|null|
 |**2023-10-20**|**Explaining Interactions Between Text Spans**|Sagnik Ray Choudhury et.al.|[2310.13506v1](http://arxiv.org/abs/2310.13506v1)|**[link](https://github.com/copenlu/spanex)**|
 |**2023-10-20**|**Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation**|Magdalena Kaiser et.al.|[2310.13505v1](http://arxiv.org/abs/2310.13505v1)|null|
 |**2023-10-20**|**Benchmarking Sequential Visual Input Reasoning and Prediction in Multimodal Large Language Models**|Mingwei Zhu et.al.|[2310.13473v1](http://arxiv.org/abs/2310.13473v1)|null|
-|**2023-10-20**|**Ask Language Model to Clean Your Noisy Translation Data**|Quinten Bolding et.al.|[2310.13469v1](http://arxiv.org/abs/2310.13469v1)|null|
+|**2023-10-23**|**Ask Language Model to Clean Your Noisy Translation Data**|Quinten Bolding et.al.|[2310.13469v2](http://arxiv.org/abs/2310.13469v2)|null|
 |**2023-10-20**|**Steering Large Language Models for Machine Translation with Finetuning and In-Context Learning**|Duarte M. Alves et.al.|[2310.13448v1](http://arxiv.org/abs/2310.13448v1)|null|
 |**2023-10-20**|**Self-Consistency of Large Language Models under Ambiguity**|Henning Bartsch et.al.|[2310.13439v1](http://arxiv.org/abs/2310.13439v1)|null|
 |**2023-10-20**|**Conversation Chronicles: Towards Diverse Temporal and Relational Dynamics in Multi-Session Conversations**|Jihyoung Jang et.al.|[2310.13420v1](http://arxiv.org/abs/2310.13420v1)|null|
@@ -3514,7 +3514,7 @@ layout: default
 |**2023-10-19**|**Influence of Team Interactions on Multi-Robot Cooperation: A Relational Network Perspective**|Yasin Findik et.al.|[2310.12910v1](http://arxiv.org/abs/2310.12910v1)|null|
 |**2023-10-19**|**Collaborative Adaptation: Learning to Recover from Unforeseen Malfunctions in Multi-Robot Teams**|Yasin Findik et.al.|[2310.12909v1](http://arxiv.org/abs/2310.12909v1)|null|
 |**2023-10-19**|**Fine-Tuning Generative Models as an Inference Method for Robotic Tasks**|Orr Krupnik et.al.|[2310.12862v1](http://arxiv.org/abs/2310.12862v1)|null|
-|**2023-10-19**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v1](http://arxiv.org/abs/2310.12823v1)|**[link](https://github.com/thudm/agenttuning)**|
+|**2023-10-22**|**AgentTuning: Enabling Generalized Agent Abilities for LLMs**|Aohan Zeng et.al.|[2310.12823v2](http://arxiv.org/abs/2310.12823v2)|**[link](https://github.com/thudm/agenttuning)**|
 |**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-19**|**Multi-Robot Local Motion Planning Using Dynamic Optimization Fabrics**|Saray Bakker et.al.|[2310.12816v1](http://arxiv.org/abs/2310.12816v1)|**[link](https://github.com/tud-amr/multi-robot-fabrics)**|
