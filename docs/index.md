@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 
 ## CV
 
@@ -34,7 +34,7 @@ layout: default
 |**2023-10-20**|**Multiscale Superpixel Structured Difference Graph Convolutional Network for VL Representation**|Siyu Zhang et.al.|[2310.13447v1](http://arxiv.org/abs/2310.13447v1)|null|
 |**2023-10-20**|**Definition-independent Formalization of Soundscapes: Towards a Formal Methodology**|Mikel D. Jedrusiak et.al.|[2310.13404v1](http://arxiv.org/abs/2310.13404v1)|null|
 |**2023-10-20**|**OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data**|Yijie Zhou et.al.|[2310.13398v1](http://arxiv.org/abs/2310.13398v1)|null|
-|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|null|
+|**2023-10-20**|**ScalableMap: Scalable Map Learning for Online Long-Range Vectorized HD Map Construction**|Jingyi Yu et.al.|[2310.13378v1](http://arxiv.org/abs/2310.13378v1)|**[link](https://github.com/jingy1yu/scalablemap)**|
 |**2023-10-20**|**Single-view 3D reconstruction via inverse procedural modeling**|Albert Garifullin et.al.|[2310.13373v1](http://arxiv.org/abs/2310.13373v1)|null|
 |**2023-10-20**|**PSGText: Stroke-Guided Scene Text Editing with PSP Module**|Felix Liawi et.al.|[2310.13366v1](http://arxiv.org/abs/2310.13366v1)|null|
 |**2023-10-20**|**Bridging the Gap between Synthetic and Authentic Images for Multimodal Machine Translation**|Wenyu Guo et.al.|[2310.13361v1](http://arxiv.org/abs/2310.13361v1)|null|
