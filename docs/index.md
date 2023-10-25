@@ -33,7 +33,7 @@ layout: default
 |**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061v1](http://arxiv.org/abs/2310.15061v1)|null|
 |**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059v1](http://arxiv.org/abs/2310.15059v1)|null|
 |**2023-10-23**|**DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching**|Yanqing Liu et.al.|[2310.15052v1](http://arxiv.org/abs/2310.15052v1)|null|
-|**2023-10-23**|**Meta- (out-of-context) learning in neural networks**|Dmitrii Krasheninnikov et.al.|[2310.15047v1](http://arxiv.org/abs/2310.15047v1)|**[link](https://github.com/krasheninnikov/internalization)**|
+|**2023-10-24**|**Meta- (out-of-context) learning in neural networks**|Dmitrii Krasheninnikov et.al.|[2310.15047v2](http://arxiv.org/abs/2310.15047v2)|**[link](https://github.com/krasheninnikov/internalization)**|
 |**2023-10-23**|**A Universal Anti-Spoofing Approach for Contactless Fingerprint Biometric Systems**|Banafsheh Adami et.al.|[2310.15044v1](http://arxiv.org/abs/2310.15044v1)|null|
 |**2023-10-23**|**CalibrationPhys: Self-supervised Video-based Heart and Respiratory Rate Measurements by Calibrating Between Multiple Cameras**|Yusuke Akamatsu et.al.|[2310.15043v1](http://arxiv.org/abs/2310.15043v1)|null|
 |**2023-10-23**|**Manipulation Mask Generator: High-Quality Image Manipulation Mask Generation Method Based on Modified Total Variation Noise Reduction**|Xinyu Yang et.al.|[2310.15041v1](http://arxiv.org/abs/2310.15041v1)|null|
@@ -2278,7 +2278,7 @@ layout: default
 |**2023-10-23**|**Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge**|Te-Lin Wu et.al.|[2310.15066v1](http://arxiv.org/abs/2310.15066v1)|**[link](https://github.com/pluslabnlp/envision)**|
 |**2023-10-23**|**Synergizing Human-AI Agency: A Guide of 23 Heuristics for Service Co-Creation with LLM-Based Agents**|Qingxiao Zheng et.al.|[2310.15065v1](http://arxiv.org/abs/2310.15065v1)|null|
 |**2023-10-23**|**TeleQnA: A Benchmark Dataset to Assess Large Language Models Telecommunications Knowledge**|Ali Maatouk et.al.|[2310.15051v1](http://arxiv.org/abs/2310.15051v1)|**[link](https://github.com/netop-team/teleqna)**|
-|**2023-10-23**|**Meta- (out-of-context) learning in neural networks**|Dmitrii Krasheninnikov et.al.|[2310.15047v1](http://arxiv.org/abs/2310.15047v1)|**[link](https://github.com/krasheninnikov/internalization)**|
+|**2023-10-24**|**Meta- (out-of-context) learning in neural networks**|Dmitrii Krasheninnikov et.al.|[2310.15047v2](http://arxiv.org/abs/2310.15047v2)|**[link](https://github.com/krasheninnikov/internalization)**|
 |**2023-10-23**|**Did the Neurons Read your Book? Document-level Membership Inference for Large Language Models**|Matthieu Meeus et.al.|[2310.15007v1](http://arxiv.org/abs/2310.15007v1)|null|
 |**2023-10-23**|**Towards LLM-driven Dialogue State Tracking**|Yujie Feng et.al.|[2310.14970v1](http://arxiv.org/abs/2310.14970v1)|**[link](https://github.com/woodscene/ldst)**|
 |**2023-10-23**|**Unveiling A Core Linguistic Region in Large Language Models**|Jun Zhao et.al.|[2310.14928v1](http://arxiv.org/abs/2310.14928v1)|null|
@@ -2295,7 +2295,7 @@ layout: default
 |**2023-10-24**|**MCC-KD: Multi-CoT Consistent Knowledge Distillation**|Hongzhan Chen et.al.|[2310.14747v2](http://arxiv.org/abs/2310.14747v2)|null|
 |**2023-10-23**|**Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review**|Banghao Chen et.al.|[2310.14735v1](http://arxiv.org/abs/2310.14735v1)|null|
 |**2023-10-23**|**Generating Prototypes for Contradiction Detection Using Large Language Models and Linguistic Rules**|Maren Pielka et.al.|[2310.14732v1](http://arxiv.org/abs/2310.14732v1)|**[link](https://github.com/fraunhofer-iais/informed_nlu)**|
-|**2023-10-23**|**A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v1](http://arxiv.org/abs/2310.14724v1)|null|
+|**2023-10-24**|**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v2](http://arxiv.org/abs/2310.14724v2)|null|
 |**2023-10-23**|**Strong and Efficient Baselines for Open Domain Conversational Question Answering**|Andrei C. Coman et.al.|[2310.14708v1](http://arxiv.org/abs/2310.14708v1)|null|
 |**2023-10-23**|**The continued usefulness of vocabulary tests for evaluating large language models**|Gonzalo Martínez et.al.|[2310.14703v1](http://arxiv.org/abs/2310.14703v1)|**[link](https://github.com/wordsgpt/llm_vocabulary_evaluation)**|
 |**2023-10-23**|**Tree of Clarifications: Answering Ambiguous Questions with Retrieval-Augmented Large Language Models**|Gangwoo Kim et.al.|[2310.14696v1](http://arxiv.org/abs/2310.14696v1)|**[link](https://github.com/gankim/tree-of-clarifications)**|
