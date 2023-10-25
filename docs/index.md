@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 
 ## CV
 
@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-23**|**RoboDepth: Robust Out-of-Distribution Depth Estimation under Corruptions**|Lingdong Kong et.al.|[2310.15171v1](http://arxiv.org/abs/2310.15171v1)|**[link](https://github.com/ldkong1205/robodepth)**|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
-|**2023-10-23**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v1](http://arxiv.org/abs/2310.15168v1)|null|
+|**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166v1](http://arxiv.org/abs/2310.15166v1)|**[link](https://github.com/cliangyu/cola)**|
 |**2023-10-23**|**Handling Data Heterogeneity via Architectural Design for Federated Visual Recognition**|Sara Pieri et.al.|[2310.15165v1](http://arxiv.org/abs/2310.15165v1)|**[link](https://github.com/sarapieri/fed_het)**|
 |**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
@@ -41,7 +41,7 @@ layout: default
 |**2023-10-23**|**P2AT: Pyramid Pooling Axial Transformer for Real-time Semantic Segmentation**|Mohammed A. M. Elhassan et.al.|[2310.15025v1](http://arxiv.org/abs/2310.15025v1)|null|
 |**2023-10-23**|**SONIC: Sonar Image Correspondence using Pose Supervised Learning for Imaging Sonars**|Samiran Gode et.al.|[2310.15023v1](http://arxiv.org/abs/2310.15023v1)|null|
 |**2023-10-23**|**Invariance is Key to Generalization: Examining the Role of Representation in Sim-to-Real Transfer for Visual Navigation**|Bo Ai et.al.|[2310.15020v1](http://arxiv.org/abs/2310.15020v1)|null|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
 |**2023-10-23**|**StenUNet: Automatic Stenosis Detection from X-ray Coronary Angiography**|Hui Lin et.al.|[2310.14961v1](http://arxiv.org/abs/2310.14961v1)|null|
 |**2023-10-23**|**Learning Real-World Image De-Weathering with Imperfect Supervision**|Xiaohui Liu et.al.|[2310.14958v1](http://arxiv.org/abs/2310.14958v1)|**[link](https://github.com/1180300419/imperfect-deweathering)**|
 |**2023-10-23**|**Robust Depth Linear Error Decomposition with Double Total Variation and Nuclear Norm for Dynamic MRI Reconstruction**|Junpeng Tan et.al.|[2310.14934v1](http://arxiv.org/abs/2310.14934v1)|null|
@@ -1464,11 +1464,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169v1](http://arxiv.org/abs/2310.15169v1)|null|
-|**2023-10-23**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v1](http://arxiv.org/abs/2310.15168v1)|null|
+|**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**FreeMask: Synthetic Images with Dense Annotations Make Stronger Segmentation Models**|Lihe Yang et.al.|[2310.15160v1](http://arxiv.org/abs/2310.15160v1)|**[link](https://github.com/LiheYoung/FreeMask)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110v1](http://arxiv.org/abs/2310.15110v1)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
 |**2023-10-23**|**System Combination via Quality Estimation for Grammatical Error Correction**|Muhammad Reza Qorib et.al.|[2310.14947v1](http://arxiv.org/abs/2310.14947v1)|null|
 |**2023-10-23**|**Orientation-Aware Leg Movement Learning for Action-Driven Human Motion Prediction**|Chunzhi Gu et.al.|[2310.14907v1](http://arxiv.org/abs/2310.14907v1)|null|
 |**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842v1](http://arxiv.org/abs/2310.14842v1)|null|
@@ -1483,7 +1483,7 @@ layout: default
 |**2023-10-23**|**Language Models Hallucinate, but May Excel at Fact Verification**|Jian Guan et.al.|[2310.14564v1](http://arxiv.org/abs/2310.14564v1)|null|
 |**2023-10-23**|**Highly Efficient Creation and Detection of Deeply-bound Molecules via Invariant-based Inverse Engineering with Feasible Modified Drivings**|Jiahui Zhang et.al.|[2310.14499v1](http://arxiv.org/abs/2310.14499v1)|null|
 |**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458v1](http://arxiv.org/abs/2310.14458v1)|null|
-|**2023-10-22**|**Domain Terminology Integration into Machine Translation: Leveraging Large Language Models**|Moslem et.al.|[2310.14451v1](http://arxiv.org/abs/2310.14451v1)|null|
+|**2023-10-22**|**Domain Terminology Integration into Machine Translation: Leveraging Large Language Models**|Yasmin Moslem et.al.|[2310.14451v1](http://arxiv.org/abs/2310.14451v1)|null|
 |**2023-10-22**|**A Pytorch Reproduction of Masked Generative Image Transformer**|Victor Besnier et.al.|[2310.14400v1](http://arxiv.org/abs/2310.14400v1)|**[link](https://github.com/valeoai/maskgit-pytorch)**|
 |**2023-10-22**|**Towards Harmful Erotic Content Detection through Coreference-Driven Contextual Analysis**|Inez Okulska et.al.|[2310.14325v1](http://arxiv.org/abs/2310.14325v1)|null|
 |**2023-10-22**|**Learning a General Model of Single Phase Flow in Complex 3D Porous Media**|Javier E. Santos et.al.|[2310.14298v1](http://arxiv.org/abs/2310.14298v1)|null|
@@ -2292,7 +2292,7 @@ layout: default
 |**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804v1](http://arxiv.org/abs/2310.14804v1)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
 |**2023-10-23**|**Geographical Erasure in Language Generation**|Pola Schwöbel et.al.|[2310.14777v1](http://arxiv.org/abs/2310.14777v1)|**[link](https://github.com/amazon-science/geographical-erasure-in-language-generation)**|
 |**2023-10-23**|**Evaluating the Knowledge Base Completion Potential of GPT**|Blerta Veseli et.al.|[2310.14771v1](http://arxiv.org/abs/2310.14771v1)|null|
-|**2023-10-23**|**MCC-KD: Multi-CoT Consistent Knowledge Distillation**|Hongzhan Chen et.al.|[2310.14747v1](http://arxiv.org/abs/2310.14747v1)|null|
+|**2023-10-24**|**MCC-KD: Multi-CoT Consistent Knowledge Distillation**|Hongzhan Chen et.al.|[2310.14747v2](http://arxiv.org/abs/2310.14747v2)|null|
 |**2023-10-23**|**Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review**|Banghao Chen et.al.|[2310.14735v1](http://arxiv.org/abs/2310.14735v1)|null|
 |**2023-10-23**|**Generating Prototypes for Contradiction Detection Using Large Language Models and Linguistic Rules**|Maren Pielka et.al.|[2310.14732v1](http://arxiv.org/abs/2310.14732v1)|**[link](https://github.com/fraunhofer-iais/informed_nlu)**|
 |**2023-10-23**|**A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v1](http://arxiv.org/abs/2310.14724v1)|null|
@@ -3648,7 +3648,7 @@ layout: default
 |**2023-10-23**|**Reinforcement learning in large, structured action spaces: A simulation study of decision support for spinal cord injury rehabilitation**|Nathan Phelps et.al.|[2310.14976v1](http://arxiv.org/abs/2310.14976v1)|null|
 |**2023-10-23**|**Comparison of path following in ships using modern and traditional controllers**|Sanjeev Kumar Ramkumar Sudha et.al.|[2310.14940v1](http://arxiv.org/abs/2310.14940v1)|null|
 |**2023-10-23**|**Navigating the Ocean with DRL: Path following for marine vessels**|Joel Jose et.al.|[2310.14932v1](http://arxiv.org/abs/2310.14932v1)|null|
-|**2023-10-23**|**Efficient Causal Discovery for Robotics Applications**|Luca Castri et.al.|[2310.14925v1](http://arxiv.org/abs/2310.14925v1)|null|
+|**2023-10-24**|**Efficient Causal Discovery for Robotics Applications**|Luca Castri et.al.|[2310.14925v2](http://arxiv.org/abs/2310.14925v2)|null|
 |**2023-10-23**|**Diverse Priors for Deep Reinforcement Learning**|Chenfan Weng et.al.|[2310.14864v1](http://arxiv.org/abs/2310.14864v1)|null|
 |**2023-10-23**|**3M-TRANSFORMER: A Multi-Stage Multi-Stream Multimodal Transformer for Embodied Turn-Taking Prediction**|Mehdi Fatan et.al.|[2310.14859v1](http://arxiv.org/abs/2310.14859v1)|null|
 |**2023-10-23**|**Neural representation in active inference: using generative models to interact with -- and understand -- the lived world**|Giovanni Pezzulo et.al.|[2310.14810v1](http://arxiv.org/abs/2310.14810v1)|null|
@@ -3680,7 +3680,7 @@ layout: default
 |**2023-10-22**|**MMTF-DES: A Fusion of Multimodal Transformer Models for Desire, Emotion, and Sentiment Analysis of Social Media Data**|Abdul Aziz et.al.|[2310.14143v1](http://arxiv.org/abs/2310.14143v1)|null|
 |**2023-10-21**|**Stabilizing reinforcement learning control: A modular framework for optimizing over all stable behavior**|Nathan P. Lawrence et.al.|[2310.14098v1](http://arxiv.org/abs/2310.14098v1)|null|
 |**2023-10-21**|**DispersioNET: Joint Inversion of Rayleigh-Wave Multimode Phase Velocity Dispersion Curves using Convolutional Neural Networks**|Rohan Sharma et.al.|[2310.14094v1](http://arxiv.org/abs/2310.14094v1)|null|
-|**2023-10-21**|**Adaptive, Doubly Optimal No-Regret Learning in Strongly Monotone and Exp-Concave Games with Gradient Feedback**|Michael I. Jordan et.al.|[2310.14085v1](http://arxiv.org/abs/2310.14085v1)|null|
+|**2023-10-24**|**Adaptive, Doubly Optimal No-Regret Learning in Strongly Monotone and Exp-Concave Games with Gradient Feedback**|Michael I. Jordan et.al.|[2310.14085v2](http://arxiv.org/abs/2310.14085v2)|null|
 |**2023-10-21**|**Large Language Models and Multimodal Retrieval for Visual Word Sense Disambiguation**|Anastasia Kritharoula et.al.|[2310.14025v1](http://arxiv.org/abs/2310.14025v1)|null|
 |**2023-10-21**|**Ensemble-Instruct: Generating Instruction-Tuning Data with a Heterogeneous Mixture of LMs**|Young-Suk Lee et.al.|[2310.13961v1](http://arxiv.org/abs/2310.13961v1)|**[link](https://github.com/ibm/ensemble-instruct)**|
 |**2023-10-21**|**Equivariant Map and Agent Geometry for Autonomous Driving Motion Prediction**|Yuping Wang et.al.|[2310.13922v1](http://arxiv.org/abs/2310.13922v1)|null|
@@ -4653,7 +4653,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-23**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v1](http://arxiv.org/abs/2310.15168v1)|null|
+|**2023-10-24**|**Ghost on the Shell: An Expressive Representation of General 3D Shapes**|Zhen Liu et.al.|[2310.15168v2](http://arxiv.org/abs/2310.15168v2)|null|
 |**2023-10-23**|**SAM-Med3D**|Haoyu Wang et.al.|[2310.15161v1](http://arxiv.org/abs/2310.15161v1)|**[link](https://github.com/uni-medical/sam-med3d)**|
 |**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153v1](http://arxiv.org/abs/2310.15153v1)|null|
 |**2023-10-23**|**DEsignBench: Exploring and Benchmarking DALL-E 3 for Imagining Visual Design**|Kevin Lin et.al.|[2310.15144v1](http://arxiv.org/abs/2310.15144v1)|**[link](https://github.com/design-bench/design-bench.github.io)**|
@@ -4662,8 +4662,8 @@ layout: default
 |**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059v1](http://arxiv.org/abs/2310.15059v1)|null|
 |**2023-10-23**|**Fast 2D Bicephalous Convolutional Autoencoder for Compressing 3D Time Projection Chamber Data**|Yi Huang et.al.|[2310.15026v1](http://arxiv.org/abs/2310.15026v1)|null|
 |**2023-10-23**|**System Characterization of a Human-Sized 3D Real-Time Magnetic Particle Imaging Scanner for Cerebral Applications**|Florian Thieben et.al.|[2310.15014v1](http://arxiv.org/abs/2310.15014v1)|null|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v1](http://arxiv.org/abs/2310.15008v1)|null|
-|**2023-10-23**|**Efficient Causal Discovery for Robotics Applications**|Luca Castri et.al.|[2310.14925v1](http://arxiv.org/abs/2310.14925v1)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008v2](http://arxiv.org/abs/2310.15008v2)|null|
+|**2023-10-24**|**Efficient Causal Discovery for Robotics Applications**|Luca Castri et.al.|[2310.14925v2](http://arxiv.org/abs/2310.14925v2)|null|
 |**2023-10-23**|**Object Pose Estimation Annotation Pipeline for Multi-view Monocular Camera Systems in Industrial Settings**|Hazem Youssef et.al.|[2310.14914v1](http://arxiv.org/abs/2310.14914v1)|null|
 |**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729v1](http://arxiv.org/abs/2310.14729v1)|null|
 |**2023-10-23**|**A Hybrid GNN approach for predicting node data for 3D meshes**|Shwetha Salimath et.al.|[2310.14707v1](http://arxiv.org/abs/2310.14707v1)|null|
