@@ -11,7 +11,7 @@ layout: default
 |**2023-10-24**|**Synthetic Data as Validation**|Qixin Hu et.al.|[2310.16052v1](http://arxiv.org/abs/2310.16052v1)|null|
 |**2023-10-24**|**From Posterior Sampling to Meaningful Diversity in Image Restoration**|Noa Cohen et.al.|[2310.16047v1](http://arxiv.org/abs/2310.16047v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
+|**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v2](http://arxiv.org/abs/2310.16044v2)|null|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035v1](http://arxiv.org/abs/2310.16035v1)|**[link](https://github.com/joyhsu0504/left)**|
 |**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033v1](http://arxiv.org/abs/2310.16033v1)|null|
 |**2023-10-24**|**Finetuning Offline World Models in the Real World**|Yunhai Feng et.al.|[2310.16029v1](http://arxiv.org/abs/2310.16029v1)|null|
@@ -23,7 +23,7 @@ layout: default
 |**2023-10-24**|**Vision-Language Pseudo-Labels for Single-Positive Multi-Label Learning**|Xin Xing et.al.|[2310.15985v1](http://arxiv.org/abs/2310.15985v1)|**[link](https://github.com/mvrl/vlpl)**|
 |**2023-10-24**|**Geometry-Aware Video Quality Assessment for Dynamic Digital Human**|Zicheng Zhang et.al.|[2310.15984v1](http://arxiv.org/abs/2310.15984v1)|null|
 |**2023-10-24**|**Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection**|Manyuan Zhang et.al.|[2310.15955v1](http://arxiv.org/abs/2310.15955v1)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**|Haidong Zhu et.al.|[2310.15946v1](http://arxiv.org/abs/2310.15946v1)|null|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938v1](http://arxiv.org/abs/2310.15938v1)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2023-10-24**|**Emergent Communication in Interactive Sketch Question Answering**|Zixing Lei et.al.|[2310.15597v1](http://arxiv.org/abs/2310.15597v1)|null|
 |**2023-10-24**|**Facial Data Minimization: Shallow Model as Your Privacy Filter**|Yuwen Pu et.al.|[2310.15590v1](http://arxiv.org/abs/2310.15590v1)|null|
 |**2023-10-24**|**Multimodal Representations for Teacher-Guided Compositional Visual Reasoning**|Wafa Aissa et.al.|[2310.15585v1](http://arxiv.org/abs/2310.15585v1)|null|
-|**2023-10-24**|**VMAF Re-implementation on PyTorch: Some Experimental Results**|Kirill Aistov et.al.|[2310.15578v1](http://arxiv.org/abs/2310.15578v1)|null|
+|**2023-10-25**|**VMAF Re-implementation on PyTorch: Some Experimental Results**|Kirill Aistov et.al.|[2310.15578v2](http://arxiv.org/abs/2310.15578v2)|null|
 |**2023-10-24**|**I$^2$MD: 3D Action Representation Learning with Inter- and Intra-modal Mutual Distillation**|Yunyao Mao et.al.|[2310.15568v1](http://arxiv.org/abs/2310.15568v1)|null|
 |**2023-10-24**|**PET Synthesis via Self-supervised Adaptive Residual Estimation Generative Adversarial Network**|Yuxin Xue et.al.|[2310.15550v1](http://arxiv.org/abs/2310.15550v1)|null|
 |**2023-10-24**|**Learning with Noisy Labels Using Collaborative Sample Selection and Contrastive Semi-Supervised Learning**|Qing Miao et.al.|[2310.15533v1](http://arxiv.org/abs/2310.15533v1)|null|
@@ -1514,7 +1514,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003v1](http://arxiv.org/abs/2310.16003v1)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v2](http://arxiv.org/abs/2310.15952v2)|null|
 |**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**Improving Event Time Prediction by Learning to Partition the Event Time Space**|Jimmy Hickey et.al.|[2310.15853v1](http://arxiv.org/abs/2310.15853v1)|null|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|null|
@@ -4810,7 +4810,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
-|**2023-10-24**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v1](http://arxiv.org/abs/2310.16044v1)|null|
+|**2023-10-25**|**Stanford-ORB: A Real-World 3D Object Inverse Rendering Benchmark**|Zhengfei Kuang et.al.|[2310.16044v2](http://arxiv.org/abs/2310.16044v2)|null|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035v1](http://arxiv.org/abs/2310.16035v1)|**[link](https://github.com/joyhsu0504/left)**|
 |**2023-10-24**|**ConvBKI: Real-Time Probabilistic Semantic Mapping Network with Quantifiable Uncertainty**|Joey Wilson et.al.|[2310.16020v1](http://arxiv.org/abs/2310.16020v1)|null|
 |**2023-10-24**|**A New 2D Energy Balance Model For Simulating the Climates of Rapidly- and Slowly-Rotating Terrestrial Planets**|Ramses M. Ramirez et.al.|[2310.15992v1](http://arxiv.org/abs/2310.15992v1)|null|
