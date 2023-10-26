@@ -1,4 +1,4 @@
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 
 ## CV
 
@@ -20,7 +20,7 @@
 |**2023-10-24**|**Geometry-Aware Video Quality Assessment for Dynamic Digital Human**|Zicheng Zhang et.al.|[2310.15984v1](http://arxiv.org/abs/2310.15984v1)|null|
 |**2023-10-24**|**Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection**|Manyuan Zhang et.al.|[2310.15955v1](http://arxiv.org/abs/2310.15955v1)|null|
 |**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**ShARc: Shape and Appearance Recognition for Person Identification In-the-wild**|Haidong Zhu et.al.|[2310.15946v1](http://arxiv.org/abs/2310.15946v1)|null|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938v1](http://arxiv.org/abs/2310.15938v1)|null|
 |**2023-10-24**|**Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID**|Qilei Li et.al.|[2310.15913v1](http://arxiv.org/abs/2310.15913v1)|null|
@@ -1511,7 +1511,7 @@
 |---|---|---|---|---|
 |**2023-10-24**|**CVPR 2023 Text Guided Video Editing Competition**|Jay Zhangjie Wu et.al.|[2310.16003v1](http://arxiv.org/abs/2310.16003v1)|null|
 |**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952v1](http://arxiv.org/abs/2310.15952v1)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948v1](http://arxiv.org/abs/2310.15948v1)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**Improving Event Time Prediction by Learning to Partition the Event Time Space**|Jimmy Hickey et.al.|[2310.15853v1](http://arxiv.org/abs/2310.15853v1)|null|
 |**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831v1](http://arxiv.org/abs/2310.15831v1)|null|
 |**2023-10-24**|**Discriminator Guidance for Autoregressive Diffusion Models**|Filip Ekström Kelvinius et.al.|[2310.15817v1](http://arxiv.org/abs/2310.15817v1)|null|
@@ -1520,7 +1520,7 @@
 |**2023-10-24**|**A necessary and sufficient condition for the existence of chaotic dynamics in an overlapping generations model**|Tomohiro Uchiyama et.al.|[2310.15755v1](http://arxiv.org/abs/2310.15755v1)|null|
 |**2023-10-24**|**Improving Diffusion Models for ECG Imputation with an Augmented Template Prior**|Alexander Jenkins et.al.|[2310.15742v1](http://arxiv.org/abs/2310.15742v1)|null|
 |**2023-10-24**|**Semantic-preserving image coding based on Conditional Diffusion models**|Francesco Pezone et.al.|[2310.15737v1](http://arxiv.org/abs/2310.15737v1)|null|
-|**2023-10-24**|**Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains**|Miranda Boutilier et.al.|[2310.15669v1](http://arxiv.org/abs/2310.15669v1)|null|
+|**2023-10-25**|**Robust Methods for Multiscale Coarse Approximations of Diffusion Models in Perforated Domains**|Miranda Boutilier et.al.|[2310.15669v2](http://arxiv.org/abs/2310.15669v2)|null|
 |**2023-10-24**|**ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts**|Lena S. Bolliger et.al.|[2310.15587v1](http://arxiv.org/abs/2310.15587v1)|**[link](https://github.com/dili-lab/scandl)**|
 |**2023-10-24**|**On the Inherent Privacy Properties of Discrete Denoising Diffusion Models**|Rongzhe Wei et.al.|[2310.15524v1](http://arxiv.org/abs/2310.15524v1)|null|
 |**2023-10-24**|**AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing**|Namjoon Suh et.al.|[2310.15479v1](http://arxiv.org/abs/2310.15479v1)|null|
@@ -2328,7 +2328,7 @@
 |**2023-10-24**|**MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning**|Zayne Sprague et.al.|[2310.16049v1](http://arxiv.org/abs/2310.16049v1)|**[link](https://github.com/zayne-sprague/musr)**|
 |**2023-10-24**|**AI Alignment and Social Choice: Fundamental Limitations and Policy Implications**|Abhilash Mishra et.al.|[2310.16048v1](http://arxiv.org/abs/2310.16048v1)|null|
 |**2023-10-24**|**Woodpecker: Hallucination Correction for Multimodal Large Language Models**|Shukang Yin et.al.|[2310.16045v1](http://arxiv.org/abs/2310.16045v1)|**[link](https://github.com/bradyfu/woodpecker)**|
-|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v2](http://arxiv.org/abs/2310.16042v2)|null|
 |**2023-10-24**|**Instruct and Extract: Instruction Tuning for On-Demand Information Extraction**|Yizhu Jiao et.al.|[2310.16040v1](http://arxiv.org/abs/2310.16040v1)|null|
 |**2023-10-24**|**What's Left? Concept Grounding with Logic-Enhanced Foundation Models**|Joy Hsu et.al.|[2310.16035v1](http://arxiv.org/abs/2310.16035v1)|**[link](https://github.com/joyhsu0504/left)**|
 |**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033v1](http://arxiv.org/abs/2310.16033v1)|null|
@@ -2356,7 +2356,7 @@
 |**2023-10-24**|**CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation**|Minzhi Li et.al.|[2310.15638v1](http://arxiv.org/abs/2310.15638v1)|**[link](https://github.com/salt-nlp/coannotating)**|
 |**2023-10-24**|**Retrieval-based Knowledge Transfer: An Effective Approach for Extreme Large Language Model Compression**|Jiduan Liu et.al.|[2310.15594v1](http://arxiv.org/abs/2310.15594v1)|null|
 |**2023-10-24**|**POE: Process of Elimination for Multiple Choice Reasoning**|Chenkai Ma et.al.|[2310.15575v1](http://arxiv.org/abs/2310.15575v1)|**[link](https://github.com/kasmasvan/poe)**|
-|**2023-10-24**|**TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction**|Junyi Liu et.al.|[2310.15556v1](http://arxiv.org/abs/2310.15556v1)|null|
+|**2023-10-25**|**TCRA-LLM: Token Compression Retrieval Augmented Large Language Model for Inference Cost Reduction**|Junyi Liu et.al.|[2310.15556v2](http://arxiv.org/abs/2310.15556v2)|null|
 |**2023-10-24**|**SteloCoder: a Decoder-Only LLM for Multi-Language to Python Code Translation**|Jialing Pan et.al.|[2310.15539v1](http://arxiv.org/abs/2310.15539v1)|**[link](https://github.com/sade-adrien/stelocoder)**|
 |**2023-10-24**|**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**|Jason Lucas et.al.|[2310.15515v1](http://arxiv.org/abs/2310.15515v1)|null|
 |**2023-10-24**|**KITAB: Evaluating LLMs on Constraint Satisfaction for Information Retrieval**|Marah I Abdin et.al.|[2310.15511v1](http://arxiv.org/abs/2310.15511v1)|null|
@@ -2366,7 +2366,7 @@
 |**2023-10-24**|**UI Layout Generation with LLMs Guided by UI Grammar**|Yuwen Lu et.al.|[2310.15455v1](http://arxiv.org/abs/2310.15455v1)|null|
 |**2023-10-24**|**PromptInfuser: How Tightly Coupling AI and UI Design Impacts Designers' Workflows**|Savvas Petridis et.al.|[2310.15435v1](http://arxiv.org/abs/2310.15435v1)|null|
 |**2023-10-24**|**ConstitutionMaker: Interactively Critiquing Large Language Models by Converting Feedback into Principles**|Savvas Petridis et.al.|[2310.15428v1](http://arxiv.org/abs/2310.15428v1)|null|
-|**2023-10-24**|**FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions**|Hyunwoo Kim et.al.|[2310.15421v1](http://arxiv.org/abs/2310.15421v1)|null|
+|**2023-10-25**|**FANToM: A Benchmark for Stress-testing Machine Theory of Mind in Interactions**|Hyunwoo Kim et.al.|[2310.15421v2](http://arxiv.org/abs/2310.15421v2)|null|
 |**2023-10-23**|**GPT-4 as an Effective Zero-Shot Evaluator for Scientific Figure Captions**|Ting-Yao Hsu et.al.|[2310.15405v1](http://arxiv.org/abs/2310.15405v1)|null|
 |**2023-10-23**|**DoGE: Domain Reweighting with Generalization Estimation**|Simin Fan et.al.|[2310.15393v1](http://arxiv.org/abs/2310.15393v1)|null|
 |**2023-10-23**|**Irreducible Curriculum for Language Model Pretraining**|Simin Fan et.al.|[2310.15389v1](http://arxiv.org/abs/2310.15389v1)|null|
