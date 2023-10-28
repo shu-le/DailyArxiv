@@ -1640,7 +1640,7 @@ layout: default
 |**2023-10-26**|**Learning an Inventory Control Policy with General Inventory Arrival Dynamics**|Sohrab Andaz et.al.|[2310.17168v1](http://arxiv.org/abs/2310.17168v1)|null|
 |**2023-10-26**|**Improving Denoising Diffusion Models via Simultaneous Estimation of Image and Noise**|Zhenkai Zhang et.al.|[2310.17167v1](http://arxiv.org/abs/2310.17167v1)|null|
 |**2023-10-26**|**Price Experimentation and Interference in Online Platforms**|Wassim Dhaouadi et.al.|[2310.17165v1](http://arxiv.org/abs/2310.17165v1)|null|
-|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153v1](http://arxiv.org/abs/2310.17153v1)|null|
+|**2023-10-26**|**Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration**|Longlin Yu et.al.|[2310.17153v1](http://arxiv.org/abs/2310.17153v1)|**[link](https://github.com/longinyu/hsivi)**|
 |**2023-10-26**|**Neural style transfer of weak lensing mass maps**|Masato Shirasaki et.al.|[2310.17141v1](http://arxiv.org/abs/2310.17141v1)|null|
 |**2023-10-26**|**Benign Oscillation of Stochastic Gradient Descent with Large Learning Rates**|Miao Lu et.al.|[2310.17074v1](http://arxiv.org/abs/2310.17074v1)|null|
 |**2023-10-25**|**How well can machine-generated texts be identified and can language models be trained to avoid identification?**|Sinclair Schneider et.al.|[2310.16992v1](http://arxiv.org/abs/2310.16992v1)|null|
@@ -1649,7 +1649,7 @@ layout: default
 |**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
-|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|null|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|**[link](https://github.com/dsaragih/diffuse-gen)**|
 |**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
 |**2023-10-25**|**From Pointwise to Powerhouse: Initialising Neural Networks with Generative Models**|Christian Harder et.al.|[2310.16695v1](http://arxiv.org/abs/2310.16695v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
@@ -1659,7 +1659,7 @@ layout: default
 |**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594v1](http://arxiv.org/abs/2310.16594v1)|null|
 |**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573v1](http://arxiv.org/abs/2310.16573v1)|null|
 |**2023-10-25**|**Dynamic Processing Neural Network Architecture For Hearing Loss Compensation**|Szymon Drgas et.al.|[2310.16550v1](http://arxiv.org/abs/2310.16550v1)|null|
-|**2023-10-25**|**Can You Rely on Your Model Evaluation? Improving Model Evaluation with Synthetic Test Data**|Boris van Breugel et.al.|[2310.16524v1](http://arxiv.org/abs/2310.16524v1)|**[link](https://github.com/seedatnabeel/3s-testing)**|
+|**2023-10-25**|**Can You Rely on Your Model Evaluation? Improving Model Evaluation with Synthetic Test Data**|Boris van Breugel et.al.|[2310.16524v1](http://arxiv.org/abs/2310.16524v1)|**[link](https://github.com/vanderschaarlab/3S-Testing)**|
 |**2023-10-25**|**Diversity Enhanced Narrative Question Generation for Storybooks**|Hokeun Yoon et.al.|[2310.16446v1](http://arxiv.org/abs/2310.16446v1)|**[link](https://github.com/hkyoon95/mqg)**|
 |**2023-10-25**|**Open Knowledge Base Canonicalization with Multi-task Unlearning**|Bingchen Liu et.al.|[2310.16419v1](http://arxiv.org/abs/2310.16419v1)|null|
 |**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400v1](http://arxiv.org/abs/2310.16400v1)|null|
@@ -2390,7 +2390,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-26**|**An Open Source Data Contamination Report for Llama Series Models**|Yucheng Li et.al.|[2310.17589v1](http://arxiv.org/abs/2310.17589v1)|**[link](https://github.com/liyucheng09/contamination_detector)**|
-|**2023-10-25**|**Can You Rely on Your Model Evaluation? Improving Model Evaluation with Synthetic Test Data**|Boris van Breugel et.al.|[2310.16524v1](http://arxiv.org/abs/2310.16524v1)|**[link](https://github.com/seedatnabeel/3s-testing)**|
+|**2023-10-25**|**Can You Rely on Your Model Evaluation? Improving Model Evaluation with Synthetic Test Data**|Boris van Breugel et.al.|[2310.16524v1](http://arxiv.org/abs/2310.16524v1)|**[link](https://github.com/vanderschaarlab/3S-Testing)**|
 |**2023-10-23**|**Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**|Swarnadeep Saha et.al.|[2310.15123v1](http://arxiv.org/abs/2310.15123v1)|null|
 |**2023-10-23**|**GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels**|Xin Zheng et.al.|[2310.14586v1](http://arxiv.org/abs/2310.14586v1)|null|
 |**2023-10-22**|**Which Prompts Make The Difference? Data Prioritization For Efficient Human LLM Evaluation**|Meriem Boubdir et.al.|[2310.14424v1](http://arxiv.org/abs/2310.14424v1)|null|
@@ -2516,7 +2516,7 @@ layout: default
 |**2023-10-26**|**Supercharging academic writing with generative AI: framework, techniques, and caveats**|Zhicheng Lin et.al.|[2310.17143v1](http://arxiv.org/abs/2310.17143v1)|null|
 |**2023-10-26**|**Symbolic Planning and Code Generation for Grounded Dialogue**|Justin T. Chiu et.al.|[2310.17140v1](http://arxiv.org/abs/2310.17140v1)|**[link](https://github.com/justinchiu/onecommon-gpt)**|
 |**2023-10-26**|**Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs**|Yuxin Zuo et.al.|[2310.17133v1](http://arxiv.org/abs/2310.17133v1)|**[link](https://github.com/libeineu/mmt-vqa)**|
-|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|null|
+|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|**[link](https://github.com/hc-guo/m2c)**|
 |**2023-10-26**|**FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge**|Farima Fatahi Bayat et.al.|[2310.17119v1](http://arxiv.org/abs/2310.17119v1)|null|
 |**2023-10-26**|**LLM4DyG: Can Large Language Models Solve Problems on Dynamic Graphs?**|Zeyang Zhang et.al.|[2310.17110v1](http://arxiv.org/abs/2310.17110v1)|null|
 |**2023-10-25**|**math-PVS: A Large Language Model Framework to Map Scientific Publications to PVS Theories**|Hassen Saidi et.al.|[2310.17064v1](http://arxiv.org/abs/2310.17064v1)|null|
@@ -3816,7 +3816,7 @@ layout: default
 |**2023-10-19**|**Neurosymbolic Grounding for Compositional World Models**|Atharva Sehgal et.al.|[2310.12690v1](http://arxiv.org/abs/2310.12690v1)|null|
 |**2023-10-19**|**Lost in Translation: When GPT-4V(ision) Can't See Eye to Eye with Text. A Vision-Language-Consistency Analysis of VLLMs and Beyond**|Xiang Zhang et.al.|[2310.12520v1](http://arxiv.org/abs/2310.12520v1)|null|
 |**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100v1](http://arxiv.org/abs/2310.12100v1)|null|
-|**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|null|
+|**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|**[link](https://github.com/cristinabustos16/clip-e)**|
 |**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748v1](http://arxiv.org/abs/2310.11748v1)|null|
 |**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441v1](http://arxiv.org/abs/2310.11441v1)|null|
 |**2023-10-16**|**PELA: Learning Parameter-Efficient Models with Low-Rank Approximation**|Yangyang Guo et.al.|[2310.10700v1](http://arxiv.org/abs/2310.10700v1)|**[link](https://github.com/guoyang9/pela)**|
@@ -4049,7 +4049,7 @@ layout: default
 |**2023-10-26**|**Estimating True Beliefs from Declared Opinions**|Jennifer Tang et.al.|[2310.17171v1](http://arxiv.org/abs/2310.17171v1)|null|
 |**2023-10-26**|**Learning an Inventory Control Policy with General Inventory Arrival Dynamics**|Sohrab Andaz et.al.|[2310.17168v1](http://arxiv.org/abs/2310.17168v1)|null|
 |**2023-10-26**|**Incorporating Probing Signals into Multimodal Machine Translation via Visual Question-Answering Pairs**|Yuxin Zuo et.al.|[2310.17133v1](http://arxiv.org/abs/2310.17133v1)|**[link](https://github.com/libeineu/mmt-vqa)**|
-|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|null|
+|**2023-10-26**|**M2C: Towards Automatic Multimodal Manga Complement**|Hongcheng Guo et.al.|[2310.17130v1](http://arxiv.org/abs/2310.17130v1)|**[link](https://github.com/hc-guo/m2c)**|
 |**2023-10-26**|**Compact free-running InGaAs/InP single-photon detector with 40% detection efficiency and 2.3 kcps dark count rate**|Qi Xu et.al.|[2310.17113v1](http://arxiv.org/abs/2310.17113v1)|null|
 |**2023-10-26**|**On optimal civilian response during active shooter incidents**|Liang Hong et.al.|[2310.17111v1](http://arxiv.org/abs/2310.17111v1)|null|
 |**2023-10-26**|**Transport Barriers in Magnetized Plasmas -- General Theory with Dynamical Constraints**|Mike Kotschenreuther et.al.|[2310.17107v1](http://arxiv.org/abs/2310.17107v1)|null|
