@@ -4035,7 +4035,7 @@
 |**2023-10-26**|**FMMRec: Fairness-aware Multimodal Recommendation**|Weixin Chen et.al.|[2310.17373v1](http://arxiv.org/abs/2310.17373v1)|null|
 |**2023-10-26**|**Dialogue-based generation of self-driving simulation scenarios using Large Language Models**|Antonio Valerio Miceli-Barone et.al.|[2310.17372v1](http://arxiv.org/abs/2310.17372v1)|**[link](https://github.com/avmb/dialogllmscenic)**|
 |**2023-10-26**|**Controllability of networked multiagent systems based on linearized Turing's model**|Tianhao Li et.al.|[2310.17363v1](http://arxiv.org/abs/2310.17363v1)|null|
-|**2023-10-26**|**Bayesian Optimization for Personalized Dose-Finding Trials with Combination Therapies**|James Willard et.al.|[2310.17334v1](http://arxiv.org/abs/2310.17334v1)|null|
+|**2023-10-26**|**Bayesian Optimization for Personalized Dose-Finding Trials with Combination Therapies**|James Willard et.al.|[2310.17334v1](http://arxiv.org/abs/2310.17334v1)|**[link](https://github.com/jjwillard/bayesopt_pers_df)**|
 |**2023-10-26**|**Comparing Photorealistic and Animated Embodied Conversational Agents in Serious Games: An Empirical Study on User Experience**|Danai Korre et.al.|[2310.17300v1](http://arxiv.org/abs/2310.17300v1)|null|
 |**2023-10-26**|**Strategic Abilities of Forgetful Agents in Stochastic Environments**|Francesco Belardinelli et.al.|[2310.17240v1](http://arxiv.org/abs/2310.17240v1)|null|
 |**2023-10-26**|**Computationally Feasible Strategies**|Catalin Dima et.al.|[2310.17234v1](http://arxiv.org/abs/2310.17234v1)|null|
@@ -5135,7 +5135,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
-|**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602v1](http://arxiv.org/abs/2310.17602v1)|null|
+|**2023-10-26**|**Simulation-based Inference of Reionization Parameters from 3D Tomographic 21 cm Light-cone Images -- II: Application of Solid Harmonic Wavelet Scattering Transform**|Xiaosheng Zhao et.al.|[2310.17602v1](http://arxiv.org/abs/2310.17602v1)|**[link](https://github.com/xiaosheng-zhao/21cmdelfi)**|
 |**2023-10-26**|**Trading particle shape with fluid symmetry: on the mobility matrix in 3D chiral fluids**|Tali Khain et.al.|[2310.17528v1](http://arxiv.org/abs/2310.17528v1)|null|
 |**2023-10-26**|**Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction**|Feng Wang et.al.|[2310.17527v1](http://arxiv.org/abs/2310.17527v1)|**[link](https://github.com/masked-spacetime-hashing/msth)**|
 |**2023-10-26**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519v1](http://arxiv.org/abs/2310.17519v1)|null|
@@ -5148,10 +5148,10 @@
 |**2023-10-26**|**BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds**|Corentin Sautier et.al.|[2310.17281v1](http://arxiv.org/abs/2310.17281v1)|**[link](https://github.com/valeoai/bevcontrast)**|
 |**2023-10-26**|**Vorticity Alignment with Lyapunov Vectors and Rate-of-Strain Eigenvectors**|Alex Encinas-Bartos et.al.|[2310.17267v1](http://arxiv.org/abs/2310.17267v1)|null|
 |**2023-10-26**|**On the origin of V-shaped polarisation spectra in molecular clouds**|Daniel Seifried et.al.|[2310.17211v1](http://arxiv.org/abs/2310.17211v1)|null|
-|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|**[link](https://github.com/ryota-takedalab/judgeai-lutzedge)**|
 |**2023-10-26**|**Lookup Table meets Local Laplacian Filter: Pyramid Reconstruction Network for Tone Mapping**|Feng Zhang et.al.|[2310.17190v1](http://arxiv.org/abs/2310.17190v1)|**[link](https://github.com/fengzhang427/LLF-LUT)**|
 |**2023-10-26**|**Graphical Object-Centric Actor-Critic**|Leonid Ugadiarov et.al.|[2310.17178v1](http://arxiv.org/abs/2310.17178v1)|null|
-|**2023-10-26**|**Structure discovery in Atomic Force Microscopy imaging of ice**|F. Priante et.al.|[2310.17161v1](http://arxiv.org/abs/2310.17161v1)|null|
+|**2023-10-26**|**Structure discovery in Atomic Force Microscopy imaging of ice**|F. Priante et.al.|[2310.17161v1](http://arxiv.org/abs/2310.17161v1)|**[link](https://github.com/singroup/ml-spm)**|
 |**2023-10-26**|**Simple Baselines for Projection-based Full-reference and No-reference Point Cloud Quality Assessment**|Zicheng Zhang et.al.|[2310.17147v1](http://arxiv.org/abs/2310.17147v1)|null|
 |**2023-10-26**|**Optimizing the Temporal and Spatial Resolutions and Light Throughput of Fresnel Incoherent Correlation Holography in the Framework of Coded Aperture Imaging**|Francis Gracy Arockiaraj et.al.|[2310.17103v1](http://arxiv.org/abs/2310.17103v1)|null|
 |**2023-10-25**|**Probing 3D magnetic fields using thermal dust polarization and grain alignment theory**|Thiem Hoang et.al.|[2310.17048v1](http://arxiv.org/abs/2310.17048v1)|null|
