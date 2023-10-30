@@ -25,7 +25,7 @@ layout: default
 |**2023-10-26**|**SoK: Pitfalls in Evaluating Black-Box Attacks**|Fnu Suya et.al.|[2310.17534v1](http://arxiv.org/abs/2310.17534v1)|**[link](https://github.com/iamgroot42/blackboxsok)**|
 |**2023-10-26**|**Evaluating Bias and Fairness in Gender-Neutral Pretrained Vision-and-Language Models**|Laura Cabello et.al.|[2310.17530v1](http://arxiv.org/abs/2310.17530v1)|**[link](https://github.com/coastalcph/gender-neutral-vl)**|
 |**2023-10-26**|**Masked Space-Time Hash Encoding for Efficient Dynamic Scene Reconstruction**|Feng Wang et.al.|[2310.17527v1](http://arxiv.org/abs/2310.17527v1)|**[link](https://github.com/masked-spacetime-hashing/msth)**|
-|**2023-10-26**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519v1](http://arxiv.org/abs/2310.17519v1)|null|
+|**2023-10-27**|**FLARE: Fast Learning of Animatable and Relightable Mesh Avatars**|Shrisha Bharadwaj et.al.|[2310.17519v2](http://arxiv.org/abs/2310.17519v2)|null|
 |**2023-10-26**|**Revisiting the Distillation of Image Representations into Point Clouds for Autonomous Driving**|Gilles Puy et.al.|[2310.17504v1](http://arxiv.org/abs/2310.17504v1)|null|
 |**2023-10-26**|**A Hybrid Graph Network for Complex Activity Detection in Video**|Salman Khan et.al.|[2310.17493v1](http://arxiv.org/abs/2310.17493v1)|null|
 |**2023-10-26**|**Cross-modal Active Complementary Learning with Self-refining Correspondence**|Yang Qin et.al.|[2310.17468v1](http://arxiv.org/abs/2310.17468v1)|**[link](https://github.com/qinyang79/crcl)**|
@@ -1650,7 +1650,7 @@ layout: default
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|**[link](https://github.com/dsaragih/diffuse-gen)**|
-|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v2](http://arxiv.org/abs/2310.16779v2)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
+|**2023-10-27**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779v3](http://arxiv.org/abs/2310.16779v3)|**[link](https://github.com/jh-jeong/smoothing-multiscale)**|
 |**2023-10-25**|**From Pointwise to Powerhouse: Initialising Neural Networks with Generative Models**|Christian Harder et.al.|[2310.16695v1](http://arxiv.org/abs/2310.16695v1)|null|
 |**2023-10-25**|**Local Statistics for Generative Image Detection**|Yung Jer Wong et.al.|[2310.16684v1](http://arxiv.org/abs/2310.16684v1)|null|
 |**2023-10-25**|**A Picture is Worth a Thousand Words: Principled Recaptioning Improves Image Generation**|Eyal Segalis et.al.|[2310.16656v1](http://arxiv.org/abs/2310.16656v1)|null|
@@ -2397,7 +2397,7 @@ layout: default
 |**2023-10-22**|**Multi-stream Cell Segmentation with Low-level Cues for Multi-modality Images**|Wei Lou et.al.|[2310.14226v1](http://arxiv.org/abs/2310.14226v1)|**[link](https://github.com/lhaof/cellseg)**|
 |**2023-10-21**|**Sentiment Analysis Across Multiple African Languages: A Current Benchmark**|Saurav K. Aryal et.al.|[2310.14120v1](http://arxiv.org/abs/2310.14120v1)|null|
 |**2023-10-21**|**Revisiting Instruction Fine-tuned Model Evaluation to Guide Industrial Applications**|Manuel Faysse et.al.|[2310.14103v1](http://arxiv.org/abs/2310.14103v1)|**[link](https://github.com/manuelfay/ifteval)**|
-|**2023-10-21**|**MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**|Zexue He et.al.|[2310.14088v1](http://arxiv.org/abs/2310.14088v1)|null|
+|**2023-10-27**|**MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**|Zexue He et.al.|[2310.14088v2](http://arxiv.org/abs/2310.14088v2)|null|
 |**2023-10-19**|**Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing**|Yue Guo et.al.|[2310.12664v1](http://arxiv.org/abs/2310.12664v1)|null|
 |**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135v1](http://arxiv.org/abs/2310.12135v1)|null|
 |**2023-10-17**|**Unveiling the General Intelligence Factor in Language Models: A Psychometric Approach**|David Ilić et.al.|[2310.11616v1](http://arxiv.org/abs/2310.11616v1)|**[link](https://github.com/davidilic/g-in-llms)**|
@@ -2497,7 +2497,7 @@ layout: default
 |**2023-10-26**|**Proving Test Set Contamination in Black Box Language Models**|Yonatan Oren et.al.|[2310.17623v1](http://arxiv.org/abs/2310.17623v1)|null|
 |**2023-10-26**|**An Open Source Data Contamination Report for Llama Series Models**|Yucheng Li et.al.|[2310.17589v1](http://arxiv.org/abs/2310.17589v1)|**[link](https://github.com/liyucheng09/contamination_detector)**|
 |**2023-10-26**|**Interactive Robot Learning from Verbal Correction**|Huihan Liu et.al.|[2310.17555v1](http://arxiv.org/abs/2310.17555v1)|null|
-|**2023-10-26**|**Can large language models replace humans in the systematic review process? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages**|Qusai Khraisha et.al.|[2310.17526v1](http://arxiv.org/abs/2310.17526v1)|null|
+|**2023-10-27**|**Can large language models replace humans in the systematic review process? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages**|Qusai Khraisha et.al.|[2310.17526v2](http://arxiv.org/abs/2310.17526v2)|null|
 |**2023-10-27**|**The Expressive Power of Low-Rank Adaptation**|Yuchen Zeng et.al.|[2310.17513v2](http://arxiv.org/abs/2310.17513v2)|**[link](https://github.com/uw-madison-lee-lab/expressive_power_of_lora)**|
 |**2023-10-26**|**CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents**|Qinlin Zhao et.al.|[2310.17512v1](http://arxiv.org/abs/2310.17512v1)|null|
 |**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
@@ -2522,7 +2522,7 @@ layout: default
 |**2023-10-25**|**math-PVS: A Large Language Model Framework to Map Scientific Publications to PVS Theories**|Hassen Saidi et.al.|[2310.17064v1](http://arxiv.org/abs/2310.17064v1)|null|
 |**2023-10-25**|**BOOST: Harnessing Black-Box Control to Boost Commonsense in LMs' Generation**|Yufei Tian et.al.|[2310.17054v1](http://arxiv.org/abs/2310.17054v1)|null|
 |**2023-10-25**|**Conditionally Combining Robot Skills using Large Language Models**|K. R. Zentner et.al.|[2310.17019v1](http://arxiv.org/abs/2310.17019v1)|**[link](https://github.com/krzentner/language-world)**|
-|**2023-10-25**|**Data Augmentation for Emotion Detection in Small Imbalanced Text Data**|Anna Koufakou et.al.|[2310.17015v1](http://arxiv.org/abs/2310.17015v1)|**[link](https://github.com/a-koufakou/augemotiondetection)**|
+|**2023-10-27**|**Data Augmentation for Emotion Detection in Small Imbalanced Text Data**|Anna Koufakou et.al.|[2310.17015v2](http://arxiv.org/abs/2310.17015v2)|**[link](https://github.com/a-koufakou/augemotiondetection)**|
 |**2023-10-25**|**How well can machine-generated texts be identified and can language models be trained to avoid identification?**|Sinclair Schneider et.al.|[2310.16992v1](http://arxiv.org/abs/2310.16992v1)|null|
 |**2023-10-25**|**Patterns of Student Help-Seeking When Using a Large Language Model-Powered Programming Assistant**|Brad Sheese et.al.|[2310.16984v1](http://arxiv.org/abs/2310.16984v1)|null|
 |**2023-10-25**|**Privately Aligning Language Models with Reinforcement Learning**|Fan Wu et.al.|[2310.16960v1](http://arxiv.org/abs/2310.16960v1)|null|
