@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 
 ## CV
 
@@ -50,7 +50,7 @@ layout: default
 |**2023-10-27**|**SmooSeg: Smoothness Prior for Unsupervised Semantic Segmentation**|Mengcheng Lan et.al.|[2310.17874v1](http://arxiv.org/abs/2310.17874v1)|**[link](https://github.com/mc-lan/smooseg)**|
 |**2023-10-27**|**Grid Jigsaw Representation with CLIP: A New Perspective on Image Clustering**|Zijie Song et.al.|[2310.17869v1](http://arxiv.org/abs/2310.17869v1)|null|
 |**2023-10-27**|**What You See Is What You Detect: Towards better Object Densification in 3D detection**|Tianran Liu et.al.|[2310.17842v1](http://arxiv.org/abs/2310.17842v1)|**[link](https://github.com/orbis36/wysiwyd)**|
-|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835v1](http://arxiv.org/abs/2310.17835v1)|null|
+|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835v1](http://arxiv.org/abs/2310.17835v1)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
 |**2023-10-26**|**Image Prior and Posterior Conditional Probability Representation for Efficient Damage Assessment**|Jie Wei et.al.|[2310.17801v1](http://arxiv.org/abs/2310.17801v1)|null|
 |**2023-10-26**|**ControlLLM: Augment Language Models with Tools by Searching on Graphs**|Zhaoyang Liu et.al.|[2310.17796v1](http://arxiv.org/abs/2310.17796v1)|null|
 |**2023-10-26**|**AutoCT: Automated CT registration, segmentation, and quantification**|Zhe Bai et.al.|[2310.17780v1](http://arxiv.org/abs/2310.17780v1)|null|
@@ -1670,7 +1670,7 @@ layout: default
 |**2023-10-27**|**Large language models for aspect-based sentiment analysis**|Paul F. Simmering et.al.|[2310.18025v1](http://arxiv.org/abs/2310.18025v1)|**[link](https://github.com/qagentur/absa_llm)**|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
 |**2023-10-27**|**Impressions: Understanding Visual Semiotics and Aesthetic Impact**|Julia Kruk et.al.|[2310.17887v1](http://arxiv.org/abs/2310.17887v1)|null|
-|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835v1](http://arxiv.org/abs/2310.17835v1)|null|
+|**2023-10-27**|**One Style is All you Need to Generate a Video**|Sandeep Manandhar et.al.|[2310.17835v1](http://arxiv.org/abs/2310.17835v1)|**[link](https://github.com/sandman002/One-Style-is-All-You-Need-to-Generate-a-Video)**|
 |**2023-10-26**|**Interacting Diffusion Processes for Event Sequence Forecasting**|Mai Zeng et.al.|[2310.17800v1](http://arxiv.org/abs/2310.17800v1)|null|
 |**2023-10-26**|**CodeFusion: A Pre-trained Diffusion Model for Code Generation**|Mukul Singh et.al.|[2310.17680v1](http://arxiv.org/abs/2310.17680v1)|null|
 |**2023-10-26**|**Spatio-Temporal Meta Contrastive Learning**|Jiabin Tang et.al.|[2310.17678v1](http://arxiv.org/abs/2310.17678v1)|**[link](https://github.com/hkuds/cl4st)**|
