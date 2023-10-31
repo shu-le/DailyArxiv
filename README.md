@@ -1703,7 +1703,7 @@
 |**2023-10-25**|**How well can machine-generated texts be identified and can language models be trained to avoid identification?**|Sinclair Schneider et.al.|[2310.16992v1](http://arxiv.org/abs/2310.16992v1)|null|
 |**2023-10-25**|**Probabilistic Integral Circuits**|Gennaro Gala et.al.|[2310.16986v1](http://arxiv.org/abs/2310.16986v1)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834v1](http://arxiv.org/abs/2310.16834v1)|null|
-|**2023-10-25**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v1](http://arxiv.org/abs/2310.16831v1)|**[link](https://github.com/perf-project/PeRF)**|
+|**2023-10-28**|**PERF: Panoramic Neural Radiance Field from a Single Panorama**|Guangcong Wang et.al.|[2310.16831v2](http://arxiv.org/abs/2310.16831v2)|**[link](https://github.com/perf-project/PeRF)**|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825v1](http://arxiv.org/abs/2310.16825v1)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818v2](http://arxiv.org/abs/2310.16818v2)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794v1](http://arxiv.org/abs/2310.16794v1)|**[link](https://github.com/dsaragih/diffuse-gen)**|
@@ -3875,7 +3875,7 @@
 |**2023-10-26**|**Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification**|Jiachen Li et.al.|[2310.17218v1](http://arxiv.org/abs/2310.17218v1)|null|
 |**2023-10-26**|**Task-driven Prompt Evolution for Foundation Models**|Rachana Sathish et.al.|[2310.17128v1](http://arxiv.org/abs/2310.17128v1)|null|
 |**2023-10-25**|**Exploring Question Decomposition for Zero-Shot VQA**|Zaid Khan et.al.|[2310.17050v1](http://arxiv.org/abs/2310.17050v1)|null|
-|**2023-10-25**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809v1](http://arxiv.org/abs/2310.16809v1)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
+|**2023-10-29**|**Exploring OCR Capabilities of GPT-4V(ision) : A Quantitative and In-depth Evaluation**|Yongxin Shi et.al.|[2310.16809v2](http://arxiv.org/abs/2310.16809v2)|**[link](https://github.com/scut-dlvclab/gpt-4v_ocr)**|
 |**2023-10-25**|**CoDet: Co-Occurrence Guided Region-Word Alignment for Open-Vocabulary Object Detection**|Chuofan Ma et.al.|[2310.16667v1](http://arxiv.org/abs/2310.16667v1)|**[link](https://github.com/cvmi-lab/codet)**|
 |**2023-10-25**|**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**|Niki Maria Foteinopoulou et.al.|[2310.16640v1](http://arxiv.org/abs/2310.16640v1)|**[link](https://github.com/nickyfot/emoclip)**|
 |**2023-10-25**|**Photon-photon correlation of condensed light in a microcavity**|Yijun Tang et.al.|[2310.16604v1](http://arxiv.org/abs/2310.16604v1)|null|
