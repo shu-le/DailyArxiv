@@ -2637,7 +2637,7 @@ layout: default
 |**2023-10-28**|**The Synergy of Speculative Decoding and Batching in Serving Large Language Models**|Qidong Su et.al.|[2310.18813v1](http://arxiv.org/abs/2310.18813v1)|null|
 |**2023-10-28**|**Are NLP Models Good at Tracing Thoughts: An Overview of Narrative Understanding**|Lixing Zhu et.al.|[2310.18783v1](http://arxiv.org/abs/2310.18783v1)|null|
 |**2023-10-28**|**Crossing the Aisle: Unveiling Partisan and Counter-Partisan Events in News Reporting**|Kaijian Zou et.al.|[2310.18768v1](http://arxiv.org/abs/2310.18768v1)|null|
-|**2023-10-28**|**Reboost Large Language Model-based Text-to-SQL, Text-to-Python, and Text-to-Function -- with Real Applications in Traffic Domain**|Guanghu Sui et.al.|[2310.18752v1](http://arxiv.org/abs/2310.18752v1)|null|
+|**2023-10-31**|**Reboost Large Language Model-based Text-to-SQL, Text-to-Python, and Text-to-Function -- with Real Applications in Traffic Domain**|Guanghu Sui et.al.|[2310.18752v2](http://arxiv.org/abs/2310.18752v2)|null|
 |**2023-10-28**|**Data Ambiguity Strikes Back: How Documentation Improves GPT's Text-to-SQL**|Zezhou Huang et.al.|[2310.18742v1](http://arxiv.org/abs/2310.18742v1)|null|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**Probing LLMs for Joint Encoding of Linguistic Categories**|Giulio Starace et.al.|[2310.18696v1](http://arxiv.org/abs/2310.18696v1)|**[link](https://github.com/thesofakillers/infoshare)**|
@@ -4247,7 +4247,7 @@ layout: default
 |**2023-10-29**|**Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game**|Zelai Xu et.al.|[2310.18940v1](http://arxiv.org/abs/2310.18940v1)|null|
 |**2023-10-29**|**Remaining Useful Life Prediction of Lithium-ion Batteries using Spatio-temporal Multimodal Attention Networks**|Sungho Suh et.al.|[2310.18924v1](http://arxiv.org/abs/2310.18924v1)|null|
 |**2023-10-29**|**Stochastic modeling of superconducting qudits in the dispersive regime**|Kangdi Yu et.al.|[2310.18856v1](http://arxiv.org/abs/2310.18856v1)|null|
-|**2023-10-28**|**AI for Open Science: A Multi-Agent Perspective for Ethically Translating Data to Knowledge**|Chase Yakaboski et.al.|[2310.18852v1](http://arxiv.org/abs/2310.18852v1)|null|
+|**2023-10-31**|**AI for Open Science: A Multi-Agent Perspective for Ethically Translating Data to Knowledge**|Chase Yakaboski et.al.|[2310.18852v2](http://arxiv.org/abs/2310.18852v2)|null|
 |**2023-10-28**|**Experience-weighted attraction learning in network coordination games**|Fulin Guo et.al.|[2310.18835v1](http://arxiv.org/abs/2310.18835v1)|null|
 |**2023-10-28**|**Efficient OPA tomography of non-Gaussian states of light**|Éva Rácz et.al.|[2310.18821v1](http://arxiv.org/abs/2310.18821v1)|null|
 |**2023-10-28**|**UniCat: Crafting a Stronger Fusion Baseline for Multimodal Re-Identification**|Jennifer Crawford et.al.|[2310.18812v1](http://arxiv.org/abs/2310.18812v1)|null|
