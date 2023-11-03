@@ -1,4 +1,4 @@
-## Updated on 2023.11.02
+## Updated on 2023.11.03
 
 ## CV
 
@@ -20,7 +20,7 @@
 |**2023-11-01**|**Continual atlas-based segmentation of prostate MRI**|Amin Ranem et.al.|[2311.00548v1](http://arxiv.org/abs/2311.00548v1)|**[link](https://github.com/meclabtuda/atlas-replay)**|
 |**2023-11-01**|**Improving Cardiovascular Disease Prediction Through Comparative Analysis of Machine Learning Models: A Case Study on Myocardial Infarction**|Jonayet Miah et.al.|[2311.00517v1](http://arxiv.org/abs/2311.00517v1)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500v1](http://arxiv.org/abs/2311.00500v1)|**[link](https://github.com/sail-sg/d-trak)**|
-|**2023-11-01**|**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**|Daniel Neururer et.al.|[2311.00489v1](http://arxiv.org/abs/2311.00489v1)|null|
+|**2023-11-02**|**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**|Daniel Neururer et.al.|[2311.00489v2](http://arxiv.org/abs/2311.00489v2)|null|
 |**2023-11-01**|**DEFN: Dual-Encoder Fourier Group Harmonics Network for Three-Dimensional Macular Hole Reconstruction with Stochastic Retinal Defect Augmentation and Dynamic Weight Composition**|Xingru Huang et.al.|[2311.00483v1](http://arxiv.org/abs/2311.00483v1)|**[link](https://github.com/iipl-hangzhoudianziuniversity/defn-pytorch)**|
 |**2023-11-01**|**Group Distributionally Robust Knowledge Distillation**|Konstantinos Vilouras et.al.|[2311.00476v1](http://arxiv.org/abs/2311.00476v1)|null|
 |**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469v1](http://arxiv.org/abs/2311.00469v1)|null|
@@ -53,7 +53,7 @@
 |**2023-11-01**|**Mixture-of-Experts for Open Set Domain Adaptation: A Dual-Space Detection Approach**|Zhenbang Du et.al.|[2311.00285v1](http://arxiv.org/abs/2311.00285v1)|null|
 |**2023-11-01**|**TLMCM Network for Medical Image Hierarchical Multi-Label Classification**|Meng Wu et.al.|[2311.00282v1](http://arxiv.org/abs/2311.00282v1)|null|
 |**2023-11-01**|**Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection**|Min Jae Jung et.al.|[2311.00278v1](http://arxiv.org/abs/2311.00278v1)|null|
-|**2023-11-01**|**OpenForest: A data catalogue for machine learning in forest monitoring**|Arthur Ouaknine et.al.|[2311.00277v1](http://arxiv.org/abs/2311.00277v1)|**[link](https://github.com/rolnicklab/openforest)**|
+|**2023-11-02**|**OpenForest: A data catalogue for machine learning in forest monitoring**|Arthur Ouaknine et.al.|[2311.00277v2](http://arxiv.org/abs/2311.00277v2)|**[link](https://github.com/rolnicklab/openforest)**|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710v1](http://arxiv.org/abs/2310.20710v1)|null|
 |**2023-10-31**|**DDAM-PS: Diligent Domain Adaptive Mixer for Person Search**|Mohammed Khaleed Almansoori et.al.|[2310.20706v1](http://arxiv.org/abs/2310.20706v1)|**[link](https://github.com/mustansarfiaz/ddam-ps)**|
 |**2023-10-31**|**Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders**|Srijan Das et.al.|[2310.20704v1](http://arxiv.org/abs/2310.20704v1)|null|
@@ -2695,7 +2695,7 @@
 |**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488v2](http://arxiv.org/abs/2310.06488v2)|null|
 |**2023-10-23**|**Establishing Trustworthiness: Rethinking Tasks and Model Evaluation**|Robert Litschko et.al.|[2310.05442v2](http://arxiv.org/abs/2310.05442v2)|null|
 |**2023-10-08**|**Unmasking Biases and Navigating Pitfalls in the Ophthalmic Artificial Intelligence Lifecycle: A Review**|Luis Filipe Nakayama et.al.|[2310.04997v1](http://arxiv.org/abs/2310.04997v1)|null|
-|**2023-10-03**|**Differentiable Chemical Physics by Geometric Deep Learning for Gradient-based Property Optimization of Mixtures**|Shang Zhu et.al.|[2310.03047v1](http://arxiv.org/abs/2310.03047v1)|null|
+|**2023-11-01**|**Differentiable Modeling and Optimization of Battery Electrolyte Mixtures Using Geometric Deep Learning**|Shang Zhu et.al.|[2310.03047v2](http://arxiv.org/abs/2310.03047v2)|null|
 |**2023-10-04**|**Resilient Clock Synchronization Architecture for Industrial Time-Sensitive Networking**|Yafei Sun et.al.|[2310.02693v1](http://arxiv.org/abs/2310.02693v1)|null|
 |**2023-10-02**|**Fusing Models with Complementary Expertise**|Hongyi Wang et.al.|[2310.01542v1](http://arxiv.org/abs/2310.01542v1)|null|
 |**2023-10-02**|**A Novel Approach for Machine Learning-based Load Balancing in High-speed Train System using Nested Cross Validation**|Ibrahim Yazici et.al.|[2310.01034v1](http://arxiv.org/abs/2310.01034v1)|null|
@@ -4500,7 +4500,7 @@
 |**2023-11-01**|**Collaboration in Immersive Environments: Challenges and Solutions**|Shahin Doroudian et.al.|[2311.00689v1](http://arxiv.org/abs/2311.00689v1)|null|
 |**2023-11-01**|**Emotion Detection for Misinformation: A Review**|Zhiwei Liu et.al.|[2311.00671v1](http://arxiv.org/abs/2311.00671v1)|null|
 |**2023-11-01**|**Latent Space Translation via Semantic Alignment**|Valentino Maiorca et.al.|[2311.00664v1](http://arxiv.org/abs/2311.00664v1)|**[link](https://github.com/flegyas/latent-translation)**|
-|**2023-11-01**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651v1](http://arxiv.org/abs/2311.00651v1)|null|
+|**2023-11-02**|**Emergence of Collective Open-Ended Exploration from Decentralized Meta-Reinforcement Learning**|Richard Bornemann et.al.|[2311.00651v2](http://arxiv.org/abs/2311.00651v2)|null|
 |**2023-11-01**|**LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing**|Wei-Ge Chen et.al.|[2311.00571v1](http://arxiv.org/abs/2311.00571v1)|null|
 |**2023-11-01**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|Anthony Fuller et.al.|[2311.00566v1](http://arxiv.org/abs/2311.00566v1)|**[link](https://github.com/antofuller/croma)**|
 |**2023-11-01**|**ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**|Jieming Cui et.al.|[2311.00556v1](http://arxiv.org/abs/2311.00556v1)|null|
@@ -4511,7 +4511,7 @@
 |**2023-11-01**|**Enhanced Knowledge Injection for Radiology Report Generation**|Qingqiu Li et.al.|[2311.00399v1](http://arxiv.org/abs/2311.00399v1)|null|
 |**2023-11-01**|**Zeroth-Order Feedback-Based Optimization for Distributed Demand Response**|Ruiyang Jin et.al.|[2311.00372v1](http://arxiv.org/abs/2311.00372v1)|null|
 |**2023-11-01**|**QFree: A Universal Value Function Factorization for Multi-Agent Reinforcement Learning**|Rizhong Wang et.al.|[2311.00356v1](http://arxiv.org/abs/2311.00356v1)|null|
-|**2023-11-01**|**A Definition of Open-Ended Learning Problems for Goal-Conditioned Agents**|Olivier Sigaud et.al.|[2311.00344v1](http://arxiv.org/abs/2311.00344v1)|null|
+|**2023-11-02**|**A Definition of Open-Ended Learning Problems for Goal-Conditioned Agents**|Olivier Sigaud et.al.|[2311.00344v2](http://arxiv.org/abs/2311.00344v2)|null|
 |**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
 |**2023-11-01**|**The bottleneck and ceiling effects in quantized tracking control of heterogeneous multi-agent systems under DoS attacks**|Shuai Feng et.al.|[2311.00263v1](http://arxiv.org/abs/2311.00263v1)|null|
 |**2023-11-01**|**Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents**|Yang Deng et.al.|[2311.00262v1](http://arxiv.org/abs/2311.00262v1)|null|
@@ -5784,7 +5784,7 @@
 |**2023-10-31**|**Large Language Model Can Interpret Latent Space of Sequential Recommender**|Zhengyi Yang et.al.|[2310.20487v1](http://arxiv.org/abs/2310.20487v1)|null|
 |**2023-10-31**|**SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark**|Zhengdi Yu et.al.|[2310.20436v1](http://arxiv.org/abs/2310.20436v1)|null|
 |**2023-10-31**|**Thermal-Infrared Remote Target Detection System for Maritime Rescue based on Data Augmentation with 3D Synthetic Data**|Sungjin Cheong et.al.|[2310.20412v1](http://arxiv.org/abs/2310.20412v1)|null|
-|**2023-10-31**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362v1](http://arxiv.org/abs/2310.20362v1)|null|
+|**2023-11-02**|**Two for One -- Combined Morphologic and Quantitative Knee Joint MRI Using a Versatile Turbo Spin-Echo Platform**|Teresa Lemainque et.al.|[2310.20362v2](http://arxiv.org/abs/2310.20362v2)|null|
 |**2023-10-31**|**Muscle volume quantification: guiding transformers with anatomical priors**|Louise Piecuch et.al.|[2310.20355v1](http://arxiv.org/abs/2310.20355v1)|null|
 |**2023-10-31**|**GACE: Geometry Aware Confidence Enhancement for Black-Box 3D Object Detectors on LiDAR-Data**|David Schinagl et.al.|[2310.20319v1](http://arxiv.org/abs/2310.20319v1)|**[link](https://github.com/dschinagl/gace)**|
 |**2023-10-31**|**The theory of symmetric tensor field with boundary: Kac-Moody algebras in linearized gravity**|Erica Bertolini et.al.|[2310.20303v1](http://arxiv.org/abs/2310.20303v1)|null|
