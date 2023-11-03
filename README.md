@@ -17,7 +17,7 @@
 |**2023-11-01**|**Detecting Visual Cues in the Intensive Care Unit and Association with Patient Clinical Status**|Subhash Nerella et.al.|[2311.00565v1](http://arxiv.org/abs/2311.00565v1)|null|
 |**2023-11-01**|**MNN: Mixed Nearest-Neighbors for Self-Supervised Learning**|Chen Peng et.al.|[2311.00562v1](http://arxiv.org/abs/2311.00562v1)|**[link](https://github.com/pc-cp/mnn)**|
 |**2023-11-01**|**ProBio: A Protocol-guided Multimodal Dataset for Molecular Biology Lab**|Jieming Cui et.al.|[2311.00556v1](http://arxiv.org/abs/2311.00556v1)|null|
-|**2023-11-01**|**Continual atlas-based segmentation of prostate MRI**|Amin Ranem et.al.|[2311.00548v1](http://arxiv.org/abs/2311.00548v1)|**[link](https://github.com/meclabtuda/atlas-replay)**|
+|**2023-11-02**|**Continual atlas-based segmentation of prostate MRI**|Amin Ranem et.al.|[2311.00548v2](http://arxiv.org/abs/2311.00548v2)|**[link](https://github.com/meclabtuda/atlas-replay)**|
 |**2023-11-01**|**Improving Cardiovascular Disease Prediction Through Comparative Analysis of Machine Learning Models: A Case Study on Myocardial Infarction**|Jonayet Miah et.al.|[2311.00517v1](http://arxiv.org/abs/2311.00517v1)|null|
 |**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500v1](http://arxiv.org/abs/2311.00500v1)|**[link](https://github.com/sail-sg/d-trak)**|
 |**2023-11-02**|**Deep Neural Networks for Automatic Speaker Recognition Do Not Learn Supra-Segmental Temporal Features**|Daniel Neururer et.al.|[2311.00489v2](http://arxiv.org/abs/2311.00489v2)|null|
