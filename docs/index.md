@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 
 ## CV
 
@@ -4638,7 +4638,7 @@ layout: default
 |**2023-11-02**|**On Graphs with Finite-Time Consensus and Their Use in Gradient Tracking**|Edward Duc Hien Nguyen et.al.|[2311.01317v1](http://arxiv.org/abs/2311.01317v1)|null|
 |**2023-11-02**|**Hybrid-Fusion Transformer for Multisequence MRI**|Jihoon Cho et.al.|[2311.01308v1](http://arxiv.org/abs/2311.01308v1)|null|
 |**2023-11-02**|**Push it to the Demonstrated Limit: Multimodal Visuotactile Imitation Learning with Force Matching**|Trevor Ablett et.al.|[2311.01248v1](http://arxiv.org/abs/2311.01248v1)|null|
-|**2023-11-02**|**Revisiting MAB based approaches to recursive delegation**|Nir Oren et.al.|[2311.01243v1](http://arxiv.org/abs/2311.01243v1)|null|
+|**2023-11-02**|**Revisiting MAB based approaches to recursive delegation**|Nir Oren et.al.|[2311.01243v1](http://arxiv.org/abs/2311.01243v1)|**[link](https://github.com/jhudsy/recursivedelegationmab)**|
 |**2023-11-02**|**Navigating Complex Search Tasks with AI Copilots**|Ryen W. White et.al.|[2311.01235v1](http://arxiv.org/abs/2311.01235v1)|null|
 |**2023-11-02**|**Long Story Short: a Summarize-then-Search Method for Long Video Question Answering**|Jiwan Chung et.al.|[2311.01233v1](http://arxiv.org/abs/2311.01233v1)|null|
 |**2023-11-02**|**EISim: A Platform for Simulating Intelligent Edge Orchestration Solutions**|Henna Kokkonen et.al.|[2311.01224v1](http://arxiv.org/abs/2311.01224v1)|**[link](https://github.com/hennas/eisim)**|
