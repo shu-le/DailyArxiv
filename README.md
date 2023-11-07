@@ -2957,7 +2957,7 @@
 |**2023-11-02**|**TopicGPT: A Prompt-based Topic Modeling Framework**|Chau Minh Pham et.al.|[2311.01449v1](http://arxiv.org/abs/2311.01449v1)|**[link](https://github.com/chtmp223/topicgpt)**|
 |**2023-11-02**|**REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots**|Andrea Tagliabue et.al.|[2311.01403v1](http://arxiv.org/abs/2311.01403v1)|null|
 |**2023-11-02**|**GPT-4V(ision) as a Generalist Evaluator for Vision-Language Tasks**|Xinlu Zhang et.al.|[2311.01361v1](http://arxiv.org/abs/2311.01361v1)|null|
-|**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343v1](http://arxiv.org/abs/2311.01343v1)|**[link](https://github.com/yaochenzhu/llm4rec)**|
+|**2023-11-03**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343v2](http://arxiv.org/abs/2311.01343v2)|**[link](https://github.com/yaochenzhu/llm4rec)**|
 |**2023-11-02**|**The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models**|Lovisa Hagström et.al.|[2311.01307v1](http://arxiv.org/abs/2311.01307v1)|null|
 |**2023-11-02**|**AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models**|Baisong Li et.al.|[2311.01305v1](http://arxiv.org/abs/2311.01305v1)|null|
 |**2023-11-03**|**FlashDecoding++: Faster Large Language Model Inference on GPUs**|Ke Hong et.al.|[2311.01282v2](http://arxiv.org/abs/2311.01282v2)|null|
@@ -6084,8 +6084,8 @@
 |**2023-11-02**|**CADSim: Robust and Scalable in-the-wild 3D Reconstruction for Controllable Sensor Simulation**|Jingkang Wang et.al.|[2311.01447v1](http://arxiv.org/abs/2311.01447v1)|null|
 |**2023-11-02**|**Adv3D: Generating Safety-Critical 3D Objects through Closed-Loop Simulation**|Jay Sarva et.al.|[2311.01446v1](http://arxiv.org/abs/2311.01446v1)|null|
 |**2023-11-02**|**Checkerboard CFT**|Mikhail Alfimov et.al.|[2311.01437v1](http://arxiv.org/abs/2311.01437v1)|null|
-|**2023-11-02**|**CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar**|Jen-Hao Cheng et.al.|[2311.01423v1](http://arxiv.org/abs/2311.01423v1)|null|
-|**2023-11-02**|**Transverse Momentum Distributions from Lattice QCD without Wilson Lines**|Yong Zhao et.al.|[2311.01391v1](http://arxiv.org/abs/2311.01391v1)|null|
+|**2023-11-04**|**CenterRadarNet: Joint 3D Object Detection and Tracking Framework using 4D FMCW Radar**|Jen-Hao Cheng et.al.|[2311.01423v2](http://arxiv.org/abs/2311.01423v2)|null|
+|**2023-11-03**|**Transverse Momentum Distributions from Lattice QCD without Wilson Lines**|Yong Zhao et.al.|[2311.01391v2](http://arxiv.org/abs/2311.01391v2)|null|
 |**2023-11-02**|**Millimeter-scale exfoliation of hBN with tunable flake thickness**|Amy S. McKeown-Green et.al.|[2311.01387v1](http://arxiv.org/abs/2311.01387v1)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-02**|**Analysis of tidal flows through the Strait of Gibraltar using Dynamic Mode Decomposition**|Sathsara Dias et.al.|[2311.01377v1](http://arxiv.org/abs/2311.01377v1)|null|
