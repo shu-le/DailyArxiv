@@ -1,4 +1,4 @@
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 
 ## CV
 
@@ -4882,7 +4882,7 @@
 |**2023-11-05**|**AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection**|Sahibzada Adil Shahzad et.al.|[2311.02733v1](http://arxiv.org/abs/2311.02733v1)|null|
 |**2023-11-05**|**ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models**|Zhelun Shi et.al.|[2311.02692v1](http://arxiv.org/abs/2311.02692v1)|**[link](https://github.com/openlamm/lamm)**|
 |**2023-11-05**|**Octavius: Mitigating Task Interference in MLLMs via MoE**|Zeren Chen et.al.|[2311.02684v1](http://arxiv.org/abs/2311.02684v1)|null|
-|**2023-11-05**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657v1](http://arxiv.org/abs/2311.02657v1)|null|
+|**2023-11-05**|**GSC: Generalizable Service Coordination**|Farzad Mohammadi et.al.|[2311.02657v1](http://arxiv.org/abs/2311.02657v1)|**[link](https://github.com/farzad1132/GSC)**|
 |**2023-11-05**|**Exploring Grounding Potential of VQA-oriented GPT-4V for Zero-shot Anomaly Detection**|Jiangning Zhang et.al.|[2311.02612v1](http://arxiv.org/abs/2311.02612v1)|null|
 |**2023-11-05**|**Multi-Agent 3D Map Reconstruction and Change Detection in Microgravity with Free-Flying Robots**|Holly Dinkel et.al.|[2311.02558v1](http://arxiv.org/abs/2311.02558v1)|null|
 |**2023-11-05**|**Contract Design With Safety Inspections**|Alireza Fallah et.al.|[2311.02537v1](http://arxiv.org/abs/2311.02537v1)|null|
@@ -6262,7 +6262,7 @@
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848v1](http://arxiv.org/abs/2311.02848v1)|null|
 |**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847v1](http://arxiv.org/abs/2311.02847v1)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
 |**2023-11-06**|**SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**|Zhenzhong Cao et.al.|[2311.02831v1](http://arxiv.org/abs/2311.02831v1)|null|
-|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-06**|**Mesh Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2311.02820v1](http://arxiv.org/abs/2311.02820v1)|null|
 |**2023-11-06**|**Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments**|Lu Yue et.al.|[2311.02817v1](http://arxiv.org/abs/2311.02817v1)|null|
 |**2023-11-05**|**Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead**|Yunkang Cao et.al.|[2311.02782v1](http://arxiv.org/abs/2311.02782v1)|null|
