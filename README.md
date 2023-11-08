@@ -15,7 +15,7 @@
 |**2023-11-06**|**A Robust Bi-Directional Algorithm For People Count In Crowded Areas**|Satyanarayana Penke et.al.|[2311.03323v1](http://arxiv.org/abs/2311.03323v1)|null|
 |**2023-11-06**|**FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data**|Lisa Weijler et.al.|[2311.03314v1](http://arxiv.org/abs/2311.03314v1)|**[link](https://github.com/lisaweijler/fate)**|
 |**2023-11-06**|**A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation**|Qitao Zhao et.al.|[2311.03312v1](http://arxiv.org/abs/2311.03312v1)|null|
-|**2023-11-06**|**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**|Chenhang Cui et.al.|[2311.03287v1](http://arxiv.org/abs/2311.03287v1)|null|
+|**2023-11-07**|**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**|Chenhang Cui et.al.|[2311.03287v2](http://arxiv.org/abs/2311.03287v2)|null|
 |**2023-11-06**|**Machine Learning-Based Tea Leaf Disease Detection: A Comprehensive Review**|Faruk Ahmed et.al.|[2311.03240v1](http://arxiv.org/abs/2311.03240v1)|null|
 |**2023-11-06**|**Navigating Scaling Laws: Accelerating Vision Transformer's Training via Adaptive Strategies**|Sotiris Anagnostidis et.al.|[2311.03233v1](http://arxiv.org/abs/2311.03233v1)|null|
 |**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226v1](http://arxiv.org/abs/2311.03226v1)|null|
@@ -33,11 +33,11 @@
 |**2023-11-06**|**Pelvic floor MRI segmentation based on semi-supervised deep learning**|Jianwei Zuo et.al.|[2311.03105v1](http://arxiv.org/abs/2311.03105v1)|null|
 |**2023-11-06**|**A survey and classification of face alignment methods based on face models**|Jagmohan Meher et.al.|[2311.03082v1](http://arxiv.org/abs/2311.03082v1)|**[link](https://github.com/nordlinglab/facealignment-survey)**|
 |**2023-11-06**|**CogVLM: Visual Expert for Pretrained Language Models**|Weihan Wang et.al.|[2311.03079v1](http://arxiv.org/abs/2311.03079v1)|**[link](https://github.com/thudm/cogvlm)**|
-|**2023-11-06**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v1](http://arxiv.org/abs/2311.03076v1)|null|
+|**2023-11-07**|**SugarViT -- Multi-objective Regression of UAV Images with Vision Transformers and Deep Label Distribution Learning Demonstrated on Disease Severity Prediction in Sugar Beet**|Maurice Günder et.al.|[2311.03076v2](http://arxiv.org/abs/2311.03076v2)|null|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|**[link](https://github.com/zhyjsiat/a-two-stage-cyclegan-ve-brats2020)**|
-|**2023-11-06**|**OrthoNets: Orthogonal Channel Attention Networks**|Hadi Salman et.al.|[2311.03071v1](http://arxiv.org/abs/2311.03071v1)|null|
+|**2023-11-07**|**OrthoNets: Orthogonal Channel Attention Networks**|Hadi Salman et.al.|[2311.03071v2](http://arxiv.org/abs/2311.03071v2)|null|
 |**2023-11-06**|**Forest aboveground biomass estimation using GEDI and earth observation data through attention-based deep learning**|Wenquan Dong et.al.|[2311.03067v1](http://arxiv.org/abs/2311.03067v1)|null|
-|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v1](http://arxiv.org/abs/2311.03054v1)|null|
+|**2023-11-07**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v2](http://arxiv.org/abs/2311.03054v2)|null|
 |**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|null|
 |**2023-11-06**|**MixUp-MIL: A Study on Linear & Multilinear Interpolation-Based Data Augmentation for Whole Slide Image Classification**|Michael Gadermayr et.al.|[2311.03052v1](http://arxiv.org/abs/2311.03052v1)|null|
 |**2023-11-06**|**GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation**|Xuwei Xu et.al.|[2311.03035v1](http://arxiv.org/abs/2311.03035v1)|**[link](https://github.com/ackesnal/gtp-vit)**|
@@ -53,7 +53,7 @@
 |**2023-11-06**|**Benchmarking Deep Facial Expression Recognition: An Extensive Protocol with Balanced Dataset in the Wild**|Gianmarco Ipinze Tutuianu et.al.|[2311.02910v1](http://arxiv.org/abs/2311.02910v1)|null|
 |**2023-11-06**|**Human as Points: Explicit Point-based 3D Human Reconstruction from Single-view RGB Images**|Yingzhi Tang et.al.|[2311.02892v1](http://arxiv.org/abs/2311.02892v1)|**[link](https://github.com/yztang4/hap)**|
 |**2023-11-06**|**Stacked Autoencoder Based Feature Extraction and Superpixel Generation for Multifrequency PolSAR Image Classification**|Tushar Gadhiya et.al.|[2311.02887v1](http://arxiv.org/abs/2311.02887v1)|null|
-|**2023-11-06**|**Inner-IoU: More Effective Intersection over Union Loss with Auxiliary Bounding Box**|Hao Zhang et.al.|[2311.02877v1](http://arxiv.org/abs/2311.02877v1)|null|
+|**2023-11-07**|**Inner-IoU: More Effective Intersection over Union Loss with Auxiliary Bounding Box**|Hao Zhang et.al.|[2311.02877v2](http://arxiv.org/abs/2311.02877v2)|null|
 |**2023-11-03**|**EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision**|Jiawei Yang et.al.|[2311.02077v1](http://arxiv.org/abs/2311.02077v1)|null|
 |**2023-11-03**|**Learning Historical Status Prompt for Accurate and Robust Visual Tracking**|Wenrui Cai et.al.|[2311.02072v1](http://arxiv.org/abs/2311.02072v1)|null|
 |**2023-11-03**|**LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery**|Weikang Wan et.al.|[2311.02058v1](http://arxiv.org/abs/2311.02058v1)|null|
@@ -1965,7 +1965,7 @@
 |**2023-11-06**|**LDM3D-VR: Latent Diffusion Model for 3D VR**|Gabriela Ben Melech Stan et.al.|[2311.03226v1](http://arxiv.org/abs/2311.03226v1)|null|
 |**2023-11-06**|**Algebraic Dynamical Systems in Machine Learning**|Iolo Jones et.al.|[2311.03118v1](http://arxiv.org/abs/2311.03118v1)|null|
 |**2023-11-06**|**A Two-Stage Generative Model with CycleGAN and Joint Diffusion for MRI-based Brain Tumor Detection**|Wenxin Wang et.al.|[2311.03074v1](http://arxiv.org/abs/2311.03074v1)|**[link](https://github.com/zhyjsiat/a-two-stage-cyclegan-ve-brats2020)**|
-|**2023-11-06**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v1](http://arxiv.org/abs/2311.03054v1)|null|
+|**2023-11-07**|**AnyText: Multilingual Visual Text Generation And Editing**|Yuxiang Tuo et.al.|[2311.03054v2](http://arxiv.org/abs/2311.03054v2)|null|
 |**2023-11-06**|**Exploring the Capability of Text-to-Image Diffusion Models with Structural Edge Guidance for Multi-Spectral Satellite Image Inpainting**|Mikolaj Czerkawski et.al.|[2311.03008v1](http://arxiv.org/abs/2311.03008v1)|null|
 |**2023-11-06**|**Diffusion-based Radiotherapy Dose Prediction Guided by Inter-slice Aware Structure Encoding**|Zhenghao Feng et.al.|[2311.02991v1](http://arxiv.org/abs/2311.02991v1)|null|
 |**2023-11-06**|**Adapting Pre-trained Generative Models for Extractive Question Answering**|Prabir Mallick et.al.|[2311.02961v1](http://arxiv.org/abs/2311.02961v1)|null|
@@ -3017,8 +3017,8 @@
 |**2023-11-06**|**DAIL: Data Augmentation for In-Context Learning via Self-Paraphrase**|Dawei Li et.al.|[2311.03319v1](http://arxiv.org/abs/2311.03319v1)|null|
 |**2023-11-06**|**Unraveling Downstream Gender Bias from Large Language Models: A Study on AI Educational Writing Assistance**|Thiemo Wambsganss et.al.|[2311.03311v1](http://arxiv.org/abs/2311.03311v1)|**[link](https://github.com/epfl-ml4ed/unraveling-llm-bias)**|
 |**2023-11-06**|**Ziya2: Data-centric Learning is All LLMs Need**|Ruyi Gan et.al.|[2311.03301v1](http://arxiv.org/abs/2311.03301v1)|null|
-|**2023-11-06**|**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**|Chenhang Cui et.al.|[2311.03287v1](http://arxiv.org/abs/2311.03287v1)|null|
-|**2023-11-06**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285v1](http://arxiv.org/abs/2311.03285v1)|null|
+|**2023-11-07**|**Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges**|Chenhang Cui et.al.|[2311.03287v2](http://arxiv.org/abs/2311.03287v2)|null|
+|**2023-11-07**|**S-LoRA: Serving Thousands of Concurrent LoRA Adapters**|Ying Sheng et.al.|[2311.03285v2](http://arxiv.org/abs/2311.03285v2)|null|
 |**2023-11-06**|**Instructed Language Models with Retrievers Are Powerful Entity Linkers**|Zilin Xiao et.al.|[2311.03250v1](http://arxiv.org/abs/2311.03250v1)|**[link](https://github.com/mrzilinxiao/insgenentitylinking)**|
 |**2023-11-06**|**ALYMPICS: Language Agents Meet Game Theory**|Shaoguang Mao et.al.|[2311.03220v1](http://arxiv.org/abs/2311.03220v1)|null|
 |**2023-11-06**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191v1](http://arxiv.org/abs/2311.03191v1)|null|
@@ -4576,7 +4576,7 @@
 |**2023-11-02**|**Multimodal Foundation Models for Zero-shot Animal Species Recognition in Camera Trap Images**|Zalan Fabian et.al.|[2311.01064v1](http://arxiv.org/abs/2311.01064v1)|null|
 |**2023-11-02**|**Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation**|Xueting Hu et.al.|[2311.01034v1](http://arxiv.org/abs/2311.01034v1)|null|
 |**2023-11-02**|**Vision-Language Interpreter for Robot Task Planning**|Keisuke Shirai et.al.|[2311.00967v1](http://arxiv.org/abs/2311.00967v1)|**[link](https://github.com/omron-sinicx/vilain)**|
-|**2023-11-01**|**ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection**|Thinh Phan et.al.|[2311.00729v1](http://arxiv.org/abs/2311.00729v1)|null|
+|**2023-11-04**|**ZEETAD: Adapting Pretrained Vision-Language Model for Zero-Shot End-to-End Temporal Action Detection**|Thinh Phan et.al.|[2311.00729v2](http://arxiv.org/abs/2311.00729v2)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618v1](http://arxiv.org/abs/2311.00618v1)|null|
 |**2023-11-01**|**CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection**|Xuhai Chen et.al.|[2311.00453v1](http://arxiv.org/abs/2311.00453v1)|null|
 |**2023-11-01**|**From Image to Language: A Critical Analysis of Visual Question Answering (VQA) Approaches, Challenges, and Opportunities**|Md Farhan Ishmam et.al.|[2311.00308v1](http://arxiv.org/abs/2311.00308v1)|null|
@@ -4595,7 +4595,7 @@
 |**2023-10-30**|**Generating Context-Aware Natural Answers for Questions in 3D Scenes**|Mohammed Munzer Dwedari et.al.|[2310.19516v1](http://arxiv.org/abs/2310.19516v1)|null|
 |**2023-10-30**|**ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense**|Kankan Zhou et.al.|[2310.19301v1](http://arxiv.org/abs/2310.19301v1)|**[link](https://github.com/k-square-00/rome)**|
 |**2023-10-30**|**Pre-trained Recommender Systems: A Causal Debiasing Perspective**|Ziqian Lin et.al.|[2310.19251v1](http://arxiv.org/abs/2310.19251v1)|**[link](https://github.com/myhakureimu/prerec)**|
-|**2023-10-29**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109v1](http://arxiv.org/abs/2310.19109v1)|**[link](https://github.com/fualsan/datwep)**|
+|**2023-11-07**|**Dynamic Task and Weight Prioritization Curriculum Learning for Multimodal Imagery**|Huseyin Fuat Alsan et.al.|[2310.19109v2](http://arxiv.org/abs/2310.19109v2)|**[link](https://github.com/fualsan/datwep)**|
 |**2023-11-01**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070v2](http://arxiv.org/abs/2310.19070v2)|null|
 |**2023-11-03**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v2](http://arxiv.org/abs/2310.18961v2)|**[link](https://github.com/zqhang/anomalyclip)**|
 |**2023-10-29**|**Customize StyleGAN with One Hand Sketch**|Shaocong Zhang et.al.|[2310.18949v1](http://arxiv.org/abs/2310.18949v1)|null|
@@ -6261,7 +6261,7 @@
 |**2023-11-06**|**Temporal Shift -- Multi-Objective Loss Function for Improved Anomaly Fall Detection**|Stefan Denkovski et.al.|[2311.02863v1](http://arxiv.org/abs/2311.02863v1)|null|
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848v1](http://arxiv.org/abs/2311.02848v1)|null|
 |**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847v1](http://arxiv.org/abs/2311.02847v1)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
-|**2023-11-06**|**SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**|Zhenzhong Cao et.al.|[2311.02831v1](http://arxiv.org/abs/2311.02831v1)|null|
+|**2023-11-07**|**SemanticTopoLoop: Semantic Loop Closure With 3D Topological Graph Based on Quadric-Level Object Map**|Zhenzhong Cao et.al.|[2311.02831v2](http://arxiv.org/abs/2311.02831v2)|null|
 |**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826v1](http://arxiv.org/abs/2311.02826v1)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-06**|**Mesh Neural Cellular Automata**|Ehsan Pajouheshgar et.al.|[2311.02820v1](http://arxiv.org/abs/2311.02820v1)|null|
 |**2023-11-06**|**Safe-VLN: Collision Avoidance for Vision-and-Language Navigation of Autonomous Robots Operating in Continuous Environments**|Lu Yue et.al.|[2311.02817v1](http://arxiv.org/abs/2311.02817v1)|null|
