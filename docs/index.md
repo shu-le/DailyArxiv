@@ -10,7 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|null|
 |**2023-11-07**|**Towards Garment Sewing Pattern Reconstruction from a Single Image**|Lijuan Liu et.al.|[2311.04218v1](http://arxiv.org/abs/2311.04218v1)|null|
-|**2023-11-07**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v1](http://arxiv.org/abs/2311.04212v1)|**[link](https://github.com/shi-labs/vim)**|
+|**2023-11-08**|**Video Instance Matting**|Jiachen Li et.al.|[2311.04212v2](http://arxiv.org/abs/2311.04212v2)|**[link](https://github.com/shi-labs/vim)**|
 |**2023-11-07**|**Deep Hashing via Householder Quantization**|Lucas R. Schwengber et.al.|[2311.04207v1](http://arxiv.org/abs/2311.04207v1)|null|
 |**2023-11-07**|**Selective Visual Representations Improve Convergence and Generalization for Embodied AI**|Ainaz Eftekhar et.al.|[2311.04193v1](http://arxiv.org/abs/2311.04193v1)|null|
 |**2023-11-07**|**JaSPICE: Automatic Evaluation Metric Using Predicate-Argument Structures for Image Captioning Models**|Yuiga Wada et.al.|[2311.04192v1](http://arxiv.org/abs/2311.04192v1)|**[link](https://github.com/keio-smilab23/JaSPICE)**|
@@ -40,7 +40,7 @@ layout: default
 |**2023-11-07**|**CeCNN: Copula-enhanced convolutional neural networks in joint prediction of refraction error and axial length based on ultra-widefield fundus images**|Chong Zhong et.al.|[2311.03967v1](http://arxiv.org/abs/2311.03967v1)|null|
 |**2023-11-07**|**Fast Sun-aligned Outdoor Scene Relighting based on TensoRF**|Yeonjin Chang et.al.|[2311.03965v1](http://arxiv.org/abs/2311.03965v1)|null|
 |**2023-11-07**|**Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining**|Ugur Sahin et.al.|[2311.03964v1](http://arxiv.org/abs/2311.03964v1)|null|
-|**2023-11-07**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v1](http://arxiv.org/abs/2311.03959v1)|null|
+|**2023-11-08**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v2](http://arxiv.org/abs/2311.03959v2)|null|
 |**2023-11-07**|**CLIP Guided Image-perceptive Prompt Learning for Image Enhancement**|Zinuo Li et.al.|[2311.03943v1](http://arxiv.org/abs/2311.03943v1)|null|
 |**2023-11-07**|**Analysis of NaN Divergence in Training Monocular Depth Estimation Model**|Bum Jun Kim et.al.|[2311.03938v1](http://arxiv.org/abs/2311.03938v1)|null|
 |**2023-11-07**|**FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer**|Chi-Chih Chang et.al.|[2311.03912v1](http://arxiv.org/abs/2311.03912v1)|**[link](https://github.com/shadowpa0327/flora)**|
@@ -53,7 +53,7 @@ layout: default
 |**2023-11-07**|**Multi-view Information Integration and Propagation for Occluded Person Re-identification**|Neng Dong et.al.|[2311.03828v1](http://arxiv.org/abs/2311.03828v1)|**[link](https://github.com/nengdong96/mviip)**|
 |**2023-11-07**|**Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models**|Yichao Cao et.al.|[2311.03799v1](http://arxiv.org/abs/2311.03799v1)|null|
 |**2023-11-07**|**Self-MI: Efficient Multimodal Fusion via Self-Supervised Multi-Task Learning with Auxiliary Mutual Information Maximization**|Cam-Van Thi Nguyen et.al.|[2311.03785v1](http://arxiv.org/abs/2311.03785v1)|null|
-|**2023-11-07**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v1](http://arxiv.org/abs/2311.03784v1)|null|
+|**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
 |**2023-11-07**|**CapST: An Enhanced and Lightweight Method for Deepfake Video Classification**|Wasim Ahmad et.al.|[2311.03782v1](http://arxiv.org/abs/2311.03782v1)|null|
 |**2023-11-07**|**Meta-Adapter: An Online Few-shot Learner for Vision-Language Model**|Cheng Cheng et.al.|[2311.03774v1](http://arxiv.org/abs/2311.03774v1)|null|
 |**2023-11-07**|**Lightweight Portrait Matting via Regional Attention and Refinement**|Yatao Zhong et.al.|[2311.03770v1](http://arxiv.org/abs/2311.03770v1)|null|
@@ -2018,7 +2018,7 @@ layout: default
 |**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071v1](http://arxiv.org/abs/2311.04071v1)|null|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052v1](http://arxiv.org/abs/2311.04052v1)|null|
 |**2023-11-07**|**Bias and Diversity in Synthetic-based Face Recognition**|Marco Huber et.al.|[2311.03970v1](http://arxiv.org/abs/2311.03970v1)|null|
-|**2023-11-07**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v1](http://arxiv.org/abs/2311.03959v1)|null|
+|**2023-11-08**|**Improving the Effectiveness of Deep Generative Data**|Ruyu Wang et.al.|[2311.03959v2](http://arxiv.org/abs/2311.03959v2)|null|
 |**2023-11-07**|**Understanding Tool Discovery and Tool Innovation Using Active Inference**|Poppy Collis et.al.|[2311.03893v1](http://arxiv.org/abs/2311.03893v1)|null|
 |**2023-11-07**|**Formulating Discrete Probability Flow Through Optimal Transport**|Pengze Zhang et.al.|[2311.03886v1](http://arxiv.org/abs/2311.03886v1)|**[link](https://github.com/pangzecheung/discrete-probability-flow)**|
 |**2023-11-07**|**MeVGAN: GAN-based Plugin Model for Video Generation with Applications in Colonoscopy**|Łukasz Struski et.al.|[2311.03884v1](http://arxiv.org/abs/2311.03884v1)|null|
@@ -3087,7 +3087,7 @@ layout: default
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
 |**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177v1](http://arxiv.org/abs/2311.04177v1)|null|
 |**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166v1](http://arxiv.org/abs/2311.04166v1)|null|
-|**2023-11-07**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155v1](http://arxiv.org/abs/2311.04155v1)|**[link](https://github.com/thu-coai/bpo)**|
+|**2023-11-08**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155v2](http://arxiv.org/abs/2311.04155v2)|**[link](https://github.com/thu-coai/bpo)**|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124v1](http://arxiv.org/abs/2311.04124v1)|null|
 |**2023-11-07**|**Do LLMs exhibit human-like response biases? A case study in survey design**|Lindia Tjuatja et.al.|[2311.04076v1](http://arxiv.org/abs/2311.04076v1)|**[link](https://github.com/lindiatjuatja/biasmonkey)**|
 |**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072v1](http://arxiv.org/abs/2311.04072v1)|null|
@@ -3128,7 +3128,7 @@ layout: default
 |**2023-11-06**|**ALYMPICS: Language Agents Meet Game Theory**|Shaoguang Mao et.al.|[2311.03220v1](http://arxiv.org/abs/2311.03220v1)|null|
 |**2023-11-06**|**DeepInception: Hypnotize Large Language Model to Be Jailbreaker**|Xuan Li et.al.|[2311.03191v1](http://arxiv.org/abs/2311.03191v1)|**[link](https://github.com/tmlr-group/deepinception)**|
 |**2023-11-06**|**GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization**|Jiale Lao et.al.|[2311.03157v1](http://arxiv.org/abs/2311.03157v1)|null|
-|**2023-11-06**|**A Simple yet Efficient Ensemble Approach for AI-generated Text Detection**|Harika Abburi et.al.|[2311.03084v1](http://arxiv.org/abs/2311.03084v1)|null|
+|**2023-11-08**|**A Simple yet Efficient Ensemble Approach for AI-generated Text Detection**|Harika Abburi et.al.|[2311.03084v2](http://arxiv.org/abs/2311.03084v2)|null|
 |**2023-11-06**|**Zero-shot Bilingual App Reviews Mining with Large Language Models**|Jialiang Wei et.al.|[2311.03058v1](http://arxiv.org/abs/2311.03058v1)|**[link](https://github.com/jl-wei/mini-bar)**|
 |**2023-11-06**|**LitSumm: Large language models for literature summarisation of non-coding RNAs**|Andrew Green et.al.|[2311.03056v1](http://arxiv.org/abs/2311.03056v1)|**[link](https://github.com/rnacentral/litscan-summarization)**|
 |**2023-11-06**|**Beyond Words: A Mathematical Framework for Interpreting Large Language Models**|Javier González et.al.|[2311.03033v1](http://arxiv.org/abs/2311.03033v1)|null|
@@ -5005,7 +5005,7 @@ layout: default
 |**2023-11-06**|**Controlled Diffusions under Full, Partial and Decentralized Information: Existence of Optimal Policies and Discrete-Time Approximations**|Somnath Pradhan et.al.|[2311.03254v1](http://arxiv.org/abs/2311.03254v1)|null|
 |**2023-11-06**|**ALYMPICS: Language Agents Meet Game Theory**|Shaoguang Mao et.al.|[2311.03220v1](http://arxiv.org/abs/2311.03220v1)|null|
 |**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198v1](http://arxiv.org/abs/2311.03198v1)|**[link](https://github.com/ZhouZijie77/LCPR)**|
-|**2023-11-06**|**A Brain-inspired Theory of Collective Mind Model for Efficient Social Cooperation**|Zhuoya Zhao et.al.|[2311.03150v1](http://arxiv.org/abs/2311.03150v1)|null|
+|**2023-11-08**|**A Brain-inspired Theory of Collective Mind Model for Efficient Social Cooperation**|Zhuoya Zhao et.al.|[2311.03150v2](http://arxiv.org/abs/2311.03150v2)|null|
 |**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
 |**2023-11-06**|**CISRU: a robotics software suite to enable complex rover-rover and astronaut-rover interaction**|Silvia Romero-Azpitarte et.al.|[2311.03122v1](http://arxiv.org/abs/2311.03122v1)|null|
 |**2023-11-06**|**Unified Multi-modal Unsupervised Representation Learning for Skeleton-based Action Understanding**|Shengkai Sun et.al.|[2311.03106v1](http://arxiv.org/abs/2311.03106v1)|**[link](https://github.com/huiguanlab/umurl)**|
