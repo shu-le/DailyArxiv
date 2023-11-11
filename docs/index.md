@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 
 ## CV
 
@@ -36,7 +36,7 @@ layout: default
 |**2023-11-09**|**LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**|Shilong Liu et.al.|[2311.05437v1](http://arxiv.org/abs/2311.05437v1)|null|
 |**2023-11-09**|**Dual Pipeline Style Transfer with Input Distribution Differentiation**|ShiQi Jiang et.al.|[2311.05432v1](http://arxiv.org/abs/2311.05432v1)|null|
 |**2023-11-09**|**Active Mining Sample Pair Semantics for Image-text Matching**|Yongfeng Chena et.al.|[2311.05425v1](http://arxiv.org/abs/2311.05425v1)|null|
-|**2023-11-09**|**Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection**|Zhen Zhou et.al.|[2311.05410v1](http://arxiv.org/abs/2311.05410v1)|null|
+|**2023-11-09**|**Linear Gaussian Bounding Box Representation and Ring-Shaped Rotated Convolution for Oriented Object Detection**|Zhen Zhou et.al.|[2311.05410v1](http://arxiv.org/abs/2311.05410v1)|**[link](https://github.com/zhen6618/rotayolo)**|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400v1](http://arxiv.org/abs/2311.05400v1)|null|
 |**2023-11-09**|**Improving Hand Recognition in Uncontrolled and Uncooperative Environments using Multiple Spatial Transformers and Loss Functions**|Wojciech Michal Matkowski et.al.|[2311.05383v1](http://arxiv.org/abs/2311.05383v1)|null|
 |**2023-11-09**|**Training Robust Deep Physiological Measurement Models with Synthetic Video-based Data**|Yuxuan Ou et.al.|[2311.05371v1](http://arxiv.org/abs/2311.05371v1)|null|
@@ -3224,7 +3224,7 @@ layout: default
 |**2023-11-09**|**ChatGPT and other Large Language Models for Cybersecurity of Smart Grid Applications**|Aydin Zaboli et.al.|[2311.05462v1](http://arxiv.org/abs/2311.05462v1)|null|
 |**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
 |**2023-11-09**|**Cognitively Inspired Components for Social Conversational Agents**|Alex Clay et.al.|[2311.05450v1](http://arxiv.org/abs/2311.05450v1)|null|
-|**2023-11-09**|**TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs**|Shuyi Xie et.al.|[2311.05374v1](http://arxiv.org/abs/2311.05374v1)|null|
+|**2023-11-09**|**TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs**|Shuyi Xie et.al.|[2311.05374v1](http://arxiv.org/abs/2311.05374v1)|**[link](https://github.com/xsysigma/tencentllmeval)**|
 |**2023-11-09**|**u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model**|Jinjin Xu et.al.|[2311.05348v1](http://arxiv.org/abs/2311.05348v1)|null|
 |**2023-11-09**|**On the Road with GPT-4V(ision): Early Explorations of Visual-Language Model on Autonomous Driving**|Licheng Wen et.al.|[2311.05332v1](http://arxiv.org/abs/2311.05332v1)|**[link](https://github.com/pjlab-adg/gpt4v-ad-exploration)**|
 |**2023-11-09**|**Do personality tests generalize to Large Language Models?**|Florian E. Dorner et.al.|[2311.05297v1](http://arxiv.org/abs/2311.05297v1)|null|
@@ -3259,7 +3259,7 @@ layout: default
 |**2023-11-09**|**Massive Editing for Large Language Models via Meta Learning**|Chenmien Tan et.al.|[2311.04661v2](http://arxiv.org/abs/2311.04661v2)|**[link](https://github.com/chenmientan/malmen)**|
 |**2023-11-08**|**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**|Zhen Yang et.al.|[2311.04589v1](http://arxiv.org/abs/2311.04589v1)|null|
 |**2023-11-08**|**Large GPT-like Models are Bad Babies: A Closer Look at the Relationship between Linguistic Competence and Psycholinguistic Measures**|Julius Steuer et.al.|[2311.04547v1](http://arxiv.org/abs/2311.04547v1)|null|
-|**2023-11-09**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v2](http://arxiv.org/abs/2311.04532v2)|null|
+|**2023-11-09**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v2](http://arxiv.org/abs/2311.04532v2)|**[link](https://github.com/coinse/libro-journal-artifact)**|
 |**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v1](http://arxiv.org/abs/2311.04498v1)|null|
 |**2023-11-08**|**Multi-label and Multi-target Sampling of Machine Annotation for Computational Stance Detection**|Zhengyuan Liu et.al.|[2311.04495v1](http://arxiv.org/abs/2311.04495v1)|null|
 |**2023-11-08**|**Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference**|Chong Wang et.al.|[2311.04448v1](http://arxiv.org/abs/2311.04448v1)|null|
@@ -5189,7 +5189,7 @@ layout: default
 |**2023-11-08**|**Exchanging... Watch out!**|Liu Yang et.al.|[2311.04747v1](http://arxiv.org/abs/2311.04747v1)|null|
 |**2023-11-08**|**Enhancing Multi-Agent Coordination through Common Operating Picture Integration**|Peihong Yu et.al.|[2311.04740v1](http://arxiv.org/abs/2311.04740v1)|null|
 |**2023-11-08**|**Social Motion Prediction with Cognitive Hierarchies**|Wentao Zhu et.al.|[2311.04726v1](http://arxiv.org/abs/2311.04726v1)|null|
-|**2023-11-08**|**Forecasting and predicting stochastic agent-based models of cell migration with biologically-informed neural networks**|John T. Nardini et.al.|[2311.04709v1](http://arxiv.org/abs/2311.04709v1)|null|
+|**2023-11-08**|**Forecasting and predicting stochastic agent-based models of cell migration with biologically-informed neural networks**|John T. Nardini et.al.|[2311.04709v1](http://arxiv.org/abs/2311.04709v1)|**[link](https://github.com/johnnardini/forecasting_predicting_abms)**|
 |**2023-11-08**|**Noise-Induced Collective Actuation in Active Solids**|Paul Baconnier et.al.|[2311.04669v1](http://arxiv.org/abs/2311.04669v1)|null|
 |**2023-11-08**|**Modelling the Light Curves of Transiting Exomoons: a Zero-order Photodynamic Agent Added to the Transit and Light Curve Modeller**|Sz. Kálmán et.al.|[2311.04647v1](http://arxiv.org/abs/2311.04647v1)|null|
 |**2023-11-08**|**Zeroth-order Asynchronous Learning with Bounded Delays with a Use-case in Resource Allocation in Communication Networks**|Pourya Behmandpoor et.al.|[2311.04604v1](http://arxiv.org/abs/2311.04604v1)|null|
@@ -5204,7 +5204,7 @@ layout: default
 |**2023-11-08**|**Lewis's Signaling Game as beta-VAE For Natural Word Lengths and Segments**|Ryo Ueda et.al.|[2311.04453v1](http://arxiv.org/abs/2311.04453v1)|null|
 |**2023-11-08**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414v1](http://arxiv.org/abs/2311.04414v1)|null|
 |**2023-11-07**|**Structural Balance of Complex Weighted Graphs and Multi-partite Consensus**|Honghui Wu et.al.|[2311.04389v1](http://arxiv.org/abs/2311.04389v1)|null|
-|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364v1](http://arxiv.org/abs/2311.04364v1)|**[link](https://github.com/hlr/syntax-guided-transformers)**|
+|**2023-11-07**|**Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments**|Danial Kamali et.al.|[2311.04364v1](http://arxiv.org/abs/2311.04364v1)|null|
 |**2023-11-07**|**Adaptive Stochastic Nonlinear Model Predictive Control with Look-ahead Deep Reinforcement Learning for Autonomous Vehicle Motion Control**|Baha Zarrouki et.al.|[2311.04303v1](http://arxiv.org/abs/2311.04303v1)|null|
 |**2023-11-07**|**ETDPC: A Multimodality Framework for Classifying Pages in Electronic Theses and Dissertations**|Muntabir Hasan Choudhury et.al.|[2311.04262v1](http://arxiv.org/abs/2311.04262v1)|**[link](https://github.com/lamps-lab/ETDMiner)**|
 |**2023-11-07**|**Fully Automated Task Management for Generation, Execution, and Evaluation: A Framework for Fetch-and-Carry Tasks with Natural Language Instructions in Continuous Space**|Motonari Kambara et.al.|[2311.04260v1](http://arxiv.org/abs/2311.04260v1)|null|
