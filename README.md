@@ -1,4 +1,4 @@
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 
 ## CV
 
@@ -4869,7 +4869,7 @@
 |**2023-11-06**|**Towards Calibrated Robust Fine-Tuning of Vision-Language Models**|Changdae Oh et.al.|[2311.01723v2](http://arxiv.org/abs/2311.01723v2)|null|
 |**2023-11-02**|**ACQUIRED: A Dataset for Answering Counterfactual Questions In Real-Life Videos**|Te-Lin Wu et.al.|[2311.01620v1](http://arxiv.org/abs/2311.01620v1)|null|
 |**2023-11-02**|**Improving Fairness using Vision-Language Driven Image Augmentation**|Moreno D'Incà et.al.|[2311.01573v1](http://arxiv.org/abs/2311.01573v1)|**[link](https://github.com/moreno98/vision-language-bias-control)**|
-|**2023-11-02**|**FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models**|Liqiang Jing et.al.|[2311.01477v1](http://arxiv.org/abs/2311.01477v1)|null|
+|**2023-11-02**|**FAITHSCORE: Evaluating Hallucinations in Large Vision-Language Models**|Liqiang Jing et.al.|[2311.01477v1](http://arxiv.org/abs/2311.01477v1)|**[link](https://github.com/bcdnlp/faithscore)**|
 |**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|
 |**2023-11-02**|**Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models**|Andy Zhou et.al.|[2311.01441v1](http://arxiv.org/abs/2311.01441v1)|**[link](https://github.com/andyz245/discreteadversarialdistillation)**|
 |**2023-11-06**|**Vision-Language Foundation Models as Effective Robot Imitators**|Xinghang Li et.al.|[2311.01378v2](http://arxiv.org/abs/2311.01378v2)|null|
@@ -5171,7 +5171,7 @@
 |**2023-11-09**|**Empowering high-dimensional optical fiber communications with integrated photonic processors**|Kaihang Lu et.al.|[2311.05282v1](http://arxiv.org/abs/2311.05282v1)|null|
 |**2023-11-09**|**A General Space of Belief Updates for Model Misspecification in Bayesian Networks**|Tianjin Li et.al.|[2311.05248v1](http://arxiv.org/abs/2311.05248v1)|null|
 |**2023-11-09**|**BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**|Yongcheng Zong et.al.|[2311.05199v1](http://arxiv.org/abs/2311.05199v1)|null|
-|**2023-11-09**|**PRODIGy: a PROfile-based DIalogue Generation dataset**|Daniela Occhipinti et.al.|[2311.05195v1](http://arxiv.org/abs/2311.05195v1)|null|
+|**2023-11-09**|**PRODIGy: a PROfile-based DIalogue Generation dataset**|Daniela Occhipinti et.al.|[2311.05195v1](http://arxiv.org/abs/2311.05195v1)|**[link](https://github.com/land-fbk/prodigy-dataset)**|
 |**2023-11-09**|**Energy-efficient flocking in multi-agent systems**|Oleksandr Dykhovychnyi et.al.|[2311.05181v1](http://arxiv.org/abs/2311.05181v1)|null|
 |**2023-11-09**|**PID-inspired Continuous-time Distributed Optimization**|Meng Tao et.al.|[2311.05103v1](http://arxiv.org/abs/2311.05103v1)|null|
 |**2023-11-09**|**Signal Temporal Logic-Guided Apprenticeship Learning**|Aniruddh G. Puranic et.al.|[2311.05084v1](http://arxiv.org/abs/2311.05084v1)|null|
