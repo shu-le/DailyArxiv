@@ -51,7 +51,7 @@ layout: default
 |**2023-11-09**|**Single-shot Tomography of Discrete Dynamic Objects**|Ajinkya Kadu et.al.|[2311.05269v1](http://arxiv.org/abs/2311.05269v1)|null|
 |**2023-11-09**|**Widely Applicable Strong Baseline for Sports Ball Detection and Tracking**|Shuhei Tarashima et.al.|[2311.05237v1](http://arxiv.org/abs/2311.05237v1)|null|
 |**2023-11-09**|**ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image**|Senthil Purushwalkam et.al.|[2311.05230v1](http://arxiv.org/abs/2311.05230v1)|null|
-|**2023-11-09**|**Let's Get the FACS Straight -- Reconstructing Obstructed Facial Features**|Tim Büchner et.al.|[2311.05221v1](http://arxiv.org/abs/2311.05221v1)|null|
+|**2023-11-10**|**Let's Get the FACS Straight -- Reconstructing Obstructed Facial Features**|Tim Büchner et.al.|[2311.05221v2](http://arxiv.org/abs/2311.05221v2)|null|
 |**2023-11-09**|**BrainNetDiff: Generative AI Empowers Brain Network Generation via Multimodal Diffusion Model**|Yongcheng Zong et.al.|[2311.05199v1](http://arxiv.org/abs/2311.05199v1)|null|
 |**2023-11-09**|**Adaptive-Labeling for Enhancing Remote Sensing Cloud Understanding**|Jay Gala et.al.|[2311.05198v1](http://arxiv.org/abs/2311.05198v1)|null|
 |**2023-11-09**|**Deep Learning in Computed Tomography Pulmonary Angiography Imaging: A Dual-Pronged Approach for Pulmonary Embolism Detection**|Fabiha Bushra et.al.|[2311.05197v1](http://arxiv.org/abs/2311.05197v1)|null|
@@ -2141,7 +2141,7 @@ layout: default
 |**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391v1](http://arxiv.org/abs/2311.04391v1)|null|
 |**2023-11-07**|**Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**|Hanlin Zhang et.al.|[2311.04378v1](http://arxiv.org/abs/2311.04378v1)|**[link](https://github.com/hlzhang109/impossibility-watermark)**|
 |**2023-11-07**|**The effect of Skyrme--Chern-Simons dynamics on gauged Skyrmions in $2+1$ dimensions**|Francisco Navarro-Lerida et.al.|[2311.04355v1](http://arxiv.org/abs/2311.04355v1)|null|
-|**2023-11-07**|**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**|Qinghao Ye et.al.|[2311.04257v1](http://arxiv.org/abs/2311.04257v1)|**[link](https://github.com/x-plug/mplug-owl)**|
+|**2023-11-09**|**mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration**|Qinghao Ye et.al.|[2311.04257v2](http://arxiv.org/abs/2311.04257v2)|**[link](https://github.com/x-plug/mplug-owl)**|
 |**2023-11-07**|**Dose-aware Diffusion Model for 3D Ultra Low-dose PET Imaging**|Huidong Xie et.al.|[2311.04248v1](http://arxiv.org/abs/2311.04248v1)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145v1](http://arxiv.org/abs/2311.04145v1)|null|
 |**2023-11-07**|**Generative learning for nonlinear dynamics**|William Gilpin et.al.|[2311.04128v1](http://arxiv.org/abs/2311.04128v1)|null|
@@ -2157,7 +2157,7 @@ layout: default
 |**2023-11-06**|**Quantum hydrodynamical model of the ferroelectricity in systems with antisymmetric exchange interaction**|Mariya Iv. Trukhanova et.al.|[2311.03610v1](http://arxiv.org/abs/2311.03610v1)|null|
 |**2023-11-06**|**The steady state of the boundary-driven multiparticle asymmetric diffusion model**|Rouven Frassek et.al.|[2311.03603v1](http://arxiv.org/abs/2311.03603v1)|null|
 |**2023-11-06**|**Generative Diffusion Models for Lattice Field Theory**|Lingxiao Wang et.al.|[2311.03578v1](http://arxiv.org/abs/2311.03578v1)|null|
-|**2023-11-06**|**Astrocytes as a mechanism for meta-plasticity and contextually-guided network function**|Lulu Gong et.al.|[2311.03508v1](http://arxiv.org/abs/2311.03508v1)|null|
+|**2023-11-10**|**Astrocytes as a mechanism for meta-plasticity and contextually-guided network function**|Lulu Gong et.al.|[2311.03508v2](http://arxiv.org/abs/2311.03508v2)|null|
 |**2023-11-06**|**Multi-Resolution Diffusion for Privacy-Sensitive Recommender Systems**|Derek Lilienthal et.al.|[2311.03488v1](http://arxiv.org/abs/2311.03488v1)|**[link](https://github.com/multi-resolution-diffusion-recommender/sdrm)**|
 |**2023-11-06**|**Into the LAIONs Den: Investigating Hate in Multimodal Datasets**|Abeba Birhane et.al.|[2311.03449v1](http://arxiv.org/abs/2311.03449v1)|**[link](https://github.com/vinayprabhu/hate_scaling)**|
 |**2023-11-06**|**SegGen: Supercharging Segmentation Models with Text2Mask and Mask2Img Synthesis**|Hanrong Ye et.al.|[2311.03355v1](http://arxiv.org/abs/2311.03355v1)|null|
@@ -3260,7 +3260,7 @@ layout: default
 |**2023-11-08**|**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**|Zhen Yang et.al.|[2311.04589v1](http://arxiv.org/abs/2311.04589v1)|null|
 |**2023-11-08**|**Large GPT-like Models are Bad Babies: A Closer Look at the Relationship between Linguistic Competence and Psycholinguistic Measures**|Julius Steuer et.al.|[2311.04547v1](http://arxiv.org/abs/2311.04547v1)|null|
 |**2023-11-09**|**Evaluating Diverse Large Language Models for Automatic and General Bug Reproduction**|Sungmin Kang et.al.|[2311.04532v2](http://arxiv.org/abs/2311.04532v2)|**[link](https://github.com/coinse/libro-journal-artifact)**|
-|**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v1](http://arxiv.org/abs/2311.04498v1)|null|
+|**2023-11-10**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v2](http://arxiv.org/abs/2311.04498v2)|null|
 |**2023-11-08**|**Multi-label and Multi-target Sampling of Machine Annotation for Computational Stance Detection**|Zhengyuan Liu et.al.|[2311.04495v1](http://arxiv.org/abs/2311.04495v1)|null|
 |**2023-11-08**|**Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference**|Chong Wang et.al.|[2311.04448v1](http://arxiv.org/abs/2311.04448v1)|null|
 |**2023-11-07**|**Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**|Hanlin Zhang et.al.|[2311.04378v1](http://arxiv.org/abs/2311.04378v1)|**[link](https://github.com/hlzhang109/impossibility-watermark)**|
@@ -4853,7 +4853,7 @@ layout: default
 |**2023-11-09**|**LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**|Shilong Liu et.al.|[2311.05437v1](http://arxiv.org/abs/2311.05437v1)|null|
 |**2023-11-03**|**More Robots are Coming: Large Multimodal Models (ChatGPT) can Solve Visually Diverse Images of Parsons Problems**|Irene Hou et.al.|[2311.04926v1](http://arxiv.org/abs/2311.04926v1)|null|
 |**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901v1](http://arxiv.org/abs/2311.04901v1)|null|
-|**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v1](http://arxiv.org/abs/2311.04498v1)|null|
+|**2023-11-10**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v2](http://arxiv.org/abs/2311.04498v2)|null|
 |**2023-11-07**|**ETDPC: A Multimodality Framework for Classifying Pages in Electronic Theses and Dissertations**|Muntabir Hasan Choudhury et.al.|[2311.04262v1](http://arxiv.org/abs/2311.04262v1)|**[link](https://github.com/lamps-lab/ETDMiner)**|
 |**2023-11-07**|**OtterHD: A High-Resolution Multi-modality Model**|Bo Li et.al.|[2311.04219v1](http://arxiv.org/abs/2311.04219v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
@@ -4893,7 +4893,7 @@ layout: default
 |**2023-10-31**|**VisPercep: A Vision-Language Approach to Enhance Visual Perception for People with Blindness and Low Vision**|Yu Hao et.al.|[2310.20225v1](http://arxiv.org/abs/2310.20225v1)|null|
 |**2023-10-30**|**Partial Tensorized Transformers for Natural Language Processing**|Subhadra Vadlamannati et.al.|[2310.20077v1](http://arxiv.org/abs/2310.20077v1)|null|
 |**2023-10-30**|**Emotional Theory of Mind: Bridging Fast Visual Processing with Slow Linguistic Reasoning**|Yasaman Etesam et.al.|[2310.19995v1](http://arxiv.org/abs/2310.19995v1)|null|
-|**2023-10-30**|**'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion**|Sourojit Ghosh et.al.|[2310.19981v1](http://arxiv.org/abs/2310.19981v1)|null|
+|**2023-11-10**|**'Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion**|Sourojit Ghosh et.al.|[2310.19981v2](http://arxiv.org/abs/2310.19981v2)|null|
 |**2023-10-30**|**Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across Computer Vision Tasks**|Micah Goldblum et.al.|[2310.19909v1](http://arxiv.org/abs/2310.19909v1)|**[link](https://github.com/hsouri/battle-of-the-backbones)**|
 |**2023-10-30**|**What's "up" with vision-language models? Investigating their struggle with spatial reasoning**|Amita Kamath et.al.|[2310.19785v1](http://arxiv.org/abs/2310.19785v1)|null|
 |**2023-10-30**|**Intra-Modal Proxy Learning for Zero-Shot Visual Categorization with CLIP**|Qi Qian et.al.|[2310.19752v1](http://arxiv.org/abs/2310.19752v1)|**[link](https://github.com/idstcv/inmap)**|
@@ -5197,7 +5197,7 @@ layout: default
 |**2023-11-08**|**GResilience: Trading Off Between the Greenness and the Resilience of Collaborative AI Systems**|Diaeddin Rimawi et.al.|[2311.04569v1](http://arxiv.org/abs/2311.04569v1)|null|
 |**2023-11-08**|**FFINet: Future Feedback Interaction Network for Motion Forecasting**|Miao Kang et.al.|[2311.04512v1](http://arxiv.org/abs/2311.04512v1)|null|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507v1](http://arxiv.org/abs/2311.04507v1)|null|
-|**2023-11-08**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v1](http://arxiv.org/abs/2311.04498v1)|null|
+|**2023-11-10**|**NExT-Chat: An LMM for Chat, Detection and Segmentation**|Ao Zhang et.al.|[2311.04498v2](http://arxiv.org/abs/2311.04498v2)|null|
 |**2023-11-08**|**Emergent Communication for Rules Reasoning**|Yuxuan Guo et.al.|[2311.04474v1](http://arxiv.org/abs/2311.04474v1)|null|
 |**2023-11-08**|**Autonomous Advanced Aerial Mobility -- An End-to-end Autonomy Framework for UAVs and Beyond**|Sakshi Mishra et.al.|[2311.04472v1](http://arxiv.org/abs/2311.04472v1)|null|
 |**2023-11-08**|**Vector-Valued Gossip over $w$-Holonomic Networks**|Erkan Bayram et.al.|[2311.04455v1](http://arxiv.org/abs/2311.04455v1)|null|
