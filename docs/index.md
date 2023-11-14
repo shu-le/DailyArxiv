@@ -47,7 +47,7 @@ layout: default
 |**2023-11-10**|**Quantized Distillation: Optimizing Driver Activity Recognition Models for Resource-Constrained Environments**|Calvin Tanama et.al.|[2311.05970v1](http://arxiv.org/abs/2311.05970v1)|**[link](https://github.com/calvintanama/qd-driver-activity-reco)**|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958v1](http://arxiv.org/abs/2311.05958v1)|null|
 |**2023-11-10**|**Efficient Segmentation with Texture in Ore Images Based on Box-supervised Approach**|Guodong Sun et.al.|[2311.05929v1](http://arxiv.org/abs/2311.05929v1)|**[link](https://github.com/mvme-hbut/oreinst)**|
-|**2023-11-10**|**Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition**|Takuro Fujii et.al.|[2311.05927v1](http://arxiv.org/abs/2311.05927v1)|**[link](https://github.com/ftkr12/rostfine)**|
+|**2023-11-13**|**Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition**|Takuro Fujii et.al.|[2311.05927v2](http://arxiv.org/abs/2311.05927v2)|**[link](https://github.com/ftkr12/rostfine)**|
 |**2023-11-10**|**Inter-object Discriminative Graph Modeling for Indoor Scene Recognition**|Chuanxin Song et.al.|[2311.05919v1](http://arxiv.org/abs/2311.05919v1)|null|
 |**2023-11-10**|**Semantic Map Guided Synthesis of Wireless Capsule Endoscopy Images using Diffusion Models**|Haejin Lee et.al.|[2311.05889v1](http://arxiv.org/abs/2311.05889v1)|null|
 |**2023-11-10**|**Hiformer: Heterogeneous Feature Interactions Learning with Transformers for Recommender Systems**|Huan Gui et.al.|[2311.05884v1](http://arxiv.org/abs/2311.05884v1)|null|
@@ -2199,7 +2199,7 @@ layout: default
 |**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584v1](http://arxiv.org/abs/2311.04584v1)|null|
 |**2023-11-08**|**A 3D generative model of pathological multi-modal MR images and segmentations**|Virginia Fernandez et.al.|[2311.04552v1](http://arxiv.org/abs/2311.04552v1)|**[link](https://github.com/virginiafdez/brainspade3d_rel)**|
 |**2023-11-08**|**RankAug: Augmented data ranking for text classification**|Tiasa Singha Roy et.al.|[2311.04535v1](http://arxiv.org/abs/2311.04535v1)|null|
-|**2023-11-08**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414v1](http://arxiv.org/abs/2311.04414v1)|null|
+|**2023-11-11**|**Learning the What and How of Annotation in Video Object Segmentation**|Thanos Delatolas et.al.|[2311.04414v2](http://arxiv.org/abs/2311.04414v2)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
 |**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391v1](http://arxiv.org/abs/2311.04391v1)|null|
 |**2023-11-07**|**Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**|Hanlin Zhang et.al.|[2311.04378v1](http://arxiv.org/abs/2311.04378v1)|**[link](https://github.com/hlzhang109/impossibility-watermark)**|
@@ -3318,7 +3318,7 @@ layout: default
 |**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591v1](http://arxiv.org/abs/2311.05591v1)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
 |**2023-11-09**|**Conversational AI Threads for Visualizing Multidimensional Datasets**|Matt-Heun Hong et.al.|[2311.05590v1](http://arxiv.org/abs/2311.05590v1)|null|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584v1](http://arxiv.org/abs/2311.05584v1)|null|
-|**2023-11-09**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553v1](http://arxiv.org/abs/2311.05553v1)|null|
+|**2023-11-10**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553v2](http://arxiv.org/abs/2311.05553v2)|null|
 |**2023-11-09**|**ChatGPT and other Large Language Models for Cybersecurity of Smart Grid Applications**|Aydin Zaboli et.al.|[2311.05462v1](http://arxiv.org/abs/2311.05462v1)|null|
 |**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457v1](http://arxiv.org/abs/2311.05457v1)|null|
 |**2023-11-09**|**Cognitively Inspired Components for Social Conversational Agents**|Alex Clay et.al.|[2311.05450v1](http://arxiv.org/abs/2311.05450v1)|null|
@@ -6798,7 +6798,7 @@ layout: default
 |**2023-11-08**|**Turbulently-Driven Detonation Initiation in Electron-Degenerate Matter with Helium**|Gabriel O. Casabona et.al.|[2311.04960v1](http://arxiv.org/abs/2311.04960v1)|null|
 |**2023-11-08**|**CSAM: A 2.5D Cross-Slice Attention Module for Anisotropic Volumetric Medical Image Segmentation**|Alex Ling Yu Hung et.al.|[2311.04942v1](http://arxiv.org/abs/2311.04942v1)|**[link](https://github.com/al3x-o-o-hung/csam)**|
 |**2023-11-08**|**Linear dichroic x-ray absorption response of Ti-Ti dimers along the $c$ axis in Ti$_2$O$_3$ upon Mg substitution**|M. Okawa et.al.|[2311.04814v1](http://arxiv.org/abs/2311.04814v1)|null|
-|**2023-11-08**|**DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**|Guinan Su et.al.|[2311.04766v1](http://arxiv.org/abs/2311.04766v1)|null|
+|**2023-11-13**|**DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**|Guinan Su et.al.|[2311.04766v2](http://arxiv.org/abs/2311.04766v2)|null|
 |**2023-11-08**|**Euclidean, Projective, Conformal: Choosing a Geometric Algebra for Equivariant Transformers**|Pim de Haan et.al.|[2311.04744v1](http://arxiv.org/abs/2311.04744v1)|null|
 |**2023-11-08**|**Social Motion Prediction with Cognitive Hierarchies**|Wentao Zhu et.al.|[2311.04726v1](http://arxiv.org/abs/2311.04726v1)|null|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699v1](http://arxiv.org/abs/2311.04699v1)|null|
