@@ -30,7 +30,7 @@ layout: default
 |**2023-11-13**|**An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation**|Junyang Wang et.al.|[2311.07397v1](http://arxiv.org/abs/2311.07397v1)|**[link](https://github.com/junyangwang0410/amber)**|
 |**2023-11-13**|**Evaluating the Significance of Outdoor Advertising from Driver's Perspective Using Computer Vision**|Zuzana Černeková et.al.|[2311.07390v1](http://arxiv.org/abs/2311.07390v1)|null|
 |**2023-11-13**|**Classification of developmental and brain disorders via graph convolutional aggregation**|Ibrahim Salim et.al.|[2311.07370v1](http://arxiv.org/abs/2311.07370v1)|null|
-|**2023-11-13**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v1](http://arxiv.org/abs/2311.07362v1)|**[link](https://github.com/kaistai/volcano)**|
+|**2023-11-14**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v2](http://arxiv.org/abs/2311.07362v2)|**[link](https://github.com/kaistai/volcano)**|
 |**2023-11-13**|**Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud**|Pit Henrich et.al.|[2311.07357v1](http://arxiv.org/abs/2311.07357v1)|null|
 |**2023-11-13**|**Deformable Groupwise Registration Using a Locally Low-Rank Dissimilarity Metric for Myocardial Strain Estimation from Cardiac Cine MRI Images**|Haiyang Chen et.al.|[2311.07348v1](http://arxiv.org/abs/2311.07348v1)|null|
 |**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321v1](http://arxiv.org/abs/2311.07321v1)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
@@ -39,7 +39,7 @@ layout: default
 |**2023-11-13**|**Multi Sentence Description of Complex Manipulation Action Videos**|Fatemeh Ziaeetabar et.al.|[2311.07285v1](http://arxiv.org/abs/2311.07285v1)|null|
 |**2023-11-13**|**LT-ViT: A Vision Transformer for multi-label Chest X-ray classification**|Umar Marikkar et.al.|[2311.07263v1](http://arxiv.org/abs/2311.07263v1)|null|
 |**2023-11-13**|**Sketch-based Video Object Segmentation: Benchmark and Analysis**|Ruolin Yang et.al.|[2311.07261v1](http://arxiv.org/abs/2311.07261v1)|null|
-|**2023-11-13**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247v1](http://arxiv.org/abs/2311.07247v1)|null|
+|**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247v2](http://arxiv.org/abs/2311.07247v2)|null|
 |**2023-11-13**|**DeepMetricEye: Metric Depth Estimation in Periocular VR Imagery**|Yitong Sun et.al.|[2311.07235v1](http://arxiv.org/abs/2311.07235v1)|null|
 |**2023-11-13**|**Multi-task learning for joint weakly-supervised segmentation and aortic arch anomaly classification in fetal cardiac MRI**|Paula Ramirez et.al.|[2311.07234v1](http://arxiv.org/abs/2311.07234v1)|**[link](https://github.com/svrtk/masc-multi-task-segmentation-and-classification)**|
 |**2023-11-13**|**Few Shot Learning for the Classification of Confocal Laser Endomicroscopy Images of Head and Neck Tumors**|Marc Aubreville et.al.|[2311.07216v1](http://arxiv.org/abs/2311.07216v1)|null|
@@ -2237,14 +2237,14 @@ layout: default
 |**2023-11-11**|**A 3D Conditional Diffusion Model for Image Quality Transfer -- An Application to Low-Field MRI**|Seunghoi Kim et.al.|[2311.06631v1](http://arxiv.org/abs/2311.06631v1)|**[link](https://github.com/edshkim98/diffusioniqt)**|
 |**2023-11-11**|**Convolve and Conquer: Data Comparison with Wiener Filters**|Deborah Pelacani Cruz et.al.|[2311.06558v1](http://arxiv.org/abs/2311.06558v1)|null|
 |**2023-11-11**|**Generative AI for Space-Air-Ground Integrated Networks (SAGIN)**|Ruichen Zhang et.al.|[2311.06523v1](http://arxiv.org/abs/2311.06523v1)|null|
-|**2023-11-11**|**Step by Step to Fairness: Attributing Societal Bias in Task-oriented Dialogue Systems**|Hsuan Su et.al.|[2311.06513v1](http://arxiv.org/abs/2311.06513v1)|null|
+|**2023-11-14**|**Step by Step to Fairness: Attributing Societal Bias in Task-oriented Dialogue Systems**|Hsuan Su et.al.|[2311.06513v2](http://arxiv.org/abs/2311.06513v2)|null|
 |**2023-11-11**|**Adversarial Fine-tuning using Generated Respiratory Sound to Address Class Imbalance**|June-Woo Kim et.al.|[2311.06480v1](http://arxiv.org/abs/2311.06480v1)|null|
-|**2023-11-11**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453v1](http://arxiv.org/abs/2311.06453v1)|null|
+|**2023-11-14**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453v2](http://arxiv.org/abs/2311.06453v2)|null|
 |**2023-11-10**|**On degenerate reaction-diffusion epidemic models with mass action or standard incidence mechanism**|Rachidi Salako et.al.|[2311.06434v1](http://arxiv.org/abs/2311.06434v1)|null|
 |**2023-11-10**|**Word Definitions from Large Language Models**|Yunting Yin et.al.|[2311.06362v1](http://arxiv.org/abs/2311.06362v1)|null|
 |**2023-11-10**|**A Survey of AI Text-to-Image and AI Text-to-Video Generators**|Aditi Singh et.al.|[2311.06329v1](http://arxiv.org/abs/2311.06329v1)|null|
 |**2023-11-10**|**Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models**|Siao Tang et.al.|[2311.06322v1](http://arxiv.org/abs/2311.06322v1)|null|
-|**2023-11-09**|**ShipGen: A Diffusion Model for Parametric Ship Hull Generation with Multiple Objectives and Constraints**|Noah J. Bagazinski et.al.|[2311.06315v1](http://arxiv.org/abs/2311.06315v1)|null|
+|**2023-11-14**|**ShipGen: A Diffusion Model for Parametric Ship Hull Generation with Multiple Objectives and Constraints**|Noah J. Bagazinski et.al.|[2311.06315v2](http://arxiv.org/abs/2311.06315v2)|null|
 |**2023-11-10**|**Parameter-Efficient Orthogonal Finetuning via Butterfly Factorization**|Weiyang Liu et.al.|[2311.06243v1](http://arxiv.org/abs/2311.06243v1)|null|
 |**2023-11-10**|**Beris-Edwards Models on Evolving Surfaces: A Lagrange-D'Alembert Approach**|Ingo Nitschke et.al.|[2311.06240v1](http://arxiv.org/abs/2311.06240v1)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222v1](http://arxiv.org/abs/2311.06222v1)|null|
@@ -2256,7 +2256,7 @@ layout: default
 |**2023-11-10**|**Semantic Map Guided Synthesis of Wireless Capsule Endoscopy Images using Diffusion Models**|Haejin Lee et.al.|[2311.05889v1](http://arxiv.org/abs/2311.05889v1)|null|
 |**2023-11-10**|**Cognitive Architecture Toward Common Ground Sharing Among Humans and Generative AIs: Trial on Model-Model Interactions in Tangram Naming Task**|Junya Morita et.al.|[2311.05851v1](http://arxiv.org/abs/2311.05851v1)|null|
 |**2023-11-10**|**Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration**|Jingfan Guo et.al.|[2311.05828v1](http://arxiv.org/abs/2311.05828v1)|null|
-|**2023-11-10**|**Generative Modeling of Residuals for Real-Time Risk-Sensitive Safety with Discrete-Time Control Barrier Functions**|Ryan K. Cosner et.al.|[2311.05802v1](http://arxiv.org/abs/2311.05802v1)|null|
+|**2023-11-14**|**Generative Modeling of Residuals for Real-Time Risk-Sensitive Safety with Discrete-Time Control Barrier Functions**|Ryan K. Cosner et.al.|[2311.05802v2](http://arxiv.org/abs/2311.05802v2)|null|
 |**2023-11-09**|**Generative Explanations for Graph Neural Network: Methods and Evaluations**|Jialin Chen et.al.|[2311.05764v1](http://arxiv.org/abs/2311.05764v1)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606v1](http://arxiv.org/abs/2311.05606v1)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556v1](http://arxiv.org/abs/2311.05556v1)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
@@ -5085,7 +5085,7 @@ layout: default
 |**2023-11-13**|**GPT-4V(ision) as A Social Media Analysis Engine**|Hanjia Lyu et.al.|[2311.07547v1](http://arxiv.org/abs/2311.07547v1)|**[link](https://github.com/vista-h/gpt-4v_social_media)**|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514v1](http://arxiv.org/abs/2311.07514v1)|null|
 |**2023-11-13**|**Language Grounded QFormer for Efficient Vision Language Understanding**|Moulik Choraria et.al.|[2311.07449v1](http://arxiv.org/abs/2311.07449v1)|null|
-|**2023-11-13**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v1](http://arxiv.org/abs/2311.07362v1)|**[link](https://github.com/kaistai/volcano)**|
+|**2023-11-14**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v2](http://arxiv.org/abs/2311.07362v2)|**[link](https://github.com/kaistai/volcano)**|
 |**2023-11-13**|**LT-ViT: A Vision Transformer for multi-label Chest X-ray classification**|Umar Marikkar et.al.|[2311.07263v1](http://arxiv.org/abs/2311.07263v1)|null|
 |**2023-11-13**|**ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models**|Ilker Kesen et.al.|[2311.07022v1](http://arxiv.org/abs/2311.07022v1)|null|
 |**2023-11-12**|**Performance of a Large Multimodal Model-based chatbot on the Test of Understanding Graphs in Kinematics**|Polverini Giulia et.al.|[2311.06946v1](http://arxiv.org/abs/2311.06946v1)|null|
@@ -5415,7 +5415,7 @@ layout: default
 |**2023-11-13**|**Geometric model of quantum navigation during (anti-)search on a plane**|Aiham M. Rostom et.al.|[2311.07516v1](http://arxiv.org/abs/2311.07516v1)|null|
 |**2023-11-13**|**How Physicality Enables Trust: A New Era of Trust-Centered Cyberphysical Systems**|Stephanie Gil et.al.|[2311.07492v1](http://arxiv.org/abs/2311.07492v1)|null|
 |**2023-11-13**|**MEGAVERSE: Benchmarking Large Language Models Across Languages, Modalities, Models and Tasks**|Sanchit Ahuja et.al.|[2311.07463v1](http://arxiv.org/abs/2311.07463v1)|null|
-|**2023-11-13**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v1](http://arxiv.org/abs/2311.07362v1)|**[link](https://github.com/kaistai/volcano)**|
+|**2023-11-14**|**Volcano: Mitigating Multimodal Hallucination through Self-Feedback Guided Revision**|Seongyun Lee et.al.|[2311.07362v2](http://arxiv.org/abs/2311.07362v2)|**[link](https://github.com/kaistai/volcano)**|
 |**2023-11-13**|**Vehicle-to-grid for car sharing -- A simulation study for 2030**|Nina Wiedemann et.al.|[2311.07349v1](http://arxiv.org/abs/2311.07349v1)|null|
 |**2023-11-13**|**Goal-oriented Estimation of Multiple Markov Sources in Resource-constrained Systems**|Jiping Luo et.al.|[2311.07346v1](http://arxiv.org/abs/2311.07346v1)|null|
 |**2023-11-13**|**C-Procgen: Empowering Procgen with Controllable Contexts**|Zhenxiong Tan et.al.|[2311.07312v1](http://arxiv.org/abs/2311.07312v1)|null|
