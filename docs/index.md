@@ -3654,7 +3654,7 @@ layout: default
 |**2023-11-15**|**Ever: Mitigating Hallucination in Large Language Models through Real-Time Verification and Rectification**|Haoqiang Kang et.al.|[2311.09114v1](http://arxiv.org/abs/2311.09114v1)|null|
 |**2023-11-15**|**MAVEN-Arg: Completing the Puzzle of All-in-One Event Understanding Dataset with Event Argument Annotation**|Xiaozhi Wang et.al.|[2311.09105v1](http://arxiv.org/abs/2311.09105v1)|null|
 |**2023-11-15**|**Towards A Unified View of Answer Calibration for Multi-Step Reasoning**|Shumin Deng et.al.|[2311.09101v1](http://arxiv.org/abs/2311.09101v1)|null|
-|**2023-11-15**|**Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization**|Zhexin Zhang et.al.|[2311.09096v1](http://arxiv.org/abs/2311.09096v1)|null|
+|**2023-11-15**|**Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization**|Zhexin Zhang et.al.|[2311.09096v1](http://arxiv.org/abs/2311.09096v1)|**[link](https://github.com/thu-coai/jailbreakdefense_goalpriority)**|
 |**2023-11-15**|**Social Bias Probing: Fairness Benchmarking for Language Models**|Marta Marchiori Manerba et.al.|[2311.09090v1](http://arxiv.org/abs/2311.09090v1)|null|
 |**2023-11-15**|**How Multilingual is Multilingual LLM?**|Fei Yuan et.al.|[2311.09071v1](http://arxiv.org/abs/2311.09071v1)|null|
 |**2023-11-15**|**How Well Do Large Language Models Truly Ground?**|Hyunji Lee et.al.|[2311.09069v1](http://arxiv.org/abs/2311.09069v1)|null|
@@ -5869,7 +5869,7 @@ layout: default
 |**2023-11-14**|**Probable Object Location (POLo) Score Estimation for Efficient Object Goal Navigation**|Jiaming Wang et.al.|[2311.07992v1](http://arxiv.org/abs/2311.07992v1)|null|
 |**2023-11-14**|**Discretized Distributed Optimization over Dynamic Digraphs**|Mohammadreza Doostmohammadian et.al.|[2311.07939v1](http://arxiv.org/abs/2311.07939v1)|null|
 |**2023-11-14**|**A biased dollar exchange model involving bank and debt with discontinuous equilibrium**|Fei Cao et.al.|[2311.07851v1](http://arxiv.org/abs/2311.07851v1)|null|
-|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|**[link](https://github.com/dhdhagar/byokg)**|
 |**2023-11-14**|**Cooperative AI via Decentralized Commitment Devices**|Xinyuan Sun et.al.|[2311.07815v1](http://arxiv.org/abs/2311.07815v1)|null|
 |**2023-11-13**|**Vision-Language Integration in Multimodal Video Transformers (Partially) Aligns with the Brain**|Dota Tianai Dong et.al.|[2311.07766v1](http://arxiv.org/abs/2311.07766v1)|null|
 |**2023-11-13**|**Efficient Prior-Free Mechanisms for No-Regret Agents**|Natalie Collina et.al.|[2311.07754v1](http://arxiv.org/abs/2311.07754v1)|null|
