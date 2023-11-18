@@ -93,7 +93,7 @@ layout: default
 |**2023-11-15**|**Controlling the Output of a Generative Model by Latent Feature Vector Shifting**|Róbert Belanec et.al.|[2311.08850v1](http://arxiv.org/abs/2311.08850v1)|null|
 |**2023-11-15**|**Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder**|Abdelrahman Mohamed et.al.|[2311.08844v1](http://arxiv.org/abs/2311.08844v1)|null|
 |**2023-11-15**|**Personalized Video Relighting Using Casual Light Stage**|Jun Myeong Choi et.al.|[2311.08843v1](http://arxiv.org/abs/2311.08843v1)|null|
-|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|null|
+|**2023-11-15**|**Correlation-guided Query-Dependency Calibration in Video Representation Learning for Temporal Grounding**|WonJun Moon et.al.|[2311.08835v1](http://arxiv.org/abs/2311.08835v1)|**[link](https://github.com/wjun0830/cgdetr)**|
 |**2023-11-15**|**Frequency Domain-based Dataset Distillation**|Donghyeok Shin et.al.|[2311.08819v1](http://arxiv.org/abs/2311.08819v1)|**[link](https://github.com/sdh0818/fred)**|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
 |**2023-11-15**|**Self-Supervised Disentanglement by Leveraging Structure in Data Augmentations**|Cian Eastwood et.al.|[2311.08815v1](http://arxiv.org/abs/2311.08815v1)|null|
@@ -5841,7 +5841,7 @@ layout: default
 |**2023-11-15**|**Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory**|Lei Liu et.al.|[2311.08719v1](http://arxiv.org/abs/2311.08719v1)|null|
 |**2023-11-15**|**Joint User Pairing and Beamforming Design of Multi-STAR-RISs-Aided NOMA in the Indoor Environment via Multi-Agent Reinforcement Learning**|Yu Min Park et.al.|[2311.08708v1](http://arxiv.org/abs/2311.08708v1)|null|
 |**2023-11-15**|**Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing**|Juyeon Yoon et.al.|[2311.08649v1](http://arxiv.org/abs/2311.08649v1)|null|
-|**2023-11-16**|**MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration**|Lin Xu et.al.|[2311.08562v2](http://arxiv.org/abs/2311.08562v2)|null|
+|**2023-11-16**|**MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration**|Lin Xu et.al.|[2311.08562v2](http://arxiv.org/abs/2311.08562v2)|**[link](https://github.com/cathyxl/magic)**|
 |**2023-11-14**|**DeepThought: An Architecture for Autonomous Self-motivated Systems**|Arlindo L. Oliveira et.al.|[2311.08547v1](http://arxiv.org/abs/2311.08547v1)|null|
 |**2023-11-14**|**Crowdsearch**|Hans Gersbach et.al.|[2311.08532v1](http://arxiv.org/abs/2311.08532v1)|null|
 |**2023-11-14**|**Assuring the emotional and cultural intelligence of intelligent software systems**|Alvine B. Belle et.al.|[2311.08431v1](http://arxiv.org/abs/2311.08431v1)|null|
