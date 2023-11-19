@@ -8885,3 +8885,58 @@ layout: default
 |**2023-09-10**|**Compressing the memory variables in constant-Q viscoelastic wave propagation via an improved sum-of-exponentials approximation**|Xu Guo et.al.|[2309.05125v1](http://arxiv.org/abs/2309.05125v1)|null|
 |**2023-09-10**|**Strategic Deployment of Swarm of UAVs for Secure IoT Networks**|Xavier Alejandro Flores Cabezas et.al.|[2309.05104v1](http://arxiv.org/abs/2309.05104v1)|null|
 
+## Gaussian Spatting
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|null|
+|**2023-11-16**|**Reconstruction of inhomogeneous turbulence based on stochastic Fourier-type integrals. Part I: Modeling and analysis**|Markus Antoni et.al.|[2311.09893v1](http://arxiv.org/abs/2311.09893v1)|null|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-16**|**Dynamics of Particle-laden Turbulent Suspensions: Effect of particle roughness**|S. Ghosh et.al.|[2311.09729v1](http://arxiv.org/abs/2311.09729v1)|null|
+|**2023-11-16**|**Second-order Rate Analysis of a Two-user Gaussian Interference Channel with Heterogeneous Blocklength Constraints**|Kailun Dong et.al.|[2311.09711v1](http://arxiv.org/abs/2311.09711v1)|null|
+|**2023-11-16**|**A Meta Logarithmic-Sobolev Inequality for Phase-Covariant Gaussian Channels**|Salman Beigi et.al.|[2311.09572v1](http://arxiv.org/abs/2311.09572v1)|null|
+|**2023-11-16**|**NLTS Hamiltonians and Strongly-Explicit SoS Lower Bounds from Low-Rate Quantum LDPC Codes**|Louis Golowich et.al.|[2311.09503v1](http://arxiv.org/abs/2311.09503v1)|null|
+|**2023-11-16**|**Spatial Bayesian Neural Networks**|Andrew Zammit-Mangion et.al.|[2311.09491v1](http://arxiv.org/abs/2311.09491v1)|**[link](https://github.com/andrewzm/sbnn)**|
+|**2023-11-15**|**Central limit theorems for Fréchet means on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09455v1](http://arxiv.org/abs/2311.09455v1)|null|
+|**2023-11-15**|**A central limit theorem for random tangent fields on stratified spaces**|Jonathan C. Mattingly et.al.|[2311.09454v1](http://arxiv.org/abs/2311.09454v1)|null|
+|**2023-11-15**|**Linear-Cost Vecchia Approximation of Multivariate Normal Probabilities**|Jian Cao et.al.|[2311.09426v1](http://arxiv.org/abs/2311.09426v1)|null|
+|**2023-11-15**|**Gaussian Volterra processes as models of electricity markets**|Yuliya Mishura et.al.|[2311.09384v1](http://arxiv.org/abs/2311.09384v1)|null|
+|**2023-11-15**|**Generative AI-Based Probabilistic Constellation Shaping With Diffusion Models**|Mehdi Letafati et.al.|[2311.09349v1](http://arxiv.org/abs/2311.09349v1)|null|
+|**2023-11-15**|**On the existence of a very metal-poor disc in the Milky Way**|Hanyuan Zhang et.al.|[2311.09294v1](http://arxiv.org/abs/2311.09294v1)|null|
+|**2023-11-15**|**Full range spectral correlations and their spectral form factors in chaotic and integrable models**|Ruth Shir et.al.|[2311.09292v1](http://arxiv.org/abs/2311.09292v1)|null|
+|**2023-11-15**|**On the Computation of the Gaussian Rate-Distortion-Perception Function**|Giuseppe Serra et.al.|[2311.09190v1](http://arxiv.org/abs/2311.09190v1)|null|
+|**2023-11-15**|**Frustrated magnets in the limit of infinite dimensions: dynamics and disorder-free glass transition**|Achille Mauri et.al.|[2311.09124v1](http://arxiv.org/abs/2311.09124v1)|null|
+|**2023-11-15**|**Measurement-induced transitions beyond Gaussianity: a single particle description**|Luca Lumia et.al.|[2311.09043v1](http://arxiv.org/abs/2311.09043v1)|null|
+|**2023-11-15**|**Probability of Collision of satellites and space debris for short-term encounters: Rederivation and fast-to-compute upper and lower bounds**|Ricardo Ferreira et.al.|[2311.08978v1](http://arxiv.org/abs/2311.08978v1)|null|
+|**2023-11-15**|**Constraints on Density Dependent MIT Bag Model Parameters for Quark and Hybrid Stars**|Soumen Podder et.al.|[2311.08962v1](http://arxiv.org/abs/2311.08962v1)|null|
+|**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
+|**2023-11-15**|**Channel Capacity and Bounds In Mixed Gaussian-Impulsive Noise**|Tianfu Qi et.al.|[2311.08804v1](http://arxiv.org/abs/2311.08804v1)|null|
+|**2023-11-15**|**On the area between a Lévy process with secondary jump inputs and its reflected version**|Offer Kella et.al.|[2311.08753v1](http://arxiv.org/abs/2311.08753v1)|null|
+|**2023-11-15**|**ProSpar-GP: scalable Gaussian process modeling with massive non-stationary datasets**|Kevin Li et.al.|[2311.08752v1](http://arxiv.org/abs/2311.08752v1)|null|
+|**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744v1](http://arxiv.org/abs/2311.08744v1)|null|
+|**2023-11-15**|**Four-body bound states in momentum space: the Yakubovsky approach without two-body $t-$matrices**|M. Mohammadzadeh et.al.|[2311.08713v1](http://arxiv.org/abs/2311.08713v1)|null|
+|**2023-11-14**|**The study of x-ray spectrum of the Coma cluster**|L. Zadorozhna et.al.|[2311.08603v1](http://arxiv.org/abs/2311.08603v1)|null|
+|**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581v1](http://arxiv.org/abs/2311.08581v1)|null|
+|**2023-11-14**|**Gaussian Approximation of Convex Sets by Intersections of Halfspaces**|Anindya De et.al.|[2311.08575v1](http://arxiv.org/abs/2311.08575v1)|null|
+|**2023-11-14**|**Probabilistic Representations of Ordered Exponentials: Vector-Valued Schrödinger Semigroups and the Combinatorics of Anderson Localization**|Pierre Yves Gaudreau Lamarre et.al.|[2311.08564v1](http://arxiv.org/abs/2311.08564v1)|null|
+|**2023-11-14**|**Density Steering of Gaussian Mixture Models for Discrete-Time Linear Systems**|Isin Balci et.al.|[2311.08500v1](http://arxiv.org/abs/2311.08500v1)|null|
+|**2023-11-14**|**Qubit fractionalization and emergent Majorana liquid in the honeycomb Floquet code induced by coherent errors and weak measurements**|Guo-Yi Zhu et.al.|[2311.08450v1](http://arxiv.org/abs/2311.08450v1)|null|
+|**2023-11-14**|**Local asymptotics of selection models**|Daniel G. Rasines et.al.|[2311.08365v1](http://arxiv.org/abs/2311.08365v1)|null|
+|**2023-11-14**|**A Gaussian Convexity for Logarithmic Moment Generating Functions**|Wei-Kuo Chen et.al.|[2311.08351v1](http://arxiv.org/abs/2311.08351v1)|null|
+|**2023-11-14**|**Path-dependent PDEs for volatility derivatives**|Alexandre Pannier et.al.|[2311.08289v1](http://arxiv.org/abs/2311.08289v1)|null|
+|**2023-11-14**|**Identifiable and interpretable nonparametric factor analysis**|Maoran Xu et.al.|[2311.08254v1](http://arxiv.org/abs/2311.08254v1)|null|
+|**2023-11-14**|**MCMC to address model misspecification in Deep Learning classification of Radio Galaxies**|Devina Mohan et.al.|[2311.08243v1](http://arxiv.org/abs/2311.08243v1)|**[link](https://github.com/devinamhn/radiogalaxies-bnns)**|
+|**2023-11-14**|**Inference of Probabilistic Programs with Moment-Matching Gaussian Mixtures**|Francesca Randone et.al.|[2311.08235v1](http://arxiv.org/abs/2311.08235v1)|null|
+|**2023-11-16**|**Estimating Conditional Value-at-Risk with Nonstationary Quantile Predictive Regression Models**|Christis Katsouris et.al.|[2311.08218v3](http://arxiv.org/abs/2311.08218v3)|null|
+|**2023-11-14**|**Eccentricity-induced systematic error on parametrized tests of general relativity: hierarchical Bayesian inference applied to a binary black hole population**|Pankaj Saini et.al.|[2311.08033v1](http://arxiv.org/abs/2311.08033v1)|null|
+|**2023-11-14**|**On the View-and-Channel Aggregation Gain in Integrated Sensing and Edge AI**|Xu Chen et.al.|[2311.07986v1](http://arxiv.org/abs/2311.07986v1)|null|
+|**2023-11-14**|**Cauchy-Riemann beams**|H. M. Moya-Cessa et.al.|[2311.07825v1](http://arxiv.org/abs/2311.07825v1)|null|
+|**2023-11-13**|**Bayesian Calibration and Uncertainty Quantification of a Rate-dependent Cohesive Zone Model for Polymer Interfaces**|Ponkrshnan Thiagarajan et.al.|[2311.07768v1](http://arxiv.org/abs/2311.07768v1)|null|
+|**2023-11-13**|**Finite Mixtures of Multivariate Poisson-Log Normal Factor Analyzers for Clustering Count Data**|Andrea Payne et.al.|[2311.07762v1](http://arxiv.org/abs/2311.07762v1)|**[link](https://github.com/anjalisilva/mixmplnfa)**|
+|**2023-11-13**|**Credible Intervals for Probability of Failure with Gaussian Processes**|Aleksei G. Sorokin et.al.|[2311.07733v1](http://arxiv.org/abs/2311.07733v1)|null|
+|**2023-11-13**|**The process of fluctuations of the giant component of an Erdős-Rényi graph**|Nathanaël Enriquez et.al.|[2311.07701v1](http://arxiv.org/abs/2311.07701v1)|null|
+|**2023-11-13**|**Clifford operations and homological codes for rotors and oscillators**|Yijia Xu et.al.|[2311.07679v1](http://arxiv.org/abs/2311.07679v1)|null|
+|**2023-11-13**|**FEMDA: a unified framework for discriminant analysis**|Pierre Houdouin et.al.|[2311.07518v1](http://arxiv.org/abs/2311.07518v1)|null|
+|**2023-11-13**|**Performance of the electromagnetic and hadronic prototype segments of the ALICE Forward Calorimeter**|M. Aehle et.al.|[2311.07413v1](http://arxiv.org/abs/2311.07413v1)|null|
+|**2023-11-13**|**Limits of stochastic Volterra equations driven by Gaussian noise**|Luigi Amedeo Bianchi et.al.|[2311.07358v1](http://arxiv.org/abs/2311.07358v1)|null|
+
