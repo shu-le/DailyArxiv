@@ -201,7 +201,7 @@ if __name__ == "__main__":
     keywords["Large language model"] = "\"Large language model\"OR\"GPT\""
     keywords["Multimodal Model"] = "\"Multimodal Model\"OR\"Vision language\""
     keywords["Multimodal Agents"] = "Multimodal Agents" + "OR" + "\"Agents\""
-    keywords["3D Detection"] = "3D Detection" + "OR" + "\"3D Object Detection\""
+    keywords["Gaussian Spatting"] = "Gaussian Spatting"
 
     for topic, keyword in keywords.items():
         # topic = keyword.replace("\"","")
