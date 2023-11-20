@@ -13,7 +13,7 @@ layout: default
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091v1](http://arxiv.org/abs/2311.10091v1)|null|
 |**2023-11-16**|**Emu Edit: Precise Image Editing via Recognition and Generation Tasks**|Shelly Sheynin et.al.|[2311.10089v1](http://arxiv.org/abs/2311.10089v1)|null|
 |**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081v1](http://arxiv.org/abs/2311.10081v1)|null|
-|**2023-11-16**|**Visual Environment Assessment for Safe Autonomous Quadrotor Landing**|Mattia Secchiero et.al.|[2311.10065v1](http://arxiv.org/abs/2311.10065v1)|null|
+|**2023-11-17**|**Visual Environment Assessment for Safe Autonomous Quadrotor Landing**|Mattia Secchiero et.al.|[2311.10065v2](http://arxiv.org/abs/2311.10065v2)|null|
 |**2023-11-16**|**Analyzing Deviations of Dyadic Lines in Fast Hough Transform**|Gleb Smirnov et.al.|[2311.10064v1](http://arxiv.org/abs/2311.10064v1)|null|
 |**2023-11-16**|**Depth Insight -- Contribution of Different Features to Indoor Single-image Depth Estimation**|Yihong Wu et.al.|[2311.10042v1](http://arxiv.org/abs/2311.10042v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
@@ -3588,7 +3588,7 @@ layout: default
 |**2023-11-16**|**Language Generation from Human Brain Activities**|Ziyi Ye et.al.|[2311.09889v1](http://arxiv.org/abs/2311.09889v1)|null|
 |**2023-11-16**|**INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing**|Hanbin Wang et.al.|[2311.09868v1](http://arxiv.org/abs/2311.09868v1)|**[link](https://github.com/neuir/intervenor)**|
 |**2023-11-16**|**Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models**|Debarati Das et.al.|[2311.09862v1](http://arxiv.org/abs/2311.09862v1)|null|
-|**2023-11-16**|**PsyBench: a balanced and in-depth Psychological Chinese Evaluation Benchmark for Foundation Models**|Junlei Zhang et.al.|[2311.09861v1](http://arxiv.org/abs/2311.09861v1)|null|
+|**2023-11-17**|**PsyBench: a balanced and in-depth Psychological Chinese Evaluation Benchmark for Foundation Models**|Junlei Zhang et.al.|[2311.09861v2](http://arxiv.org/abs/2311.09861v2)|null|
 |**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841v1](http://arxiv.org/abs/2311.09841v1)|**[link](https://github.com/huntila/scholarly-kgqa)**|
 |**2023-11-16**|**ML-Bench: Large Language Models Leverage Open-source Libraries for Machine Learning Tasks**|Yuliang Liu et.al.|[2311.09835v1](http://arxiv.org/abs/2311.09835v1)|null|
 |**2023-11-16**|**X-Mark: Towards Lossless Watermarking Through Lexical Redundancy**|Liang Chen et.al.|[2311.09832v1](http://arxiv.org/abs/2311.09832v1)|null|
@@ -5791,7 +5791,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-16**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090v1](http://arxiv.org/abs/2311.10090v1)|**[link](https://github.com/flairox/jaxmarl)**|
+|**2023-11-17**|**JaxMARL: Multi-Agent RL Environments in JAX**|Alexander Rutherford et.al.|[2311.10090v2](http://arxiv.org/abs/2311.10090v2)|**[link](https://github.com/flairox/jaxmarl)**|
 |**2023-11-16**|**Graph models for Cybersecurity -- A Survey**|Jasmin Wachter et.al.|[2311.10050v1](http://arxiv.org/abs/2311.10050v1)|null|
 |**2023-11-16**|**Spontaneous Opinion Swings in the Voter Model with Latency**|Giovanni Palermo et.al.|[2311.10045v1](http://arxiv.org/abs/2311.10045v1)|null|
 |**2023-11-16**|**On the Overconfidence Problem in Semantic 3D Mapping**|Joao Marcos Correia Marques et.al.|[2311.10018v1](http://arxiv.org/abs/2311.10018v1)|null|
@@ -5839,7 +5839,7 @@ layout: default
 |**2023-11-15**|**StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving**|Chang Gao et.al.|[2311.08803v1](http://arxiv.org/abs/2311.08803v1)|null|
 |**2023-11-15**|**X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks**|Farhad Rezazadeh et.al.|[2311.08798v1](http://arxiv.org/abs/2311.08798v1)|null|
 |**2023-11-15**|**Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory**|Lei Liu et.al.|[2311.08719v1](http://arxiv.org/abs/2311.08719v1)|null|
-|**2023-11-15**|**Joint User Pairing and Beamforming Design of Multi-STAR-RISs-Aided NOMA in the Indoor Environment via Multi-Agent Reinforcement Learning**|Yu Min Park et.al.|[2311.08708v1](http://arxiv.org/abs/2311.08708v1)|null|
+|**2023-11-17**|**Joint User Pairing and Beamforming Design of Multi-STAR-RISs-Aided NOMA in the Indoor Environment via Multi-Agent Reinforcement Learning**|Yu Min Park et.al.|[2311.08708v2](http://arxiv.org/abs/2311.08708v2)|null|
 |**2023-11-15**|**Autonomous Large Language Model Agents Enabling Intent-Driven Mobile GUI Testing**|Juyeon Yoon et.al.|[2311.08649v1](http://arxiv.org/abs/2311.08649v1)|null|
 |**2023-11-16**|**MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration**|Lin Xu et.al.|[2311.08562v2](http://arxiv.org/abs/2311.08562v2)|**[link](https://github.com/cathyxl/magic)**|
 |**2023-11-14**|**DeepThought: An Architecture for Autonomous Self-motivated Systems**|Arlindo L. Oliveira et.al.|[2311.08547v1](http://arxiv.org/abs/2311.08547v1)|null|
@@ -8908,7 +8908,7 @@ layout: default
 |**2023-11-15**|**Frustrated magnets in the limit of infinite dimensions: dynamics and disorder-free glass transition**|Achille Mauri et.al.|[2311.09124v1](http://arxiv.org/abs/2311.09124v1)|null|
 |**2023-11-15**|**Measurement-induced transitions beyond Gaussianity: a single particle description**|Luca Lumia et.al.|[2311.09043v1](http://arxiv.org/abs/2311.09043v1)|null|
 |**2023-11-15**|**Probability of Collision of satellites and space debris for short-term encounters: Rederivation and fast-to-compute upper and lower bounds**|Ricardo Ferreira et.al.|[2311.08978v1](http://arxiv.org/abs/2311.08978v1)|null|
-|**2023-11-15**|**Constraints on Density Dependent MIT Bag Model Parameters for Quark and Hybrid Stars**|Soumen Podder et.al.|[2311.08962v1](http://arxiv.org/abs/2311.08962v1)|null|
+|**2023-11-17**|**Constraints on Density Dependent MIT Bag Model Parameters for Quark and Hybrid Stars**|Soumen Podder et.al.|[2311.08962v2](http://arxiv.org/abs/2311.08962v2)|null|
 |**2023-11-15**|**Target-oriented Domain Adaptation for Infrared Image Super-Resolution**|Yongsong Huang et.al.|[2311.08816v1](http://arxiv.org/abs/2311.08816v1)|**[link](https://github.com/yongsongh/dasrgan)**|
 |**2023-11-15**|**Channel Capacity and Bounds In Mixed Gaussian-Impulsive Noise**|Tianfu Qi et.al.|[2311.08804v1](http://arxiv.org/abs/2311.08804v1)|null|
 |**2023-11-15**|**On the area between a Lévy process with secondary jump inputs and its reflected version**|Offer Kella et.al.|[2311.08753v1](http://arxiv.org/abs/2311.08753v1)|null|
