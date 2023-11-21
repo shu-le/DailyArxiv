@@ -3641,7 +3641,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-17**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702v1](http://arxiv.org/abs/2311.10702v1)|null|
+|**2023-11-20**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702v2](http://arxiv.org/abs/2311.10702v2)|null|
 |**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697v1](http://arxiv.org/abs/2311.10697v1)|null|
 |**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678v1](http://arxiv.org/abs/2311.10678v1)|**[link](https://github.com/Stanford-ILIAD/droc)**|
 |**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614v1](http://arxiv.org/abs/2311.10614v1)|null|
@@ -3666,7 +3666,7 @@
 |**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075v1](http://arxiv.org/abs/2311.10075v1)|null|
 |**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054v1](http://arxiv.org/abs/2311.10054v1)|null|
 |**2023-11-16**|**Hijacking Large Language Models via Adversarial In-Context Learning**|Yao Qiang et.al.|[2311.09948v1](http://arxiv.org/abs/2311.09948v1)|null|
-|**2023-11-16**|**Language Generation from Human Brain Activities**|Ziyi Ye et.al.|[2311.09889v1](http://arxiv.org/abs/2311.09889v1)|null|
+|**2023-11-19**|**Language Generation from Human Brain Activities**|Ziyi Ye et.al.|[2311.09889v2](http://arxiv.org/abs/2311.09889v2)|null|
 |**2023-11-16**|**INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing**|Hanbin Wang et.al.|[2311.09868v1](http://arxiv.org/abs/2311.09868v1)|**[link](https://github.com/neuir/intervenor)**|
 |**2023-11-16**|**Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models**|Debarati Das et.al.|[2311.09862v1](http://arxiv.org/abs/2311.09862v1)|null|
 |**2023-11-17**|**PsyBench: a balanced and in-depth Psychological Chinese Evaluation Benchmark for Foundation Models**|Junlei Zhang et.al.|[2311.09861v2](http://arxiv.org/abs/2311.09861v2)|null|
@@ -9016,7 +9016,7 @@
 |**2023-11-16**|**Employing Gaussian process priors for studying spatial variation in the parameters of a cardiac action potential model**|Alejandro Nieto Ramos et.al.|[2311.10114v1](http://arxiv.org/abs/2311.10114v1)|null|
 |**2023-11-16**|**Taming assembly bias for primordial non-Gaussianity**|Emanuele Fondi et.al.|[2311.10088v1](http://arxiv.org/abs/2311.10088v1)|null|
 |**2023-11-16**|**Reconstruction of inhomogeneous turbulence based on stochastic Fourier-type integrals. Part I: Modeling and analysis**|Markus Antoni et.al.|[2311.09893v1](http://arxiv.org/abs/2311.09893v1)|null|
-|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v1](http://arxiv.org/abs/2311.09806v1)|null|
+|**2023-11-18**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806v2](http://arxiv.org/abs/2311.09806v2)|null|
 |**2023-11-16**|**Dynamics of Particle-laden Turbulent Suspensions: Effect of particle roughness**|S. Ghosh et.al.|[2311.09729v1](http://arxiv.org/abs/2311.09729v1)|null|
 |**2023-11-16**|**Second-order Rate Analysis of a Two-user Gaussian Interference Channel with Heterogeneous Blocklength Constraints**|Kailun Dong et.al.|[2311.09711v1](http://arxiv.org/abs/2311.09711v1)|null|
 |**2023-11-16**|**A Meta Logarithmic-Sobolev Inequality for Phase-Covariant Gaussian Channels**|Salman Beigi et.al.|[2311.09572v1](http://arxiv.org/abs/2311.09572v1)|null|
