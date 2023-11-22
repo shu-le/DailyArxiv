@@ -21,7 +21,7 @@ layout: default
 |**2023-11-20**|**NNG-Mix: Improving Semi-supervised Anomaly Detection with Pseudo-anomaly Generation**|Hao Dong et.al.|[2311.11961v1](http://arxiv.org/abs/2311.11961v1)|**[link](https://github.com/donghao51/nng-mix)**|
 |**2023-11-20**|**An Image is Worth Multiple Words: Multi-attribute Inversion for Constrained Text-to-Image Synthesis**|Aishwarya Agarwal et.al.|[2311.11919v1](http://arxiv.org/abs/2311.11919v1)|null|
 |**2023-11-20**|**Generalization of Fitness Exercise Recognition from Doppler Measurements by Domain-adaption and Few-Shot Learning**|Biying Fu et.al.|[2311.11910v1](http://arxiv.org/abs/2311.11910v1)|null|
-|**2023-11-20**|**Continual Learning: Applications and the Road Forward**|Eli Verwimp et.al.|[2311.11908v1](http://arxiv.org/abs/2311.11908v1)|null|
+|**2023-11-21**|**Continual Learning: Applications and the Road Forward**|Eli Verwimp et.al.|[2311.11908v2](http://arxiv.org/abs/2311.11908v2)|null|
 |**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
 |**2023-11-20**|**Identifying the Defective: Detecting Damaged Grains for Cereal Appearance Inspection**|Lei Fan et.al.|[2311.11901v1](http://arxiv.org/abs/2311.11901v1)|**[link](https://github.com/hellodfan/ai4graininsp)**|
 |**2023-11-20**|**SniffyArt: The Dataset of Smelling Persons**|Mathias Zinnen et.al.|[2311.11888v1](http://arxiv.org/abs/2311.11888v1)|null|
@@ -39,7 +39,7 @@ layout: default
 |**2023-11-20**|**Generalized super-resolution 4D Flow MRI -- using ensemble learning to extend across the cardiovascular system**|Leon Ericsson et.al.|[2311.11819v1](http://arxiv.org/abs/2311.11819v1)|null|
 |**2023-11-20**|**CrackCLF: Automatic Pavement Crack Detection based on Closed-Loop Feedback**|Chong Li et.al.|[2311.11815v1](http://arxiv.org/abs/2311.11815v1)|null|
 |**2023-11-20**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810v1](http://arxiv.org/abs/2311.11810v1)|null|
-|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v1](http://arxiv.org/abs/2311.11808v1)|null|
+|**2023-11-21**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v2](http://arxiv.org/abs/2311.11808v2)|null|
 |**2023-11-20**|**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought Reasoning to Language Agents**|Zhuosheng Zhang et.al.|[2311.11797v1](http://arxiv.org/abs/2311.11797v1)|**[link](https://github.com/zoeyyao27/cot-igniting-agent)**|
 |**2023-11-20**|**Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems**|Guangjing Wang et.al.|[2311.11796v1](http://arxiv.org/abs/2311.11796v1)|null|
 |**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782v1](http://arxiv.org/abs/2311.11782v1)|null|
@@ -52,7 +52,7 @@ layout: default
 |**2023-11-20**|**Fuzzy Information Seeded Region Growing for Automated Lesions After Stroke Segmentation in MR Brain Images**|Mario Pascual González et.al.|[2311.11742v1](http://arxiv.org/abs/2311.11742v1)|**[link](https://github.com/mawio02/fisrg-for-automated-lesion-after-stroke-segmentation-in-mri)**|
 |**2023-11-20**|**Sparse4D v3: Advancing End-to-End 3D Detection and Tracking**|Xuewu Lin et.al.|[2311.11722v1](http://arxiv.org/abs/2311.11722v1)|**[link](https://github.com/linxuewu/sparse4d)**|
 |**2023-11-20**|**On the Importance of Large Objects in CNN Based Object Detection Algorithms**|Ahmed Ben Saad et.al.|[2311.11714v1](http://arxiv.org/abs/2311.11714v1)|null|
-|**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v1](http://arxiv.org/abs/2311.11700v1)|null|
+|**2023-11-21**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v2](http://arxiv.org/abs/2311.11700v2)|null|
 |**2023-11-20**|**Cut-and-Paste: Subject-Driven Video Editing with Attention Control**|Zhichao Zuo et.al.|[2311.11697v1](http://arxiv.org/abs/2311.11697v1)|null|
 |**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695v1](http://arxiv.org/abs/2311.11695v1)|null|
 |**2023-11-20**|**Segment Together: A Versatile Paradigm for Semi-Supervised Medical Image Segmentation**|Qingjie Zeng et.al.|[2311.11686v1](http://arxiv.org/abs/2311.11686v1)|null|
@@ -3769,7 +3769,7 @@ layout: default
 |**2023-11-19**|**Rethinking Large Language Models in Mental Health Applications**|Shaoxiong Ji et.al.|[2311.11267v1](http://arxiv.org/abs/2311.11267v1)|null|
 |**2023-11-19**|**M$^{2}$UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models**|Atin Sakkeer Hussain et.al.|[2311.11255v1](http://arxiv.org/abs/2311.11255v1)|null|
 |**2023-11-19**|**AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort**|Wen Wang et.al.|[2311.11243v1](http://arxiv.org/abs/2311.11243v1)|null|
-|**2023-11-19**|**ChatGPT at the Speed of Light: Optical Comb-Based Monolithic Photonic-Electronic Linear-Algebra Accelerators**|Tzu-Chien Hsueh et.al.|[2311.11224v1](http://arxiv.org/abs/2311.11224v1)|null|
+|**2023-11-21**|**ChatGPT at the Speed of Light: Optical Comb-Based Monolithic Photonic-Electronic Linear-Algebra Accelerators**|Tzu-Chien Hsueh et.al.|[2311.11224v2](http://arxiv.org/abs/2311.11224v2)|null|
 |**2023-11-19**|**Leveraging Generative AI for Clinical Evidence Summarization Needs to Achieve Trustworthiness**|Gongbo Zhang et.al.|[2311.11211v1](http://arxiv.org/abs/2311.11211v1)|null|
 |**2023-11-18**|**Deploying and Evaluating LLMs to Program Service Mobile Robots**|Zichao Hu et.al.|[2311.11183v1](http://arxiv.org/abs/2311.11183v1)|null|
 |**2023-11-18**|**Experts-in-the-Loop: Establishing an Effective Workflow in Crafting Privacy Q&A**|Zahra Kolagar et.al.|[2311.11161v1](http://arxiv.org/abs/2311.11161v1)|null|
@@ -5683,7 +5683,7 @@ layout: default
 |**2023-11-17**|**Labeling Indoor Scenes with Fusion of Out-of-the-Box Perception Models**|Yimeng Li et.al.|[2311.10883v1](http://arxiv.org/abs/2311.10883v1)|null|
 |**2023-11-15**|**MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**|Fuxiao Liu et.al.|[2311.10774v1](http://arxiv.org/abs/2311.10774v1)|**[link](https://github.com/fuxiaoliu/mmc)**|
 |**2023-11-16**|**Improving Unimodal Inference with Multimodal Transformers**|Kateryna Chumachenko et.al.|[2311.10170v1](http://arxiv.org/abs/2311.10170v1)|null|
-|**2023-11-16**|**Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**|Bin Lin et.al.|[2311.10122v1](http://arxiv.org/abs/2311.10122v1)|**[link](https://github.com/PKU-YuanGroup/Video-LLaVA)**|
+|**2023-11-21**|**Video-LLaVA: Learning United Visual Representation by Alignment Before Projection**|Bin Lin et.al.|[2311.10122v2](http://arxiv.org/abs/2311.10122v2)|**[link](https://github.com/PKU-YuanGroup/Video-LLaVA)**|
 |**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081v1](http://arxiv.org/abs/2311.10081v1)|null|
 |**2023-11-16**|**Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models**|Debarati Das et.al.|[2311.09862v1](http://arxiv.org/abs/2311.09862v1)|null|
 |**2023-11-16**|**Efficient End-to-End Visual Document Understanding with Rationale Distillation**|Wang Zhu et.al.|[2311.09612v1](http://arxiv.org/abs/2311.09612v1)|null|
@@ -9206,7 +9206,7 @@ layout: default
 |**2023-11-20**|**AMP algorithms and Stein's method: Understanding TAP equations with a new method**|Stephan Gufler et.al.|[2311.11924v1](http://arxiv.org/abs/2311.11924v1)|null|
 |**2023-11-20**|**High Probability Guarantees for Random Reshuffling**|Hengxu Yu et.al.|[2311.11841v1](http://arxiv.org/abs/2311.11841v1)|null|
 |**2023-11-20**|**Nano-particle motion in monolithic silica column using single-particle tracking method**|Yusaku Abe et.al.|[2311.11706v1](http://arxiv.org/abs/2311.11706v1)|null|
-|**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v1](http://arxiv.org/abs/2311.11700v1)|null|
+|**2023-11-21**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700v2](http://arxiv.org/abs/2311.11700v2)|null|
 |**2023-11-20**|**Quenched disorder and instability control dynamic fracture in three dimensions**|Yuri Lubomirsky et.al.|[2311.11692v1](http://arxiv.org/abs/2311.11692v1)|null|
 |**2023-11-20**|**Conformally symmetric wormhole solutions supported by non-commutative geometries in the context of $f(Q,T)$ gravity**|Moreshwar Tayde et.al.|[2311.11661v1](http://arxiv.org/abs/2311.11661v1)|null|
 |**2023-11-20**|**Gaussian Interpolation Flows**|Yuan Gao et.al.|[2311.11475v1](http://arxiv.org/abs/2311.11475v1)|null|
