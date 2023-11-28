@@ -6021,8 +6021,8 @@
 |**2023-11-18**|**Multimodal Machine Unlearning**|Jiali Cheng et.al.|[2311.12047v1](http://arxiv.org/abs/2311.12047v1)|null|
 |**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
 |**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904v1](http://arxiv.org/abs/2311.11904v1)|null|
-|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860v1](http://arxiv.org/abs/2311.11860v1)|**[link](https://github.com/rshaojimmy/jiutian)**|
-|**2023-11-20**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810v1](http://arxiv.org/abs/2311.11810v1)|null|
+|**2023-11-26**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860v2](http://arxiv.org/abs/2311.11860v2)|**[link](https://github.com/rshaojimmy/jiutian)**|
+|**2023-11-27**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810v2](http://arxiv.org/abs/2311.11810v2)|null|
 |**2023-11-20**|**Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement**|Yanyan Wei et.al.|[2311.11695v1](http://arxiv.org/abs/2311.11695v1)|null|
 |**2023-11-20**|**Filling the Image Information Gap for VQA: Prompting Large Language Models to Proactively Ask Questions**|Ziyue Wang et.al.|[2311.11598v1](http://arxiv.org/abs/2311.11598v1)|**[link](https://github.com/thunlp-mt/fiig)**|
 |**2023-11-20**|**CORE-MM: Complex Open-Ended Reasoning Evaluation For Multi-Modal Large Language Models**|Xiaotian Han et.al.|[2311.11567v1](http://arxiv.org/abs/2311.11567v1)|null|
@@ -6030,7 +6030,7 @@
 |**2023-11-19**|**Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens**|Lv Tang et.al.|[2311.11273v1](http://arxiv.org/abs/2311.11273v1)|null|
 |**2023-11-19**|**Adversarial Prompt Tuning for Vision-Language Models**|Jiaming Zhang et.al.|[2311.11261v1](http://arxiv.org/abs/2311.11261v1)|null|
 |**2023-11-19**|**Open-Vocabulary Camouflaged Object Segmentation**|Youwei Pang et.al.|[2311.11241v1](http://arxiv.org/abs/2311.11241v1)|null|
-|**2023-11-18**|**Active Prompt Learning in Vision Language Models**|Jihwan Bang et.al.|[2311.11178v1](http://arxiv.org/abs/2311.11178v1)|null|
+|**2023-11-27**|**Active Prompt Learning in Vision Language Models**|Jihwan Bang et.al.|[2311.11178v2](http://arxiv.org/abs/2311.11178v2)|null|
 |**2023-11-18**|**Representing visual classification as a linear combination of words**|Shobhit Agarwal et.al.|[2311.10933v1](http://arxiv.org/abs/2311.10933v1)|**[link](https://github.com/lotterlab/task_word_explainability)**|
 |**2023-11-17**|**Labeling Indoor Scenes with Fusion of Out-of-the-Box Perception Models**|Yimeng Li et.al.|[2311.10883v1](http://arxiv.org/abs/2311.10883v1)|null|
 |**2023-11-15**|**MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning**|Fuxiao Liu et.al.|[2311.10774v1](http://arxiv.org/abs/2311.10774v1)|**[link](https://github.com/fuxiaoliu/mmc)**|
@@ -6046,7 +6046,7 @@
 |**2023-11-15**|**Violet: A Vision-Language Model for Arabic Image Captioning with Gemini Decoder**|Abdelrahman Mohamed et.al.|[2311.08844v1](http://arxiv.org/abs/2311.08844v1)|null|
 |**2023-11-15**|**DEED: Dynamic Early Exit on Decoder for Accelerating Encoder-Decoder Transformer Models**|Peng Tang et.al.|[2311.08623v1](http://arxiv.org/abs/2311.08623v1)|null|
 |**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
-|**2023-11-14**|**Vision-Language Instruction Tuning: A Review and Analysis**|Chen Li et.al.|[2311.08172v1](http://arxiv.org/abs/2311.08172v1)|**[link](https://github.com/palchenli/vl-instruction-tuning)**|
+|**2023-11-25**|**Vision-Language Instruction Tuning: A Review and Analysis**|Chen Li et.al.|[2311.08172v2](http://arxiv.org/abs/2311.08172v2)|**[link](https://github.com/palchenli/vl-instruction-tuning)**|
 |**2023-11-14**|**Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning**|Jingbiao Mei et.al.|[2311.08110v1](http://arxiv.org/abs/2311.08110v1)|null|
 |**2023-11-14**|**Chat-UniVi: Unified Visual Representation Empowers Large Language Models with Image and Video Understanding**|Peng Jin et.al.|[2311.08046v1](http://arxiv.org/abs/2311.08046v1)|**[link](https://github.com/pku-yuangroup/chat-univi)**|
 |**2023-11-14**|**Learning Mutually Informed Representations for Characters and Subwords**|Yilin Wang et.al.|[2311.07853v1](http://arxiv.org/abs/2311.07853v1)|null|
@@ -6403,7 +6403,7 @@
 |**2023-11-23**|**Robust Decision Aggregation with Second-order Information**|Yuqi Pan et.al.|[2311.14094v1](http://arxiv.org/abs/2311.14094v1)|null|
 |**2023-11-23**|**PortfolioMentor: Multimodal Generative AI Companion for Learning and Crafting Interactive Digital Art Portfolios**|Tao Long et.al.|[2311.14091v1](http://arxiv.org/abs/2311.14091v1)|null|
 |**2023-11-23**|**Towards Explainable Strategy Templates using NLP Transformers**|Pallavi Bagga et.al.|[2311.14061v1](http://arxiv.org/abs/2311.14061v1)|null|
-|**2023-11-23**|**An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication**|Xiaomeng Chen et.al.|[2311.13994v1](http://arxiv.org/abs/2311.13994v1)|null|
+|**2023-11-27**|**An Efficient Distributed Nash Equilibrium Seeking with Compressed and Event-triggered Communication**|Xiaomeng Chen et.al.|[2311.13994v2](http://arxiv.org/abs/2311.13994v2)|null|
 |**2023-11-23**|**Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach**|Bin Zhang et.al.|[2311.13884v1](http://arxiv.org/abs/2311.13884v1)|null|
 |**2023-11-23**|**A TETRA-based System for Remote-Health Monitoring of First Responders: Peak AoI Assessment in Direct and Trunked Mode**|Hossam Farag et.al.|[2311.13859v1](http://arxiv.org/abs/2311.13859v1)|null|
 |**2023-11-23**|**Perceptual Image Compression with Cooperative Cross-Modal Side Information**|Shiyu Qin et.al.|[2311.13847v1](http://arxiv.org/abs/2311.13847v1)|null|
@@ -9673,7 +9673,7 @@
 |**2023-11-22**|**An exact bandit model for the risk-volatility tradeoff**|Max-Olivier Hongler et.al.|[2311.13461v1](http://arxiv.org/abs/2311.13461v1)|null|
 |**2023-11-22**|**SkeletonGait: Gait Recognition Using Skeleton Maps**|Chao Fan et.al.|[2311.13444v1](http://arxiv.org/abs/2311.13444v1)|**[link](https://github.com/shiqiyu/opengait)**|
 |**2023-11-22**|**Lozenge Tilings of a Hexagon and q-Racah Ensembles**|Maurice Duits et.al.|[2311.13407v1](http://arxiv.org/abs/2311.13407v1)|null|
-|**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v1](http://arxiv.org/abs/2311.13404v1)|null|
+|**2023-11-27**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404v2](http://arxiv.org/abs/2311.13404v2)|null|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398v1](http://arxiv.org/abs/2311.13398v1)|null|
 |**2023-11-23**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384v2](http://arxiv.org/abs/2311.13384v2)|null|
 |**2023-11-22**|**Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers**|Gao Huang et.al.|[2311.13219v1](http://arxiv.org/abs/2311.13219v1)|null|
