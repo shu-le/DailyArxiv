@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 
 ## CV
 
@@ -37,7 +37,7 @@ layout: default
 |**2023-11-24**|**GCPV: Guided Concept Projection Vectors for the Explainable Inspection of CNN Feature Spaces**|Georgii Mikriukov et.al.|[2311.14435v1](http://arxiv.org/abs/2311.14435v1)|null|
 |**2023-11-24**|**Deformable multi-modal image registration for the correlation between optical measurements and histology images**|Lianne Feenstra et.al.|[2311.14414v1](http://arxiv.org/abs/2311.14414v1)|null|
 |**2023-11-24**|**OneFormer3D: One Transformer for Unified Point Cloud Segmentation**|Maxim Kolodiazhnyi et.al.|[2311.14405v1](http://arxiv.org/abs/2311.14405v1)|**[link](https://github.com/filapro/oneformer3d)**|
-|**2023-11-24**|**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**|Ke Cheng et.al.|[2311.14395v1](http://arxiv.org/abs/2311.14395v1)|null|
+|**2023-11-24**|**Multi-scale Semantic Correlation Mining for Visible-Infrared Person Re-Identification**|Ke Cheng et.al.|[2311.14395v1](http://arxiv.org/abs/2311.14395v1)|**[link](https://github.com/Hua-XC/MSCMNet)**|
 |**2023-11-24**|**A Parameterized Generative Adversarial Network Using Cyclic Projection for Explainable Medical Image Classification**|Xiangyu Xiong et.al.|[2311.14388v1](http://arxiv.org/abs/2311.14388v1)|null|
 |**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343v1](http://arxiv.org/abs/2311.14343v1)|null|
 |**2023-11-24**|**Towards Concept-based Interpretability of Skin Lesion Diagnosis using Vision-Language Models**|Cristiano Patrício et.al.|[2311.14339v1](http://arxiv.org/abs/2311.14339v1)|**[link](https://github.com/cristianopatricio/concept-based-interpretability-vlm)**|
@@ -52,7 +52,7 @@ layout: default
 |**2023-11-24**|**Image Super-Resolution with Text Prompt Diffusion**|Zheng Chen et.al.|[2311.14282v1](http://arxiv.org/abs/2311.14282v1)|**[link](https://github.com/zhengchen1999/promptsr)**|
 |**2023-11-24**|**Multi-modal Instance Refinement for Cross-domain Action Recognition**|Yuan Qing et.al.|[2311.14281v1](http://arxiv.org/abs/2311.14281v1)|null|
 |**2023-11-24**|**Latent Diffusion Prior Enhanced Deep Unfolding for Spectral Image Reconstruction**|Zongliang Wu et.al.|[2311.14280v1](http://arxiv.org/abs/2311.14280v1)|null|
-|**2023-11-24**|**Racing With ROS 2 A Navigation System for an Autonomous Formula Student Race Car**|Alastair Bradford et.al.|[2311.14276v1](http://arxiv.org/abs/2311.14276v1)|null|
+|**2023-11-24**|**Racing With ROS 2 A Navigation System for an Autonomous Formula Student Race Car**|Alastair Bradford et.al.|[2311.14276v1](http://arxiv.org/abs/2311.14276v1)|**[link](https://github.com/qut-motorsport/qutms_nav_integration)**|
 |**2023-11-24**|**Cooperative Dual Attention for Audio-Visual Speech Enhancement with Facial Cues**|Feixiang Wang et.al.|[2311.14275v1](http://arxiv.org/abs/2311.14275v1)|null|
 |**2023-11-24**|**CRISP: Hybrid Structured Sparsity for Class-aware Model Pruning**|Shivam Aggarwal et.al.|[2311.14272v1](http://arxiv.org/abs/2311.14272v1)|**[link](https://github.com/shivmgg/crisp)**|
 |**2023-11-24**|**Segmentation-Based Parametric Painting**|Manuel Ladron de Guevara et.al.|[2311.14271v1](http://arxiv.org/abs/2311.14271v1)|**[link](https://github.com/manuelladron/semantic_based_painting)**|
@@ -2619,7 +2619,7 @@ layout: default
 |**2023-11-24**|**GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting**|Yiwen Chen et.al.|[2311.14521v1](http://arxiv.org/abs/2311.14521v1)|null|
 |**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494v1](http://arxiv.org/abs/2311.14494v1)|null|
 |**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473v1](http://arxiv.org/abs/2311.14473v1)|null|
-|**2023-11-24**|**LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design**|Niklas Dobberstein et.al.|[2311.14407v1](http://arxiv.org/abs/2311.14407v1)|**[link](https://github.com/fraunhofer-scai/llamol)**|
+|**2023-11-24**|**LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design**|Niklas Dobberstein et.al.|[2311.14407v1](http://arxiv.org/abs/2311.14407v1)|null|
 |**2023-11-24**|**Cultural data integration via random graphical modelling**|Veronica Vinciotti et.al.|[2311.14367v1](http://arxiv.org/abs/2311.14367v1)|null|
 |**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343v1](http://arxiv.org/abs/2311.14343v1)|null|
 |**2023-11-24**|**Decouple Content and Motion for Conditional Image-to-Video Generation**|Cuifeng Shen et.al.|[2311.14294v1](http://arxiv.org/abs/2311.14294v1)|null|
@@ -3970,9 +3970,9 @@ layout: default
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530v1](http://arxiv.org/abs/2311.14530v1)|null|
 |**2023-11-24**|**Benchmarking Large Language Models for Log Analysis, Security, and Interpretation**|Egil Karlsen et.al.|[2311.14519v1](http://arxiv.org/abs/2311.14519v1)|null|
 |**2023-11-24**|**Controlled Text Generation via Language Model Arithmetic**|Jasper Dekoninck et.al.|[2311.14479v1](http://arxiv.org/abs/2311.14479v1)|**[link](https://github.com/eth-sri/language-model-arithmetic)**|
-|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455v1](http://arxiv.org/abs/2311.14455v1)|null|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455v1](http://arxiv.org/abs/2311.14455v1)|**[link](https://github.com/ethz-spylab/rlhf-poisoning)**|
 |**2023-11-24**|**Narratives from GPT-derived Networks of News, and a link to Financial Markets Dislocations**|Deborah Miori et.al.|[2311.14419v1](http://arxiv.org/abs/2311.14419v1)|null|
-|**2023-11-24**|**LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design**|Niklas Dobberstein et.al.|[2311.14407v1](http://arxiv.org/abs/2311.14407v1)|**[link](https://github.com/fraunhofer-scai/llamol)**|
+|**2023-11-24**|**LLamol: A Dynamic Multi-Conditional Generative Transformer for De Novo Molecular Design**|Niklas Dobberstein et.al.|[2311.14407v1](http://arxiv.org/abs/2311.14407v1)|null|
 |**2023-11-24**|**Potential Societal Biases of ChatGPT in Higher Education: A Scoping Review**|Ming Li et.al.|[2311.14381v1](http://arxiv.org/abs/2311.14381v1)|null|
 |**2023-11-24**|**Robot Learning in the Era of Foundation Models: A Survey**|Xuan Xiao et.al.|[2311.14379v1](http://arxiv.org/abs/2311.14379v1)|null|
 |**2023-11-24**|**GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**|Yakun Chen et.al.|[2311.14332v1](http://arxiv.org/abs/2311.14332v1)|null|
