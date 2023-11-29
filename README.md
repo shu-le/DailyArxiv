@@ -1,4 +1,4 @@
-## Updated on 2023.11.28
+## Updated on 2023.11.29
 
 ## CV
 
@@ -4095,7 +4095,7 @@
 |**2023-11-26**|**Local Convergence of Approximate Newton Method for Two Layer Nonlinear Regression**|Zhihang Li et.al.|[2311.15390v1](http://arxiv.org/abs/2311.15390v1)|null|
 |**2023-11-26**|**Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**|Zhihao Yuan et.al.|[2311.15383v1](http://arxiv.org/abs/2311.15383v1)|null|
 |**2023-11-26**|**Enhancing Empathetic and Emotion Support Dialogue Generation with Prophetic Commonsense Inference**|Lanrui Wang et.al.|[2311.15316v1](http://arxiv.org/abs/2311.15316v1)|null|
-|**2023-11-26**|**UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**|Xun Liang et.al.|[2311.15296v1](http://arxiv.org/abs/2311.15296v1)|**[link](https://github.com/IAAR-Shanghai/UHGEval)**|
+|**2023-11-26**|**UHGEval: Benchmarking the Hallucination of Chinese Large Language Models via Unconstrained Generation**|Xun Liang et.al.|[2311.15296v1](http://arxiv.org/abs/2311.15296v1)|null|
 |**2023-11-26**|**Synthesizing mixed-integer linear programming models from natural language descriptions**|Qingyang Li et.al.|[2311.15271v1](http://arxiv.org/abs/2311.15271v1)|null|
 |**2023-11-26**|**Algorithm Evolution Using Large Language Model**|Fei Liu et.al.|[2311.15249v1](http://arxiv.org/abs/2311.15249v1)|null|
 |**2023-11-26**|**See and Think: Embodied Agent in Virtual Environment**|Zhonghan Zhao et.al.|[2311.15209v1](http://arxiv.org/abs/2311.15209v1)|null|
@@ -6557,7 +6557,7 @@
 |**2023-11-27**|**SiN integrated photonic components in the Visible to Near-Infrared spectral region**|Matteo Sanna et.al.|[2311.16016v1](http://arxiv.org/abs/2311.16016v1)|null|
 |**2023-11-27**|**Adaptive Agents and Data Quality in Agent-Based Financial Markets**|Colin M. Van Oort et.al.|[2311.15974v1](http://arxiv.org/abs/2311.15974v1)|null|
 |**2023-11-27**|**Towards Responsible Governance of Biological Design Tools**|Richard Moulange et.al.|[2311.15936v1](http://arxiv.org/abs/2311.15936v1)|null|
-|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925v1](http://arxiv.org/abs/2311.15925v1)|null|
+|**2023-11-27**|**Reinforcement Learning for Wildfire Mitigation in Simulated Disaster Environments**|Alexander Tapley et.al.|[2311.15925v1](http://arxiv.org/abs/2311.15925v1)|**[link](https://github.com/mitrefireline/simfire)**|
 |**2023-11-27**|**Characterising and Verifying the Core in Concurrent Multi-Player Mean-Payoff Games (Full Version)**|Julian Gutierrez et.al.|[2311.15883v1](http://arxiv.org/abs/2311.15883v1)|null|
 |**2023-11-27**|**Multi-Agent Reinforcement Learning for Power Control in Wireless Networks via Adaptive Graphs**|Lorenzo Mario Amorosa et.al.|[2311.15858v1](http://arxiv.org/abs/2311.15858v1)|null|
 |**2023-11-24**|**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**|Kartik Kuckreja et.al.|[2311.15826v1](http://arxiv.org/abs/2311.15826v1)|null|
