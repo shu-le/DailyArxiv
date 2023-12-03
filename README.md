@@ -4340,7 +4340,7 @@
 |**2023-11-30**|**Search Still Matters: Information Retrieval in the Era of Generative AI**|William R. Hersh et.al.|[2311.18550v1](http://arxiv.org/abs/2311.18550v1)|null|
 |**2023-11-30**|**ESG Accountability Made Easy: DocQA at Your Service**|Lokesh Mishra et.al.|[2311.18481v1](http://arxiv.org/abs/2311.18481v1)|null|
 |**2023-11-30**|**Lessons from Building CodeBuddy: A Contextualized AI Coding Assistant**|gustavo Pinto et.al.|[2311.18450v1](http://arxiv.org/abs/2311.18450v1)|null|
-|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|null|
+|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|**[link](https://github.com/huangb23/vtimellm)**|
 |**2023-11-30**|**Autonomous Agents in Software Development: A Vision Paper**|Zeeshan Rasheed et.al.|[2311.18440v1](http://arxiv.org/abs/2311.18440v1)|null|
 |**2023-11-30**|**IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions**|Zhebin Zhang et.al.|[2311.18397v1](http://arxiv.org/abs/2311.18397v1)|null|
 |**2023-11-30**|**Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension**|Akira Kawabata et.al.|[2311.18353v1](http://arxiv.org/abs/2311.18353v1)|null|
