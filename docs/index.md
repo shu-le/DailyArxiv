@@ -33,7 +33,7 @@ layout: default
 |**2023-11-30**|**Automated interpretation of congenital heart disease from multi-view echocardiograms**|Jing Wang et.al.|[2311.18788v1](http://arxiv.org/abs/2311.18788v1)|null|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
 |**2023-11-30**|**Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains**|Rohan Myer Krishnan et.al.|[2311.18773v1](http://arxiv.org/abs/2311.18773v1)|null|
-|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v1](http://arxiv.org/abs/2311.18765v1)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v2](http://arxiv.org/abs/2311.18765v2)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-30**|**Continual Diffusion with STAMINA: STack-And-Mask INcremental Adapters**|James Seale Smith et.al.|[2311.18763v1](http://arxiv.org/abs/2311.18763v1)|null|
 |**2023-11-30**|**Semi-supervised Semantic Segmentation via Boosting Uncertainty on Unlabeled Data**|Daoan Zhang et.al.|[2311.18758v1](http://arxiv.org/abs/2311.18758v1)|null|
 |**2023-11-30**|**Learning One-Shot 4D Head Avatar Synthesis using Synthetic Data**|Yu Deng et.al.|[2311.18729v1](http://arxiv.org/abs/2311.18729v1)|null|
@@ -4331,7 +4331,7 @@ layout: default
 |**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805v1](http://arxiv.org/abs/2311.18805v1)|null|
 |**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
-|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v1](http://arxiv.org/abs/2311.18765v1)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-12-01**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765v2](http://arxiv.org/abs/2311.18765v2)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
 |**2023-11-30**|**TaskBench: Benchmarking Large Language Models for Task Automation**|Yongliang Shen et.al.|[2311.18760v1](http://arxiv.org/abs/2311.18760v1)|**[link](https://github.com/microsoft/JARVIS)**|
 |**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|**[link](https://github.com/thudm/alignbench)**|
 |**2023-11-30**|**CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation**|Pei Ke et.al.|[2311.18702v1](http://arxiv.org/abs/2311.18702v1)|**[link](https://github.com/thu-coai/critiquellm)**|
@@ -4374,7 +4374,7 @@ layout: default
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
 |**2023-11-29**|**TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models**|Zheng Chu et.al.|[2311.17667v1](http://arxiv.org/abs/2311.17667v1)|**[link](https://github.com/zchuz/timebench)**|
 |**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
-|**2023-11-30**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v2](http://arxiv.org/abs/2311.17618v2)|**[link](https://github.com/openshapelab/shapegpt)**|
+|**2023-12-01**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v3](http://arxiv.org/abs/2311.17618v3)|**[link](https://github.com/openshapelab/shapegpt)**|
 |**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600v1](http://arxiv.org/abs/2311.17600v1)|null|
 |**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593v1](http://arxiv.org/abs/2311.17593v1)|null|
 |**2023-11-29**|**Enhancing Answer Selection in Community Question Answering with Pre-trained and Large Language Models**|Xinghang Hu et.al.|[2311.17502v1](http://arxiv.org/abs/2311.17502v1)|null|
@@ -6985,7 +6985,7 @@ layout: default
 |**2023-11-30**|**Ultrafast Excitation Exchange in a Maxwell-Fish-Eye Lens**|Oliver Diekmann et.al.|[2311.18750v1](http://arxiv.org/abs/2311.18750v1)|null|
 |**2023-11-30**|**Predictable Reinforcement Learning Dynamics through Entropy Rate Minimization**|Daniel Jarne Ornia et.al.|[2311.18703v1](http://arxiv.org/abs/2311.18703v1)|null|
 |**2023-11-30**|**Handling Cost and Constraints with Off-Policy Deep Reinforcement Learning**|Jared Markowitz et.al.|[2311.18684v1](http://arxiv.org/abs/2311.18684v1)|null|
-|**2023-11-30**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v1](http://arxiv.org/abs/2311.18662v1)|**[link](https://github.com/danifuertes/top_transformer)**|
+|**2023-12-01**|**Solving the Team Orienteering Problem with Transformers**|Daniel Fuertes et.al.|[2311.18662v2](http://arxiv.org/abs/2311.18662v2)|**[link](https://github.com/danifuertes/top_transformer)**|
 |**2023-11-30**|**LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning**|Sijin Chen et.al.|[2311.18651v1](http://arxiv.org/abs/2311.18651v1)|**[link](https://github.com/open3da/ll3da)**|
 |**2023-11-30**|**Robust-to-Noise Algorithms for Distributed Resource Allocation and Scheduling**|Mohammadreza Doostmohammadian et.al.|[2311.18646v1](http://arxiv.org/abs/2311.18646v1)|null|
 |**2023-11-30**|**Generalisable Agents for Neural Network Optimisation**|Kale-ab Tessera et.al.|[2311.18598v1](http://arxiv.org/abs/2311.18598v1)|null|
@@ -7011,7 +7011,7 @@ layout: default
 |**2023-11-29**|**Understanding and Improving In-Context Learning on Vision-language Models**|Shuo Chen et.al.|[2311.18021v1](http://arxiv.org/abs/2311.18021v1)|null|
 |**2023-11-29**|**ChatIllusion: Efficient-Aligning Interleaved Generation ability with Visual Instruction Model**|Xiaowei Chi et.al.|[2311.17963v1](http://arxiv.org/abs/2311.17963v1)|**[link](https://github.com/litwellchi/chatillusion)**|
 |**2023-11-29**|**AvatarStudio: High-fidelity and Animatable 3D Avatar Creation from Text**|Jianfeng Zhang et.al.|[2311.17917v1](http://arxiv.org/abs/2311.17917v1)|null|
-|**2023-11-29**|**Distance-coupling as an Approach to Position and Formation Control**|Michael Napoli et.al.|[2311.17909v1](http://arxiv.org/abs/2311.17909v1)|null|
+|**2023-12-01**|**Distance-coupling as an Approach to Position and Formation Control**|Michael Napoli et.al.|[2311.17909v2](http://arxiv.org/abs/2311.17909v2)|null|
 |**2023-11-30**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898v2](http://arxiv.org/abs/2311.17898v2)|null|
 |**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842v1](http://arxiv.org/abs/2311.17842v1)|null|
 |**2023-11-30**|**DAP: Domain-aware Prompt Learning for Vision-and-Language Navigation**|Ting Liu et.al.|[2311.17812v2](http://arxiv.org/abs/2311.17812v2)|null|
@@ -7021,9 +7021,9 @@ layout: default
 |**2023-11-29**|**Toward a Surgeon-in-the-Loop Ophthalmic Robotic Apprentice using Reinforcement and Imitation Learning**|Amr Gomaa et.al.|[2311.17693v1](http://arxiv.org/abs/2311.17693v1)|null|
 |**2023-11-29**|**mango: A Modular Python-Based Agent Simulation Framework**|Rico Schrage et.al.|[2311.17688v1](http://arxiv.org/abs/2311.17688v1)|null|
 |**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
-|**2023-11-30**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v2](http://arxiv.org/abs/2311.17618v2)|**[link](https://github.com/openshapelab/shapegpt)**|
+|**2023-12-01**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618v3](http://arxiv.org/abs/2311.17618v3)|**[link](https://github.com/openshapelab/shapegpt)**|
 |**2023-11-29**|**Deep Reinforcement Learning Graphs: Feedback Motion Planning via Neural Lyapunov Verification**|Armin Ghanbarzadeh et.al.|[2311.17587v1](http://arxiv.org/abs/2311.17587v1)|null|
-|**2023-11-29**|**TaskWeaver: A Code-First Agent Framework**|Bo Qiao et.al.|[2311.17541v1](http://arxiv.org/abs/2311.17541v1)|**[link](https://github.com/microsoft/taskweaver)**|
+|**2023-12-01**|**TaskWeaver: A Code-First Agent Framework**|Bo Qiao et.al.|[2311.17541v2](http://arxiv.org/abs/2311.17541v2)|**[link](https://github.com/microsoft/taskweaver)**|
 |**2023-11-29**|**MMA-Diffusion: MultiModal Attack on Diffusion Models**|Yijun Yang et.al.|[2311.17516v1](http://arxiv.org/abs/2311.17516v1)|null|
 |**2023-11-29**|**AgentAvatar: Disentangling Planning, Driving and Rendering for Photorealistic Avatar Agents**|Duomin Wang et.al.|[2311.17465v1](http://arxiv.org/abs/2311.17465v1)|null|
 |**2023-11-29**|**MM-Narrator: Narrating Long-form Videos with Multimodal In-Context Learning**|Chaoyi Zhang et.al.|[2311.17435v1](http://arxiv.org/abs/2311.17435v1)|null|
