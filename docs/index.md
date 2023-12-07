@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.06
+## Updated on 2023.12.07
 
 ## CV
 
@@ -2990,7 +2990,7 @@ layout: default
 |**2023-12-05**|**Orthogonal Adaptation for Modular Customization of Diffusion Models**|Ryan Po et.al.|[2312.02432v1](http://arxiv.org/abs/2312.02432v1)|null|
 |**2023-12-05**|**Towards Granularity-adjusted Pixel-level Semantic Annotation**|Rohit Kundu et.al.|[2312.02420v1](http://arxiv.org/abs/2312.02420v1)|null|
 |**2023-12-04**|**Approximation of Intractable Likelihood Functions in Systems Biology via Normalizing Flows**|Vincent D. Zaballa et.al.|[2312.02391v1](http://arxiv.org/abs/2312.02391v1)|null|
-|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284v1](http://arxiv.org/abs/2312.02284v1)|null|
+|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284v1](http://arxiv.org/abs/2312.02284v1)|**[link](https://github.com/zhyever/PatchFusion)**|
 |**2023-12-04**|**EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Motion Generation**|Wenyang Zhou et.al.|[2312.02256v1](http://arxiv.org/abs/2312.02256v1)|null|
 |**2023-12-04**|**Diversify, Don't Fine-Tune: Scaling Up Visual Recognition Training with Synthetic Images**|Zhuoran Yu et.al.|[2312.02253v1](http://arxiv.org/abs/2312.02253v1)|null|
 |**2023-12-04**|**Large Language Models as Consistent Story Visualizers**|Xiaoqian Shen et.al.|[2312.02252v1](http://arxiv.org/abs/2312.02252v1)|null|
