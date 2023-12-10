@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2023.12.09
+## Updated on 2023.12.10
 
 ## CV
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567v1](http://arxiv.org/abs/2312.04567v1)|null|
+|**2023-12-07**|**Scaling Laws of Synthetic Images for Model Training ... for Now**|Lijie Fan et.al.|[2312.04567v1](http://arxiv.org/abs/2312.04567v1)|**[link](https://github.com/google-research/syn-rep-learn)**|
 |**2023-12-07**|**Gen2Det: Generate to Detect**|Saksham Suri et.al.|[2312.04566v1](http://arxiv.org/abs/2312.04566v1)|null|
 |**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564v1](http://arxiv.org/abs/2312.04564v1)|null|
@@ -4769,7 +4769,7 @@ layout: default
 |**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552v1](http://arxiv.org/abs/2312.04552v1)|null|
 |**2023-12-07**|**Trajeglish: Learning the Language of Driving Scenarios**|Jonah Philion et.al.|[2312.04535v1](http://arxiv.org/abs/2312.04535v1)|null|
 |**2023-12-07**|**Using Large Language Models for Hyperparameter Optimization**|Michael R. Zhang et.al.|[2312.04528v1](http://arxiv.org/abs/2312.04528v1)|null|
-|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511v1](http://arxiv.org/abs/2312.04511v1)|null|
+|**2023-12-07**|**An LLM Compiler for Parallel Function Calling**|Sehoon Kim et.al.|[2312.04511v1](http://arxiv.org/abs/2312.04511v1)|**[link](https://github.com/squeezeailab/llmcompiler)**|
 |**2023-12-07**|**A Block Metropolis-Hastings Sampler for Controllable Energy-based Text Generation**|Jarad Forristal et.al.|[2312.04510v1](http://arxiv.org/abs/2312.04510v1)|null|
 |**2023-12-07**|**AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making**|Shusen Liu et.al.|[2312.04494v1](http://arxiv.org/abs/2312.04494v1)|null|
 |**2023-12-07**|**Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use**|Yuhan Chen et.al.|[2312.04455v1](http://arxiv.org/abs/2312.04455v1)|**[link](https://github.com/alibabaresearch/damo-convai)**|
@@ -4780,7 +4780,7 @@ layout: default
 |**2023-12-07**|**Beyond Surface: Probing LLaMA Across Scales and Layers**|Nuo Chen et.al.|[2312.04333v1](http://arxiv.org/abs/2312.04333v1)|**[link](https://github.com/nuochenpku/llama_analysis)**|
 |**2023-12-07**|**MIMo: A Multi-Modal Infant Model for Studying Cognitive Development**|Dominik Mattern et.al.|[2312.04318v1](http://arxiv.org/abs/2312.04318v1)|**[link](https://github.com/trieschlab/mimo)**|
 |**2023-12-07**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316v1](http://arxiv.org/abs/2312.04316v1)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
-|**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|null|
+|**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|**[link](https://github.com/zeroqiaoba/gpt4v-emotion)**|
 |**2023-12-07**|**Text as Image: Learning Transferable Adapter for Multi-Label Classification**|Xuelin Zhu et.al.|[2312.04160v1](http://arxiv.org/abs/2312.04160v1)|null|
 |**2023-12-07**|**Using a Large Language Model to generate a Design Structure Matrix**|Edwin C. Y. Koh et.al.|[2312.04134v1](http://arxiv.org/abs/2312.04134v1)|null|
 |**2023-12-07**|**Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak**|Yanrui Du et.al.|[2312.04127v1](http://arxiv.org/abs/2312.04127v1)|null|
