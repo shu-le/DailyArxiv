@@ -51,7 +51,7 @@ layout: default
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398v1](http://arxiv.org/abs/2312.04398v1)|null|
 |**2023-12-07**|**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**|Yinhuai Wang et.al.|[2312.04393v1](http://arxiv.org/abs/2312.04393v1)|null|
 |**2023-12-07**|**AniRes2D: Anisotropic Residual-enhanced Diffusion for 2D MR Super-Resolution**|Zejun Wu et.al.|[2312.04385v1](http://arxiv.org/abs/2312.04385v1)|null|
-|**2023-12-07**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369v1](http://arxiv.org/abs/2312.04369v1)|null|
+|**2023-12-08**|**SingingHead: A Large-scale 4D Dataset for Singing Head Animation**|Sijing Wu et.al.|[2312.04369v2](http://arxiv.org/abs/2312.04369v2)|null|
 |**2023-12-07**|**DemoCaricature: Democratising Caricature Generation with a Rough Sketch**|Dar-Yen Chen et.al.|[2312.04364v1](http://arxiv.org/abs/2312.04364v1)|null|
 |**2023-12-07**|**Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies**|Pengcheng Chen et.al.|[2312.04344v1](http://arxiv.org/abs/2312.04344v1)|null|
 |**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337v1](http://arxiv.org/abs/2312.04337v1)|null|
@@ -3105,7 +3105,7 @@ layout: default
 |**2023-12-06**|**Exposing Disparities in Flood Adaptation for Equitable Future Interventions**|Lidia Cano Pecharroman et.al.|[2312.03843v1](http://arxiv.org/abs/2312.03843v1)|null|
 |**2023-12-06**|**Diffusion Illusions: Hiding Images in Plain Sight**|Ryan Burgert et.al.|[2312.03817v1](http://arxiv.org/abs/2312.03817v1)|null|
 |**2023-12-06**|**AVID: Any-Length Video Inpainting with Diffusion Model**|Zhixing Zhang et.al.|[2312.03816v1](http://arxiv.org/abs/2312.03816v1)|**[link](https://github.com/zhang-zx/AVID)**|
-|**2023-12-06**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v1](http://arxiv.org/abs/2312.03701v1)|**[link](https://github.com/LTH14/rcg)**|
+|**2023-12-08**|**Self-conditioned Image Generation via Generating Representations**|Tianhong Li et.al.|[2312.03701v2](http://arxiv.org/abs/2312.03701v2)|**[link](https://github.com/LTH14/rcg)**|
 |**2023-12-06**|**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**|Ali Naseh et.al.|[2312.03692v1](http://arxiv.org/abs/2312.03692v1)|null|
 |**2023-12-06**|**On the Role of Edge Dependency in Graph Generative Models**|Sudhanshu Chanpuriya et.al.|[2312.03691v1](http://arxiv.org/abs/2312.03691v1)|null|
 |**2023-12-06**|**Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling**|Yiwen Zheng et.al.|[2312.03690v1](http://arxiv.org/abs/2312.03690v1)|null|
@@ -4631,7 +4631,7 @@ layout: default
 |**2023-12-07**|**An Actuator with Magnetic Restoration, Part II: Model Evaluation and Control Loops**|Sajjad Mohammadi et.al.|[2312.04049v1](http://arxiv.org/abs/2312.04049v1)|null|
 |**2023-12-06**|**Towards small and accurate convolutional neural networks for acoustic biodiversity monitoring**|Serge Zaugg et.al.|[2312.03666v1](http://arxiv.org/abs/2312.03666v1)|null|
 |**2023-12-05**|**Inspecting Model Fairness in Ultrasound Segmentation Tasks**|Zikang Xu et.al.|[2312.02501v1](http://arxiv.org/abs/2312.02501v1)|null|
-|**2023-12-04**|**Towards General Purpose Vision Foundation Models for Medical Image Analysis: An Experimental Study of DINOv2 on Radiology Benchmarks**|Mohammed Baharoon et.al.|[2312.02366v1](http://arxiv.org/abs/2312.02366v1)|**[link](https://github.com/mohammedsb/dinov2formedical)**|
+|**2023-12-07**|**Towards General Purpose Vision Foundation Models for Medical Image Analysis: An Experimental Study of DINOv2 on Radiology Benchmarks**|Mohammed Baharoon et.al.|[2312.02366v2](http://arxiv.org/abs/2312.02366v2)|**[link](https://github.com/mohammedsb/dinov2formedical)**|
 |**2023-12-04**|**Reconsideration on evaluation of machine learning models in continuous monitoring using wearables**|Cheng Ding et.al.|[2312.02300v1](http://arxiv.org/abs/2312.02300v1)|null|
 |**2023-12-02**|**Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond**|Zilong Liu et.al.|[2312.01151v1](http://arxiv.org/abs/2312.01151v1)|null|
 |**2023-11-29**|**Smooth Video Synthesis with Noise Constraints on Diffusion Models for One-shot Video Tuning**|Liang Peng et.al.|[2311.17536v1](http://arxiv.org/abs/2311.17536v1)|**[link](https://github.com/spengliang/smoothvideo)**|
@@ -4777,7 +4777,7 @@ layout: default
 |**2023-12-07**|**LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs**|Yunsheng Ma et.al.|[2312.04372v1](http://arxiv.org/abs/2312.04372v1)|null|
 |**2023-12-07**|**CLadder: A Benchmark to Assess Causal Reasoning Capabilities of Language Models**|Zhijing Jin et.al.|[2312.04350v1](http://arxiv.org/abs/2312.04350v1)|**[link](https://github.com/causalnlp/cladder)**|
 |**2023-12-07**|**Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies**|Pengcheng Chen et.al.|[2312.04344v1](http://arxiv.org/abs/2312.04344v1)|null|
-|**2023-12-07**|**Beyond Surface: Probing LLaMA Across Scales and Layers**|Nuo Chen et.al.|[2312.04333v1](http://arxiv.org/abs/2312.04333v1)|**[link](https://github.com/nuochenpku/llama_analysis)**|
+|**2023-12-08**|**Beyond Surface: Probing LLaMA Across Scales and Layers**|Nuo Chen et.al.|[2312.04333v2](http://arxiv.org/abs/2312.04333v2)|**[link](https://github.com/nuochenpku/llama_analysis)**|
 |**2023-12-07**|**MIMo: A Multi-Modal Infant Model for Studying Cognitive Development**|Dominik Mattern et.al.|[2312.04318v1](http://arxiv.org/abs/2312.04318v1)|**[link](https://github.com/trieschlab/mimo)**|
 |**2023-12-07**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316v1](http://arxiv.org/abs/2312.04316v1)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
 |**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|**[link](https://github.com/zeroqiaoba/gpt4v-emotion)**|
@@ -4811,7 +4811,7 @@ layout: default
 |**2023-12-06**|**GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models**|Haicheng Liao et.al.|[2312.03543v1](http://arxiv.org/abs/2312.03543v1)|**[link](https://github.com/petrichor625/talk2car_cavg)**|
 |**2023-12-06**|**Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation**|Haojie Zhang et.al.|[2312.03502v1](http://arxiv.org/abs/2312.03502v1)|**[link](https://github.com/zhang-haojie/wesam)**|
 |**2023-12-06**|**Boosting legal case retrieval by query content selection with large language models**|Youchao Zhou et.al.|[2312.03494v1](http://arxiv.org/abs/2312.03494v1)|**[link](https://github.com/zuochao912/legalsearchsum)**|
-|**2023-12-06**|**PneumoLLM: Harnessing the Power of Large Language Model for Pneumoconiosis Diagnosis**|Meiyue Song et.al.|[2312.03490v1](http://arxiv.org/abs/2312.03490v1)|**[link](https://github.com/codemonsterphd/pneumollm)**|
+|**2023-12-08**|**PneumoLLM: Harnessing the Power of Large Language Model for Pneumoconiosis Diagnosis**|Meiyue Song et.al.|[2312.03490v2](http://arxiv.org/abs/2312.03490v2)|**[link](https://github.com/codemonsterphd/pneumollm)**|
 |**2023-12-06**|**JAMMIN-GPT: Text-based Improvisation using LLMs in Ableton Live**|Sven Hollowell et.al.|[2312.03479v1](http://arxiv.org/abs/2312.03479v1)|**[link](https://github.com/supersational/jammin-gpt)**|
 |**2023-12-06**|**DBCopilot: Scaling Natural Language Querying to Massive Databases**|Tianshu Wang et.al.|[2312.03463v1](http://arxiv.org/abs/2312.03463v1)|**[link](https://github.com/tshu-w/dbcopilot)**|
 |**2023-12-06**|**Think from Words(TFW): Initiating Human-Like Cognition in Large Language Models Through Think from Words for Japanese Text-level Classification**|Chengguang Gan et.al.|[2312.03458v1](http://arxiv.org/abs/2312.03458v1)|null|
@@ -7156,14 +7156,14 @@ layout: default
 |**2023-12-07**|**Improving Medical Report Generation with Adapter Tuning and Knowledge Enhancement in Vision-Language Foundation Models**|Shibin Wu et.al.|[2312.03970v1](http://arxiv.org/abs/2312.03970v1)|null|
 |**2023-12-06**|**The Potential of Vision-Language Models for Content Moderation of Children's Videos**|Syed Hammad Ahmed et.al.|[2312.03936v1](http://arxiv.org/abs/2312.03936v1)|null|
 |**2023-12-06**|**SYNC-CLIP: Synthetic Data Make CLIP Generalize Better in Data-Limited Scenarios**|Mushui Liu et.al.|[2312.03805v1](http://arxiv.org/abs/2312.03805v1)|null|
-|**2023-12-06**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanimng Cui et.al.|[2312.03777v1](http://arxiv.org/abs/2312.03777v1)|null|
+|**2023-12-08**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanming Cui et.al.|[2312.03777v2](http://arxiv.org/abs/2312.03777v2)|null|
 |**2023-12-05**|**Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment**|Brian Gordon et.al.|[2312.03766v1](http://arxiv.org/abs/2312.03766v1)|null|
 |**2023-12-06**|**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**|Ming Nie et.al.|[2312.03661v1](http://arxiv.org/abs/2312.03661v1)|**[link](https://github.com/fudan-zvg/reason2drive)**|
 |**2023-12-06**|**Language-Informed Visual Concept Learning**|Sharon Lee et.al.|[2312.03587v1](http://arxiv.org/abs/2312.03587v1)|null|
-|**2023-12-06**|**PneumoLLM: Harnessing the Power of Large Language Model for Pneumoconiosis Diagnosis**|Meiyue Song et.al.|[2312.03490v1](http://arxiv.org/abs/2312.03490v1)|**[link](https://github.com/codemonsterphd/pneumollm)**|
+|**2023-12-08**|**PneumoLLM: Harnessing the Power of Large Language Model for Pneumoconiosis Diagnosis**|Meiyue Song et.al.|[2312.03490v2](http://arxiv.org/abs/2312.03490v2)|**[link](https://github.com/codemonsterphd/pneumollm)**|
 |**2023-12-06**|**VLFM: Vision-Language Frontier Maps for Zero-Shot Semantic Navigation**|Naoki Yokoyama et.al.|[2312.03275v1](http://arxiv.org/abs/2312.03275v1)|null|
 |**2023-12-05**|**Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models**|Yushi Hu et.al.|[2312.03052v1](http://arxiv.org/abs/2312.03052v1)|null|
-|**2023-12-05**|**Diversified in-domain synthesis with efficient fine-tuning for few-shot classification**|Victor G. Turrisi da Costa et.al.|[2312.03046v1](http://arxiv.org/abs/2312.03046v1)|**[link](https://github.com/vturrisi/disef)**|
+|**2023-12-07**|**Diversified in-domain synthesis with efficient fine-tuning for few-shot classification**|Victor G. Turrisi da Costa et.al.|[2312.03046v2](http://arxiv.org/abs/2312.03046v2)|**[link](https://github.com/vturrisi/disef)**|
 |**2023-12-05**|**Uni3DL: Unified Model for 3D and Language Understanding**|Xiang Li et.al.|[2312.03026v1](http://arxiv.org/abs/2312.03026v1)|null|
 |**2023-12-05**|**GPT4Point: A Unified Framework for Point-Language Understanding and Generation**|Zhangyang Qi et.al.|[2312.02980v1](http://arxiv.org/abs/2312.02980v1)|null|
 |**2023-12-05**|**LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models**|Hao Zhang et.al.|[2312.02949v1](http://arxiv.org/abs/2312.02949v1)|**[link](https://github.com/ux-decoder/llava-grounding)**|
@@ -7663,7 +7663,7 @@ layout: default
 |**2023-12-07**|**A Scalable Network-Aware Multi-Agent Reinforcement Learning Framework for Decentralized Inverter-based Voltage Control**|Han Xu et.al.|[2312.04371v1](http://arxiv.org/abs/2312.04371v1)|null|
 |**2023-12-07**|**Balance Correlations, Agentic Zeros, and Networks: The Structure of 192 Years of War and Peace**|David Dekker et.al.|[2312.04358v1](http://arxiv.org/abs/2312.04358v1)|null|
 |**2023-12-07**|**Towards Knowledge-driven Autonomous Driving**|Xin Li et.al.|[2312.04316v1](http://arxiv.org/abs/2312.04316v1)|**[link](https://github.com/pjlab-adg/awesome-knowledge-driven-ad)**|
-|**2023-12-07**|**Multi Actor-Critic DDPG for Robot Action Space Decomposition: A Framework to Control Large 3D Deformation of Soft Linear Objects**|Mélodie Daniel et.al.|[2312.04308v1](http://arxiv.org/abs/2312.04308v1)|**[link](https://github.com/melodiedaniel/multiac6)**|
+|**2023-12-08**|**Multi Actor-Critic DDPG for Robot Action Space Decomposition: A Framework to Control Large 3D Deformation of Soft Linear Objects**|Mélodie Daniel et.al.|[2312.04308v2](http://arxiv.org/abs/2312.04308v2)|**[link](https://github.com/melodiedaniel/multiac6)**|
 |**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|**[link](https://github.com/zeroqiaoba/gpt4v-emotion)**|
 |**2023-12-07**|**MSEVA : A System for Multimodal Short Videos Emotion Visual Analysis**|Qinglan Wei et.al.|[2312.04279v1](http://arxiv.org/abs/2312.04279v1)|null|
 |**2023-12-07**|**Mastering Complex Coordination through Attention-based Dynamic Graph**|Guangchong Zhou et.al.|[2312.04245v1](http://arxiv.org/abs/2312.04245v1)|null|
@@ -7681,7 +7681,7 @@ layout: default
 |**2023-12-07**|**Modeling Boundedly Rational Agents with Latent Inference Budgets**|Athul Paul Jacob et.al.|[2312.04030v1](http://arxiv.org/abs/2312.04030v1)|null|
 |**2023-12-07**|**MICRO: Model-Based Offline Reinforcement Learning with a Conservative Bellman Operator**|Xiao-Yin Liu et.al.|[2312.03991v1](http://arxiv.org/abs/2312.03991v1)|null|
 |**2023-12-07**|**On Distributed Nonconvex Optimisation Via Modified ADMM**|Behnam Mafakheri et.al.|[2312.03958v1](http://arxiv.org/abs/2312.03958v1)|null|
-|**2023-12-06**|**Stochastic motion under nonlinear friction representing shear thinning**|Theo Lequy et.al.|[2312.03931v1](http://arxiv.org/abs/2312.03931v1)|null|
+|**2023-12-08**|**Stochastic motion under nonlinear friction representing shear thinning**|Theo Lequy et.al.|[2312.03931v2](http://arxiv.org/abs/2312.03931v2)|null|
 |**2023-12-06**|**FoMo Rewards: Can we cast foundation models as reward functions?**|Ekdeep Singh Lubana et.al.|[2312.03881v1](http://arxiv.org/abs/2312.03881v1)|null|
 |**2023-12-06**|**Alpha-CLIP: A CLIP Model Focusing on Wherever You Want**|Zeyi Sun et.al.|[2312.03818v1](http://arxiv.org/abs/2312.03818v1)|**[link](https://github.com/sunzey/alphaclip)**|
 |**2023-12-06**|**LLM as OS (llmao), Agents as Apps: Envisioning AIOS, Agents and the AIOS-Agent Ecosystem**|Yingqiang Ge et.al.|[2312.03815v1](http://arxiv.org/abs/2312.03815v1)|null|
@@ -11233,7 +11233,7 @@ layout: default
 |**2023-12-07**|**Note on gradient estimate of heat kernel for Schrödinger operators**|Shijun Zheng et.al.|[2312.04020v1](http://arxiv.org/abs/2312.04020v1)|null|
 |**2023-12-07**|**Restoring cosmological concordance with axion-like early dark energy and dark matter characterized by a constant equation of state?**|Yan-Hong Yao et.al.|[2312.04007v1](http://arxiv.org/abs/2312.04007v1)|null|
 |**2023-12-07**|**Turbulent waves in self-aerated free-surface flows: Superposition of entrapped and entrained air**|Matthias Kramer et.al.|[2312.03961v1](http://arxiv.org/abs/2312.03961v1)|null|
-|**2023-12-06**|**Stochastic motion under nonlinear friction representing shear thinning**|Theo Lequy et.al.|[2312.03931v1](http://arxiv.org/abs/2312.03931v1)|null|
+|**2023-12-08**|**Stochastic motion under nonlinear friction representing shear thinning**|Theo Lequy et.al.|[2312.03931v2](http://arxiv.org/abs/2312.03931v2)|null|
 |**2023-12-06**|**HLoOP -- Hyperbolic 2-space Local Outlier Probabilities**|Clémence Allietta et.al.|[2312.03895v1](http://arxiv.org/abs/2312.03895v1)|null|
 |**2023-12-06**|**Transition from inhomogeneous to homogeneous broadening at a lasing prethreshold**|I. S. Pashkevich et.al.|[2312.03890v1](http://arxiv.org/abs/2312.03890v1)|null|
 |**2023-12-06**|**Robustness of the derivative expansion in Asymptotic Safety**|Alessio Baldazzi et.al.|[2312.03831v1](http://arxiv.org/abs/2312.03831v1)|null|
