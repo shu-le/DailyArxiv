@@ -4711,7 +4711,7 @@
 |**2023-11-29**|**Elo Uncovered: Robustness and Best Practices in Language Model Evaluation**|Meriem Boubdir et.al.|[2311.17295v1](http://arxiv.org/abs/2311.17295v1)|null|
 |**2023-11-24**|**Deep convolutional encoder-decoder hierarchical neural networks for conjugate heat transfer surrogate modeling**|Takiah Ebbs-Picken et.al.|[2311.17068v1](http://arxiv.org/abs/2311.17068v1)|null|
 |**2023-11-28**|**Dendrogram distance: an evaluation metric for generative networks using hierarchical clustering**|Gustavo Sutter Carvalho et.al.|[2311.16894v1](http://arxiv.org/abs/2311.16894v1)|null|
-|**2023-11-28**|**MedGen: A Python Natural Language Processing Toolkit for Medical Text Processing**|Rui Yang et.al.|[2311.16588v1](http://arxiv.org/abs/2311.16588v1)|**[link](https://github.com/yale-lily/medgen)**|
+|**2023-12-09**|**Ascle: A Python Natural Language Processing Toolkit for Medical Text Generation**|Rui Yang et.al.|[2311.16588v2](http://arxiv.org/abs/2311.16588v2)|**[link](https://github.com/yale-lily/medgen)**|
 |**2023-11-23**|**Security and Privacy Challenges in Deep Learning Models**|Gopichandh Golla et.al.|[2311.13744v1](http://arxiv.org/abs/2311.13744v1)|null|
 |**2023-11-22**|**Importance of Feature Extraction in the Calculation of Fréchet Distance for Medical Imaging**|McKell Woodland et.al.|[2311.13717v1](http://arxiv.org/abs/2311.13717v1)|**[link](https://github.com/mckellwoodland/fid-med-eval)**|
 |**2023-11-22**|**Deep Learning for Vascular Segmentation and Applications in Phase Contrast Tomography Imaging**|Ekin Yagis et.al.|[2311.13319v1](http://arxiv.org/abs/2311.13319v1)|null|
@@ -7284,7 +7284,7 @@
 |**2023-12-04**|**Mitigating Fine-Grained Hallucination by Fine-Tuning Large Vision-Language Models with Caption Rewrites**|Lei Wang et.al.|[2312.01701v1](http://arxiv.org/abs/2312.01701v1)|**[link](https://github.com/anonymousanoy/fohe)**|
 |**2023-12-05**|**Hulk: A Universal Knowledge Translator for Human-Centric Tasks**|Yizhou Wang et.al.|[2312.01697v2](http://arxiv.org/abs/2312.01697v2)|**[link](https://github.com/opengvlab/humanbench)**|
 |**2023-12-05**|**The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model**|Yilin Ye et.al.|[2312.01656v2](http://arxiv.org/abs/2312.01656v2)|null|
-|**2023-12-04**|**Good Questions Help Zero-Shot Image Reasoning**|Kaiwen Yang et.al.|[2312.01598v1](http://arxiv.org/abs/2312.01598v1)|**[link](https://github.com/kai-wen-yang/qvix)**|
+|**2023-12-09**|**Good Questions Help Zero-Shot Image Reasoning**|Kaiwen Yang et.al.|[2312.01598v2](http://arxiv.org/abs/2312.01598v2)|**[link](https://github.com/kai-wen-yang/qvix)**|
 |**2023-12-04**|**SCLIP: Rethinking Self-Attention for Dense Vision-Language Inference**|Feng Wang et.al.|[2312.01597v1](http://arxiv.org/abs/2312.01597v1)|null|
 |**2023-12-04**|**Learning Efficient Unsupervised Satellite Image-based Building Damage Detection**|Yiyun Zhang et.al.|[2312.01576v1](http://arxiv.org/abs/2312.01576v1)|**[link](https://github.com/fzmi/ubdd)**|
 |**2023-12-04**|**How to Configure Good In-Context Sequence for Visual Question Answering**|Li Li et.al.|[2312.01571v1](http://arxiv.org/abs/2312.01571v1)|**[link](https://github.com/garyjiajia/ofv2_icl_vqa)**|
@@ -11382,7 +11382,7 @@
 |**2023-12-06**|**HLoOP -- Hyperbolic 2-space Local Outlier Probabilities**|Clémence Allietta et.al.|[2312.03895v1](http://arxiv.org/abs/2312.03895v1)|null|
 |**2023-12-06**|**Transition from inhomogeneous to homogeneous broadening at a lasing prethreshold**|I. S. Pashkevich et.al.|[2312.03890v1](http://arxiv.org/abs/2312.03890v1)|null|
 |**2023-12-06**|**Robustness of the derivative expansion in Asymptotic Safety**|Alessio Baldazzi et.al.|[2312.03831v1](http://arxiv.org/abs/2312.03831v1)|null|
-|**2023-12-05**|**Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing**|Yushi Lan et.al.|[2312.03763v1](http://arxiv.org/abs/2312.03763v1)|null|
+|**2023-12-08**|**Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing**|Yushi Lan et.al.|[2312.03763v2](http://arxiv.org/abs/2312.03763v2)|null|
 |**2023-12-05**|**Learning High-Dimensional Differential Graphs From Multi-Attribute Data**|Jitendra K Tugnait et.al.|[2312.03761v1](http://arxiv.org/abs/2312.03761v1)|null|
 |**2023-12-06**|**Relightable Gaussian Codec Avatars**|Shunsuke Saito et.al.|[2312.03704v1](http://arxiv.org/abs/2312.03704v1)|null|
 |**2023-12-06**|**Inverse Design of Vitrimeric Polymers by Molecular Dynamics and Generative Modeling**|Yiwen Zheng et.al.|[2312.03690v1](http://arxiv.org/abs/2312.03690v1)|null|
