@@ -80,7 +80,7 @@
 |**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195v1](http://arxiv.org/abs/2312.08195v1)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
 |**2023-12-13**|**SVInvNet: A Densely Connected Encoder-Decoder Architecture for Seismic Velocity Inversion**|Mojtaba Najafi Khatounabad et.al.|[2312.08194v1](http://arxiv.org/abs/2312.08194v1)|null|
 |**2023-12-13**|**Universal Adversarial Framework to Improve Adversarial Robustness for Diabetic Retinopathy Detection**|Samrat Mukherjee et.al.|[2312.08193v1](http://arxiv.org/abs/2312.08193v1)|null|
-|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang et.al.|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|null|
+|**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang et.al.|[2312.08192v1](http://arxiv.org/abs/2312.08192v1)|**[link](https://github.com/casiatao/pad)**|
 |**2023-12-13**|**Advanced Image Segmentation Techniques for Neural Activity Detection via C-fos Immediate Early Gene Expression**|Peilin Cai et.al.|[2312.08177v1](http://arxiv.org/abs/2312.08177v1)|**[link](https://github.com/dystopians/cfoscraft)**|
 |**2023-12-13**|**ASC: Adaptive Scale Feature Map Compression for Deep Neural Network**|Yuan Yao et.al.|[2312.08176v1](http://arxiv.org/abs/2312.08176v1)|null|
 |**2023-12-13**|**Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers**|Haifeng Huang et.al.|[2312.08168v1](http://arxiv.org/abs/2312.08168v1)|**[link](https://github.com/chat-3d/chat-3d-v2)**|
@@ -5255,7 +5255,7 @@
 |**2023-12-12**|**Scaling Culture in Blockchain Gaming: Generative AI and Pseudonymous Engagement**|Henrik Axelsen et.al.|[2312.07693v1](http://arxiv.org/abs/2312.07693v1)|null|
 |**2023-12-14**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v2](http://arxiv.org/abs/2312.07533v2)|null|
 |**2023-12-12**|**BaRDa: A Belief and Reasoning Dataset that Separates Factual Accuracy and Reasoning Ability**|Peter Clark et.al.|[2312.07527v1](http://arxiv.org/abs/2312.07527v1)|null|
-|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488v1](http://arxiv.org/abs/2312.07488v1)|**[link](https://github.com/opendilab/lmdrive)**|
 |**2023-12-12**|**Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection**|Caoyun Fan et.al.|[2312.07476v1](http://arxiv.org/abs/2312.07476v1)|null|
 |**2023-12-13**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472v2](http://arxiv.org/abs/2312.07472v2)|null|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
@@ -5263,7 +5263,7 @@
 |**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401v1](http://arxiv.org/abs/2312.07401v1)|null|
 |**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399v1](http://arxiv.org/abs/2312.07399v1)|null|
 |**2023-12-12**|**LLMEval: A Preliminary Study on How to Evaluate Large Language Models**|Yue Zhang et.al.|[2312.07398v1](http://arxiv.org/abs/2312.07398v1)|null|
-|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368v1](http://arxiv.org/abs/2312.07368v1)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368v1](http://arxiv.org/abs/2312.07368v1)|**[link](https://github.com/swarna-kpaul/neoplanner)**|
 |**2023-12-12**|**Can ChatGPT Play the Role of a Teaching Assistant in an Introductory Programming Course?**|Anishka et.al.|[2312.07343v1](http://arxiv.org/abs/2312.07343v1)|null|
 |**2023-12-12**|**SCCA: Shifted Cross Chunk Attention for long contextual semantic expansion**|Yuxiang Guo et.al.|[2312.07305v1](http://arxiv.org/abs/2312.07305v1)|null|
 |**2023-12-12**|**Neural Machine Translation of Clinical Text: An Empirical Investigation into Multilingual Pre-Trained Language Models and Transfer-Learning**|Lifeng Han et.al.|[2312.07250v1](http://arxiv.org/abs/2312.07250v1)|null|
@@ -8379,7 +8379,7 @@
 |**2023-12-12**|**Codesign of Humanoid Robots for Ergonomy Collaboration with Multiple Humans via Genetic Algorithms and Nonlinear Optimization**|Carlotta Sartore et.al.|[2312.07459v1](http://arxiv.org/abs/2312.07459v1)|null|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning**|Xiangyu Yin et.al.|[2312.07392v1](http://arxiv.org/abs/2312.07392v1)|null|
-|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368v1](http://arxiv.org/abs/2312.07368v1)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368v1](http://arxiv.org/abs/2312.07368v1)|**[link](https://github.com/swarna-kpaul/neoplanner)**|
 |**2023-12-12**|**Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing**|Farhad Rezazadeh et.al.|[2312.07362v1](http://arxiv.org/abs/2312.07362v1)|null|
 |**2023-12-12**|**Reachability of Fair Allocations via Sequential Exchanges**|Ayumi Igarashi et.al.|[2312.07241v1](http://arxiv.org/abs/2312.07241v1)|null|
 |**2023-12-12**|**Exploring Large Language Models to Facilitate Variable Autonomy for Human-Robot Teaming**|Younes Lakhnati et.al.|[2312.07214v1](http://arxiv.org/abs/2312.07214v1)|null|
@@ -12122,7 +12122,7 @@
 |**2023-12-12**|**Noise Distribution Decomposition based Multi-Agent Distributional Reinforcement Learning**|Wei Geng et.al.|[2312.07025v1](http://arxiv.org/abs/2312.07025v1)|null|
 |**2023-12-12**|**Inferring interaction networks from transcriptomic data: methods and applications**|Vikram Singh et.al.|[2312.07012v1](http://arxiv.org/abs/2312.07012v1)|null|
 |**2023-12-12**|**Dynamically configured physics-informed neural network in topology optimization applications**|Jichao Yin et.al.|[2312.06993v1](http://arxiv.org/abs/2312.06993v1)|null|
-|**2023-12-12**|**SPFNO: Spectral operator learning for PDEs with Dirichlet and Neumann boundary conditions**|Ziyuan Liu et.al.|[2312.06980v1](http://arxiv.org/abs/2312.06980v1)|null|
+|**2023-12-12**|**SPFNO: Spectral operator learning for PDEs with Dirichlet and Neumann boundary conditions**|Ziyuan Liu et.al.|[2312.06980v1](http://arxiv.org/abs/2312.06980v1)|**[link](https://github.com/liu-ziyuan-math/spfno)**|
 |**2023-12-14**|**Can a Transformer Represent a Kalman Filter?**|Gautam Goel et.al.|[2312.06937v2](http://arxiv.org/abs/2312.06937v2)|null|
 |**2023-12-11**|**Can Primordial Black Holes form in the Standard Model ?**|Ioanna Stamou et.al.|[2312.06873v1](http://arxiv.org/abs/2312.06873v1)|null|
 |**2023-12-11**|**Improving the Robustness of 3D Human Pose Estimation: A Benchmark and Learning from Noisy Input**|Trung-Hieu Hoang et.al.|[2312.06797v1](http://arxiv.org/abs/2312.06797v1)|null|
