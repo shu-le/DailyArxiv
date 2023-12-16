@@ -5230,7 +5230,7 @@
 |**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303v1](http://arxiv.org/abs/2312.08303v1)|null|
 |**2023-12-13**|**Conceptualizing Suicidal Behavior: Utilizing Explanations of Predicted Outcomes to Analyze Longitudinal Social Media Data**|Van Minh Nguyen et.al.|[2312.08299v1](http://arxiv.org/abs/2312.08299v1)|**[link](https://github.com/fit-suicide-prevention-research/token-attribution-analysis)**|
 |**2023-12-14**|**High-throughput Biomedical Relation Extraction for Semi-Structured Web Articles Empowered by Large Language Models**|Songchi Zhou et.al.|[2312.08274v2](http://arxiv.org/abs/2312.08274v2)|null|
-|**2023-12-13**|**GuardRails: Automated Suggestions for Clarifying Ambiguous Purpose Statements**|Mrigank Pawagi et.al.|[2312.08189v1](http://arxiv.org/abs/2312.08189v1)|null|
+|**2023-12-13**|**GuardRails: Automated Suggestions for Clarifying Ambiguous Purpose Statements**|Mrigank Pawagi et.al.|[2312.08189v1](http://arxiv.org/abs/2312.08189v1)|**[link](https://github.com/mrigankpawagi/guardrails)**|
 |**2023-12-13**|**Chat-3D v2: Bridging 3D Scene and Large Language Models with Object Identifiers**|Haifeng Huang et.al.|[2312.08168v1](http://arxiv.org/abs/2312.08168v1)|**[link](https://github.com/chat-3d/chat-3d-v2)**|
 |**2023-12-14**|**Fine-Grained Image-Text Alignment in Medical Imaging Enables Cyclic Image-Report Generation**|Wenting Chen et.al.|[2312.08078v2](http://arxiv.org/abs/2312.08078v2)|null|
 |**2023-12-13**|**Knowledge-Aware Artifact Image Synthesis with LLM-Enhanced Prompting and Multi-Source Supervision**|Shengguang Wu et.al.|[2312.08056v1](http://arxiv.org/abs/2312.08056v1)|null|
@@ -5245,7 +5245,7 @@
 |**2023-12-13**|**Causality Analysis for Evaluating the Security of Large Language Models**|Wei Zhao et.al.|[2312.07876v1](http://arxiv.org/abs/2312.07876v1)|**[link](https://github.com/casperllm/casper)**|
 |**2023-12-13**|**Large Language Model Enhanced Multi-Agent Systems for 6G Communications**|Feibo Jiang et.al.|[2312.07850v1](http://arxiv.org/abs/2312.07850v1)|null|
 |**2023-12-13**|**Finetuning an LLM on Contextual Knowledge of Classics for Q&A**|Shane Storm Strachan et.al.|[2312.07848v1](http://arxiv.org/abs/2312.07848v1)|null|
-|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
 |**2023-12-13**|**Native Language Identification with Large Language Models**|Wei Zhang et.al.|[2312.07819v1](http://arxiv.org/abs/2312.07819v1)|null|
 |**2023-12-13**|**A Foundational Multimodal Vision Language AI Assistant for Human Pathology**|Ming Y. Lu et.al.|[2312.07814v1](http://arxiv.org/abs/2312.07814v1)|null|
 |**2023-12-12**|**Tell, don't show: Declarative facts influence how LLMs generalize**|Alexander Meinke et.al.|[2312.07779v1](http://arxiv.org/abs/2312.07779v1)|null|
@@ -7761,7 +7761,7 @@
 |**2023-12-13**|**See, Say, and Segment: Teaching LMMs to Overcome False Premises**|Tsung-Han Wu et.al.|[2312.08366v1](http://arxiv.org/abs/2312.08366v1)|null|
 |**2023-12-13**|**Unveiling Parts Beyond Objects:Towards Finer-Granularity Referring Expression Segmentation**|Wenxuan Wang et.al.|[2312.08007v1](http://arxiv.org/abs/2312.08007v1)|**[link](https://github.com/rubics-xuan/mres)**|
 |**2023-12-13**|**Semantic-aware Data Augmentation for Text-to-image Synthesis**|Zhaorui Tan et.al.|[2312.07951v1](http://arxiv.org/abs/2312.07951v1)|null|
-|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
 |**2023-12-13**|**A Foundational Multimodal Vision Language AI Assistant for Human Pathology**|Ming Y. Lu et.al.|[2312.07814v1](http://arxiv.org/abs/2312.07814v1)|null|
 |**2023-12-12**|**Daily Assistive View Control Learning of Low-Cost Low-Rigidity Robot via Large-Scale Vision-Language Model**|Kento Kawaharazuka et.al.|[2312.07451v1](http://arxiv.org/abs/2312.07451v1)|null|
 |**2023-12-12**|**Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Models**|Chen Ju et.al.|[2312.07408v1](http://arxiv.org/abs/2312.07408v1)|null|
@@ -12098,7 +12098,7 @@
 |**2023-12-12**|**GP+: A Python Library for Kernel-based learning via Gaussian Processes**|Amin Yousefpour et.al.|[2312.07694v1](http://arxiv.org/abs/2312.07694v1)|null|
 |**2023-12-12**|**Adaptive Phase Estimation with Squeezed Vacuum Approaching the Quantum Limit**|M. A. Rodríguez-García et.al.|[2312.07686v1](http://arxiv.org/abs/2312.07686v1)|null|
 |**2023-12-12**|**GMTalker: Gaussian Mixture based Emotional talking video Portraits**|Yibo Xia et.al.|[2312.07669v1](http://arxiv.org/abs/2312.07669v1)|null|
-|**2023-12-12**|**The hardness of quantum spin dynamics**|Chae-Yeun Park et.al.|[2312.07658v1](http://arxiv.org/abs/2312.07658v1)|null|
+|**2023-12-12**|**The hardness of quantum spin dynamics**|Chae-Yeun Park et.al.|[2312.07658v1](http://arxiv.org/abs/2312.07658v1)|**[link](https://github.com/xanaduai/hardness-spin-dynamics)**|
 |**2023-12-12**|**Dynamics and fluctuations of minimally-structured glass formers**|Patrick Charbonneau et.al.|[2312.07643v1](http://arxiv.org/abs/2312.07643v1)|null|
 |**2023-12-12**|**Aliasing from Galactic Plane Setting in Widefield Radio Interferometry**|N. Barry et.al.|[2312.07506v1](http://arxiv.org/abs/2312.07506v1)|null|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
