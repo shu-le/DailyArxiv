@@ -3330,7 +3330,7 @@
 |**2023-12-13**|**SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models**|Weilong Chai et.al.|[2312.08887v1](http://arxiv.org/abs/2312.08887v1)|null|
 |**2023-12-13**|**SceneWiz3D: Towards Text-guided 3D Scene Composition**|Qihang Zhang et.al.|[2312.08885v1](http://arxiv.org/abs/2312.08885v1)|null|
 |**2023-12-14**|**Diffusion-C: Unveiling the Generative Challenges of Diffusion Models through Corrupted Data**|Keywoong Bae et.al.|[2312.08843v1](http://arxiv.org/abs/2312.08843v1)|null|
-|**2023-12-14**|**Speeding up Photoacoustic Imaging using Diffusion Models**|Irem Loc et.al.|[2312.08834v1](http://arxiv.org/abs/2312.08834v1)|null|
+|**2023-12-14**|**Speeding up Photoacoustic Imaging using Diffusion Models**|Irem Loc et.al.|[2312.08834v1](http://arxiv.org/abs/2312.08834v1)|**[link](https://github.com/iremzog/diffpam)**|
 |**2023-12-14**|**Guided Diffusion from Self-Supervised Diffusion Features**|Vincent Tao Hu et.al.|[2312.08825v1](http://arxiv.org/abs/2312.08825v1)|null|
 |**2023-12-14**|**Reconstruction of Sound Field through Diffusion Models**|Federico Miotello et.al.|[2312.08821v1](http://arxiv.org/abs/2312.08821v1)|null|
 |**2023-12-14**|**Local Conditional Controlling for Text-to-Image Diffusion Models**|Yibo Zhao et.al.|[2312.08768v1](http://arxiv.org/abs/2312.08768v1)|**[link](https://github.com/yiboozhao/local-control)**|
