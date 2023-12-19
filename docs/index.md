@@ -43,7 +43,7 @@ layout: default
 |**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743v1](http://arxiv.org/abs/2312.09743v1)|null|
 |**2023-12-15**|**LiteVSR: Efficient Visual Speech Recognition by Learning from Speech Representations of Unlabeled Data**|Hendrik Laux et.al.|[2312.09727v1](http://arxiv.org/abs/2312.09727v1)|null|
 |**2023-12-15**|**Tracking Skiers from the Top to the Bottom**|Matteo Dunnhofer et.al.|[2312.09723v1](http://arxiv.org/abs/2312.09723v1)|null|
-|**2023-12-15**|**On the calibration of neural networks for histological slide-level classification**|Alexander Kurz et.al.|[2312.09719v1](http://arxiv.org/abs/2312.09719v1)|null|
+|**2023-12-15**|**On the calibration of neural networks for histological slide-level classification**|Alexander Kurz et.al.|[2312.09719v1](http://arxiv.org/abs/2312.09719v1)|**[link](https://github.com/dbo-dkfz/wsi-calib)**|
 |**2023-12-15**|**Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**|Zhe Ma et.al.|[2312.09716v1](http://arxiv.org/abs/2312.09716v1)|**[link](https://github.com/maryeon/whiten_mtd)**|
 |**2023-12-15**|**ParsNets: A Parsimonious Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**|Jingcai Guo et.al.|[2312.09709v1](http://arxiv.org/abs/2312.09709v1)|null|
 |**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|
@@ -5117,7 +5117,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-20**|**A Compact LSTM-SVM Fusion Model for Long-Duration Cardiovascular Diseases Detection**|Siyang Wu et.al.|[2312.09442v1](http://arxiv.org/abs/2312.09442v1)|null|
-|**2023-12-14**|**Holistic chemical evaluation reveals pitfalls in reaction prediction models**|Victor Sabanza Gil et.al.|[2312.09004v1](http://arxiv.org/abs/2312.09004v1)|null|
+|**2023-12-14**|**Holistic chemical evaluation reveals pitfalls in reaction prediction models**|Victor Sabanza Gil et.al.|[2312.09004v1](http://arxiv.org/abs/2312.09004v1)|**[link](https://github.com/schwallergroup/choriso)**|
 |**2023-12-14**|**PROPRES: Investigating the Projectivity of Presupposition with Various Triggers and Environments**|Daiki Asami et.al.|[2312.08755v1](http://arxiv.org/abs/2312.08755v1)|null|
 |**2023-12-14**|**MOSaiC: a Web-based Platform for Collaborative Medical Video Assessment and Annotation**|Jean-Paul Mazellier et.al.|[2312.08593v1](http://arxiv.org/abs/2312.08593v1)|null|
 |**2023-12-13**|**Solving Bayesian Inverse Problems With Expensive Likelihoods Using Constrained Gaussian Processes and Active Learning**|Maximilian Dinkel et.al.|[2312.08085v1](http://arxiv.org/abs/2312.08085v1)|null|
@@ -5263,7 +5263,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
 |**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029v1](http://arxiv.org/abs/2312.10029v1)|null|
-|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007v1](http://arxiv.org/abs/2312.10007v1)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007v1](http://arxiv.org/abs/2312.10007v1)|**[link](https://github.com/google-research-datasets/Synthetic-Persona-Chat)**|
 |**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003v1](http://arxiv.org/abs/2312.10003v1)|null|
 |**2023-12-15**|**LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language**|Pierpaolo Basile et.al.|[2312.09993v1](http://arxiv.org/abs/2312.09993v1)|null|
 |**2023-12-15**|**The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**|Shihan Dou et.al.|[2312.09979v1](http://arxiv.org/abs/2312.09979v1)|null|
@@ -12196,7 +12196,7 @@ layout: default
 |**2023-12-13**|**A Kronecker product accelerated efficient sparse Gaussian Process (E-SGP) for flow emulation**|Yu Duan et.al.|[2312.10023v1](http://arxiv.org/abs/2312.10023v1)|null|
 |**2023-12-15**|**Modeling Unknown Stochastic Dynamical System via Autoencoder**|Zhongshu Xu et.al.|[2312.10001v1](http://arxiv.org/abs/2312.10001v1)|null|
 |**2023-12-15**|**Laguerre Expansion for Nodal Volumes and Applications**|Domenico Marinucci et.al.|[2312.09962v1](http://arxiv.org/abs/2312.09962v1)|null|
-|**2023-12-15**|**Automatic Rao-Blackwellization for Sequential Monte Carlo with Belief Propagation**|Waïss Azizian et.al.|[2312.09860v1](http://arxiv.org/abs/2312.09860v1)|null|
+|**2023-12-15**|**Automatic Rao-Blackwellization for Sequential Monte Carlo with Belief Propagation**|Waïss Azizian et.al.|[2312.09860v1](http://arxiv.org/abs/2312.09860v1)|**[link](https://github.com/wazizian/onlinesampling.jl)**|
 |**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|
 |**2023-12-15**|**Conformally symmetric wormhole solutions supported by non-commutative geometry in $f(Q,T)$ gravity**|Chaitra Chooda Chalavadi et.al.|[2312.09640v1](http://arxiv.org/abs/2312.09640v1)|null|
 |**2023-12-15**|**Natural gradient Variational Bayes without matrix inversion**|A. Godichon-Baggioni et.al.|[2312.09633v1](http://arxiv.org/abs/2312.09633v1)|null|
@@ -12227,7 +12227,7 @@ layout: default
 |**2023-12-14**|**Accurate field-level weak lensing inference for precision cosmology**|Alan Junzhe Zhou et.al.|[2312.08934v1](http://arxiv.org/abs/2312.08934v1)|null|
 |**2023-12-14**|**Phase Memory of Orbital Angular Momentum in Multiple Scattering Environment**|Igor Meglinski et.al.|[2312.08928v1](http://arxiv.org/abs/2312.08928v1)|null|
 |**2023-12-14**|**Smoluchowski-Kramers diffusion approximation for systems of stochastic damped wave equations with non-constant friction**|Sandra Cerrai et.al.|[2312.08925v1](http://arxiv.org/abs/2312.08925v1)|null|
-|**2023-12-14**|**Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting**|Yanhong Li et.al.|[2312.08763v1](http://arxiv.org/abs/2312.08763v1)|**[link](https://github.com/davidanastasiu/dan)**|
+|**2023-12-16**|**Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting**|Yanhong Li et.al.|[2312.08763v2](http://arxiv.org/abs/2312.08763v2)|**[link](https://github.com/davidanastasiu/dan)**|
 |**2023-12-14**|**Induced magneto-conductivity in a two-node Weyl semimetal under Gaussian random disorder**|Chuan-Xiong Xu et.al.|[2312.08716v1](http://arxiv.org/abs/2312.08716v1)|null|
 |**2023-12-14**|**Privacy Amplification by Iteration for ADMM with (Strongly) Convex Objective Functions**|T-H. Hubert Chan et.al.|[2312.08685v1](http://arxiv.org/abs/2312.08685v1)|**[link](https://github.com/kawaiimengshi/privacy-amplification-by-iteration-for-admm)**|
 |**2023-12-14**|**AVA: Inconspicuous Attribute Variation-based Adversarial Attack bypassing DeepFake Detection**|Xiangtao Meng et.al.|[2312.08675v1](http://arxiv.org/abs/2312.08675v1)|null|
