@@ -17,13 +17,13 @@
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379v1](http://arxiv.org/abs/2312.12379v1)|null|
 |**2023-12-19**|**CLIP-DINOiser: Teaching CLIP a few DINO tricks**|Monika Wysoczańska et.al.|[2312.12359v1](http://arxiv.org/abs/2312.12359v1)|**[link](https://github.com/wysoczanska/clip_dinoiser)**|
 |**2023-12-19**|**SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation**|Feixiang Zhou et.al.|[2312.12347v1](http://arxiv.org/abs/2312.12347v1)|null|
-|**2023-12-19**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340v1](http://arxiv.org/abs/2312.12340v1)|**[link](https://github.com/Ruiyuan-Zhang/CCS)**|
+|**2023-12-20**|**Scalable Geometric Fracture Assembly via Co-creation Space among Assemblers**|Ruiyuan Zhang et.al.|[2312.12340v2](http://arxiv.org/abs/2312.12340v2)|**[link](https://github.com/Ruiyuan-Zhang/CCS)**|
 |**2023-12-19**|**pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**|David Charatan et.al.|[2312.12337v1](http://arxiv.org/abs/2312.12337v1)|null|
 |**2023-12-19**|**First qualitative observations on deep learning vision model YOLO and DETR for automated driving in Austria**|Stefan Schoder et.al.|[2312.12314v1](http://arxiv.org/abs/2312.12314v1)|null|
 |**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274v1](http://arxiv.org/abs/2312.12274v1)|null|
 |**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273v1](http://arxiv.org/abs/2312.12273v1)|null|
 |**2023-12-19**|**Vertex Reconstruction with MaskFormers**|Samuel Van Stroud et.al.|[2312.12272v1](http://arxiv.org/abs/2312.12272v1)|null|
-|**2023-12-19**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v1](http://arxiv.org/abs/2312.12263v1)|**[link](https://github.com/lijichang/flnl-feddiv)**|
+|**2023-12-20**|**FedDiv: Collaborative Noise Filtering for Federated Learning with Noisy Labels**|Jichang Li et.al.|[2312.12263v2](http://arxiv.org/abs/2312.12263v2)|**[link](https://github.com/lijichang/flnl-feddiv)**|
 |**2023-12-19**|**ST(OR)2: Spatio-Temporal Object Level Reasoning for Activity Recognition in the Operating Room**|Idris Hamoud et.al.|[2312.12250v1](http://arxiv.org/abs/2312.12250v1)|null|
 |**2023-12-19**|**MDD-UNet: Domain Adaptation for Medical Image Segmentation with Theoretical Guarantees, a Proof of Concept**|Asbjørn Munk et.al.|[2312.12246v1](http://arxiv.org/abs/2312.12246v1)|**[link](https://github.com/asbjrnmunk/mdd-unet)**|
 |**2023-12-19**|**GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning**|Mehran Kazemi et.al.|[2312.12241v1](http://arxiv.org/abs/2312.12241v1)|null|
@@ -44,7 +44,7 @@
 |**2023-12-19**|**ZS-SRT: An Efficient Zero-Shot Super-Resolution Training Method for Neural Radiance Fields**|Xiang Feng et.al.|[2312.12122v1](http://arxiv.org/abs/2312.12122v1)|null|
 |**2023-12-19**|**I-CEE: Tailoring Explanations of Image Classifications Models to User Expertise**|Yao Rong et.al.|[2312.12102v1](http://arxiv.org/abs/2312.12102v1)|**[link](https://github.com/yaorong0921/i-cee)**|
 |**2023-12-19**|**Domain Generalization in LiDAR Semantic Segmentation Leveraged by Density Discriminative Feature Embedding**|Jaeyeul Kim et.al.|[2312.12098v1](http://arxiv.org/abs/2312.12098v1)|null|
-|**2023-12-19**|**DLCA-Recon: Dynamic Loose Clothing Avatar Reconstruction from Monocular Videos**|Chunjie Luo et.al.|[2312.12096v1](http://arxiv.org/abs/2312.12096v1)|null|
+|**2023-12-20**|**DLCA-Recon: Dynamic Loose Clothing Avatar Reconstruction from Monocular Videos**|Chunjie Luo et.al.|[2312.12096v2](http://arxiv.org/abs/2312.12096v2)|null|
 |**2023-12-19**|**GazeMoDiff: Gaze-guided Diffusion Model for Stochastic Human Motion Prediction**|Haodong Yan et.al.|[2312.12090v1](http://arxiv.org/abs/2312.12090v1)|null|
 |**2023-12-19**|**Learning Subject-Aware Cropping by Outpainting Professional Photos**|James Hong et.al.|[2312.12080v1](http://arxiv.org/abs/2312.12080v1)|null|
 |**2023-12-19**|**PICNN: A Pathway towards Interpretable Convolutional Neural Networks**|Wengang Guo et.al.|[2312.12068v1](http://arxiv.org/abs/2312.12068v1)|**[link](https://github.com/spdj2271/picnn)**|
@@ -3499,7 +3499,7 @@
 |**2023-12-18**|**GraspLDM: Generative 6-DoF Grasp Synthesis using Latent Diffusion Models**|Kuldeep R Barad et.al.|[2312.11243v1](http://arxiv.org/abs/2312.11243v1)|null|
 |**2023-12-18**|**FAKEPCD: Fake Point Cloud Detection via Source Attribution**|Yiting Qu et.al.|[2312.11213v1](http://arxiv.org/abs/2312.11213v1)|null|
 |**2023-12-18**|**Multi-scale Reconstruction of Turbulent Rotating Flows with Generative Diffusion Models**|Tianyi Li et.al.|[2312.11121v1](http://arxiv.org/abs/2312.11121v1)|null|
-|**2023-12-18**|**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models**|Jiachen Zhou et.al.|[2312.11057v1](http://arxiv.org/abs/2312.11057v1)|null|
+|**2023-12-20**|**DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models**|Jiachen Zhou et.al.|[2312.11057v2](http://arxiv.org/abs/2312.11057v2)|null|
 |**2023-12-18**|**UniGen: A Unified Generative Framework for Retrieval and Question Answering with Large Language Models**|Xiaoxi Li et.al.|[2312.11036v1](http://arxiv.org/abs/2312.11036v1)|null|
 |**2023-12-18**|**Realistic Human Motion Generation with Cross-Diffusion Models**|Zeping Ren et.al.|[2312.10993v1](http://arxiv.org/abs/2312.10993v1)|null|
 |**2023-12-18**|**Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model**|Zhenyu Xie et.al.|[2312.10960v1](http://arxiv.org/abs/2312.10960v1)|null|
@@ -5448,7 +5448,7 @@
 |**2023-12-19**|**Can ChatGPT be Your Personal Medical Assistant?**|Md. Rafiul Biswas et.al.|[2312.12006v1](http://arxiv.org/abs/2312.12006v1)|null|
 |**2023-12-19**|**Toward Responsible AI Use: Considerations for Sustainability Impact Assessment**|Eva Thelisson et.al.|[2312.11996v1](http://arxiv.org/abs/2312.11996v1)|null|
 |**2023-12-19**|**Xpert: Empowering Incident Management with Query Recommendations via Large Language Models**|Yuxuan Jiang et.al.|[2312.11988v1](http://arxiv.org/abs/2312.11988v1)|null|
-|**2023-12-19**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v1](http://arxiv.org/abs/2312.11985v1)|null|
+|**2023-12-20**|**Climate Change from Large Language Models**|Hongyin Zhu et.al.|[2312.11985v2](http://arxiv.org/abs/2312.11985v2)|null|
 |**2023-12-19**|**Fluctuation-based Adaptive Structured Pruning for Large Language Models**|Yongqi An et.al.|[2312.11983v1](http://arxiv.org/abs/2312.11983v1)|**[link](https://github.com/casia-iva-lab/flap)**|
 |**2023-12-19**|**Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives**|Chen Gao et.al.|[2312.11970v1](http://arxiv.org/abs/2312.11970v1)|null|
 |**2023-12-19**|**External Knowledge Augmented Polyphone Disambiguation Using Large Language Model**|Chen Li et.al.|[2312.11920v1](http://arxiv.org/abs/2312.11920v1)|null|
@@ -8741,7 +8741,7 @@
 |**2023-12-18**|**Multiple Hypothesis Dropout: Estimating the Parameters of Multi-Modal Output Distributions**|David D. Nguyen et.al.|[2312.11735v1](http://arxiv.org/abs/2312.11735v1)|null|
 |**2023-12-18**|**Human-Machine Teaming for UAVs: An Experimentation Platform**|Laila El Moujtahid et.al.|[2312.11718v1](http://arxiv.org/abs/2312.11718v1)|null|
 |**2023-12-18**|**Agent-based Learning of Materials Datasets from Scientific Literature**|Mehrad Ansari et.al.|[2312.11690v1](http://arxiv.org/abs/2312.11690v1)|**[link](https://github.com/ai4chems/eunomia)**|
-|**2023-12-18**|**PRP Rebooted: Advancing the State of the Art in FOND Planning**|Christian Muise et.al.|[2312.11675v1](http://arxiv.org/abs/2312.11675v1)|null|
+|**2023-12-20**|**PRP Rebooted: Advancing the State of the Art in FOND Planning**|Christian Muise et.al.|[2312.11675v2](http://arxiv.org/abs/2312.11675v2)|null|
 |**2023-12-18**|**Evaluating Language-Model Agents on Realistic Autonomous Tasks**|Megan Kinniment et.al.|[2312.11671v1](http://arxiv.org/abs/2312.11671v1)|null|
 |**2023-12-18**|**Prediction and Control in Continual Reinforcement Learning**|Nishanth Anand et.al.|[2312.11669v1](http://arxiv.org/abs/2312.11669v1)|null|
 |**2023-12-18**|**Eliciting Kemeny Rankings**|Anne-Marie George et.al.|[2312.11663v1](http://arxiv.org/abs/2312.11663v1)|**[link](https://github.com/annemage/eliciting-kemeny-rankings)**|
