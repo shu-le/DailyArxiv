@@ -44,7 +44,7 @@
 |**2023-12-21**|**Pose-based Tremor Type and Level Analysis for Parkinson's Disease from Video**|Haozheng Zhang et.al.|[2312.13776v1](http://arxiv.org/abs/2312.13776v1)|null|
 |**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771v1](http://arxiv.org/abs/2312.13771v1)|null|
 |**2023-12-21**|**3D Points Splatting for Real-Time Dynamic Hand Reconstruction**|Zheheng Jiang et.al.|[2312.13770v1](http://arxiv.org/abs/2312.13770v1)|null|
-|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|null|
+|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|**[link](https://github.com/lambert-x/prolab)**|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
 |**2023-12-21**|**Hunting imaging biomarkers in pulmonary fibrosis: Benchmarks of the AIIB23 challenge**|Yang Nan et.al.|[2312.13752v1](http://arxiv.org/abs/2312.13752v1)|null|
 |**2023-12-21**|**Video Recognition in Portrait Mode**|Mingfei Han et.al.|[2312.13746v1](http://arxiv.org/abs/2312.13746v1)|null|
@@ -5601,7 +5601,7 @@
 |**2023-12-21**|**User-adaptive Tourist Information Dialogue System with Yes/No Classifier and Sentiment Estimator**|Ryo Yanagimoto et.al.|[2312.13787v1](http://arxiv.org/abs/2312.13787v1)|null|
 |**2023-12-21**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772v1](http://arxiv.org/abs/2312.13772v1)|**[link](https://github.com/cambridgeltl/ensembled-sicl)**|
 |**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771v1](http://arxiv.org/abs/2312.13771v1)|null|
-|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|null|
+|**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|**[link](https://github.com/lambert-x/prolab)**|
 |**2023-12-21**|**Meta-control of Dialogue Systems Using Large Language Models**|Kotaro Shukuri et.al.|[2312.13715v1](http://arxiv.org/abs/2312.13715v1)|null|
 |**2023-12-21**|**Text2Analysis: A Benchmark of Table Question Answering with Advanced Data Analysis and Unclear Queries**|Xinyi He et.al.|[2312.13671v1](http://arxiv.org/abs/2312.13671v1)|null|
 |**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang et.al.|[2312.13585v1](http://arxiv.org/abs/2312.13585v1)|null|
@@ -8339,7 +8339,7 @@
 |**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115v1](http://arxiv.org/abs/2312.14115v1)|**[link](https://github.com/wayveai/lingoqa)**|
 |**2023-12-21**|**InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models**|Bingbing Wen et.al.|[2312.13503v1](http://arxiv.org/abs/2312.13503v1)|null|
 |**2023-12-20**|**ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**|Rongsheng Wang et.al.|[2312.13316v1](http://arxiv.org/abs/2312.13316v1)|**[link](https://github.com/tonichopp/ecamp)**|
-|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|null|
+|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|**[link](https://github.com/baaivision/emu)**|
 |**2023-12-20**|**SkyScript: A Large and Semantically Diverse Vision-Language Dataset for Remote Sensing**|Zhecheng Wang et.al.|[2312.12856v1](http://arxiv.org/abs/2312.12856v1)|**[link](https://github.com/wangzhecheng/skyscript)**|
 |**2023-12-20**|**OCTOPUS: Open-vocabulary Content Tracking and Object Placement Using Semantic Understanding in Mixed Reality**|Luke Yoffe et.al.|[2312.12815v1](http://arxiv.org/abs/2312.12815v1)|null|
 |**2023-12-20**|**MetaSegNet: Metadata-collaborative Vision-Language Representation Learning for Semantic Segmentation of Remote Sensing Images**|Libo Wang et.al.|[2312.12735v1](http://arxiv.org/abs/2312.12735v1)|null|
@@ -8957,7 +8957,7 @@
 |**2023-12-20**|**Shared Affordance-awareness via Augmented Reality for Proactive Assistance in Human-robot Collaboration**|Drake Moore et.al.|[2312.13410v1](http://arxiv.org/abs/2312.13410v1)|null|
 |**2023-12-20**|**Towards Fair Graph Federated Learning via Incentive Mechanisms**|Chenglu Pan et.al.|[2312.13306v1](http://arxiv.org/abs/2312.13306v1)|**[link](https://github.com/zjunet/fairgraphfl)**|
 |**2023-12-19**|**RealGen: Retrieval Augmented Generation for Controllable Traffic Scenarios**|Wenhao Ding et.al.|[2312.13303v1](http://arxiv.org/abs/2312.13303v1)|null|
-|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|null|
+|**2023-12-20**|**Generative Multimodal Models are In-Context Learners**|Quan Sun et.al.|[2312.13286v1](http://arxiv.org/abs/2312.13286v1)|**[link](https://github.com/baaivision/emu)**|
 |**2023-12-20**|**dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models**|Pablo M. Rodriguez Bertorello et.al.|[2312.13264v1](http://arxiv.org/abs/2312.13264v1)|null|
 |**2023-12-20**|**First-principle-like reinforcement learning of nonlinear numerical schemes for conservation laws**|Hao-Chen Wang et.al.|[2312.13260v1](http://arxiv.org/abs/2312.13260v1)|null|
 |**2023-12-20**|**Generative agents in the streets: Exploring the use of Large Language Models (LLMs) in collecting urban perceptions**|Deepank Verma et.al.|[2312.13126v1](http://arxiv.org/abs/2312.13126v1)|null|
