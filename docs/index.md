@@ -5611,7 +5611,7 @@ layout: default
 |**2023-12-21**|**Speech Translation with Large Language Models: An Industrial Practice**|Zhichao Huang et.al.|[2312.13585v1](http://arxiv.org/abs/2312.13585v1)|null|
 |**2023-12-21**|**Understanding the Role of Large Language Models in Personalizing and Scaffolding Strategies to Combat Academic Procrastination**|Ananya Bhattacharjee et.al.|[2312.13581v1](http://arxiv.org/abs/2312.13581v1)|null|
 |**2023-12-21**|**The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction**|Pratyusha Sharma et.al.|[2312.13558v1](http://arxiv.org/abs/2312.13558v1)|null|
-|**2023-12-21**|**Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations**|Zhoumeng Wang et.al.|[2312.13557v1](http://arxiv.org/abs/2312.13557v1)|null|
+|**2023-12-21**|**Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations**|Zhoumeng Wang et.al.|[2312.13557v1](http://arxiv.org/abs/2312.13557v1)|**[link](https://github.com/JNY-Wang/ChatGPT-processed-representations)**|
 |**2023-12-21**|**How to Prune Your Language Model: Recovering Accuracy on the "Sparsity May Cry'' Benchmark**|Eldar Kurtic et.al.|[2312.13547v1](http://arxiv.org/abs/2312.13547v1)|null|
 |**2023-12-21**|**Developing Interactive Tourism Planning: A Dialogue Robot System Powered by a Large Language Mode**|Katsumasa Yoshikawa et.al.|[2312.13545v1](http://arxiv.org/abs/2312.13545v1)|null|
 |**2023-12-21**|**HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion**|Yu-Zheng Lin et.al.|[2312.13530v1](http://arxiv.org/abs/2312.13530v1)|**[link](https://gitlab.com/yuzhenglin/HW-V2W-Map)**|
