@@ -11,7 +11,7 @@ layout: default
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157v1](http://arxiv.org/abs/2312.14157v1)|null|
 |**2023-12-21**|**Virtual Pets: Animatable Animal Generation in 3D Scenes**|Yen-Chi Cheng et.al.|[2312.14154v1](http://arxiv.org/abs/2312.14154v1)|null|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150v1](http://arxiv.org/abs/2312.14150v1)|**[link](https://github.com/opendrivelab/drivelm)**|
-|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|null|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
 |**2023-12-21**|**HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs**|Artem Sevastopolsky et.al.|[2312.14140v1](http://arxiv.org/abs/2312.14140v1)|null|
 |**2023-12-21**|**Revisiting Foreground and Background Separation in Weakly-supervised Temporal Action Localization: A Clustering-based Approach**|Qinying Liu et.al.|[2312.14138v1](http://arxiv.org/abs/2312.14138v1)|**[link](https://github.com/qinying-liu/case)**|
 |**2023-12-21**|**$\textit{V}^*$: Guided Visual Search as a Core Mechanism in Multimodal LLMs**|Penghao Wu et.al.|[2312.14135v1](http://arxiv.org/abs/2312.14135v1)|**[link](https://github.com/penghao-wu/vstar)**|
@@ -29,10 +29,10 @@ layout: default
 |**2023-12-21**|**Deep Learning Based Face Recognition Method using Siamese Network**|Enoch Solomon et.al.|[2312.14001v1](http://arxiv.org/abs/2312.14001v1)|null|
 |**2023-12-21**|**Open-Set: ID Card Presentation Attack Detection using Neural Transfer Style**|Reuben Markham et.al.|[2312.13993v1](http://arxiv.org/abs/2312.13993v1)|null|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
-|**2023-12-21**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang et.al.|[2312.13977v1](http://arxiv.org/abs/2312.13977v1)|null|
+|**2023-12-22**|**NeuSurf: On-Surface Priors for Neural Surface Reconstruction from Sparse Input Views**|Han Huang et.al.|[2312.13977v2](http://arxiv.org/abs/2312.13977v2)|null|
 |**2023-12-21**|**PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**|Yiming Zhang et.al.|[2312.13964v1](http://arxiv.org/abs/2312.13964v1)|null|
 |**2023-12-21**|**Controllable 3D Face Generation with Conditional Style Code Diffusion**|Xiaolong Shen et.al.|[2312.13941v1](http://arxiv.org/abs/2312.13941v1)|**[link](https://github.com/sxl142/tex-face)**|
-|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v1](http://arxiv.org/abs/2312.13913v1)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-22**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v2](http://arxiv.org/abs/2312.13913v2)|**[link](https://github.com/opentexture/paint3d)**|
 |**2023-12-21**|**EfficientPPS: Part-aware Panoptic Segmentation of Transparent Objects for Robotic Manipulation**|Benjamin Alt et.al.|[2312.13906v1](http://arxiv.org/abs/2312.13906v1)|null|
 |**2023-12-21**|**Reducing Hallucinations: Enhancing VQA for Flood Disaster Damage Assessment with Visual Contexts**|Yimin Sun et.al.|[2312.13848v1](http://arxiv.org/abs/2312.13848v1)|null|
 |**2023-12-21**|**Image Clustering using Restricted Boltzman Machine**|Abraham Woubie et.al.|[2312.13845v1](http://arxiv.org/abs/2312.13845v1)|null|
@@ -46,14 +46,14 @@ layout: default
 |**2023-12-21**|**Few Shot Part Segmentation Reveals Compositional Logic for Industrial Anomaly Detection**|Soopil Kim et.al.|[2312.13783v1](http://arxiv.org/abs/2312.13783v1)|null|
 |**2023-12-21**|**Progressive Evolution from Single-Point to Polygon for Scene Text**|Linger Deng et.al.|[2312.13778v1](http://arxiv.org/abs/2312.13778v1)|null|
 |**2023-12-21**|**Pose-based Tremor Type and Level Analysis for Parkinson's Disease from Video**|Haozheng Zhang et.al.|[2312.13776v1](http://arxiv.org/abs/2312.13776v1)|null|
-|**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771v1](http://arxiv.org/abs/2312.13771v1)|null|
+|**2023-12-22**|**AppAgent: Multimodal Agents as Smartphone Users**|Chi Zhang et.al.|[2312.13771v2](http://arxiv.org/abs/2312.13771v2)|null|
 |**2023-12-21**|**3D Points Splatting for Real-Time Dynamic Hand Reconstruction**|Zheheng Jiang et.al.|[2312.13770v1](http://arxiv.org/abs/2312.13770v1)|null|
 |**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|**[link](https://github.com/lambert-x/prolab)**|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
 |**2023-12-21**|**Hunting imaging biomarkers in pulmonary fibrosis: Benchmarks of the AIIB23 challenge**|Yang Nan et.al.|[2312.13752v1](http://arxiv.org/abs/2312.13752v1)|null|
 |**2023-12-21**|**Video Recognition in Portrait Mode**|Mingfei Han et.al.|[2312.13746v1](http://arxiv.org/abs/2312.13746v1)|null|
 |**2023-12-21**|**DECO: Query-Based End-to-End Object Detection with ConvNets**|Xinghao Chen et.al.|[2312.13735v1](http://arxiv.org/abs/2312.13735v1)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729v1](http://arxiv.org/abs/2312.13729v1)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729v2](http://arxiv.org/abs/2312.13729v2)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**Bootstrap Masked Visual Modeling via Hard Patches Mining**|Haochen Wang et.al.|[2312.13714v1](http://arxiv.org/abs/2312.13714v1)|**[link](https://github.com/haochen-wang409/hpm)**|
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691v1](http://arxiv.org/abs/2312.13691v1)|null|
 |**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663v1](http://arxiv.org/abs/2312.13663v1)|null|
@@ -3570,10 +3570,10 @@ layout: default
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091v1](http://arxiv.org/abs/2312.14091v1)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
 |**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980v1](http://arxiv.org/abs/2312.13980v1)|null|
 |**2023-12-21**|**Controllable 3D Face Generation with Conditional Style Code Diffusion**|Xiaolong Shen et.al.|[2312.13941v1](http://arxiv.org/abs/2312.13941v1)|**[link](https://github.com/sxl142/tex-face)**|
-|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v1](http://arxiv.org/abs/2312.13913v1)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-22**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913v2](http://arxiv.org/abs/2312.13913v2)|**[link](https://github.com/opentexture/paint3d)**|
 |**2023-12-20**|**Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis**|Bichen Wu et.al.|[2312.13834v1](http://arxiv.org/abs/2312.13834v1)|null|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729v1](http://arxiv.org/abs/2312.13729v1)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729v2](http://arxiv.org/abs/2312.13729v2)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**Adapt & Align: Continual Learning with Generative Models Latent Space Alignment**|Kamil Deja et.al.|[2312.13699v1](http://arxiv.org/abs/2312.13699v1)|**[link](https://github.com/jrx-napoli/cl_classifier)**|
 |**2023-12-21**|**Calogero-like model without rearrangement symmetry**|Miloslav Znojil et.al.|[2312.13667v1](http://arxiv.org/abs/2312.13667v1)|null|
 |**2023-12-21**|**Free-Editor: Zero-shot Text-driven 3D Scene Editing**|Nazmul Karim et.al.|[2312.13663v1](http://arxiv.org/abs/2312.13663v1)|null|
@@ -3581,7 +3581,7 @@ layout: default
 |**2023-12-21**|**Navigating the Structured What-If Spaces: Counterfactual Generation via Structured Diffusion**|Nishtha Madaan et.al.|[2312.13616v1](http://arxiv.org/abs/2312.13616v1)|null|
 |**2023-12-21**|**Structure-Aware Path Inference for Neural Finite State Transducers**|Weiting Tan et.al.|[2312.13614v1](http://arxiv.org/abs/2312.13614v1)|null|
 |**2023-12-21**|**Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos**|Keqiang Sun et.al.|[2312.13604v1](http://arxiv.org/abs/2312.13604v1)|null|
-|**2023-12-21**|**Front stability of infinitely steep travelling waves in population biology**|Matthew J Simpson et.al.|[2312.13601v1](http://arxiv.org/abs/2312.13601v1)|null|
+|**2023-12-21**|**Front stability of infinitely steep travelling waves in population biology**|Matthew J Simpson et.al.|[2312.13601v1](http://arxiv.org/abs/2312.13601v1)|**[link](https://github.com/alex-tam/onephase_porousfisherstefanstability)**|
 |**2023-12-20**|**A General Model for Aggregating Annotations Across Simple, Complex, and Multi-Object Annotation Tasks**|Alexander Braylan et.al.|[2312.13437v1](http://arxiv.org/abs/2312.13437v1)|**[link](https://github.com/praznat/annotationmodeling)**|
 |**2023-12-20**|**The Minimal Massive Majoron Seesaw Model**|Arturo de Giorgi et.al.|[2312.13417v1](http://arxiv.org/abs/2312.13417v1)|null|
 |**2023-12-20**|**Unlocking Pre-trained Image Backbones for Semantic Image Synthesis**|Tariq Berrada et.al.|[2312.13314v1](http://arxiv.org/abs/2312.13314v1)|null|
@@ -3595,11 +3595,11 @@ layout: default
 |**2023-12-20**|**Neural Stochastic Differential Equations with Change Points: A Generative Adversarial Approach**|Zhongchang Sun et.al.|[2312.13152v1](http://arxiv.org/abs/2312.13152v1)|null|
 |**2023-12-20**|**Pre-training of Molecular GNNs as Conditional Boltzmann Generator**|Daiki Koge et.al.|[2312.13110v1](http://arxiv.org/abs/2312.13110v1)|null|
 |**2023-12-20**|**Quantifying Bias in Text-to-Image Generative Models**|Jordan Vice et.al.|[2312.13053v1](http://arxiv.org/abs/2312.13053v1)|null|
-|**2023-12-21**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v2](http://arxiv.org/abs/2312.13016v2)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
+|**2023-12-22**|**DiffPortrait3D: Controllable Diffusion for Zero-Shot Portrait View Synthesis**|Yuming Gu et.al.|[2312.13016v3](http://arxiv.org/abs/2312.13016v3)|**[link](https://github.com/FreedomGu/DiffPortrait3D)**|
 |**2023-12-20**|**AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation**|Dong Huang et.al.|[2312.13010v1](http://arxiv.org/abs/2312.13010v1)|null|
 |**2023-12-20**|**Class Conditional Time Series Generation with Structured Noise Space GAN**|Hamidreza Gholamrezaei et.al.|[2312.12946v1](http://arxiv.org/abs/2312.12946v1)|null|
 |**2023-12-20**|**PGN: A perturbation generation network against deep reinforcement learning**|Xiangjuan Li et.al.|[2312.12904v1](http://arxiv.org/abs/2312.12904v1)|null|
-|**2023-12-20**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865v1](http://arxiv.org/abs/2312.12865v1)|null|
+|**2023-12-21**|**RadEdit: stress-testing biomedical vision models via diffusion image editing**|Fernando Pérez-García et.al.|[2312.12865v2](http://arxiv.org/abs/2312.12865v2)|null|
 |**2023-12-20**|**ReCo-Diff: Explore Retinex-Based Condition Strategy in Diffusion Model for Low-Light Image Enhancement**|Yuhui Wu et.al.|[2312.12826v1](http://arxiv.org/abs/2312.12826v1)|null|
 |**2023-12-20**|**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**|Seunghoo Hong et.al.|[2312.12807v1](http://arxiv.org/abs/2312.12807v1)|null|
 |**2023-12-21**|**AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion**|Beibei Jing et.al.|[2312.12763v2](http://arxiv.org/abs/2312.12763v2)|null|
@@ -5604,7 +5604,7 @@ layout: default
 |**2023-12-21**|**Capture the Flag: Uncovering Data Insights with Large Language Models**|Issam Laradji et.al.|[2312.13876v1](http://arxiv.org/abs/2312.13876v1)|null|
 |**2023-12-21**|**User-adaptive Tourist Information Dialogue System with Yes/No Classifier and Sentiment Estimator**|Ryo Yanagimoto et.al.|[2312.13787v1](http://arxiv.org/abs/2312.13787v1)|null|
 |**2023-12-21**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772v1](http://arxiv.org/abs/2312.13772v1)|null|
-|**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771v1](http://arxiv.org/abs/2312.13771v1)|null|
+|**2023-12-22**|**AppAgent: Multimodal Agents as Smartphone Users**|Chi Zhang et.al.|[2312.13771v2](http://arxiv.org/abs/2312.13771v2)|null|
 |**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|**[link](https://github.com/lambert-x/prolab)**|
 |**2023-12-21**|**Meta-control of Dialogue Systems Using Large Language Models**|Kotaro Shukuri et.al.|[2312.13715v1](http://arxiv.org/abs/2312.13715v1)|null|
 |**2023-12-21**|**Text2Analysis: A Benchmark of Table Question Answering with Advanced Data Analysis and Unclear Queries**|Xinyi He et.al.|[2312.13671v1](http://arxiv.org/abs/2312.13671v1)|null|
@@ -5613,7 +5613,7 @@ layout: default
 |**2023-12-21**|**The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction**|Pratyusha Sharma et.al.|[2312.13558v1](http://arxiv.org/abs/2312.13558v1)|null|
 |**2023-12-21**|**Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations**|Zhoumeng Wang et.al.|[2312.13557v1](http://arxiv.org/abs/2312.13557v1)|**[link](https://github.com/JNY-Wang/ChatGPT-processed-representations)**|
 |**2023-12-21**|**How to Prune Your Language Model: Recovering Accuracy on the "Sparsity May Cry'' Benchmark**|Eldar Kurtic et.al.|[2312.13547v1](http://arxiv.org/abs/2312.13547v1)|null|
-|**2023-12-21**|**Developing Interactive Tourism Planning: A Dialogue Robot System Powered by a Large Language Mode**|Katsumasa Yoshikawa et.al.|[2312.13545v1](http://arxiv.org/abs/2312.13545v1)|null|
+|**2023-12-22**|**Developing Interactive Tourism Planning: A Dialogue Robot System Powered by a Large Language Model**|Katsumasa Yoshikawa et.al.|[2312.13545v2](http://arxiv.org/abs/2312.13545v2)|null|
 |**2023-12-21**|**HW-V2W-Map: Hardware Vulnerability to Weakness Mapping Framework for Root Cause Analysis with GPT-assisted Mitigation Suggestion**|Yu-Zheng Lin et.al.|[2312.13530v1](http://arxiv.org/abs/2312.13530v1)|**[link](https://gitlab.com/yuzhenglin/HW-V2W-Map)**|
 |**2023-12-20**|**Domain-Specific Code Language Models: Unraveling the Potential for HPC Codes and Tasks**|Tal Kadosh et.al.|[2312.13322v1](http://arxiv.org/abs/2312.13322v1)|null|
 |**2023-12-20**|**ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**|Rongsheng Wang et.al.|[2312.13316v1](http://arxiv.org/abs/2312.13316v1)|**[link](https://github.com/tonichopp/ecamp)**|
@@ -8339,7 +8339,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-21**|**DriveLM: Driving with Graph Visual Question Answering**|Chonghao Sima et.al.|[2312.14150v1](http://arxiv.org/abs/2312.14150v1)|**[link](https://github.com/opendrivelab/drivelm)**|
-|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|null|
+|**2023-12-21**|**TagAlign: Improving Vision-Language Alignment with Multi-Tag Classification**|Qinying Liu et.al.|[2312.14149v1](http://arxiv.org/abs/2312.14149v1)|**[link](https://github.com/Qinying-Liu/TagAlign_code)**|
 |**2023-12-21**|**LingoQA: Video Question Answering for Autonomous Driving**|Ana-Maria Marcu et.al.|[2312.14115v1](http://arxiv.org/abs/2312.14115v1)|**[link](https://github.com/wayveai/lingoqa)**|
 |**2023-12-21**|**InfoVisDial: An Informative Visual Dialogue Dataset by Bridging Large Multimodal and Language Models**|Bingbing Wen et.al.|[2312.13503v1](http://arxiv.org/abs/2312.13503v1)|null|
 |**2023-12-20**|**ECAMP: Entity-centered Context-aware Medical Vision Language Pre-training**|Rongsheng Wang et.al.|[2312.13316v1](http://arxiv.org/abs/2312.13316v1)|**[link](https://github.com/tonichopp/ecamp)**|
@@ -8948,7 +8948,7 @@ layout: default
 |**2023-12-21**|**Team Flow at DRC2023: Building Common Ground and Text-based Turn-taking in a Travel Agent Spoken Dialogue System**|Ryu Hirai et.al.|[2312.13816v1](http://arxiv.org/abs/2312.13816v1)|null|
 |**2023-12-21**|**Variational Quantum Circuit Design for Quantum Reinforcement Learning on Continuous Environments**|Georg Kruse et.al.|[2312.13798v1](http://arxiv.org/abs/2312.13798v1)|null|
 |**2023-12-21**|**Parameterized Guarantees for Almost Envy-Free Allocations**|Siddharth Barman et.al.|[2312.13791v1](http://arxiv.org/abs/2312.13791v1)|null|
-|**2023-12-21**|**AppAgent: Multimodal Agents as Smartphone Users**|Zhao Yang et.al.|[2312.13771v1](http://arxiv.org/abs/2312.13771v1)|null|
+|**2023-12-22**|**AppAgent: Multimodal Agents as Smartphone Users**|Chi Zhang et.al.|[2312.13771v2](http://arxiv.org/abs/2312.13771v2)|null|
 |**2023-12-21**|**Nonclassical resource for continuous variable telecloning with non-Gaussian advantage**|Sudipta Das et.al.|[2312.13586v1](http://arxiv.org/abs/2312.13586v1)|null|
 |**2023-12-21**|**Fine-grained Disentangled Representation Learning for Multimodal Emotion Recognition**|Haoqin Sun et.al.|[2312.13567v1](http://arxiv.org/abs/2312.13567v1)|null|
 |**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508v1](http://arxiv.org/abs/2312.13508v1)|null|
@@ -12873,14 +12873,14 @@ layout: default
 |**2023-12-21**|**Systematic studies of $DDKK$ and $D\bar{D}K\bar{K}$ four-hadron molecules**|Ya-Wen Pan et.al.|[2312.13801v1](http://arxiv.org/abs/2312.13801v1)|null|
 |**2023-12-21**|**Noise Modulation**|Ertugrul Basar et.al.|[2312.13794v1](http://arxiv.org/abs/2312.13794v1)|null|
 |**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763v1](http://arxiv.org/abs/2312.13763v1)|null|
-|**2023-12-21**|**Gaussian Splitting Algorithm with Color and Opacity Depended on Viewing Direction**|Dawid Malarz et.al.|[2312.13729v1](http://arxiv.org/abs/2312.13729v1)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
+|**2023-12-22**|**Gaussian Splatting with NeRF-based Color and Opacity**|Dawid Malarz et.al.|[2312.13729v2](http://arxiv.org/abs/2312.13729v2)|**[link](https://github.com/gmum/ViewingDirectionGaussianSplatting)**|
 |**2023-12-21**|**Joint Channel Estimation and Cooperative Localization for Near-Field Ultra-Massive MIMO**|Ruoxiao Cao et.al.|[2312.13683v1](http://arxiv.org/abs/2312.13683v1)|null|
 |**2023-12-21**|**Free Space Optical Integrated Sensing and Communication Based on DCO-OFDM: Performance Metrics and Resource Allocation**|Yunfeng Wen et.al.|[2312.13654v1](http://arxiv.org/abs/2312.13654v1)|null|
 |**2023-12-21**|**Particle imbalanced weakly interacting quantum droplets in one-dimension**|I. A. Englezos et.al.|[2312.13648v1](http://arxiv.org/abs/2312.13648v1)|null|
 |**2023-12-21**|**Generalized system-bath entanglement theorem for Gaussian environments**|Yu Su et.al.|[2312.13618v1](http://arxiv.org/abs/2312.13618v1)|null|
 |**2023-12-21**|**Nonclassical resource for continuous variable telecloning with non-Gaussian advantage**|Sudipta Das et.al.|[2312.13586v1](http://arxiv.org/abs/2312.13586v1)|null|
 |**2023-12-21**|**Dust Polarization of Prestellar and Protostellar Sources in OMC-3**|Yuhua Liu et.al.|[2312.13573v1](http://arxiv.org/abs/2312.13573v1)|null|
-|**2023-12-20**|**Precise FWER Control for Gaussian Related Fields: Riding the SuRF to continuous land -- Part 1**|Fabian JE Telschow et.al.|[2312.13450v1](http://arxiv.org/abs/2312.13450v1)|null|
+|**2023-12-20**|**Precise FWER Control for Gaussian Related Fields: Riding the SuRF to continuous land -- Part 1**|Fabian JE Telschow et.al.|[2312.13450v1](http://arxiv.org/abs/2312.13450v1)|**[link](https://github.com/ftelschow/convolutionfieldstheory)**|
 |**2023-12-20**|**MGAug: Multimodal Geometric Augmentation in Latent Spaces of Image Deformations**|Tonmoy Hossain et.al.|[2312.13440v1](http://arxiv.org/abs/2312.13440v1)|null|
 |**2023-12-20**|**An active particle in one dimension subjected to resetting with memory**|Denis Boyer et.al.|[2312.13439v1](http://arxiv.org/abs/2312.13439v1)|null|
 |**2023-12-20**|**Entropy-Regularized Mean-Variance Portfolio Optimization with Jumps**|Christian Bender et.al.|[2312.13409v1](http://arxiv.org/abs/2312.13409v1)|null|
