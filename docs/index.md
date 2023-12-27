@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.26
+## Updated on 2023.12.27
 
 ## CV
 
@@ -31,7 +31,7 @@ layout: default
 |**2023-12-22**|**Density Uncertainty Quantification with NeRF-Ensembles: Impact of Data and Scene Constraints**|Miriam Jäger et.al.|[2312.14664v1](http://arxiv.org/abs/2312.14664v1)|null|
 |**2023-12-22**|**Global Occlusion-Aware Transformer for Robust Stereo Matching**|Zihua Liu et.al.|[2312.14650v1](http://arxiv.org/abs/2312.14650v1)|**[link](https://github.com/magicboomliu/goat)**|
 |**2023-12-22**|**Fluid Simulation on Neural Flow Maps**|Yitong Deng et.al.|[2312.14635v1](http://arxiv.org/abs/2312.14635v1)|null|
-|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630v1](http://arxiv.org/abs/2312.14630v1)|**[link](https://github.com/aliabdari/NLP_to_rank_artistic_Metaverses)**|
+|**2023-12-22**|**A Language-based solution to enable Metaverse Retrieval**|Ali Abdari et.al.|[2312.14630v1](http://arxiv.org/abs/2312.14630v1)|null|
 |**2023-12-22**|**DSAP: Analyzing Bias Through Demographic Comparison of Datasets**|Iris Dominguez-Catena et.al.|[2312.14626v1](http://arxiv.org/abs/2312.14626v1)|**[link](https://github.com/irisdominguez/dsap)**|
 |**2023-12-22**|**Towards Loose-Fitting Garment Animation via Generative Model of Deformation Decomposition**|Yifu Liu et.al.|[2312.14619v1](http://arxiv.org/abs/2312.14619v1)|null|
 |**2023-12-22**|**Tuning-Free Inversion-Enhanced Control for Consistent Image Editing**|Xiaoyue Duan et.al.|[2312.14611v1](http://arxiv.org/abs/2312.14611v1)|null|
@@ -5667,7 +5667,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-22**|**A Survey of Reinforcement Learning from Human Feedback**|Timo Kaufmann et.al.|[2312.14925v1](http://arxiv.org/abs/2312.14925v1)|null|
-|**2023-12-22**|**NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes**|Lizhou Fan et.al.|[2312.14890v1](http://arxiv.org/abs/2312.14890v1)|null|
+|**2023-12-22**|**NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes**|Lizhou Fan et.al.|[2312.14890v1](http://arxiv.org/abs/2312.14890v1)|**[link](https://github.com/casmlab/nphardeval)**|
 |**2023-12-22**|**Pangu-Agent: A Fine-Tunable Generalist Agent with Structured Reasoning**|Filippos Christianos et.al.|[2312.14878v1](http://arxiv.org/abs/2312.14878v1)|null|
 |**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877v1](http://arxiv.org/abs/2312.14877v1)|null|
 |**2023-12-22**|**Numerical Reasoning for Financial Reports**|Abhinav Arun et.al.|[2312.14870v1](http://arxiv.org/abs/2312.14870v1)|null|
