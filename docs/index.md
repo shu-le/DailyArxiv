@@ -5710,7 +5710,7 @@ layout: default
 |**2023-12-21**|**Diversifying Knowledge Enhancement of Biomedical Language Models using Adapter Modules and Knowledge Graphs**|Juraj Vladika et.al.|[2312.13881v1](http://arxiv.org/abs/2312.13881v1)|null|
 |**2023-12-21**|**Capture the Flag: Uncovering Data Insights with Large Language Models**|Issam Laradji et.al.|[2312.13876v1](http://arxiv.org/abs/2312.13876v1)|null|
 |**2023-12-21**|**User-adaptive Tourist Information Dialogue System with Yes/No Classifier and Sentiment Estimator**|Ryo Yanagimoto et.al.|[2312.13787v1](http://arxiv.org/abs/2312.13787v1)|null|
-|**2023-12-21**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772v1](http://arxiv.org/abs/2312.13772v1)|null|
+|**2023-12-22**|**On Task Performance and Model Calibration with Supervised and Self-Ensembled In-Context Learning**|Chengzu Li et.al.|[2312.13772v2](http://arxiv.org/abs/2312.13772v2)|null|
 |**2023-12-22**|**AppAgent: Multimodal Agents as Smartphone Users**|Chi Zhang et.al.|[2312.13771v2](http://arxiv.org/abs/2312.13771v2)|null|
 |**2023-12-21**|**A Semantic Space is Worth 256 Language Descriptions: Make Stronger Segmentation Models with Descriptive Properties**|Junfei Xiao et.al.|[2312.13764v1](http://arxiv.org/abs/2312.13764v1)|**[link](https://github.com/lambert-x/prolab)**|
 |**2023-12-21**|**Meta-control of Dialogue Systems Using Large Language Models**|Kotaro Shukuri et.al.|[2312.13715v1](http://arxiv.org/abs/2312.13715v1)|null|
@@ -8485,7 +8485,7 @@ layout: default
 |**2023-12-15**|**WordScape: a Pipeline to extract multilingual, visually rich Documents with Layout Annotations from Web Crawl Data**|Maurice Weber et.al.|[2312.10188v1](http://arxiv.org/abs/2312.10188v1)|**[link](https://github.com/DS3Lab/WordScape)**|
 |**2023-12-15**|**Do LVLMs Understand Charts? Analyzing and Correcting Factual Errors in Chart Captioning**|Kung-Hsiang Huang et.al.|[2312.10160v1](http://arxiv.org/abs/2312.10160v1)|**[link](https://github.com/khuangaf/chocolate)**|
 |**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144v1](http://arxiv.org/abs/2312.10144v1)|**[link](https://github.com/layer6ai-labs/fusemix)**|
-|**2023-12-15**|**ICD-LM: Configuring Vision-Language In-Context Demonstrations by Language Modeling**|Yingzhe Peng et.al.|[2312.10104v1](http://arxiv.org/abs/2312.10104v1)|**[link](https://github.com/forjadeforest/icd-lm)**|
+|**2023-12-22**|**ICD-LM: Configuring Vision-Language In-Context Demonstrations by Language Modeling**|Yingzhe Peng et.al.|[2312.10104v2](http://arxiv.org/abs/2312.10104v2)|**[link](https://github.com/forjadeforest/icd-lm)**|
 |**2023-12-15**|**GSVA: Generalized Segmentation via Multimodal Large Language Models**|Zhuofan Xia et.al.|[2312.10103v1](http://arxiv.org/abs/2312.10103v1)|null|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032v1](http://arxiv.org/abs/2312.10032v1)|**[link](https://github.com/circleradon/osprey)**|
 |**2023-12-15**|**Weakly-Supervised 3D Visual Grounding based on Visual Linguistic Alignment**|Xiaoxu Xu et.al.|[2312.09625v1](http://arxiv.org/abs/2312.09625v1)|null|
