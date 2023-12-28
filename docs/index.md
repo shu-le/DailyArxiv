@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 
 ## CV
 
@@ -37,7 +37,7 @@ layout: default
 |**2023-12-26**|**Monocular 3D Hand Mesh Recovery via Dual Noise Estimation**|Hanhui Li et.al.|[2312.15916v1](http://arxiv.org/abs/2312.15916v1)|**[link](https://github.com/hanhuili/dne4hand)**|
 |**2023-12-26**|**ChartBench: A Benchmark for Complex Visual Reasoning in Charts**|Zhengzhuo Xu et.al.|[2312.15915v1](http://arxiv.org/abs/2312.15915v1)|null|
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911v1](http://arxiv.org/abs/2312.15911v1)|null|
-|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|null|
+|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|**[link](https://github.com/daeheepark/TrajSDE)**|
 |**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905v1](http://arxiv.org/abs/2312.15905v1)|**[link](https://github.com/lyupang/crossinitialization)**|
 |**2023-12-26**|**Black-Box Tuning of Vision-Language Models with Effective Gradient Approximation**|Zixian Guo et.al.|[2312.15901v1](http://arxiv.org/abs/2312.15901v1)|**[link](https://github.com/guozix/cbbt)**|
 |**2023-12-26**|**Chain of Generation: Multi-Modal Gesture Synthesis via Cascaded Conditional Control**|Zunnan Xu et.al.|[2312.15900v1](http://arxiv.org/abs/2312.15900v1)|null|
@@ -3682,7 +3682,7 @@ layout: default
 |**2023-12-25**|**Audiobox: Unified Audio Generation with Natural Language Prompts**|Apoorv Vyas et.al.|[2312.15821v1](http://arxiv.org/abs/2312.15821v1)|null|
 |**2023-12-25**|**GenCast: Diffusion-based ensemble forecasting for medium-range weather**|Ilan Price et.al.|[2312.15796v1](http://arxiv.org/abs/2312.15796v1)|null|
 |**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v1](http://arxiv.org/abs/2312.15707v1)|null|
-|**2023-12-25**|**Open-Vocabulary Video Relation Extraction**|Wentao Tian et.al.|[2312.15670v1](http://arxiv.org/abs/2312.15670v1)|null|
+|**2023-12-25**|**Open-Vocabulary Video Relation Extraction**|Wentao Tian et.al.|[2312.15670v1](http://arxiv.org/abs/2312.15670v1)|**[link](https://github.com/iriya99/ovre)**|
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665v1](http://arxiv.org/abs/2312.15665v1)|**[link](https://github.com/wyky481l/mmcd)**|
 |**2023-12-25**|**Abductive Logical Reasoning on Knowledge Graphs**|Jiaxin Bai et.al.|[2312.15643v1](http://arxiv.org/abs/2312.15643v1)|null|
 |**2023-12-25**|**Balanced SNR-Aware Distillation for Guided Text-to-Audio Generation**|Bingzhi Liu et.al.|[2312.15628v1](http://arxiv.org/abs/2312.15628v1)|null|
@@ -5788,7 +5788,7 @@ layout: default
 |**2023-12-24**|**YAYI-UIE: A Chat-Enhanced Instruction Tuning Framework for Universal Information Extraction**|Xinglin Xiao et.al.|[2312.15548v1](http://arxiv.org/abs/2312.15548v1)|**[link](https://github.com/wenge-research/YAYI-UIE)**|
 |**2023-12-24**|**The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective**|George Gui et.al.|[2312.15524v1](http://arxiv.org/abs/2312.15524v1)|null|
 |**2023-12-24**|**The Persuasive Power of Large Language Models**|Simon Martin Breum et.al.|[2312.15523v1](http://arxiv.org/abs/2312.15523v1)|null|
-|**2023-12-24**|**Making Large Language Models A Better Foundation For Dense Retrieval**|Chaofan Li et.al.|[2312.15503v1](http://arxiv.org/abs/2312.15503v1)|null|
+|**2023-12-24**|**Making Large Language Models A Better Foundation For Dense Retrieval**|Chaofan Li et.al.|[2312.15503v1](http://arxiv.org/abs/2312.15503v1)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2023-12-24**|**A Group Fairness Lens for Large Language Models**|Guanqun Bi et.al.|[2312.15478v1](http://arxiv.org/abs/2312.15478v1)|null|
 |**2023-12-24**|**Towards Consistent Language Models Using Declarative Constraints**|Jasmin Mousavi et.al.|[2312.15472v1](http://arxiv.org/abs/2312.15472v1)|null|
 |**2023-12-24**|**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**|Xiaopeng Li et.al.|[2312.15450v1](http://arxiv.org/abs/2312.15450v1)|null|
@@ -8611,7 +8611,7 @@ layout: default
 |**2023-12-19**|**Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model**|Shraman Pramanick et.al.|[2312.12423v1](http://arxiv.org/abs/2312.12423v1)|null|
 |**2023-12-19**|**Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**|Yunhao Gou et.al.|[2312.12379v1](http://arxiv.org/abs/2312.12379v1)|null|
 |**2023-12-19**|**GeomVerse: A Systematic Evaluation of Large Models for Geometric Reasoning**|Mehran Kazemi et.al.|[2312.12241v1](http://arxiv.org/abs/2312.12241v1)|null|
-|**2023-12-19**|**Gemini: A Family of Highly Capable Multimodal Models**|Gemini Team et.al.|[2312.11805v1](http://arxiv.org/abs/2312.11805v1)|null|
+|**2023-12-19**|**Gemini: A Family of Highly Capable Multimodal Models**|Gemini Team et.al.|[2312.11805v1](http://arxiv.org/abs/2312.11805v1)|**[link](https://github.com/lupantech/MathVista)**|
 |**2023-12-19**|**Learning Object State Changes in Videos: An Open-World Perspective**|Zihui Xue et.al.|[2312.11782v1](http://arxiv.org/abs/2312.11782v1)|null|
 |**2023-12-18**|**Understanding the Multi-modal Prompts of the Pre-trained Vision-Language Model**|Shuailei Ma et.al.|[2312.11570v1](http://arxiv.org/abs/2312.11570v1)|null|
 |**2023-12-17**|**SAI3D: Segment Any Instance in 3D Scenes**|Yingda Yin et.al.|[2312.11557v1](http://arxiv.org/abs/2312.11557v1)|null|
@@ -9208,7 +9208,7 @@ layout: default
 |**2023-12-26**|**ChartBench: A Benchmark for Complex Visual Reasoning in Charts**|Zhengzhuo Xu et.al.|[2312.15915v1](http://arxiv.org/abs/2312.15915v1)|null|
 |**2023-12-26**|**Reinforcement Unlearning**|Dayong Ye et.al.|[2312.15910v1](http://arxiv.org/abs/2312.15910v1)|null|
 |**2023-12-26**|**Decentralized Monte Carlo Tree Search for Partially Observable Multi-agent Pathfinding**|Alexey Skrynnik et.al.|[2312.15908v1](http://arxiv.org/abs/2312.15908v1)|null|
-|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|null|
+|**2023-12-26**|**Improving Transferability for Cross-domain Trajectory Prediction via Neural Stochastic Differential Equation**|Daehee Park et.al.|[2312.15906v1](http://arxiv.org/abs/2312.15906v1)|**[link](https://github.com/daeheepark/TrajSDE)**|
 |**2023-12-26**|**Chain of Generation: Multi-Modal Gesture Synthesis via Cascaded Conditional Control**|Zunnan Xu et.al.|[2312.15900v1](http://arxiv.org/abs/2312.15900v1)|null|
 |**2023-12-26**|**Towards Robust Multimodal Prompting With Missing Modalities**|Jaehyuk Jang et.al.|[2312.15890v1](http://arxiv.org/abs/2312.15890v1)|null|
 |**2023-12-26**|**PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning**|Hangyu Mao et.al.|[2312.15863v1](http://arxiv.org/abs/2312.15863v1)|**[link](https://github.com/maohangyu/pdit)**|
