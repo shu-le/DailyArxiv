@@ -35,7 +35,7 @@
 |**2023-12-28**|**KeDuSR: Real-World Dual-Lens Super-Resolution via Kernel-Free Matching**|Huanjing Yue et.al.|[2312.17050v1](http://arxiv.org/abs/2312.17050v1)|**[link](https://github.com/craigie-hill/kedusr)**|
 |**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040v1](http://arxiv.org/abs/2312.17040v1)|null|
 |**2023-12-28**|**Generalized Mask-aware IoU for Anchor Assignment for Real-time Instance Segmentation**|Barış Can Çam et.al.|[2312.17031v1](http://arxiv.org/abs/2312.17031v1)|null|
-|**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030v1](http://arxiv.org/abs/2312.17030v1)|null|
+|**2023-12-28**|**Learning Multi-axis Representation in Frequency Domain for Medical Image Segmentation**|Jiacheng Ruan et.al.|[2312.17030v1](http://arxiv.org/abs/2312.17030v1)|**[link](https://github.com/jcruan519/mew-unet)**|
 |**2023-12-28**|**Learning Spatially Collaged Fourier Bases for Implicit Neural Representation**|Jason Chun Lok Li et.al.|[2312.17018v1](http://arxiv.org/abs/2312.17018v1)|null|
 |**2023-12-28**|**Robust Multi-Modal Image Stitching for Improved Scene Understanding**|Aritra Dutta et.al.|[2312.17010v1](http://arxiv.org/abs/2312.17010v1)|null|
 |**2023-12-28**|**Continual Learning in Medical Imaging Analysis: A Comprehensive Review of Recent Advancements and Future Prospects**|Pratibha Kumari et.al.|[2312.17004v1](http://arxiv.org/abs/2312.17004v1)|null|
@@ -5825,13 +5825,13 @@
 |---|---|---|---|---|
 |**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244v1](http://arxiv.org/abs/2312.17244v1)|null|
 |**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240v1](http://arxiv.org/abs/2312.17240v1)|null|
-|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238v1](http://arxiv.org/abs/2312.17238v1)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
 |**2023-12-28**|**A Simple LLM Framework for Long-Range Video Question-Answering**|Ce Zhang et.al.|[2312.17235v1](http://arxiv.org/abs/2312.17235v1)|null|
 |**2023-12-28**|**Virtual Scientific Companion for Synchrotron Beamlines: A Prototype**|Daniel Potemkin et.al.|[2312.17180v1](http://arxiv.org/abs/2312.17180v1)|null|
 |**2023-12-28**|**Non-Vacuous Generalization Bounds for Large Language Models**|Sanae Lotfi et.al.|[2312.17173v1](http://arxiv.org/abs/2312.17173v1)|null|
 |**2023-12-28**|**Large Language Model for Causal Decision Making**|Haitao Jiang et.al.|[2312.17122v1](http://arxiv.org/abs/2312.17122v1)|null|
 |**2023-12-28**|**How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation**|Yang Xiao et.al.|[2312.17115v1](http://arxiv.org/abs/2312.17115v1)|null|
-|**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|null|
+|**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|**[link](https://github.com/dvlab-research/diaggsm8k)**|
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055v1](http://arxiv.org/abs/2312.17055v1)|null|
 |**2023-12-28**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v1](http://arxiv.org/abs/2312.17025v1)|null|
 |**2023-12-28**|**Spike No More: Stabilizing the Pre-training of Large Language Models**|Sho Takase et.al.|[2312.16903v1](http://arxiv.org/abs/2312.16903v1)|null|
@@ -8693,7 +8693,7 @@
 |**2023-12-26**|**Black-Box Tuning of Vision-Language Models with Effective Gradient Approximation**|Zixian Guo et.al.|[2312.15901v1](http://arxiv.org/abs/2312.15901v1)|**[link](https://github.com/guozix/cbbt)**|
 |**2023-12-27**|**Masked Contrastive Reconstruction for Cross-modal Medical Image-Report Retrieval**|Zeqiang Wei et.al.|[2312.15840v2](http://arxiv.org/abs/2312.15840v2)|null|
 |**2023-12-25**|**IQAGPT: Image Quality Assessment with Vision-language and ChatGPT Models**|Zhihao Chen et.al.|[2312.15663v1](http://arxiv.org/abs/2312.15663v1)|null|
-|**2023-12-22**|**GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection**|Haozhan Shen et.al.|[2312.15043v1](http://arxiv.org/abs/2312.15043v1)|null|
+|**2023-12-22**|**GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection**|Haozhan Shen et.al.|[2312.15043v1](http://arxiv.org/abs/2312.15043v1)|**[link](https://github.com/om-ai-lab/groundvlp)**|
 |**2023-12-22**|**Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases**|Zhangyang Qi et.al.|[2312.15011v1](http://arxiv.org/abs/2312.15011v1)|**[link](https://github.com/qi-zhangyang/gemini-vs-gpt4v)**|
 |**2023-12-22**|**Leveraging Habitat Information for Fine-grained Bird Identification**|Tin Nguyen et.al.|[2312.14999v1](http://arxiv.org/abs/2312.14999v1)|null|
 |**2023-12-22**|**FoodLMM: A Versatile Food Assistant using Large Multi-modal Model**|Yuehao Yin et.al.|[2312.14991v1](http://arxiv.org/abs/2312.14991v1)|null|
@@ -9304,7 +9304,7 @@
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116v1](http://arxiv.org/abs/2312.17116v1)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-28**|**How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation**|Yang Xiao et.al.|[2312.17115v1](http://arxiv.org/abs/2312.17115v1)|null|
 |**2023-12-28**|**When Metaverses Meet Vehicle Road Cooperation: Multi-Agent DRL-Based Stackelberg Game for Vehicular Twins Migration**|Jiawen Kang et.al.|[2312.17081v1](http://arxiv.org/abs/2312.17081v1)|null|
-|**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|null|
+|**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|**[link](https://github.com/dvlab-research/diaggsm8k)**|
 |**2023-12-28**|**On the optimality of Shapley mechanism under Sybil strategies**|Bruno Mazorra Roig et.al.|[2312.17058v1](http://arxiv.org/abs/2312.17058v1)|null|
 |**2023-12-28**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v1](http://arxiv.org/abs/2312.17025v1)|null|
 |**2023-12-28**|**Mitigating Modal Noise in Multimode Circular Fibres by Optical Agitation using a Galvanometer**|Supriyo Ghosh et.al.|[2312.16996v1](http://arxiv.org/abs/2312.16996v1)|null|
