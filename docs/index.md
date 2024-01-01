@@ -24,10 +24,10 @@ layout: default
 |**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|null|
 |**2023-12-28**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[2312.17163v1](http://arxiv.org/abs/2312.17163v1)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
-|**2023-12-28**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142v1](http://arxiv.org/abs/2312.17142v1)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
+|**2023-12-29**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142v2](http://arxiv.org/abs/2312.17142v2)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135v1](http://arxiv.org/abs/2312.17135v1)|null|
-|**2023-12-28**|**ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe**|Yifan Bai et.al.|[2312.17133v1](http://arxiv.org/abs/2312.17133v1)|null|
-|**2023-12-28**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[2312.17118v1](http://arxiv.org/abs/2312.17118v1)|null|
+|**2023-12-29**|**ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe**|Yifan Bai et.al.|[2312.17133v2](http://arxiv.org/abs/2312.17133v2)|null|
+|**2023-12-29**|**Fully Sparse 3D Panoptic Occupancy Prediction**|Haisong Liu et.al.|[2312.17118v2](http://arxiv.org/abs/2312.17118v2)|null|
 |**2023-12-28**|**Grounding-Prompter: Prompting LLM with Multimodal Information for Temporal Sentence Grounding in Long Videos**|Houlun Chen et.al.|[2312.17117v1](http://arxiv.org/abs/2312.17117v1)|null|
 |**2023-12-28**|**Generalizable Visual Reinforcement Learning with Segment Anything Model**|Ziyu Wang et.al.|[2312.17116v1](http://arxiv.org/abs/2312.17116v1)|**[link](https://github.com/wadiuvatzy/sam-g)**|
 |**2023-12-28**|**MIVC: Multiple Instance Visual Component for Visual-Language Models**|Wenyi Wu et.al.|[2312.17109v1](http://arxiv.org/abs/2312.17109v1)|null|
@@ -48,7 +48,7 @@ layout: default
 |**2023-12-28**|**Image Quality, Uniformity and Computation Improvement of Compressive Light Field Displays with U-Net**|Chen Gao et.al.|[2312.16987v1](http://arxiv.org/abs/2312.16987v1)|null|
 |**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980v1](http://arxiv.org/abs/2312.16980v1)|null|
 |**2023-12-28**|**Reinforcement-based Display-size Selection for Frugal Satellite Image Change Detection**|Hichem Sahbi et.al.|[2312.16965v1](http://arxiv.org/abs/2312.16965v1)|null|
-|**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963v1](http://arxiv.org/abs/2312.16963v1)|null|
+|**2023-12-29**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963v2](http://arxiv.org/abs/2312.16963v2)|null|
 |**2023-12-28**|**Attack Tree Analysis for Adversarial Evasion Attacks**|Yuki Yamaguchi et.al.|[2312.16957v1](http://arxiv.org/abs/2312.16957v1)|null|
 |**2023-12-28**|**SAR-Net: Multi-scale Direction-aware SAR Network via Global Information Fusion**|Mingxiang Cao et.al.|[2312.16943v1](http://arxiv.org/abs/2312.16943v1)|null|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
@@ -3719,7 +3719,7 @@ layout: default
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890v1](http://arxiv.org/abs/2312.16890v1)|**[link](https://github.com/hkuds/diffkg)**|
 |**2023-12-28**|**Hiding in Plain Sight: Towards the Science of Linguistic Steganography**|Leela Raj-Sankar et.al.|[2312.16840v1](http://arxiv.org/abs/2312.16840v1)|null|
-|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837v1](http://arxiv.org/abs/2312.16837v1)|null|
+|**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837v2](http://arxiv.org/abs/2312.16837v2)|null|
 |**2023-12-28**|**A Contrastive Variational Graph Auto-Encoder for Node Clustering**|Nairouz Mrabah et.al.|[2312.16830v1](http://arxiv.org/abs/2312.16830v1)|**[link](https://github.com/nairouz/cvgae_pr)**|
 |**2023-12-28**|**Multi-Prompts Learning with Cross-Modal Alignment for Attribute-based Person Re-Identification**|Yajing Zhai et.al.|[2312.16797v1](http://arxiv.org/abs/2312.16797v1)|null|
 |**2023-12-27**|**FairCompass: Operationalising Fairness in Machine Learning**|Jessica Liu et.al.|[2312.16726v1](http://arxiv.org/abs/2312.16726v1)|null|
@@ -3729,7 +3729,7 @@ layout: default
 |**2023-12-27**|**Participatory prompting: a user-centric research method for eliciting AI assistance opportunities in knowledge workflows**|Advait Sarkar et.al.|[2312.16633v1](http://arxiv.org/abs/2312.16633v1)|null|
 |**2023-12-27**|**AE-Flow: AutoEncoder Normalizing Flow**|Jakub Mosiński et.al.|[2312.16552v1](http://arxiv.org/abs/2312.16552v1)|null|
 |**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519v1](http://arxiv.org/abs/2312.16519v1)|null|
-|**2023-12-27**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486v1](http://arxiv.org/abs/2312.16486v1)|null|
+|**2023-12-29**|**PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion**|Guansong Lu et.al.|[2312.16486v2](http://arxiv.org/abs/2312.16486v2)|null|
 |**2023-12-27**|**SVGDreamer: Text Guided SVG Generation with Diffusion Model**|Ximing Xing et.al.|[2312.16476v1](http://arxiv.org/abs/2312.16476v1)|null|
 |**2023-12-27**|**Bellman Optimal Step-size Straightening of Flow-Matching Models**|Bao Nguyen et.al.|[2312.16414v1](http://arxiv.org/abs/2312.16414v1)|null|
 |**2023-12-27**|**Dynamic Sub-graph Distillation for Robust Semi-supervised Continual Learning**|Yan Fan et.al.|[2312.16409v1](http://arxiv.org/abs/2312.16409v1)|**[link](https://github.com/fanyan0411/dsgd)**|
@@ -5837,7 +5837,7 @@ layout: default
 |**2023-12-28**|**How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation**|Yang Xiao et.al.|[2312.17115v1](http://arxiv.org/abs/2312.17115v1)|null|
 |**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|**[link](https://github.com/dvlab-research/diaggsm8k)**|
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055v1](http://arxiv.org/abs/2312.17055v1)|null|
-|**2023-12-28**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v1](http://arxiv.org/abs/2312.17025v1)|null|
+|**2023-12-29**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v2](http://arxiv.org/abs/2312.17025v2)|null|
 |**2023-12-28**|**Spike No More: Stabilizing the Pre-training of Large Language Models**|Sho Takase et.al.|[2312.16903v1](http://arxiv.org/abs/2312.16903v1)|null|
 |**2023-12-28**|**BBScore: A Brownian Bridge Based Metric for Assessing Text Coherence**|Zhecheng Sheng et.al.|[2312.16893v1](http://arxiv.org/abs/2312.16893v1)|null|
 |**2023-12-28**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862v1](http://arxiv.org/abs/2312.16862v1)|**[link](https://github.com/dlyuangod/tinygpt-v)**|
@@ -5849,7 +5849,7 @@ layout: default
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549v1](http://arxiv.org/abs/2312.16549v1)|null|
 |**2023-12-27**|**The Use of Multiple Conversational Agent Interlocutors in Learning**|Samuel Rhys Cox et.al.|[2312.16534v1](http://arxiv.org/abs/2312.16534v1)|null|
 |**2023-12-27**|**Automating Knowledge Acquisition for Content-Centric Cognitive Agents Using LLMs**|Sanjay Oruganti et.al.|[2312.16378v1](http://arxiv.org/abs/2312.16378v1)|null|
-|**2023-12-27**|**LLM Polygraph: Uncovering LLMs' Factual Discernment through Intermediate Data Analysis**|Jinwen He et.al.|[2312.16374v1](http://arxiv.org/abs/2312.16374v1)|null|
+|**2023-12-29**|**LLM Factoscope: Uncovering LLMs' Factual Discernment through Inner States Analysis**|Jinwen He et.al.|[2312.16374v2](http://arxiv.org/abs/2312.16374v2)|null|
 |**2023-12-26**|**LLMs with User-defined Prompts as Generic Data Operators for Reliable Data Processing**|Luyi Ma et.al.|[2312.16351v1](http://arxiv.org/abs/2312.16351v1)|null|
 |**2023-12-26**|**Task Contamination: Language Models May Not Be Few-Shot Anymore**|Changmao Li et.al.|[2312.16337v1](http://arxiv.org/abs/2312.16337v1)|null|
 |**2023-12-26**|**Observable Propagation: A Data-Efficient Approach to Uncover Feature Vectors in Transformers**|Jacob Dunefsky et.al.|[2312.16291v1](http://arxiv.org/abs/2312.16291v1)|**[link](https://github.com/jacobdunefsky/observablepropagation)**|
@@ -9310,7 +9310,7 @@ layout: default
 |**2023-12-28**|**When Metaverses Meet Vehicle Road Cooperation: Multi-Agent DRL-Based Stackelberg Game for Vehicular Twins Migration**|Jiawen Kang et.al.|[2312.17081v1](http://arxiv.org/abs/2312.17081v1)|null|
 |**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|**[link](https://github.com/dvlab-research/diaggsm8k)**|
 |**2023-12-28**|**On the optimality of Shapley mechanism under Sybil strategies**|Bruno Mazorra Roig et.al.|[2312.17058v1](http://arxiv.org/abs/2312.17058v1)|null|
-|**2023-12-28**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v1](http://arxiv.org/abs/2312.17025v1)|null|
+|**2023-12-29**|**Experiential Co-Learning of Software-Developing Agents**|Chen Qian et.al.|[2312.17025v2](http://arxiv.org/abs/2312.17025v2)|null|
 |**2023-12-28**|**Mitigating Modal Noise in Multimode Circular Fibres by Optical Agitation using a Galvanometer**|Supriyo Ghosh et.al.|[2312.16996v1](http://arxiv.org/abs/2312.16996v1)|null|
 |**2023-12-28**|**Model-aware reinforcement learning for high-performance Bayesian experimental design in quantum metrology**|Federico Belliardo et.al.|[2312.16985v1](http://arxiv.org/abs/2312.16985v1)|null|
 |**2023-12-28**|**Replication-proof Bandit Mechanism Design**|Seyed Esmaeili et.al.|[2312.16896v1](http://arxiv.org/abs/2312.16896v1)|null|
@@ -13347,7 +13347,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225v1](http://arxiv.org/abs/2312.17225v1)|null|
-|**2023-12-28**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142v1](http://arxiv.org/abs/2312.17142v1)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
+|**2023-12-29**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142v2](http://arxiv.org/abs/2312.17142v2)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
 |**2023-12-28**|**Probabilistic Programming with Exact Conditions**|Dario Stein et.al.|[2312.17141v1](http://arxiv.org/abs/2312.17141v1)|null|
 |**2023-12-28**|**Inconsistency of cross-validation for structure learning in Gaussian graphical models**|Zhao Lyu et.al.|[2312.17047v1](http://arxiv.org/abs/2312.17047v1)|null|
 |**2023-12-28**|**PG-LBO: Enhancing High-Dimensional Bayesian Optimization with Pseudo-Label and Gaussian Process Guidance**|Taicai Chen et.al.|[2312.16983v1](http://arxiv.org/abs/2312.16983v1)|**[link](https://github.com/taicaichen/pg-lbo)**|
