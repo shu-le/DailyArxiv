@@ -56,7 +56,7 @@ layout: default
 |**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174v1](http://arxiv.org/abs/2312.17174v1)|**[link](https://github.com/yingwangg/m2ib)**|
 |**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|null|
-|**2023-12-28**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[2312.17163v1](http://arxiv.org/abs/2312.17163v1)|null|
+|**2024-01-01**|**FENet: Focusing Enhanced Network for Lane Detection**|Liman Wang et.al.|[2312.17163v2](http://arxiv.org/abs/2312.17163v2)|null|
 |**2023-12-28**|**Restoration by Generation with Constrained Priors**|Zheng Ding et.al.|[2312.17161v1](http://arxiv.org/abs/2312.17161v1)|null|
 |**2023-12-29**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142v2](http://arxiv.org/abs/2312.17142v2)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
 |**2023-12-28**|**InsActor: Instruction-driven Physics-based Characters**|Jiawei Ren et.al.|[2312.17135v1](http://arxiv.org/abs/2312.17135v1)|null|
@@ -3787,7 +3787,7 @@ layout: default
 |**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073v1](http://arxiv.org/abs/2312.16073v1)|null|
 |**2023-12-26**|**Deep learning the nonclassicality within quasi-distribution representations from marginals**|Hong-Bin Chen et.al.|[2312.16055v1](http://arxiv.org/abs/2312.16055v1)|null|
 |**2023-12-26**|**Entanglement topography of large-scale quantum networks**|Md Sohel Mondal et.al.|[2312.16009v1](http://arxiv.org/abs/2312.16009v1)|null|
-|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|null|
+|**2023-12-26**|**HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D**|Sangmin Woo et.al.|[2312.15980v1](http://arxiv.org/abs/2312.15980v1)|**[link](https://github.com/byeongjun-park/HarmonyView)**|
 |**2023-12-27**|**Exploiting the capacity of deep networks only at training stage for nonlinear black-box system identification**|Vahid MohammadZadeh Eivaghi et.al.|[2312.15969v2](http://arxiv.org/abs/2312.15969v2)|null|
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964v1](http://arxiv.org/abs/2312.15964v1)|null|
 |**2023-12-26**|**Implied volatility (also) is path-dependent**|Hervé Andrès et.al.|[2312.15950v1](http://arxiv.org/abs/2312.15950v1)|**[link](https://github.com/jordylek/volatilityismostlypathdependent)**|
