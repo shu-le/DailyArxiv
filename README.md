@@ -47,7 +47,7 @@
 |**2023-12-28**|**Personalized Restoration via Dual-Pivot Tuning**|Pradyumna Chari et.al.|[2312.17234v1](http://arxiv.org/abs/2312.17234v1)|null|
 |**2023-12-28**|**Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels**|Rui Huang et.al.|[2312.17232v1](http://arxiv.org/abs/2312.17232v1)|null|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225v1](http://arxiv.org/abs/2312.17225v1)|null|
-|**2023-12-28**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205v1](http://arxiv.org/abs/2312.17205v1)|null|
+|**2023-12-30**|**EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**|Trung Tuan Dao et.al.|[2312.17205v2](http://arxiv.org/abs/2312.17205v2)|null|
 |**2023-12-28**|**HISR: Hybrid Implicit Surface Representation for Photorealistic 3D Human Reconstruction**|Angtian Wang et.al.|[2312.17192v1](http://arxiv.org/abs/2312.17192v1)|null|
 |**2023-12-28**|**One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts**|Ziheng Zhao et.al.|[2312.17183v1](http://arxiv.org/abs/2312.17183v1)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174v1](http://arxiv.org/abs/2312.17174v1)|**[link](https://github.com/yingwangg/m2ib)**|
@@ -3792,7 +3792,7 @@
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911v1](http://arxiv.org/abs/2312.15911v1)|null|
 |**2023-12-26**|**Cross Initialization for Personalized Text-to-Image Generation**|Lianyu Pang et.al.|[2312.15905v1](http://arxiv.org/abs/2312.15905v1)|**[link](https://github.com/lyupang/crossinitialization)**|
 |**2023-12-26**|**Recursive Distillation for Open-Set Distributed Robot Localization**|Kenta Tsukahara et.al.|[2312.15897v1](http://arxiv.org/abs/2312.15897v1)|null|
-|**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826v1](http://arxiv.org/abs/2312.15826v1)|null|
+|**2023-12-30**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826v2](http://arxiv.org/abs/2312.15826v2)|null|
 |**2023-12-25**|**Audiobox: Unified Audio Generation with Natural Language Prompts**|Apoorv Vyas et.al.|[2312.15821v1](http://arxiv.org/abs/2312.15821v1)|null|
 |**2023-12-25**|**GenCast: Diffusion-based ensemble forecasting for medium-range weather**|Ilan Price et.al.|[2312.15796v1](http://arxiv.org/abs/2312.15796v1)|null|
 |**2023-12-28**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707v2](http://arxiv.org/abs/2312.15707v2)|null|
@@ -5900,7 +5900,7 @@
 |**2023-12-28**|**A Simple LLM Framework for Long-Range Video Question-Answering**|Ce Zhang et.al.|[2312.17235v1](http://arxiv.org/abs/2312.17235v1)|null|
 |**2023-12-28**|**Virtual Scientific Companion for Synchrotron Beamlines: A Prototype**|Daniel Potemkin et.al.|[2312.17180v1](http://arxiv.org/abs/2312.17180v1)|null|
 |**2023-12-28**|**Non-Vacuous Generalization Bounds for Large Language Models**|Sanae Lotfi et.al.|[2312.17173v1](http://arxiv.org/abs/2312.17173v1)|null|
-|**2023-12-28**|**Large Language Model for Causal Decision Making**|Haitao Jiang et.al.|[2312.17122v1](http://arxiv.org/abs/2312.17122v1)|null|
+|**2023-12-29**|**Large Language Model for Causal Decision Making**|Haitao Jiang et.al.|[2312.17122v2](http://arxiv.org/abs/2312.17122v2)|null|
 |**2023-12-28**|**How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation**|Yang Xiao et.al.|[2312.17115v1](http://arxiv.org/abs/2312.17115v1)|null|
 |**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080v1](http://arxiv.org/abs/2312.17080v1)|**[link](https://github.com/dvlab-research/diaggsm8k)**|
 |**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055v1](http://arxiv.org/abs/2312.17055v1)|null|
@@ -8760,7 +8760,7 @@
 |**2023-12-28**|**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action**|Jiasen Lu et.al.|[2312.17172v1](http://arxiv.org/abs/2312.17172v1)|null|
 |**2023-12-28**|**MIVC: Multiple Instance Visual Component for Visual-Language Models**|Wenyi Wu et.al.|[2312.17109v1](http://arxiv.org/abs/2312.17109v1)|null|
 |**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051v1](http://arxiv.org/abs/2312.17051v1)|null|
-|**2023-12-28**|**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886v1](http://arxiv.org/abs/2312.16886v1)|**[link](https://github.com/meituan-automl/mobilevlm)**|
+|**2023-12-30**|**MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886v2](http://arxiv.org/abs/2312.16886v2)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794v1](http://arxiv.org/abs/2312.16794v1)|null|
 |**2023-12-27**|**Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection**|Huan Liu et.al.|[2312.16649v1](http://arxiv.org/abs/2312.16649v1)|null|
 |**2023-12-27**|**Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey**|Jiaxing Huang et.al.|[2312.16602v1](http://arxiv.org/abs/2312.16602v1)|null|
@@ -9406,7 +9406,7 @@
 |**2023-12-28**|**Mitigating Modal Noise in Multimode Circular Fibres by Optical Agitation using a Galvanometer**|Supriyo Ghosh et.al.|[2312.16996v1](http://arxiv.org/abs/2312.16996v1)|null|
 |**2023-12-28**|**Model-aware reinforcement learning for high-performance Bayesian experimental design in quantum metrology**|Federico Belliardo et.al.|[2312.16985v1](http://arxiv.org/abs/2312.16985v1)|null|
 |**2023-12-28**|**Replication-proof Bandit Mechanism Design**|Seyed Esmaeili et.al.|[2312.16896v1](http://arxiv.org/abs/2312.16896v1)|null|
-|**2023-12-28**|**MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886v1](http://arxiv.org/abs/2312.16886v1)|**[link](https://github.com/meituan-automl/mobilevlm)**|
+|**2023-12-30**|**MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices**|Xiangxiang Chu et.al.|[2312.16886v2](http://arxiv.org/abs/2312.16886v2)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2023-12-28**|**TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones**|Zhengqing Yuan et.al.|[2312.16862v1](http://arxiv.org/abs/2312.16862v1)|**[link](https://github.com/dlyuangod/tinygpt-v)**|
 |**2023-12-28**|**Experimental control of mode-competition dynamics in a chaotic multimode semiconductor laser for decision making**|Ryugo Iwami et.al.|[2312.16798v1](http://arxiv.org/abs/2312.16798v1)|null|
 |**2023-12-28**|**Monitoring with Rich Data**|Mira Frick et.al.|[2312.16789v1](http://arxiv.org/abs/2312.16789v1)|null|
