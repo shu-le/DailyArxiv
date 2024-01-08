@@ -13994,7 +13994,7 @@
 |**2024-01-04**|**Femtoscopy analysis in small systems at NA61/SHINE**|Barnabas Porfy et.al.|[2401.02553v1](http://arxiv.org/abs/2401.02553v1)|null|
 |**2024-01-04**|**Identifying thermal effects in neutron star merger remnants with model-agnostic waveform reconstructions and third-generation detectors**|Miquel Miravet-Tenés et.al.|[2401.02493v1](http://arxiv.org/abs/2401.02493v1)|null|
 |**2024-01-04**|**Probabilistic Trajectory Design Via Approximate Gaussian Mixture Steering**|William Fife et.al.|[2401.02396v1](http://arxiv.org/abs/2401.02396v1)|null|
-|**2024-01-04**|**Assessing Time Series Correlation Significance: A Parametric Approach with Application to Physiological Signals**|Johan Medrano et.al.|[2401.02387v1](http://arxiv.org/abs/2401.02387v1)|null|
+|**2024-01-04**|**Assessing Time Series Correlation Significance: A Parametric Approach with Application to Physiological Signals**|Johan Medrano et.al.|[2401.02387v1](http://arxiv.org/abs/2401.02387v1)|**[link](https://github.com/johmedr/corrts)**|
 |**2024-01-04**|**Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training**|Longtian Qiu et.al.|[2401.02347v1](http://arxiv.org/abs/2401.02347v1)|**[link](https://github.com/artanic30/maccap)**|
 |**2024-01-04**|**A Robust Quantile Huber Loss With Interpretable Parameter Adjustment In Distributional Reinforcement Learning**|Parvin Malekzadeh et.al.|[2401.02325v1](http://arxiv.org/abs/2401.02325v1)|**[link](https://github.com/pmalekzadeh/A-robust-quantile-huber-loss)**|
 |**2024-01-04**|**Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches**|George Alestas et.al.|[2401.02314v1](http://arxiv.org/abs/2401.02314v1)|null|
