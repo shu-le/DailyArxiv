@@ -3959,7 +3959,7 @@
 |**2024-01-04**|**Linguistic Profiling of Deepfakes: An Open Database for Next-Generation Deepfake Detection**|Yabin Wang et.al.|[2401.02335v1](http://arxiv.org/abs/2401.02335v1)|**[link](https://github.com/dflip3k/dflip-3k)**|
 |**2024-01-04**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v1](http://arxiv.org/abs/2401.02317v1)|**[link](https://github.com/zongzi13545329/ba-sam)**|
 |**2024-01-04**|**SuperEdge: Towards a Generalization Model for Self-Supervised Edge Detection**|Leng Kai et.al.|[2401.02313v1](http://arxiv.org/abs/2401.02313v1)|null|
-|**2024-01-04**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142v1](http://arxiv.org/abs/2401.02142v1)|null|
+|**2024-01-06**|**GUESS:GradUally Enriching SyntheSis for Text-Driven Human Motion Generation**|Xuehao Gao et.al.|[2401.02142v2](http://arxiv.org/abs/2401.02142v2)|null|
 |**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097v1](http://arxiv.org/abs/2401.02097v1)|null|
 |**2024-01-04**|**Energy based diffusion generator for efficient sampling of Boltzmann distributions**|Yan Wang et.al.|[2401.02080v1](http://arxiv.org/abs/2401.02080v1)|null|
 |**2024-01-04**|**DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection**|Yunfan Ye et.al.|[2401.02032v1](http://arxiv.org/abs/2401.02032v1)|**[link](https://github.com/guhuangai/diffusionedge)**|
@@ -6186,14 +6186,14 @@
 |**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132v1](http://arxiv.org/abs/2401.02132v1)|**[link](https://github.com/intuit-ai-research/dcr-consistency)**|
 |**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072v1](http://arxiv.org/abs/2401.02072v1)|null|
 |**2024-01-04**|**An Example of Evolutionary Computation + Large Language Model Beating Human: Design of Efficient Guided Local Search**|Fei Liu et.al.|[2401.02051v1](http://arxiv.org/abs/2401.02051v1)|null|
-|**2024-01-04**|**Understanding LLMs: A Comprehensive Overview from Training to Inference**|Yiheng Liu et.al.|[2401.02038v1](http://arxiv.org/abs/2401.02038v1)|null|
+|**2024-01-06**|**Understanding LLMs: A Comprehensive Overview from Training to Inference**|Yiheng Liu et.al.|[2401.02038v2](http://arxiv.org/abs/2401.02038v2)|null|
 |**2024-01-04**|**Text2MDT: Extracting Medical Decision Trees from Medical Texts**|Wei Zhu et.al.|[2401.02034v1](http://arxiv.org/abs/2401.02034v1)|null|
 |**2024-01-04**|**Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**|Wenqi Zhang et.al.|[2401.02009v1](http://arxiv.org/abs/2401.02009v1)|null|
 |**2024-01-03**|**Close to Human-Level Agreement: Tracing Journeys of Violent Speech in Incel Posts with GPT-4-Enhanced Annotations**|Daniel Matter et.al.|[2401.02001v1](http://arxiv.org/abs/2401.02001v1)|null|
 |**2024-01-03**|**Revisiting Zero-Shot Abstractive Summarization in the Era of Large Language Models from the Perspective of Position Bias**|Anshuman Chhabra et.al.|[2401.01989v1](http://arxiv.org/abs/2401.01989v1)|**[link](https://github.com/anshuman23/llm_position_bias)**|
 |**2024-01-03**|**Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as Programmers**|Aleksandar Stanić et.al.|[2401.01974v1](http://arxiv.org/abs/2401.01974v1)|null|
-|**2024-01-03**|**Generalist embedding models are better at short-context clinical semantic search than specialized embedding models**|Jean-Baptiste Excoffier et.al.|[2401.01943v1](http://arxiv.org/abs/2401.01943v1)|**[link](https://github.com/kaduceo/icd10cm_embedding_benchmark)**|
-|**2024-01-03**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923v1](http://arxiv.org/abs/2401.01923v1)|null|
+|**2024-01-06**|**Generalist embedding models are better at short-context clinical semantic search than specialized embedding models**|Jean-Baptiste Excoffier et.al.|[2401.01943v2](http://arxiv.org/abs/2401.01943v2)|**[link](https://github.com/kaduceo/icd10cm_embedding_benchmark)**|
+|**2024-01-06**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923v2](http://arxiv.org/abs/2401.01923v2)|null|
 |**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883v1](http://arxiv.org/abs/2401.01883v1)|null|
 |**2024-01-03**|**A Vision Check-up for Language Models**|Pratyusha Sharma et.al.|[2401.01862v1](http://arxiv.org/abs/2401.01862v1)|null|
 |**2024-01-03**|**Multilingual Instruction Tuning With Just a Pinch of Multilinguality**|Uri Shaham et.al.|[2401.01854v1](http://arxiv.org/abs/2401.01854v1)|null|
@@ -9169,7 +9169,7 @@
 |**2024-01-03**|**GPT-4V(ision) is a Generalist Web Agent, if Grounded**|Boyuan Zheng et.al.|[2401.01614v1](http://arxiv.org/abs/2401.01614v1)|**[link](https://github.com/osu-nlp-group/seeact)**|
 |**2024-01-03**|**Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning**|Zitong Huang et.al.|[2401.01598v1](http://arxiv.org/abs/2401.01598v1)|**[link](https://github.com/1170300714/lp-dif)**|
 |**2024-01-03**|**Glance and Focus: Memory Prompting for Multi-Event Video Question Answering**|Ziyi Bai et.al.|[2401.01529v1](http://arxiv.org/abs/2401.01529v1)|**[link](https://github.com/byz0e/glance-focus)**|
-|**2024-01-03**|**GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**|Hongzhan Lin et.al.|[2401.01523v1](http://arxiv.org/abs/2401.01523v1)|null|
+|**2024-01-07**|**GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse**|Hongzhan Lin et.al.|[2401.01523v2](http://arxiv.org/abs/2401.01523v2)|null|
 |**2024-01-03**|**Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition**|Kyle Buettner et.al.|[2401.01482v1](http://arxiv.org/abs/2401.01482v1)|null|
 |**2024-01-02**|**Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification**|Xuelin Zhu et.al.|[2401.01181v1](http://arxiv.org/abs/2401.01181v1)|null|
 |**2024-01-02**|**Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training**|Jiuming Qin et.al.|[2401.01179v1](http://arxiv.org/abs/2401.01179v1)|null|
