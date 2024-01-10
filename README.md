@@ -32,7 +32,7 @@
 |**2024-01-08**|**A multimodal gesture recognition dataset for desktop human-computer interaction**|Qi Wang et.al.|[2401.03828v1](http://arxiv.org/abs/2401.03828v1)|null|
 |**2024-01-08**|**Gnuastro: visualizing the full dynamic range in color images**|Raúl Infante-Sainz et.al.|[2401.03814v1](http://arxiv.org/abs/2401.03814v1)|null|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|null|
-|**2024-01-08**|**MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation**|Dong Yang et.al.|[2401.03800v1](http://arxiv.org/abs/2401.03800v1)|null|
+|**2024-01-09**|**MvKSR: Multi-view Knowledge-guided Scene Recovery for Hazy and Rainy Degradation**|Dong Yang et.al.|[2401.03800v2](http://arxiv.org/abs/2401.03800v2)|null|
 |**2024-01-08**|**Anatomy of Neural Language Models**|Majd Saleh et.al.|[2401.03797v1](http://arxiv.org/abs/2401.03797v1)|**[link](https://github.com/b-com/anatomynlm)**|
 |**2024-01-08**|**Monitoring water contaminants in coastal areas through ML algorithms leveraging atmospherically corrected Sentinel-2 data**|Francesca Razzano et.al.|[2401.03792v1](http://arxiv.org/abs/2401.03792v1)|null|
 |**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788v1](http://arxiv.org/abs/2401.03788v1)|**[link](https://github.com/He-Jinhong/CFWD)**|
@@ -4004,7 +4004,7 @@
 |**2024-01-08**|**Inverse Reinforcement Learning with Sub-optimal Experts**|Riccardo Poiani et.al.|[2401.03857v1](http://arxiv.org/abs/2401.03857v1)|null|
 |**2024-01-08**|**TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment**|Jiquan Yuan et.al.|[2401.03854v1](http://arxiv.org/abs/2401.03854v1)|**[link](https://github.com/jiquan123/TIER)**|
 |**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629v1](http://arxiv.org/abs/2401.03629v1)|null|
-|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v1](http://arxiv.org/abs/2401.03514v1)|null|
+|**2024-01-09**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v2](http://arxiv.org/abs/2401.03514v2)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476v1](http://arxiv.org/abs/2401.03476v1)|null|
 |**2024-01-07**|**SpecRef: A Fast Training-free Baseline of Specific Reference-Condition Real Image Editing**|Songyan Chen et.al.|[2401.03433v1](http://arxiv.org/abs/2401.03433v1)|**[link](https://github.com/jingjiqinggong/specp2p)**|
 |**2024-01-07**|**Deep Learning-based Image and Video Inpainting: A Survey**|Weize Quan et.al.|[2401.03395v1](http://arxiv.org/abs/2401.03395v1)|null|
@@ -4015,7 +4015,7 @@
 |**2024-01-06**|**Short-Time Fourier Transform for deblurring Variational Autoencoders**|Vibhu Dalal et.al.|[2401.03166v1](http://arxiv.org/abs/2401.03166v1)|**[link](https://github.com/Vibhu04/Deblurring-Variational-Autoencoders-with-STFT)**|
 |**2024-01-06**|**An Event-Oriented Diffusion-Refinement Method for Sparse Events Completion**|Bo Zhang et.al.|[2401.03153v1](http://arxiv.org/abs/2401.03153v1)|null|
 |**2024-01-06**|**Controllable Image Synthesis of Industrial Data Using Stable Diffusion**|Gabriele Valvano et.al.|[2401.03152v1](http://arxiv.org/abs/2401.03152v1)|null|
-|**2024-01-06**|**Fair Sampling in Diffusion Models through Switching Mechanism**|Yujin Choi et.al.|[2401.03140v1](http://arxiv.org/abs/2401.03140v1)|**[link](https://github.com/uzn36/attributeswitching)**|
+|**2024-01-09**|**Fair Sampling in Diffusion Models through Switching Mechanism**|Yujin Choi et.al.|[2401.03140v2](http://arxiv.org/abs/2401.03140v2)|**[link](https://github.com/uzn36/attributeswitching)**|
 |**2024-01-06**|**SAR Despeckling via Regional Denoising Diffusion Probabilistic Model**|Xuran Hu et.al.|[2401.03122v1](http://arxiv.org/abs/2401.03122v1)|null|
 |**2024-01-05**|**Latte: Latent Diffusion Transformer for Video Generation**|Xin Ma et.al.|[2401.03048v1](http://arxiv.org/abs/2401.03048v1)|**[link](https://github.com/maxin-cn/Latte)**|
 |**2024-01-05**|**The Rise of Diffusion Models in Time-Series Forecasting**|Caspar Meijer et.al.|[2401.03006v1](http://arxiv.org/abs/2401.03006v1)|**[link](https://github.com/ai4healthuol/sssd)**|
@@ -6239,7 +6239,7 @@
 |**2024-01-08**|**TextMachina: Seamless Generation of Machine-Generated Text Datasets**|Areg Mikael Sarvazyan et.al.|[2401.03946v1](http://arxiv.org/abs/2401.03946v1)|**[link](https://github.com/genaios/textmachina)**|
 |**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945v1](http://arxiv.org/abs/2401.03945v1)|**[link](https://github.com/0nutation/speechagents)**|
 |**2024-01-08**|**A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates**|Raphaël Millière et.al.|[2401.03910v1](http://arxiv.org/abs/2401.03910v1)|null|
-|**2024-01-08**|**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGA**|Shulin Zeng et.al.|[2401.03868v1](http://arxiv.org/abs/2401.03868v1)|null|
+|**2024-01-09**|**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs**|Shulin Zeng et.al.|[2401.03868v2](http://arxiv.org/abs/2401.03868v2)|null|
 |**2024-01-08**|**Boldly Going Where No Benchmark Has Gone Before: Exposing Bias and Shortcomings in Code Generation Evaluation**|Ankit Yadav et.al.|[2401.03855v1](http://arxiv.org/abs/2401.03855v1)|null|
 |**2024-01-08**|**Aligned with LLM: a new multi-modal training paradigm for encoding fMRI activity in visual cortex**|Shuxiao Ma et.al.|[2401.03851v1](http://arxiv.org/abs/2401.03851v1)|null|
 |**2024-01-08**|**T-FREX: A Transformer-based Feature Extraction Method from Mobile App Reviews**|Quim Motger et.al.|[2401.03833v1](http://arxiv.org/abs/2401.03833v1)|null|
@@ -6247,7 +6247,7 @@
 |**2024-01-08**|**Enhanced Automated Code Vulnerability Repair using Large Language Models**|David de-Fitero-Dominguez et.al.|[2401.03741v1](http://arxiv.org/abs/2401.03741v1)|null|
 |**2024-01-08**|**Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection**|Georgios Fatouros et.al.|[2401.03737v1](http://arxiv.org/abs/2401.03737v1)|null|
 |**2024-01-08**|**Language Models Understand Numbers, at Least Partially**|Fangwei Zhu et.al.|[2401.03735v1](http://arxiv.org/abs/2401.03735v1)|null|
-|**2024-01-08**|**The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance**|Abel Salinas et.al.|[2401.03729v1](http://arxiv.org/abs/2401.03729v1)|null|
+|**2024-01-09**|**The Butterfly Effect of Altering Prompts: How Small Changes and Jailbreaks Affect Large Language Model Performance**|Abel Salinas et.al.|[2401.03729v2](http://arxiv.org/abs/2401.03729v2)|null|
 |**2024-01-08**|**ExTraCT -- Explainable Trajectory Corrections from language inputs using Textual description of features**|J-Anne Yow et.al.|[2401.03701v1](http://arxiv.org/abs/2401.03701v1)|null|
 |**2024-01-08**|**Assessing AI Detectors in Identifying AI-Generated Code: Implications for Education**|Wei Hung Pan et.al.|[2401.03676v1](http://arxiv.org/abs/2401.03676v1)|null|
 |**2024-01-08**|**An exploratory study on automatic identification of assumptions in the development of deep learning frameworks**|Chen Yanga et.al.|[2401.03653v1](http://arxiv.org/abs/2401.03653v1)|null|
@@ -6255,7 +6255,7 @@
 |**2024-01-08**|**Why Solving Multi-agent Path Finding with Large Language Model has not Succeeded Yet**|Weizhe Chen et.al.|[2401.03630v1](http://arxiv.org/abs/2401.03630v1)|null|
 |**2024-01-07**|**ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback**|Kyle Dylan Spurlock et.al.|[2401.03605v1](http://arxiv.org/abs/2401.03605v1)|null|
 |**2024-01-07**|**InFoBench: Evaluating Instruction Following Ability in Large Language Models**|Yiwei Qin et.al.|[2401.03601v1](http://arxiv.org/abs/2401.03601v1)|null|
-|**2024-01-07**|**Token-free LLMs Can Generate Chinese Classical Poetry with More Accurate Format**|Chengyue Yu et.al.|[2401.03512v1](http://arxiv.org/abs/2401.03512v1)|null|
+|**2024-01-09**|**Token-free LLMs Can Generate Chinese Classical Poetry with More Accurate Format**|Chengyue Yu et.al.|[2401.03512v2](http://arxiv.org/abs/2401.03512v2)|null|
 |**2024-01-07**|**DiarizationLM: Speaker Diarization Post-Processing with Large Language Models**|Quan Wang et.al.|[2401.03506v1](http://arxiv.org/abs/2401.03506v1)|**[link](https://github.com/google/speaker-id/tree/master/DiarizationLM)**|
 |**2024-01-07**|**A Large Language Model Supported Synthesis of Contemporary Academic Integrity Research Trends**|Thomas Lancaster et.al.|[2401.03481v1](http://arxiv.org/abs/2401.03481v1)|null|
 |**2024-01-07**|**Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon**|Peitian Zhang et.al.|[2401.03462v1](http://arxiv.org/abs/2401.03462v1)|**[link](https://github.com/flagopen/flagembedding)**|
@@ -14169,7 +14169,7 @@
 |**2024-01-08**|**Reconstruction of Excitation Waves from Mechanical Deformation using Physics-Informed Neural Networks**|Nathan Dermul et.al.|[2401.03948v1](http://arxiv.org/abs/2401.03948v1)|null|
 |**2024-01-08**|**A non-asymptotic distributional theory of approximate message passing for sparse and robust regression**|Gen Li et.al.|[2401.03923v1](http://arxiv.org/abs/2401.03923v1)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
-|**2024-01-08**|**A Wasserstein Graph Distance Based on Distributions of Probabilistic Node Embeddings**|Michael Scholkemper et.al.|[2401.03913v1](http://arxiv.org/abs/2401.03913v1)|null|
+|**2024-01-09**|**A Wasserstein Graph Distance Based on Distributions of Probabilistic Node Embeddings**|Michael Scholkemper et.al.|[2401.03913v2](http://arxiv.org/abs/2401.03913v2)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890v1](http://arxiv.org/abs/2401.03890v1)|null|
 |**2024-01-08**|**Safe Chance-constrained Model Predictive Control under Gaussian Mixture Model Uncertainty**|Kai Ren et.al.|[2401.03799v1](http://arxiv.org/abs/2401.03799v1)|null|
 |**2024-01-08**|**Physics-based vs. data-driven 24-hour probabilistic forecasts of precipitation for northern tropical Africa**|Eva-Maria Walz et.al.|[2401.03746v1](http://arxiv.org/abs/2401.03746v1)|null|
