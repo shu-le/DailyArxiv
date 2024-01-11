@@ -1,4 +1,4 @@
-## Updated on 2024.01.10
+## Updated on 2024.01.11
 
 ## CV
 
@@ -6138,7 +6138,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-08**|**FlopPITy: Enabling self-consistent exoplanet atmospheric retrievals with machine learning**|Francisco Ardévol Martínez et.al.|[2401.04168v1](http://arxiv.org/abs/2401.04168v1)|null|
-|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|null|
+|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|**[link](https://github.com/Fangjun-Li/SpatialLM-StepGame)**|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890v1](http://arxiv.org/abs/2401.03890v1)|null|
 |**2024-01-05**|**German Text Embedding Clustering Benchmark**|Silvan Wehrli et.al.|[2401.02709v1](http://arxiv.org/abs/2401.02709v1)|**[link](https://github.com/climsocana/tecb-de)**|
 |**2023-11-13**|**Automated Classification of Model Errors on ImageNet**|Momchil Peychev et.al.|[2401.02430v1](http://arxiv.org/abs/2401.02430v1)|**[link](https://github.com/eth-sri/automated-error-analysis)**|
@@ -6331,7 +6331,7 @@
 |**2024-01-08**|**GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation**|Tong Wu et.al.|[2401.04092v1](http://arxiv.org/abs/2401.04092v1)|**[link](https://github.com/3DTopia/GPTEval3D)**|
 |**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057v1](http://arxiv.org/abs/2401.04057v1)|null|
 |**2024-01-08**|**Sparse Meets Dense: A Hybrid Approach to Enhance Scientific Document Retrieval**|Priyanka Mandikal et.al.|[2401.04055v1](http://arxiv.org/abs/2401.04055v1)|null|
-|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|null|
+|**2024-01-08**|**Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark**|Fangjun Li et.al.|[2401.03991v1](http://arxiv.org/abs/2401.03991v1)|**[link](https://github.com/Fangjun-Li/SpatialLM-StepGame)**|
 |**2024-01-08**|**TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series**|Vijay Ekambaram et.al.|[2401.03955v1](http://arxiv.org/abs/2401.03955v1)|null|
 |**2024-01-08**|**TextMachina: Seamless Generation of Machine-Generated Text Datasets**|Areg Mikael Sarvazyan et.al.|[2401.03946v1](http://arxiv.org/abs/2401.03946v1)|**[link](https://github.com/genaios/textmachina)**|
 |**2024-01-08**|**SpeechAgents: Human-Communication Simulation with Multi-Modal Multi-Agent Systems**|Dong Zhang et.al.|[2401.03945v1](http://arxiv.org/abs/2401.03945v1)|**[link](https://github.com/0nutation/speechagents)**|
