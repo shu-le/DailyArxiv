@@ -65,7 +65,7 @@ layout: default
 |**2024-01-10**|**Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**|Amin Farajzadeh et.al.|[2401.05308v1](http://arxiv.org/abs/2401.05308v1)|null|
 |**2024-01-10**|**Enhanced Muscle and Fat Segmentation for CT-Based Body Composition Analysis: A Comparative Study**|Benjamin Hou et.al.|[2401.05294v1](http://arxiv.org/abs/2401.05294v1)|null|
 |**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293v1](http://arxiv.org/abs/2401.05293v1)|null|
-|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|null|
+|**2024-01-10**|**PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models**|Junsong Chen et.al.|[2401.05252v1](http://arxiv.org/abs/2401.05252v1)|**[link](https://github.com/PixArt-alpha/PixArt-alpha)**|
 |**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-10**|**Measuring Natural Scenes SFR of Automotive Fisheye Cameras**|Daniel Jakab et.al.|[2401.05232v1](http://arxiv.org/abs/2401.05232v1)|null|
 |**2024-01-10**|**Do Vision and Language Encoders Represent the World Similarly?**|Mayug Maniparambil et.al.|[2401.05224v1](http://arxiv.org/abs/2401.05224v1)|null|
@@ -6497,7 +6497,7 @@ layout: default
 |**2024-01-09**|**How predictable is language model benchmark performance?**|David Owen et.al.|[2401.04757v1](http://arxiv.org/abs/2401.04757v1)|null|
 |**2024-01-09**|**Model Editing Can Hurt General Abilities of Large Language Models**|Jia-Chen Gu et.al.|[2401.04700v1](http://arxiv.org/abs/2401.04700v1)|**[link](https://github.com/jasonforjoy/model-editing-hurt)**|
 |**2024-01-09**|**Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers**|Gal Yona et.al.|[2401.04695v1](http://arxiv.org/abs/2401.04695v1)|null|
-|**2024-01-10**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679v2](http://arxiv.org/abs/2401.04679v2)|null|
+|**2024-01-11**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679v3](http://arxiv.org/abs/2401.04679v3)|null|
 |**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658v1](http://arxiv.org/abs/2401.04658v1)|null|
 |**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637v1](http://arxiv.org/abs/2401.04637v1)|null|
 |**2024-01-11**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621v2](http://arxiv.org/abs/2401.04621v2)|**[link](https://github.com/thunlp/debugbench)**|
@@ -10282,7 +10282,7 @@ layout: default
 |**2024-01-10**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620v2](http://arxiv.org/abs/2401.04620v2)|null|
 |**2024-01-09**|**Effective pruning of web-scale datasets based on complexity of concept clusters**|Amro Abbas et.al.|[2401.04578v1](http://arxiv.org/abs/2401.04578v1)|null|
 |**2024-01-09**|**Robust Imitation Learning for Automated Game Testing**|Pierluigi Vito Amadori et.al.|[2401.04572v1](http://arxiv.org/abs/2401.04572v1)|null|
-|**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536v1](http://arxiv.org/abs/2401.04536v1)|null|
+|**2024-01-09**|**Evaluating Language Model Agency through Negotiations**|Tim R. Davidson et.al.|[2401.04536v1](http://arxiv.org/abs/2401.04536v1)|**[link](https://github.com/epfl-dlab/lamen)**|
 |**2024-01-09**|**MERA: A Comprehensive LLM Evaluation in Russian**|Alena Fenogenova et.al.|[2401.04531v1](http://arxiv.org/abs/2401.04531v1)|null|
 |**2024-01-09**|**TransportationGames: Benchmarking Transportation Knowledge of (Multimodal) Large Language Models**|Xue Zhang et.al.|[2401.04471v1](http://arxiv.org/abs/2401.04471v1)|null|
 |**2024-01-09**|**i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance**|Haoyang Chen et.al.|[2401.04429v1](http://arxiv.org/abs/2401.04429v1)|null|
@@ -14595,7 +14595,7 @@ layout: default
 |**2024-01-08**|**Hybrid Vector Message Passing for Generalized Bilinear Factorization**|Hao Jiang et.al.|[2401.03626v1](http://arxiv.org/abs/2401.03626v1)|null|
 |**2024-01-08**|**Inference on testing the number of spikes in a high-dimensional generalized two-sample spiked model and its applications**|Rui Wang et.al.|[2401.03622v1](http://arxiv.org/abs/2401.03622v1)|null|
 |**2024-01-07**|**Learning about a changing state**|Benjamin Davies et.al.|[2401.03607v1](http://arxiv.org/abs/2401.03607v1)|null|
-|**2024-01-07**|**Quantifying T cell morphodynamics and migration in 3D collagen matrices**|Yeeren I. Low et.al.|[2401.03595v1](http://arxiv.org/abs/2401.03595v1)|null|
+|**2024-01-07**|**Quantifying T cell morphodynamics and migration in 3D collagen matrices**|Yeeren I. Low et.al.|[2401.03595v1](http://arxiv.org/abs/2401.03595v1)|**[link](https://github.com/yeerenlow/tcells_paper_code)**|
 |**2024-01-07**|**Gate--Level Statistical Timing Analysis: Exact Solutions, Approximations and Algorithms**|Dmytro Mishagli et.al.|[2401.03588v1](http://arxiv.org/abs/2401.03588v1)|null|
 |**2024-01-07**|**Reversible ternary logic with Laguerre-Gaussian modes**|Przemyslaw Litwin et.al.|[2401.03521v1](http://arxiv.org/abs/2401.03521v1)|null|
 |**2024-01-07**|**The interplay of common noise and finite pulses on biological neurons**|Afifurrahman et.al.|[2401.03483v1](http://arxiv.org/abs/2401.03483v1)|null|
