@@ -18,7 +18,7 @@
 |**2024-01-10**|**Exploring Vulnerabilities of No-Reference Image Quality Assessment Models: A Query-Based Black-Box Method**|Chenxi Yang et.al.|[2401.05217v1](http://arxiv.org/abs/2401.05217v1)|null|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202v1](http://arxiv.org/abs/2401.05202v1)|null|
 |**2024-01-10**|**CLIP-guided Source-free Object Detection in Aerial Images**|Nanqing Liu et.al.|[2401.05168v1](http://arxiv.org/abs/2401.05168v1)|null|
-|**2024-01-10**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubinski et.al.|[2401.05167v1](http://arxiv.org/abs/2401.05167v1)|null|
+|**2024-01-11**|**Watermark Text Pattern Spotting in Document Images**|Mateusz Krubiński et.al.|[2401.05167v2](http://arxiv.org/abs/2401.05167v2)|null|
 |**2024-01-10**|**REACT 2024: the Second Multiple Appropriate Facial Reaction Generation Challenge**|Siyang Song et.al.|[2401.05166v1](http://arxiv.org/abs/2401.05166v1)|**[link](https://github.com/reactmultimodalchallenge/baseline_react2024)**|
 |**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|null|
 |**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159v1](http://arxiv.org/abs/2401.05159v1)|null|
@@ -4130,7 +4130,7 @@
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
 |**2024-01-08**|**Pure Nash Equilibria in Weighted Congestion Games with Complementarities and Beyond**|Kenjiro Takazawa et.al.|[2401.03861v1](http://arxiv.org/abs/2401.03861v1)|null|
 |**2024-01-08**|**Inverse Reinforcement Learning with Sub-optimal Experts**|Riccardo Poiani et.al.|[2401.03857v1](http://arxiv.org/abs/2401.03857v1)|null|
-|**2024-01-08**|**TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment**|Jiquan Yuan et.al.|[2401.03854v1](http://arxiv.org/abs/2401.03854v1)|**[link](https://github.com/jiquan123/TIER)**|
+|**2024-01-11**|**TIER: Text-Image Encoder-based Regression for AIGC Image Quality Assessment**|Jiquan Yuan et.al.|[2401.03854v2](http://arxiv.org/abs/2401.03854v2)|**[link](https://github.com/jiquan123/TIER)**|
 |**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629v1](http://arxiv.org/abs/2401.03629v1)|null|
 |**2024-01-09**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514v2](http://arxiv.org/abs/2401.03514v2)|null|
 |**2024-01-07**|**Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**|Sicheng Yang et.al.|[2401.03476v1](http://arxiv.org/abs/2401.03476v1)|null|
@@ -6390,7 +6390,7 @@
 |**2024-01-10**|**RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation**|Mahdi Nikdan et.al.|[2401.04679v2](http://arxiv.org/abs/2401.04679v2)|null|
 |**2024-01-09**|**Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models**|Zhen Qin et.al.|[2401.04658v1](http://arxiv.org/abs/2401.04658v1)|null|
 |**2024-01-09**|**Applying Large Language Models API to Issue Classification Problem**|Gabriel Aracena et.al.|[2401.04637v1](http://arxiv.org/abs/2401.04637v1)|null|
-|**2024-01-09**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621v1](http://arxiv.org/abs/2401.04621v1)|**[link](https://github.com/thunlp/debugbench)**|
+|**2024-01-11**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621v2](http://arxiv.org/abs/2401.04621v2)|**[link](https://github.com/thunlp/debugbench)**|
 |**2024-01-10**|**Agent Alignment in Evolving Social Norms**|Shimin Li et.al.|[2401.04620v2](http://arxiv.org/abs/2401.04620v2)|null|
 |**2024-01-09**|**Language Detection for Transliterated Content**|Selva Kumar S et.al.|[2401.04619v1](http://arxiv.org/abs/2401.04619v1)|null|
 |**2024-01-09**|**Optimal CHSH values for regular polygon theories in generalized probabilistic theories**|Ryo Takakura et.al.|[2401.04596v1](http://arxiv.org/abs/2401.04596v1)|null|
@@ -10148,7 +10148,7 @@
 |**2024-01-08**|**MARG: Multi-Agent Review Generation for Scientific Papers**|Mike D'Arcy et.al.|[2401.04259v1](http://arxiv.org/abs/2401.04259v1)|**[link](https://github.com/allenai/marg-reviewer)**|
 |**2024-01-08**|**High-precision Voice Search Query Correction via Retrievable Speech-text Embedings**|Christopher Li et.al.|[2401.04235v1](http://arxiv.org/abs/2401.04235v1)|null|
 |**2024-01-08**|**FunnyNet-W: Multimodal Learning of Funny Moments in Videos in the Wild**|Zhi-Song Liu et.al.|[2401.04210v1](http://arxiv.org/abs/2401.04210v1)|null|
-|**2024-01-08**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206v1](http://arxiv.org/abs/2401.04206v1)|null|
+|**2024-01-10**|**Learning Racing From an AI Coach: Effects of Multimodal Autonomous Driving Explanations on Driving Performance, Cognitive Load, Expertise, and Trust**|Robert Kaufman et.al.|[2401.04206v2](http://arxiv.org/abs/2401.04206v2)|null|
 |**2024-01-08**|**Curiosity & Entropy Driven Unsupervised RL in Multiple Environments**|Shaurya Dewan et.al.|[2401.04198v1](http://arxiv.org/abs/2401.04198v1)|null|
 |**2024-01-08**|**Efficient Selective Audio Masked Multimodal Bottleneck Transformer for Audio-Video Classification**|Wentao Zhu et.al.|[2401.04154v1](http://arxiv.org/abs/2401.04154v1)|null|
 |**2024-01-08**|**Anonymous and Strategy-Proof Voting under Subjective Expected Utility Preferences**|Eric Bahel et.al.|[2401.04060v1](http://arxiv.org/abs/2401.04060v1)|null|
@@ -10161,7 +10161,7 @@
 |**2024-01-08**|**Inverse Reinforcement Learning with Sub-optimal Experts**|Riccardo Poiani et.al.|[2401.03857v1](http://arxiv.org/abs/2401.03857v1)|null|
 |**2024-01-08**|**A multimodal gesture recognition dataset for desktop human-computer interaction**|Qi Wang et.al.|[2401.03828v1](http://arxiv.org/abs/2401.03828v1)|null|
 |**2024-01-08**|**FM-AE: Frequency-masked Multimodal Autoencoder for Zinc Electrolysis Plate Contact Abnormality Detection**|Canzong Zhou et.al.|[2401.03806v1](http://arxiv.org/abs/2401.03806v1)|null|
-|**2024-01-08**|**Long-term Safe Reinforcement Learning with Binary Feedback**|Akifumi Wachi et.al.|[2401.03786v1](http://arxiv.org/abs/2401.03786v1)|null|
+|**2024-01-11**|**Long-term Safe Reinforcement Learning with Binary Feedback**|Akifumi Wachi et.al.|[2401.03786v2](http://arxiv.org/abs/2401.03786v2)|null|
 |**2024-01-08**|**Cybersecurity in Critical Infrastructures: A Post-Quantum Cryptography Perspective**|Javier Oliva del Moral et.al.|[2401.03780v1](http://arxiv.org/abs/2401.03780v1)|null|
 |**2024-01-08**|**Is Limited Information Enough? An Approximate Multi-agent Coverage Control in Non-Convex Discrete Environments**|Tatsuya Iwase et.al.|[2401.03752v1](http://arxiv.org/abs/2401.03752v1)|null|
 |**2024-01-08**|**Exact solutions of the simplified March model for organizational learning**|Hang-Hyun Jo et.al.|[2401.03640v1](http://arxiv.org/abs/2401.03640v1)|null|
