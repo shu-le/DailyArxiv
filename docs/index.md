@@ -45,7 +45,7 @@ layout: default
 |**2024-01-11**|**Knowledge Translation: A New Pathway for Model Compression**|Wujie Sun et.al.|[2401.05772v1](http://arxiv.org/abs/2401.05772v1)|**[link](https://github.com/zju-swj/kt)**|
 |**2024-01-11**|**Learn From Zoom: Decoupled Supervised Contrastive Learning For WCE Image Classification**|Kunpeng Qiu et.al.|[2401.05771v1](http://arxiv.org/abs/2401.05771v1)|null|
 |**2024-01-11**|**Evaluating Data Augmentation Techniques for Coffee Leaf Disease Classification**|Adrian Gheorghiu et.al.|[2401.05768v1](http://arxiv.org/abs/2401.05768v1)|null|
-|**2024-01-11**|**Learning Generalizable Models via Disentangling Spurious and Enhancing Potential Correlations**|Na Wang et.al.|[2401.05752v1](http://arxiv.org/abs/2401.05752v1)|null|
+|**2024-01-11**|**Learning Generalizable Models via Disentangling Spurious and Enhancing Potential Correlations**|Na Wang et.al.|[2401.05752v1](http://arxiv.org/abs/2401.05752v1)|**[link](https://github.com/rubyhoho/dgeneralization)**|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750v1](http://arxiv.org/abs/2401.05750v1)|null|
 |**2024-01-11**|**Surface Normal Estimation with Transformers**|Barry Shichen Hu et.al.|[2401.05745v1](http://arxiv.org/abs/2401.05745v1)|null|
 |**2024-01-11**|**LKCA: Large Kernel Convolutional Attention**|Chenghao Li et.al.|[2401.05738v1](http://arxiv.org/abs/2401.05738v1)|null|
@@ -6434,7 +6434,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121v1](http://arxiv.org/abs/2401.06121v1)|null|
-|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118v1](http://arxiv.org/abs/2401.06118v1)|null|
+|**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118v1](http://arxiv.org/abs/2401.06118v1)|**[link](https://github.com/vahe1994/aqlm)**|
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v1](http://arxiv.org/abs/2401.06102v1)|null|
 |**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091v1](http://arxiv.org/abs/2401.06091v1)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088v1](http://arxiv.org/abs/2401.06088v1)|null|
@@ -10232,7 +10232,7 @@ layout: default
 |**2024-01-11**|**In situ coherent X-ray scattering reveals polycrystalline structure and discrete annealing events in strongly-coupled nanocrystal superlattices**|Matthew J. Hurley et.al.|[2401.06103v1](http://arxiv.org/abs/2401.06103v1)|null|
 |**2024-01-11**|**XGBoost Learning of Dynamic Wager Placement for In-Play Betting on an Agent-Based Model of a Sports Betting Exchange**|Chawin Terawong et.al.|[2401.06086v1](http://arxiv.org/abs/2401.06086v1)|null|
 |**2024-01-11**|**Boosting Mixed-Initiative Co-Creativity in Game Design: A Tutorial**|Solange Margarido et.al.|[2401.05999v1](http://arxiv.org/abs/2401.05999v1)|null|
-|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998v1](http://arxiv.org/abs/2401.05998v1)|null|
+|**2024-01-11**|**Combating Adversarial Attacks with Multi-Agent Debate**|Steffi Chern et.al.|[2401.05998v1](http://arxiv.org/abs/2401.05998v1)|**[link](https://github.com/andyjliu/llms-course-project)**|
 |**2024-01-11**|**On-chip wavelength division multiplexing by angled multimode interferometer fabricated on erbium-doped thin film lithium niobate on insulator**|Jinli Han et.al.|[2401.05970v1](http://arxiv.org/abs/2401.05970v1)|null|
 |**2024-01-11**|**Spatial-Aware Deep Reinforcement Learning for the Traveling Officer Problem**|Niklas Strauß et.al.|[2401.05969v1](http://arxiv.org/abs/2401.05969v1)|null|
 |**2024-01-11**|**An attempt to generate new bridge types from latent space of PixelCNN**|Hongjun Zhang et.al.|[2401.05964v1](http://arxiv.org/abs/2401.05964v1)|**[link](https://github.com/QQ583304953/Bridge-PixelCNN)**|
@@ -10249,7 +10249,7 @@ layout: default
 |**2024-01-11**|**Evidence to Generate (E2G): A Single-agent Two-step Prompting for Context Grounded and Retrieval Augmented Reasoning**|Md Rizwan Parvez et.al.|[2401.05787v1](http://arxiv.org/abs/2401.05787v1)|null|
 |**2024-01-11**|**Intuitive Control of Scraping and Rubbing Through Audio-tactile Synthesis**|Mitsuko Aramaki et.al.|[2401.05757v1](http://arxiv.org/abs/2401.05757v1)|null|
 |**2024-01-11**|**Cross-Modality and Within-Modality Regularization for Audio-Visual DeepFake Detection**|Heqing Zou et.al.|[2401.05746v1](http://arxiv.org/abs/2401.05746v1)|null|
-|**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|null|
+|**2024-01-11**|**Cross-modal Retrieval for Knowledge-based Visual Question Answering**|Paul Lerner et.al.|[2401.05736v1](http://arxiv.org/abs/2401.05736v1)|**[link](https://github.com/paullerner/viquae)**|
 |**2024-01-11**|**Super-hedging-pricing formulas and Immediate-Profit arbitrage for market models under random horizon**|Tahir Choulli et.al.|[2401.05713v1](http://arxiv.org/abs/2401.05713v1)|null|
 |**2024-01-11**|**Probability-based Distance Estimation Model for 3D DV-Hop Localization in WSNs**|Penghong Wang et.al.|[2401.05709v1](http://arxiv.org/abs/2401.05709v1)|null|
 |**2024-01-11**|**Deep Learning Meets Mechanism Design: Key Results and Some Novel Applications**|V. Udaya Sankar et.al.|[2401.05683v1](http://arxiv.org/abs/2401.05683v1)|null|
