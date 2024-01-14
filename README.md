@@ -4139,7 +4139,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-11**|**E$^{2}$GAN: Efficient Training of Efficient GANs for Image-to-Image Translation**|Yifan Gong et.al.|[2401.06127v1](http://arxiv.org/abs/2401.06127v1)|null|
-|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|**[link](https://github.com/rucaibox/rlmec)**|
 |**2024-01-11**|**Invariance principle for the KPZ equation arising in stochastic flows of kernels**|Shalin Parekh et.al.|[2401.06073v1](http://arxiv.org/abs/2401.06073v1)|null|
 |**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048v1](http://arxiv.org/abs/2401.06048v1)|null|
 |**2024-01-11**|**RAVEN: Rethinking Adversarial Video Generation with Efficient Tri-plane Networks**|Partha Ghosh et.al.|[2401.06035v1](http://arxiv.org/abs/2401.06035v1)|null|
@@ -6434,7 +6434,7 @@
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v1](http://arxiv.org/abs/2401.06102v1)|null|
 |**2024-01-11**|**A Closer Look at AUROC and AUPRC under Class Imbalance**|Matthew B. A. McDermott et.al.|[2401.06091v1](http://arxiv.org/abs/2401.06091v1)|**[link](https://github.com/mmcdermott/auc_is_all_you_need)**|
 |**2024-01-11**|**Autocompletion of Chief Complaints in the Electronic Health Records using Large Language Models**|K M Sajjadul Islam et.al.|[2401.06088v1](http://arxiv.org/abs/2401.06088v1)|null|
-|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|null|
+|**2024-01-11**|**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**|Zhipeng Chen et.al.|[2401.06081v1](http://arxiv.org/abs/2401.06081v1)|**[link](https://github.com/rucaibox/rlmec)**|
 |**2024-01-11**|**Secrets of RLHF in Large Language Models Part II: Reward Modeling**|Binghai Wang et.al.|[2401.06080v1](http://arxiv.org/abs/2401.06080v1)|**[link](https://github.com/openlmlab/moss-rlhf)**|
 |**2024-01-11**|**LEGO:Language Enhanced Multi-modal Grounding Model**|Zhaowei Li et.al.|[2401.06071v1](http://arxiv.org/abs/2401.06071v1)|**[link](https://github.com/lzw-lzw/lego)**|
 |**2024-01-11**|**DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**|Damai Dai et.al.|[2401.06066v1](http://arxiv.org/abs/2401.06066v1)|**[link](https://github.com/deepseek-ai/deepseek-moe)**|
@@ -10255,7 +10255,7 @@
 |**2024-01-10**|**Innate-Values-driven Reinforcement Learning for Cooperative Multi-Agent Systems**|Qin Yang et.al.|[2401.05572v1](http://arxiv.org/abs/2401.05572v1)|null|
 |**2024-01-10**|**Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training**|Evan Hubinger et.al.|[2401.05566v1](http://arxiv.org/abs/2401.05566v1)|**[link](https://github.com/anthropics/sleeper-agents-paper)**|
 |**2024-01-10**|**Transparency as Delayed Observability in Multi-Agent Systems**|Kshama Dwarakanath et.al.|[2401.05563v1](http://arxiv.org/abs/2401.05563v1)|null|
-|**2024-01-10**|**InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks**|Xueyu Hu et.al.|[2401.05507v1](http://arxiv.org/abs/2401.05507v1)|null|
+|**2024-01-10**|**InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks**|Xueyu Hu et.al.|[2401.05507v1](http://arxiv.org/abs/2401.05507v1)|**[link](https://github.com/infiagent/infiagent)**|
 |**2024-01-10**|**Deflating the Chinese Balloon: Types of Twitter Bots in US-China balloon incident**|Lynnette Hui Xian Ng et.al.|[2401.05501v1](http://arxiv.org/abs/2401.05501v1)|null|
 |**2024-01-10**|**Machine Teaching for Building Modular AI Agents based on Zero-shot Learners**|Karan Taneja et.al.|[2401.05467v1](http://arxiv.org/abs/2401.05467v1)|null|
 |**2024-01-10**|**Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security**|Yuanchun Li et.al.|[2401.05459v1](http://arxiv.org/abs/2401.05459v1)|**[link](https://github.com/mobilellm/personal_llm_agents_survey)**|
@@ -14544,7 +14544,7 @@
 |**2024-01-11**|**Adaptive Regularized Low-Rank Tensor Decomposition for Hyperspectral Image Denoising and Destriping**|Dongyi Li et.al.|[2401.05682v1](http://arxiv.org/abs/2401.05682v1)|null|
 |**2024-01-11**|**Universality and Phase Transitions in Low Moments of Secular Coefficients of Critical Holomorphic Multiplicative Chaos**|Haotian Gu et.al.|[2401.05681v1](http://arxiv.org/abs/2401.05681v1)|null|
 |**2024-01-11**|**A General Form for Continuous Variable Quantum Kernels**|Laura J. Henderson et.al.|[2401.05647v1](http://arxiv.org/abs/2401.05647v1)|null|
-|**2024-01-11**|**Weiss-Weinstein bound of frequency estimation error for very weak GNSS signals**|Xin Zhang et.al.|[2401.05606v1](http://arxiv.org/abs/2401.05606v1)|null|
+|**2024-01-11**|**Weiss-Weinstein bound of frequency estimation error for very weak GNSS signals**|Xin Zhang et.al.|[2401.05606v1](http://arxiv.org/abs/2401.05606v1)|**[link](https://github.com/TMBOC/WWB)**|
 |**2024-01-10**|**A general theory for robust clustering via trimmed mean**|Soham Jana et.al.|[2401.05574v1](http://arxiv.org/abs/2401.05574v1)|null|
 |**2024-01-10**|**Modelling stellar variability in archival HARPS data: I -- Rotation and activity properties with multi-dimensional Gaussian Processes**|Haochuan Yu et.al.|[2401.05528v1](http://arxiv.org/abs/2401.05528v1)|null|
 |**2024-01-10**|**Extremes of vector-valued locally additive Gaussian fields with application to double crossing probabilities**|Ievlev Pavel et.al.|[2401.05527v1](http://arxiv.org/abs/2401.05527v1)|null|
