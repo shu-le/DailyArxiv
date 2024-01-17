@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426v1](http://arxiv.org/abs/2401.08426v1)|null|
+|**2024-01-16**|**U-DIADS-Bib: a full and few-shot pixel-precise dataset for document layout analysis of ancient manuscripts**|Silvia Zottin et.al.|[2401.08425v1](http://arxiv.org/abs/2401.08425v1)|null|
+|**2024-01-16**|**Improving Limited Supervised Foot Ulcer Segmentation Using Cross-Domain Augmentation**|Shang-Jui Kuo et.al.|[2401.08422v1](http://arxiv.org/abs/2401.08422v1)|null|
 |**2024-01-16**|**Faster ISNet for Background Bias Mitigation on Deep Neural Networks**|Pedro R. A. S. Bassi et.al.|[2401.08409v1](http://arxiv.org/abs/2401.08409v1)|null|
 |**2024-01-16**|**Cross-Domain Few-Shot Segmentation via Iterative Support-Query Correspondence Mining**|Jiahao Nie et.al.|[2401.08407v1](http://arxiv.org/abs/2401.08407v1)|null|
 |**2024-01-16**|**Training and Comparison of nnU-Net and DeepMedic Methods for Autosegmentation of Pediatric Brain Tumors**|Arastoo Vossough et.al.|[2401.08404v1](http://arxiv.org/abs/2401.08404v1)|null|
@@ -6584,6 +6587,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429v1](http://arxiv.org/abs/2401.08429v1)|null|
+|**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420v1](http://arxiv.org/abs/2401.08420v1)|**[link](https://github.com/uccollab/hai-coaching)**|
+|**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417v1](http://arxiv.org/abs/2401.08417v1)|null|
 |**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406v1](http://arxiv.org/abs/2401.08406v1)|null|
 |**2024-01-16**|**Hidden Flaws Behind Expert-Level Accuracy of GPT-4 Vision in Medicine**|Qiao Jin et.al.|[2401.08396v1](http://arxiv.org/abs/2401.08396v1)|null|
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392v1](http://arxiv.org/abs/2401.08392v1)|**[link](https://github.com/z-x-yang/doraemongpt)**|
@@ -10484,6 +10490,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Multimodal assessment of best possible self as a self-regulatory activity for the classroom**|Batuhan Sayis et.al.|[2401.08424v1](http://arxiv.org/abs/2401.08424v1)|null|
 |**2024-01-16**|**Hidden Flaws Behind Expert-Level Accuracy of GPT-4 Vision in Medicine**|Qiao Jin et.al.|[2401.08396v1](http://arxiv.org/abs/2401.08396v1)|null|
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392v1](http://arxiv.org/abs/2401.08392v1)|**[link](https://github.com/z-x-yang/doraemongpt)**|
 |**2024-01-16**|**Controlled synthesis and characterization of porous silicon nanoparticles for dynamic nuclear polarization**|Gevin von Witte et.al.|[2401.08320v1](http://arxiv.org/abs/2401.08320v1)|null|
@@ -14870,6 +14877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**The Gaussian log-Minkowski problem**|Jinrong Hu et.al.|[2401.08427v1](http://arxiv.org/abs/2401.08427v1)|null|
 |**2024-01-16**|**Uniform Recovery Guarantees for Quantized Corrupted Sensing Using Structured or Generative Priors**|Junren Chen et.al.|[2401.08402v1](http://arxiv.org/abs/2401.08402v1)|null|
 |**2024-01-16**|**Fast Kernel Summation in High Dimensions via Slicing and Fourier Transforms**|Johannes Hertrich et.al.|[2401.08260v1](http://arxiv.org/abs/2401.08260v1)|**[link](https://github.com/johertrich/sliced_kernel_fastsum)**|
 |**2024-01-16**|**Random Systems of Holomorphic Sections of a Sequence of Line bundles on Compact Kähler Manifolds**|Afrim Bojnik et.al.|[2401.08243v1](http://arxiv.org/abs/2401.08243v1)|null|
