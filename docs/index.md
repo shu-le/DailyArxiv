@@ -61,6 +61,13 @@ layout: default
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045v1](http://arxiv.org/abs/2401.08045v1)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-16**|**Cross-Modal Semi-Dense 6-DoF Tracking of an Event Camera in Challenging Conditions**|Yi-Fan Zuo et.al.|[2401.08043v1](http://arxiv.org/abs/2401.08043v1)|null|
 |**2024-01-16**|**3D Lane Detection from Front or Surround-View using Joint-Modeling & Matching**|Haibin Zhou et.al.|[2401.08036v1](http://arxiv.org/abs/2401.08036v1)|null|
+|**2024-01-16**|**BanglaNet: Bangla Handwritten Character Recognition using Ensembling of Convolutional Neural Network**|Chandrika Saha et.al.|[2401.08035v1](http://arxiv.org/abs/2401.08035v1)|null|
+|**2024-01-16**|**Spatial Channel State Information Prediction with Generative AI: Towards Holographic Communication and Digital Radio Twin**|Lihao Zhang et.al.|[2401.08023v1](http://arxiv.org/abs/2401.08023v1)|null|
+|**2024-01-16**|**Small Object Detection by DETR via Information Augmentation and Adaptive Feature Fusion**|Ji Huang et.al.|[2401.08017v1](http://arxiv.org/abs/2401.08017v1)|null|
+|**2024-01-15**|**Convolutional Neural Network Compression via Dynamic Parameter Rank Pruning**|Manish Sharma et.al.|[2401.08014v1](http://arxiv.org/abs/2401.08014v1)|null|
+|**2024-01-15**|**Jewelry Recognition via Encoder-Decoder Models**|José M. Alcalde-Llergo et.al.|[2401.08003v1](http://arxiv.org/abs/2401.08003v1)|null|
+|**2024-01-15**|**How does self-supervised pretraining improve robustness against noisy labels across various medical image classification datasets?**|Bidur Khanal et.al.|[2401.07990v1](http://arxiv.org/abs/2401.07990v1)|null|
+|**2024-01-15**|**Cesium Tiles for High-realism Simulation and Comparing SLAM Results in Corresponding Virtual and Real-world Environments**|Chris Beam et.al.|[2401.07962v1](http://arxiv.org/abs/2401.07962v1)|null|
 |**2024-01-12**|**Seeing the roads through the trees: A benchmark for modeling spatial dependencies with aerial imagery**|Caleb Robinson et.al.|[2401.06762v1](http://arxiv.org/abs/2401.06762v1)|**[link](https://github.com/isaaccorley/chesapeakersc)**|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757v1](http://arxiv.org/abs/2401.06757v1)|null|
 |**2024-01-12**|**Scalable 3D Panoptic Segmentation With Superpoint Graph Clustering**|Damien Robert et.al.|[2401.06704v1](http://arxiv.org/abs/2401.06704v1)|**[link](https://github.com/drprojects/superpoint_transformer)**|
@@ -6640,6 +6647,10 @@ layout: default
 |**2024-01-15**|**Empirical Evidence for the Fragment level Understanding on Drug Molecular Structure of LLMs**|Xiuyuan Hu et.al.|[2401.07657v1](http://arxiv.org/abs/2401.07657v1)|**[link](https://github.com/hxyfighter/llmsunderstandmol)**|
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612v1](http://arxiv.org/abs/2401.07612v1)|null|
 |**2024-01-15**|**MAPLE: Multilingual Evaluation of Parameter Efficient Finetuning of Large Language Models**|Divyanshu Aggarwal et.al.|[2401.07598v1](http://arxiv.org/abs/2401.07598v1)|null|
+|**2024-01-15**|**Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding**|Qi Sun et.al.|[2401.07572v1](http://arxiv.org/abs/2401.07572v1)|null|
+|**2024-01-15**|**See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**|Youcheng Huang et.al.|[2401.07544v1](http://arxiv.org/abs/2401.07544v1)|null|
+|**2024-01-15**|**Exploring the Potential of Large Language Models in Self-adaptive Systems**|Jialong Li et.al.|[2401.07534v1](http://arxiv.org/abs/2401.07534v1)|null|
+|**2024-01-15**|**MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception**|Yuhao Wang et.al.|[2401.07529v1](http://arxiv.org/abs/2401.07529v1)|null|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766v1](http://arxiv.org/abs/2401.06766v1)|null|
 |**2024-01-12**|**APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**|Mingdao Liu et.al.|[2401.06761v1](http://arxiv.org/abs/2401.06761v1)|null|
 |**2024-01-12**|**Few-Shot Detection of Machine-Generated Text using Style Representations**|Rafael Rivera Soto et.al.|[2401.06712v1](http://arxiv.org/abs/2401.06712v1)|null|
@@ -10541,6 +10552,8 @@ layout: default
 |**2024-01-14**|**Utilitarian Beliefs in Social Networks: Explaining the Emergence of Hatred**|Houda Nait El Barj et.al.|[2401.07178v1](http://arxiv.org/abs/2401.07178v1)|null|
 |**2024-01-13**|**Discovering Command and Control Channels Using Reinforcement Learning**|Cheng Wang et.al.|[2401.07154v1](http://arxiv.org/abs/2401.07154v1)|null|
 |**2024-01-13**|**EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records**|Wenqi Shi et.al.|[2401.07128v1](http://arxiv.org/abs/2401.07128v1)|**[link](https://github.com/wshi83/ehragent)**|
+|**2024-01-13**|**One Agent Too Many: User Perspectives on Approaches to Multi-agent Conversational AI**|Christopher Clarke et.al.|[2401.07123v1](http://arxiv.org/abs/2401.07123v1)|null|
+|**2024-01-13**|**Generative AI-enabled Quantum Computing Networks and Intelligent Resource Allocation**|Minrui Xu et.al.|[2401.07120v1](http://arxiv.org/abs/2401.07120v1)|null|
 |**2024-01-12**|**Using Natural Language Inference to Improve Persona Extraction from Dialogue in a New Domain**|Alexandra DeLucia et.al.|[2401.06742v1](http://arxiv.org/abs/2401.06742v1)|null|
 |**2024-01-12**|**NetMind: Adaptive RAN Baseband Function Placement by GCN Encoding and Maze-solving DRL**|Haiyuan Li et.al.|[2401.06722v1](http://arxiv.org/abs/2401.06722v1)|**[link](https://github.com/OCEAN-98/NetMind-Baseband-Function-Placement-with-GCN-Encoding-and-Maze-solving-DRL-for-advanced-RAN)**|
 |**2024-01-12**|**Finding critical transitions of the post-disaster recovery using the sensitivity analysis of agent-based models**|Sangung Park et.al.|[2401.06672v1](http://arxiv.org/abs/2401.06672v1)|null|
