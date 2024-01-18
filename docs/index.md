@@ -20,7 +20,7 @@ layout: default
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392v1](http://arxiv.org/abs/2401.08392v1)|**[link](https://github.com/z-x-yang/doraemongpt)**|
 |**2024-01-16**|**SAMF: Small-Area-Aware Multi-focus Image Fusion for Object Detection**|Xilai Li et.al.|[2401.08357v1](http://arxiv.org/abs/2401.08357v1)|**[link](https://github.com/ixilai/samf)**|
 |**2024-01-16**|**Multi-view Distillation based on Multi-modal Fusion for Few-shot Action Recognition(CLIP-$\mathrm{M^2}$DF)**|Fei Guo et.al.|[2401.08345v1](http://arxiv.org/abs/2401.08345v1)|null|
-|**2024-01-16**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332v1](http://arxiv.org/abs/2401.08332v1)|**[link](https://github.com/ZhgLiu/GDD)**|
+|**2024-01-17**|**Generative Denoise Distillation: Simple Stochastic Noises Induce Efficient Knowledge Transfer for Dense Prediction**|Zhaoge Liu et.al.|[2401.08332v2](http://arxiv.org/abs/2401.08332v2)|**[link](https://github.com/ZhgLiu/GDD)**|
 |**2024-01-16**|**Un-Mixing Test-Time Normalization Statistics: Combatting Label Temporal Correlation**|Devavrat Tomar et.al.|[2401.08328v1](http://arxiv.org/abs/2401.08328v1)|null|
 |**2024-01-16**|**The Faiss library**|Matthijs Douze et.al.|[2401.08281v1](http://arxiv.org/abs/2401.08281v1)|**[link](https://github.com/facebookresearch/faiss)**|
 |**2024-01-16**|**AesBench: An Expert Benchmark for Multimodal Large Language Models on Image Aesthetics Perception**|Yipo Huang et.al.|[2401.08276v1](http://arxiv.org/abs/2401.08276v1)|**[link](https://github.com/yipoh/aesbench)**|
@@ -38,7 +38,7 @@ layout: default
 |**2024-01-16**|**Completely Occluded and Dense Object Instance Segmentation Using Box Prompt-Based Segmentation Foundation Models**|Zhen Zhou et.al.|[2401.08174v1](http://arxiv.org/abs/2401.08174v1)|**[link](https://github.com/zhen6618/obbinstancesegmentation)**|
 |**2024-01-16**|**Deep Linear Array Pushbroom Image Restoration: A Degradation Pipeline and Jitter-Aware Restoration Network**|Zida Chen et.al.|[2401.08171v1](http://arxiv.org/abs/2401.08171v1)|**[link](https://github.com/jhw2000/jarnet)**|
 |**2024-01-16**|**Statistical Test for Attention Map in Vision Transformer**|Tomohiro Shiraishi et.al.|[2401.08169v1](http://arxiv.org/abs/2401.08169v1)|**[link](https://github.com/shirara1016/statistical_test_for_vit_attention)**|
-|**2024-01-16**|**Learned Image Compression with ROI-Weighted Distortion and Bit Allocation**|Wei Jiang et.al.|[2401.08154v1](http://arxiv.org/abs/2401.08154v1)|null|
+|**2024-01-17**|**Learned Image Compression with ROI-Weighted Distortion and Bit Allocation**|Wei Jiang et.al.|[2401.08154v2](http://arxiv.org/abs/2401.08154v2)|null|
 |**2024-01-16**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140v1](http://arxiv.org/abs/2401.08140v1)|null|
 |**2024-01-16**|**The Devil is in the Details: Boosting Guided Depth Super-Resolution via Rethinking Cross-Modal Alignment and Aggregation**|Xinni Jiang et.al.|[2401.08123v1](http://arxiv.org/abs/2401.08123v1)|**[link](https://github.com/jiangxinni/d2a2)**|
 |**2024-01-16**|**E2HQV: High-Quality Video Generation from Event Camera via Theory-Inspired Model-Aided Deep Learning**|Qiang Qu et.al.|[2401.08117v1](http://arxiv.org/abs/2401.08117v1)|**[link](https://github.com/vincentqqu/e2hqv)**|
@@ -4279,10 +4279,10 @@ layout: default
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
 |**2024-01-13**|**Quantum Denoising Diffusion Models**|Michael Kölle et.al.|[2401.07049v1](http://arxiv.org/abs/2401.07049v1)|null|
 |**2024-01-13**|**Quantum Generative Diffusion Model**|Chuangtao Chen et.al.|[2401.07039v1](http://arxiv.org/abs/2401.07039v1)|null|
-|**2024-01-13**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v1](http://arxiv.org/abs/2401.06982v1)|null|
+|**2024-01-17**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v2](http://arxiv.org/abs/2401.06982v2)|null|
 |**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740v1](http://arxiv.org/abs/2401.06740v1)|null|
 |**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654v1](http://arxiv.org/abs/2401.06654v1)|**[link](https://github.com/bluecher31/pixel-flipping)**|
-|**2024-01-15**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v2](http://arxiv.org/abs/2401.06637v2)|null|
+|**2024-01-17**|**Adversarial Examples are Misaligned in Diffusion Model Manifolds**|Peter Lorenz et.al.|[2401.06637v3](http://arxiv.org/abs/2401.06637v3)|null|
 |**2024-01-12**|**Motion2VecSets: 4D Latent Vector Set Diffusion for Non-rigid Shape Reconstruction and Tracking**|Wei Cao et.al.|[2401.06614v1](http://arxiv.org/abs/2401.06614v1)|null|
 |**2024-01-12**|**360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model**|Qian Wang et.al.|[2401.06578v1](http://arxiv.org/abs/2401.06578v1)|null|
 |**2024-01-12**|**Exploring Diverse Representations for Open Set Recognition**|Yu Wang et.al.|[2401.06521v1](http://arxiv.org/abs/2401.06521v1)|**[link](https://github.com/vanixxz/medaf)**|
@@ -6602,7 +6602,7 @@ layout: default
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392v1](http://arxiv.org/abs/2401.08392v1)|**[link](https://github.com/z-x-yang/doraemongpt)**|
 |**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383v1](http://arxiv.org/abs/2401.08383v1)|**[link](https://github.com/yjhmitweb/exflow)**|
 |**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358v1](http://arxiv.org/abs/2401.08358v1)|null|
-|**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350v1](http://arxiv.org/abs/2401.08350v1)|null|
+|**2024-01-17**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350v2](http://arxiv.org/abs/2401.08350v2)|null|
 |**2024-01-16**|**Understanding User Experience in Large Language Model Interactions**|Jiayin Wang et.al.|[2401.08329v1](http://arxiv.org/abs/2401.08329v1)|null|
 |**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326v1](http://arxiv.org/abs/2401.08326v1)|null|
 |**2024-01-16**|**Application of LLM Agents in Recruitment: A Novel Framework for Resume Screening**|Chengguang Gan et.al.|[2401.08315v1](http://arxiv.org/abs/2401.08315v1)|null|
@@ -6648,7 +6648,7 @@ layout: default
 |**2024-01-15**|**Signed-Prompt: A New Approach to Prevent Prompt Injection Attacks Against LLM-Integrated Applications**|Xuchen Suo et.al.|[2401.07612v1](http://arxiv.org/abs/2401.07612v1)|null|
 |**2024-01-15**|**MAPLE: Multilingual Evaluation of Parameter Efficient Finetuning of Large Language Models**|Divyanshu Aggarwal et.al.|[2401.07598v1](http://arxiv.org/abs/2401.07598v1)|null|
 |**2024-01-15**|**Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding**|Qi Sun et.al.|[2401.07572v1](http://arxiv.org/abs/2401.07572v1)|null|
-|**2024-01-15**|**See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**|Youcheng Huang et.al.|[2401.07544v1](http://arxiv.org/abs/2401.07544v1)|null|
+|**2024-01-17**|**See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**|Youcheng Huang et.al.|[2401.07544v2](http://arxiv.org/abs/2401.07544v2)|null|
 |**2024-01-15**|**Exploring the Potential of Large Language Models in Self-adaptive Systems**|Jialong Li et.al.|[2401.07534v1](http://arxiv.org/abs/2401.07534v1)|null|
 |**2024-01-15**|**MM-SAP: A Comprehensive Benchmark for Assessing Self-Awareness of Multimodal Large Language Models in Perception**|Yuhao Wang et.al.|[2401.07529v1](http://arxiv.org/abs/2401.07529v1)|null|
 |**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766v1](http://arxiv.org/abs/2401.06766v1)|null|
@@ -14916,7 +14916,7 @@ layout: default
 |**2024-01-15**|**Passive particle in an active bath: How can we tell it is out of equilibrium?**|Jeanine Shea et.al.|[2401.07630v1](http://arxiv.org/abs/2401.07630v1)|null|
 |**2024-01-15**|**Data Assimilation using ERA5, ASOS, and the U-STN model for Weather Forecasting over the UK**|Wenqi Wang et.al.|[2401.07604v1](http://arxiv.org/abs/2401.07604v1)|**[link](https://github.com/acse-ww721/da_ml_era5_asos_weather_forecasting_uk)**|
 |**2024-01-15**|**Probabilistic Richardson Extrapolation**|Chris. J. Oates et.al.|[2401.07562v1](http://arxiv.org/abs/2401.07562v1)|null|
-|**2024-01-15**|**See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**|Youcheng Huang et.al.|[2401.07544v1](http://arxiv.org/abs/2401.07544v1)|null|
+|**2024-01-17**|**See the Unseen: Better Context-Consistent Knowledge-Editing by Noises**|Youcheng Huang et.al.|[2401.07544v2](http://arxiv.org/abs/2401.07544v2)|null|
 |**2024-01-15**|**Balancing the edge effect and dimension of spectral spatial statistics under irregular sampling with applications to isotropy testing**|Theresa Eckle et.al.|[2401.07522v1](http://arxiv.org/abs/2401.07522v1)|null|
 |**2024-01-15**|**Gaussian Processes for Time Series with Lead-Lag Effects with applications to biology data**|Wancen Mu et.al.|[2401.07400v1](http://arxiv.org/abs/2401.07400v1)|null|
 |**2024-01-14**|**On the expected number of roots of a random Dirichlet polynomial**|Marco Aymone et.al.|[2401.07375v1](http://arxiv.org/abs/2401.07375v1)|null|
@@ -14925,7 +14925,7 @@ layout: default
 |**2024-01-14**|**Unsupervised Domain Adaptation Using Compact Internal Representations**|Mohammad Rostami et.al.|[2401.07207v1](http://arxiv.org/abs/2401.07207v1)|null|
 |**2024-01-13**|**Numerical Approximation of Riesz-Feller Operators on $\mathbb R$**|Carlota M. Cuesta et.al.|[2401.07140v1](http://arxiv.org/abs/2401.07140v1)|null|
 |**2024-01-13**|**2.5-D MHD Simulation of the Formation and Evolution of Plasmoids in Coronal Current Sheets**|Sripan Mondal et.al.|[2401.07048v1](http://arxiv.org/abs/2401.07048v1)|null|
-|**2024-01-13**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v1](http://arxiv.org/abs/2401.06982v1)|null|
+|**2024-01-17**|**Denoising Diffusion Recommender Model**|Jujia Zhao et.al.|[2401.06982v2](http://arxiv.org/abs/2401.06982v2)|null|
 |**2024-01-13**|**Quantifying energy landscape of oscillatory systems: Explosion, pre-solution, and diffusion decomposition**|Shirui Bian et.al.|[2401.06959v1](http://arxiv.org/abs/2401.06959v1)|null|
 |**2024-01-12**|**Minimally Supervised Learning using Topological Projections in Self-Organizing Maps**|Zimeng Lyu et.al.|[2401.06923v1](http://arxiv.org/abs/2401.06923v1)|null|
 |**2024-01-12**|**Data-Efficient Interactive Multi-Objective Optimization Using ParEGO**|Arash Heidari et.al.|[2401.06649v1](http://arxiv.org/abs/2401.06649v1)|null|
@@ -14937,8 +14937,8 @@ layout: default
 |**2024-01-12**|**Faster Sampling without Isoperimetry via Diffusion-based Monte Carlo**|Xunpeng Huang et.al.|[2401.06325v1](http://arxiv.org/abs/2401.06325v1)|null|
 |**2024-01-12**|**Stochastic modelling of the instantaneous velocity profile in rough-wall turbulent boundary layers**|Roozbeh Ehsani et.al.|[2401.06315v1](http://arxiv.org/abs/2401.06315v1)|null|
 |**2024-01-11**|**Extremal random matrices with independent entries and matrix superconcentration inequalities**|Tatiana Brailovskaya et.al.|[2401.06284v1](http://arxiv.org/abs/2401.06284v1)|null|
-|**2024-01-11**|**The compact multi-planet system GJ 9827 revisited with ESPRESSO**|V. M. Passegger et.al.|[2401.06276v1](http://arxiv.org/abs/2401.06276v1)|null|
-|**2024-01-16**|**Ultrafast second-order nonlinear photonics -- from classical physics to non-Gaussian quantum dynamics**|Marc Jankowski et.al.|[2401.06265v2](http://arxiv.org/abs/2401.06265v2)|null|
+|**2024-01-16**|**The compact multi-planet system GJ 9827 revisited with ESPRESSO**|V. M. Passegger et.al.|[2401.06276v2](http://arxiv.org/abs/2401.06276v2)|null|
+|**2024-01-17**|**Ultrafast second-order nonlinear photonics -- from classical physics to non-Gaussian quantum dynamics**|Marc Jankowski et.al.|[2401.06265v3](http://arxiv.org/abs/2401.06265v3)|null|
 |**2024-01-11**|**Highly multimode visible squeezed light with programmable spectral correlations through broadband up-conversion**|Federico Presutti et.al.|[2401.06119v1](http://arxiv.org/abs/2401.06119v1)|null|
 |**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116v1](http://arxiv.org/abs/2401.06116v1)|null|
 |**2024-01-11**|**Simulation-Based Inference with Neural Posterior Estimation applied to X-ray spectral fitting: Demonstration of working principles down to the Poisson regime**|Didier Barret et.al.|[2401.06061v1](http://arxiv.org/abs/2401.06061v1)|null|
