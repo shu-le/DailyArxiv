@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 
 ## CV
 
@@ -9957,7 +9957,7 @@ layout: default
 |**2024-01-12**|**UMG-CLIP: A Unified Multi-Granularity Vision Generalist for Open-World Understanding**|Bowen Shi et.al.|[2401.06397v1](http://arxiv.org/abs/2401.06397v1)|null|
 |**2024-01-12**|**AffordanceLLM: Grounding Affordance from Vision Language Models**|Shengyi Qian et.al.|[2401.06341v1](http://arxiv.org/abs/2401.06341v1)|null|
 |**2024-01-12**|**Application Of Vision-Language Models For Assessing Osteoarthritis Disease Severity**|Banafshe Felfeliyan et.al.|[2401.06331v1](http://arxiv.org/abs/2401.06331v1)|null|
-|**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209v1](http://arxiv.org/abs/2401.06209v1)|null|
+|**2024-01-11**|**Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs**|Shengbang Tong et.al.|[2401.06209v1](http://arxiv.org/abs/2401.06209v1)|**[link](https://github.com/tsb0601/MMVP)**|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
 |**2024-01-11**|**An attempt to generate new bridge types from latent space of PixelCNN**|Hongjun Zhang et.al.|[2401.05964v1](http://arxiv.org/abs/2401.05964v1)|**[link](https://github.com/QQ583304953/Bridge-PixelCNN)**|
 |**2024-01-14**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al.|[2401.05577v2](http://arxiv.org/abs/2401.05577v2)|null|
