@@ -32,13 +32,13 @@ layout: default
 |**2024-01-17**|**Dynamic Relation Transformer for Contextual Text Block Detection**|Jiawei Wang et.al.|[2401.09232v1](http://arxiv.org/abs/2401.09232v1)|null|
 |**2024-01-17**|**Training-Free Semantic Video Composition via Pre-trained Diffusion Model**|Jiaqi Guo et.al.|[2401.09195v1](http://arxiv.org/abs/2401.09195v1)|null|
 |**2024-01-17**|**Exploring the Role of Convolutional Neural Networks (CNN) in Dental Radiography Segmentation: A Comprehensive Systematic Literature Review**|Walid Brahmi et.al.|[2401.09190v1](http://arxiv.org/abs/2401.09190v1)|null|
-|**2024-01-17**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Almudévar Antonio et.al.|[2401.09180v1](http://arxiv.org/abs/2401.09180v1)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
+|**2024-01-18**|**Unsupervised Multiple Domain Translation through Controlled Disentanglement in Variational Autoencoder**|Antonio Almudévar et.al.|[2401.09180v2](http://arxiv.org/abs/2401.09180v2)|**[link](https://github.com/antonioalmudevar/variational_translation)**|
 |**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160v1](http://arxiv.org/abs/2401.09160v1)|null|
 |**2024-01-17**|**Continuous Piecewise-Affine Based Motion Model for Image Animation**|Hexiang Wang et.al.|[2401.09146v1](http://arxiv.org/abs/2401.09146v1)|**[link](https://github.com/devilpg/aaai2024-cpabmm)**|
 |**2024-01-17**|**Relative Pose for Nonrigid Multi-Perspective Cameras: The Static Case**|Min Li et.al.|[2401.09140v1](http://arxiv.org/abs/2401.09140v1)|null|
 |**2024-01-17**|**SM$^3$: Self-Supervised Multi-task Modeling with Multi-view 2D Images for Articulated Objects**|Haowen Wang et.al.|[2401.09133v1](http://arxiv.org/abs/2401.09133v1)|null|
 |**2024-01-17**|**Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting**|Benjamin Ummenhofer et.al.|[2401.09126v1](http://arxiv.org/abs/2401.09126v1)|**[link](https://github.com/isl-org/objects-with-lighting)**|
-|**2024-01-17**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[2401.09112v1](http://arxiv.org/abs/2401.09112v1)|null|
+|**2024-01-18**|**Stream Query Denoising for Vectorized HD Map Construction**|Shuo Wang et.al.|[2401.09112v2](http://arxiv.org/abs/2401.09112v2)|null|
 |**2024-01-17**|**Trapped in texture bias? A large scale comparison of deep instance segmentation**|Johannes Theodoridis et.al.|[2401.09109v1](http://arxiv.org/abs/2401.09109v1)|**[link](https://github.com/johannestheo/trapped-in-texture-bias)**|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2024-01-17**|**UniVG: Towards UNIfied-modal Video Generation**|Ludan Ruan et.al.|[2401.09084v1](http://arxiv.org/abs/2401.09084v1)|null|
@@ -4348,7 +4348,7 @@ layout: default
 |**2024-01-15**|**Multifractal-spectral features enhance classification of anomalous diffusion**|Henrik Seckler et.al.|[2401.07646v1](http://arxiv.org/abs/2401.07646v1)|null|
 |**2024-01-15**|**InstantID: Zero-shot Identity-Preserving Generation in Seconds**|Qixun Wang et.al.|[2401.07519v1](http://arxiv.org/abs/2401.07519v1)|**[link](https://github.com/instantid/instantid)**|
 |**2024-01-15**|**Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation**|Yuanchen Ju et.al.|[2401.07487v1](http://arxiv.org/abs/2401.07487v1)|null|
-|**2024-01-15**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v1](http://arxiv.org/abs/2401.07450v1)|null|
+|**2024-01-18**|**Hierarchical Fashion Design with Multi-stage Diffusion Models**|Zhifeng Xie et.al.|[2401.07450v2](http://arxiv.org/abs/2401.07450v2)|null|
 |**2024-01-14**|**Generative AI in EU Law: Liability, Privacy, Intellectual Property, and Cybersecurity**|Claudio Novelli et.al.|[2401.07348v1](http://arxiv.org/abs/2401.07348v1)|null|
 |**2024-01-14**|**A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models**|Namjoon Suh et.al.|[2401.07187v1](http://arxiv.org/abs/2401.07187v1)|null|
 |**2024-01-13**|**Exploring Adversarial Attacks against Latent Diffusion Model from the Perspective of Adversarial Transferability**|Junxi Chen et.al.|[2401.07087v1](http://arxiv.org/abs/2401.07087v1)|null|
@@ -6707,8 +6707,8 @@ layout: default
 |**2024-01-16**|**Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**|Tassilo Klein et.al.|[2401.08491v1](http://arxiv.org/abs/2401.08491v1)|null|
 |**2024-01-16**|**Machine Translation with Large Language Models: Prompt Engineering for Persian, English, and Russian Directions**|Nooshin Pourkamali et.al.|[2401.08429v1](http://arxiv.org/abs/2401.08429v1)|null|
 |**2024-01-16**|**Ask the experts: sourcing high-quality datasets for nutritional counselling through Human-AI collaboration**|Simone Balloccu et.al.|[2401.08420v1](http://arxiv.org/abs/2401.08420v1)|**[link](https://github.com/uccollab/hai-coaching)**|
-|**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417v1](http://arxiv.org/abs/2401.08417v1)|**[link](https://github.com/fe1ixxu/alma)**|
-|**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406v1](http://arxiv.org/abs/2401.08406v1)|null|
+|**2024-01-18**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417v2](http://arxiv.org/abs/2401.08417v2)|**[link](https://github.com/fe1ixxu/alma)**|
+|**2024-01-17**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Angels Balaguer et.al.|[2401.08406v2](http://arxiv.org/abs/2401.08406v2)|null|
 |**2024-01-16**|**Hidden Flaws Behind Expert-Level Accuracy of GPT-4 Vision in Medicine**|Qiao Jin et.al.|[2401.08396v1](http://arxiv.org/abs/2401.08396v1)|null|
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392v1](http://arxiv.org/abs/2401.08392v1)|**[link](https://github.com/z-x-yang/doraemongpt)**|
 |**2024-01-17**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383v2](http://arxiv.org/abs/2401.08383v2)|**[link](https://github.com/yjhmitweb/exflow)**|
@@ -9962,7 +9962,7 @@ layout: default
 |**2024-01-11**|**An attempt to generate new bridge types from latent space of PixelCNN**|Hongjun Zhang et.al.|[2401.05964v1](http://arxiv.org/abs/2401.05964v1)|**[link](https://github.com/QQ583304953/Bridge-PixelCNN)**|
 |**2024-01-14**|**VLP: Vision Language Planning for Autonomous Driving**|Chenbin Pan et.al.|[2401.05577v2](http://arxiv.org/abs/2401.05577v2)|null|
 |**2024-01-10**|**Do Vision and Language Encoders Represent the World Similarly?**|Mayug Maniparambil et.al.|[2401.05224v1](http://arxiv.org/abs/2401.05224v1)|null|
-|**2024-01-10**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v1](http://arxiv.org/abs/2401.05163v1)|null|
+|**2024-01-18**|**MISS: A Generative Pretraining and Finetuning Approach for Med-VQA**|Jiawei Chen et.al.|[2401.05163v2](http://arxiv.org/abs/2401.05163v2)|null|
 |**2024-01-09**|**Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding**|Yatong Bai et.al.|[2401.04575v1](http://arxiv.org/abs/2401.04575v1)|null|
 |**2024-01-09**|**SonicVisionLM: Playing Sound with Vision Language Models**|Zhifeng Xie et.al.|[2401.04394v1](http://arxiv.org/abs/2401.04394v1)|null|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350v1](http://arxiv.org/abs/2401.04350v1)|null|
@@ -15047,12 +15047,12 @@ layout: default
 |**2024-01-17**|**Potential Energy Landscape of a Flexible Water Model: Equation-of-State, Configurational Entropy, and Adam-Gibbs Relationship**|Ali Eltareb et.al.|[2401.09355v1](http://arxiv.org/abs/2401.09355v1)|null|
 |**2024-01-17**|**High Confidence Level Inference is Almost Free using Parallel Stochastic Optimization**|Wanrong Zhu et.al.|[2401.09346v1](http://arxiv.org/abs/2401.09346v1)|null|
 |**2024-01-17**|**On the $\varepsilon$-Euler-Maruyama scheme for time inhomogeneous jump-driven SDEs**|Mireille Bossy et.al.|[2401.09338v1](http://arxiv.org/abs/2401.09338v1)|null|
-|**2024-01-17**|**Scaled quadratic variation for controlled rough paths and parameter estimation of fractional diffusions**|James Michael Leahy et.al.|[2401.09299v1](http://arxiv.org/abs/2401.09299v1)|null|
+|**2024-01-18**|**Scaled quadratic variation for controlled rough paths and parameter estimation of fractional diffusions**|James-Michael Leahy et.al.|[2401.09299v2](http://arxiv.org/abs/2401.09299v2)|null|
 |**2024-01-17**|**Deviation Inequalities for the Spectral Norm of Structured Random Matrices**|Guozheng Dai et.al.|[2401.09263v1](http://arxiv.org/abs/2401.09263v1)|null|
 |**2024-01-17**|**Relay Channels with Unreliable Helpers**|Yossef Steinberg et.al.|[2401.09256v1](http://arxiv.org/abs/2401.09256v1)|null|
 |**2024-01-17**|**Accurate Memory Kernel Extraction from Discretized Time Series Data**|Lucas Tepper et.al.|[2401.09249v1](http://arxiv.org/abs/2401.09249v1)|null|
 |**2024-01-17**|**Biased-MPPI: Informing Sampling-Based Model Predictive Control by Fusing Ancillary Controllers**|Elia Trevisan et.al.|[2401.09241v1](http://arxiv.org/abs/2401.09241v1)|null|
-|**2024-01-17**|**Extended system-bath entanglement theorem for multiple bosonic or fermionic environments**|Yu Su et.al.|[2401.09228v1](http://arxiv.org/abs/2401.09228v1)|null|
+|**2024-01-18**|**Extended system-bath entanglement theorem for multiple bosonic or fermionic environments**|Yu Su et.al.|[2401.09228v2](http://arxiv.org/abs/2401.09228v2)|null|
 |**2024-01-17**|**Prescribing curvatures in the disk via conformal changes of the metric: the case of negative Gaussian curvature**|Rafael López-Soriano et.al.|[2401.09153v1](http://arxiv.org/abs/2401.09153v1)|null|
 |**2024-01-17**|**Multivariate CLT for critical points**|Jean-Marc Azaïs et.al.|[2401.09117v1](http://arxiv.org/abs/2401.09117v1)|null|
 |**2024-01-17**|**UniVG: Towards UNIfied-modal Video Generation**|Ludan Ruan et.al.|[2401.09084v1](http://arxiv.org/abs/2401.09084v1)|null|
