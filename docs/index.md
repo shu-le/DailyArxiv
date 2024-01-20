@@ -14,7 +14,7 @@ layout: default
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227v1](http://arxiv.org/abs/2401.10227v1)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-18**|**Towards Language-Driven Video Inpainting via Multimodal Large Language Models**|Jianzong Wu et.al.|[2401.10226v1](http://arxiv.org/abs/2401.10226v1)|null|
 |**2024-01-18**|**The Manga Whisperer: Automatically Generating Transcriptions for Comics**|Ragav Sachdeva et.al.|[2401.10224v1](http://arxiv.org/abs/2401.10224v1)|**[link](https://github.com/ragavsachdeva/magi)**|
-|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|null|
+|**2024-01-18**|**Supervised Fine-tuning in turn Improves Visual Foundation Models**|Xiaohu Jiang et.al.|[2401.10222v1](http://arxiv.org/abs/2401.10222v1)|**[link](https://github.com/tencentarc/visft)**|
 |**2024-01-18**|**AutoFT: Robust Fine-Tuning by Optimizing Hyperparameters on OOD Data**|Caroline Choi et.al.|[2401.10220v1](http://arxiv.org/abs/2401.10220v1)|null|
 |**2024-01-18**|**Edit One for All: Interactive Batch Image Editing**|Thao Nguyen et.al.|[2401.10219v1](http://arxiv.org/abs/2401.10219v1)|null|
 |**2024-01-18**|**An inversely designed mode-multiplexed photonic integrated vector dot-product core**|Zheyuan Zhu et.al.|[2401.10218v1](http://arxiv.org/abs/2401.10218v1)|null|
@@ -4366,7 +4366,7 @@ layout: default
 |**2024-01-18**|**CLIP Model for Images to Textual Prompts Based on Top-k Neighbors**|Xin Zhang et.al.|[2401.09763v1](http://arxiv.org/abs/2401.09763v1)|null|
 |**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742v1](http://arxiv.org/abs/2401.09742v1)|null|
 |**2024-01-17**|**Total fraction of drug released from diffusion-controlled delivery systems with binding reactions**|Elliot J. Carr et.al.|[2401.09644v1](http://arxiv.org/abs/2401.09644v1)|null|
-|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624v1](http://arxiv.org/abs/2401.09624v1)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624v1](http://arxiv.org/abs/2401.09624v1)|**[link](https://github.com/giovannipasq/mits-gan)**|
 |**2024-01-17**|**Efficient generative adversarial networks using linear additive-attention Transformers**|Emilio Morales-Juarez et.al.|[2401.09596v1](http://arxiv.org/abs/2401.09596v1)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416v1](http://arxiv.org/abs/2401.09416v1)|null|
 |**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414v1](http://arxiv.org/abs/2401.09414v1)|**[link](https://github.com/zhuangshaobin/vlogger)**|
@@ -6754,7 +6754,7 @@ layout: default
 |**2024-01-18**|**WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens**|Xiaofeng Wang et.al.|[2401.09985v1](http://arxiv.org/abs/2401.09985v1)|null|
 |**2024-01-18**|**Sketch-Guided Constrained Decoding for Boosting Blackbox Large Language Models without Logit Access**|Saibo Geng et.al.|[2401.09967v1](http://arxiv.org/abs/2401.09967v1)|null|
 |**2024-01-18**|**When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference**|Zhensu Sun et.al.|[2401.09964v1](http://arxiv.org/abs/2401.09964v1)|**[link](https://github.com/v587su/sec)**|
-|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890v1](http://arxiv.org/abs/2401.09890v1)|null|
+|**2024-01-18**|**A Survey on Hardware Accelerators for Large Language Models**|Christoforos Kachris et.al.|[2401.09890v1](http://arxiv.org/abs/2401.09890v1)|**[link](https://github.com/kachris/survey_HA_LLM)**|
 |**2024-01-18**|**Evolutionary Multi-Objective Optimization of Large Language Model Prompts for Balancing Sentiments**|Jill Baumann et.al.|[2401.09862v1](http://arxiv.org/abs/2401.09862v1)|null|
 |**2024-01-18**|**Temporal Insight Enhancement: Mitigating Temporal Hallucination in Multimodal Large Language Models**|Li Sun et.al.|[2401.09861v1](http://arxiv.org/abs/2401.09861v1)|null|
 |**2024-01-18**|**All in How You Ask for It: Simple Black-Box Method for Jailbreak Attacks**|Kazuhiro Takemoto et.al.|[2401.09798v1](http://arxiv.org/abs/2401.09798v1)|**[link](https://github.com/kztakemoto/simbaja)**|
@@ -15200,7 +15200,7 @@ layout: default
 |**2024-01-18**|**Rejection Sampling with Vertical Weighted Strips**|Andrew M. Raim et.al.|[2401.09696v1](http://arxiv.org/abs/2401.09696v1)|null|
 |**2024-01-18**|**Half-space intersection properties for minimal hypersurfaces**|Keaton Naff et.al.|[2401.09669v1](http://arxiv.org/abs/2401.09669v1)|null|
 |**2024-01-17**|**Functional Linear Non-Gaussian Acyclic Model for Causal Discovery**|Tian-Le Yang et.al.|[2401.09641v1](http://arxiv.org/abs/2401.09641v1)|null|
-|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624v1](http://arxiv.org/abs/2401.09624v1)|null|
+|**2024-01-17**|**MITS-GAN: Safeguarding Medical Imaging from Tampering with Generative Adversarial Networks**|Giovanni Pasqualino et.al.|[2401.09624v1](http://arxiv.org/abs/2401.09624v1)|**[link](https://github.com/giovannipasq/mits-gan)**|
 |**2024-01-17**|**From inflation to dark matter halo profiles: the impact of primordial non-Gaussianities on the central density cusp**|Clément Stahl et.al.|[2401.09614v1](http://arxiv.org/abs/2401.09614v1)|null|
 |**2024-01-16**|**Uncertainty-Aware Calibration of a Hot-Wire Anemometer With Gaussian Process Regression**|Rubén Antonio García-Ruiz et.al.|[2401.09492v1](http://arxiv.org/abs/2401.09492v1)|null|
 |**2024-01-17**|**Potential Energy Landscape of a Flexible Water Model: Equation-of-State, Configurational Entropy, and Adam-Gibbs Relationship**|Ali Eltareb et.al.|[2401.09355v1](http://arxiv.org/abs/2401.09355v1)|null|
