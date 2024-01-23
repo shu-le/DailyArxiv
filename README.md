@@ -1,4 +1,4 @@
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 
 ## CV
 
@@ -48,7 +48,7 @@
 |**2024-01-19**|**Mementos: A Comprehensive Benchmark for Multimodal Large Language Model Reasoning over Image Sequences**|Xiyao Wang et.al.|[2401.10529v1](http://arxiv.org/abs/2401.10529v1)|null|
 |**2024-01-19**|**On mitigating stability-plasticity dilemma in CLIP-guided image morphing via geodesic distillation loss**|Yeongtak Oh et.al.|[2401.10526v1](http://arxiv.org/abs/2401.10526v1)|null|
 |**2024-01-19**|**Focaler-IoU: More Focused Intersection over Union Loss**|Hao Zhang et.al.|[2401.10525v1](http://arxiv.org/abs/2401.10525v1)|null|
-|**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512v1](http://arxiv.org/abs/2401.10512v1)|null|
+|**2024-01-19**|**Exploring Color Invariance through Image-Level Ensemble Learning**|Yunpeng Gong et.al.|[2401.10512v1](http://arxiv.org/abs/2401.10512v1)|**[link](https://github.com/finger-monkey/Data-Augmentation)**|
 |**2024-01-19**|**GMC-IQA: Exploiting Global-correlation and Mean-opinion Consistency for No-reference Image Quality Assessment**|Zewen Chen et.al.|[2401.10511v1](http://arxiv.org/abs/2401.10511v1)|null|
 |**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501v1](http://arxiv.org/abs/2401.10501v1)|null|
 |**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475v1](http://arxiv.org/abs/2401.10475v1)|null|
@@ -6631,7 +6631,7 @@
 |**2024-01-12**|**Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks**|Stefan Blücher et.al.|[2401.06654v1](http://arxiv.org/abs/2401.06654v1)|**[link](https://github.com/bluecher31/pixel-flipping)**|
 |**2024-01-12**|**Lost in the Source Language: How Large Language Models Evaluate the Quality of Machine Translation**|Xu Huang et.al.|[2401.06568v1](http://arxiv.org/abs/2401.06568v1)|**[link](https://github.com/xuuhuang/lost_in_the_src)**|
 |**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559v1](http://arxiv.org/abs/2401.06559v1)|null|
-|**2024-01-12**|**The TEAMx-PC22 Alpine field campaign -- Objectives, instrumentation, and observed phenomena**|Lena Pfister et.al.|[2401.06500v1](http://arxiv.org/abs/2401.06500v1)|null|
+|**2024-01-12**|**The TEAMx-PC22 Alpine field campaign - Objectives, instrumentation, and observed phenomena**|Lena Pfister et.al.|[2401.06500v1](http://arxiv.org/abs/2401.06500v1)|null|
 |**2024-01-12**|**Towards better representation of Indian summer monsoon rainfall in CMIP6 models: Evaluation of MISO and MJO simulation**|Ushnanshu Dutta et.al.|[2401.06346v1](http://arxiv.org/abs/2401.06346v1)|null|
 |**2024-01-10**|**Reliability Analysis of Complex Systems using Subset Simulations with Hamiltonian Neural Networks**|Denny Thaler et.al.|[2401.05244v1](http://arxiv.org/abs/2401.05244v1)|null|
 |**2024-01-10**|**Global sensitivity analysis with multifidelity Monte Carlo and polynomial chaos expansion for carotid artery haemodynamics**|Friederike Schäfer et.al.|[2401.04889v1](http://arxiv.org/abs/2401.04889v1)|null|
@@ -6803,7 +6803,7 @@
 |**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862v1](http://arxiv.org/abs/2401.10862v1)|null|
 |**2024-01-19**|**Using LLMs to discover emerging coded antisemitic hate-speech emergence in extremist social media**|Dhanush Kikkisetti et.al.|[2401.10841v1](http://arxiv.org/abs/2401.10841v1)|null|
 |**2024-01-19**|**A survey on recent advances in named entity recognition**|Imed Keraghel et.al.|[2401.10825v1](http://arxiv.org/abs/2401.10825v1)|null|
-|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774v1](http://arxiv.org/abs/2401.10774v1)|null|
+|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774v1](http://arxiv.org/abs/2401.10774v1)|**[link](https://github.com/fasterdecoding/medusa)**|
 |**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768v1](http://arxiv.org/abs/2401.10768v1)|null|
 |**2024-01-19**|**Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models**|James Prather et.al.|[2401.10759v1](http://arxiv.org/abs/2401.10759v1)|null|
 |**2024-01-19**|**FinLLMs: A Framework for Financial Reasoning Dataset Generation with Large Language Models**|Ziqiang Yuan et.al.|[2401.10744v1](http://arxiv.org/abs/2401.10744v1)|null|
@@ -6825,7 +6825,7 @@
 |**2024-01-19**|**DeepEdit: Knowledge Editing as Decoding with Constraints**|Yiwei Wang et.al.|[2401.10471v1](http://arxiv.org/abs/2401.10471v1)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu et.al.|[2401.10446v1](http://arxiv.org/abs/2401.10446v1)|null|
 |**2024-01-18**|**Can Large Language Model Summarizers Adapt to Diverse Scientific Communication Goals?**|Marcio Fonseca et.al.|[2401.10415v1](http://arxiv.org/abs/2401.10415v1)|null|
-|**2024-01-18**|**Using LLM such as ChatGPT for Designing and Implementing a RISC Processor: Execution,Challenges and Limitations**|Shadeeb Hossain et.al.|[2401.10364v1](http://arxiv.org/abs/2401.10364v1)|null|
+|**2024-01-18**|**Using LLM such as ChatGPT for Designing and Implementing a RISC Processor: Execution,Challenges and Limitations**|Shadeeb Hossain et.al.|[2401.10364v1](http://arxiv.org/abs/2401.10364v1)|**[link](https://github.com/Shadeeb-Hossain/LLM-for-RISC/blob/main/RISC_LLM.rar)**|
 |**2024-01-18**|**Excuse me, sir? Your language model is leaking (information)**|Or Zamir et.al.|[2401.10360v1](http://arxiv.org/abs/2401.10360v1)|**[link](https://github.com/orzamir/steg)**|
 |**2024-01-18**|**Inconsistent dialogue responses and how to recover from them**|Mian Zhang et.al.|[2401.10353v1](http://arxiv.org/abs/2401.10353v1)|null|
 |**2024-01-18**|**LangProp: A code optimization framework using Language Models applied to driving**|Shu Ishida et.al.|[2401.10314v1](http://arxiv.org/abs/2401.10314v1)|**[link](https://github.com/shuishida/langprop)**|
