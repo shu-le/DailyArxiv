@@ -4442,7 +4442,7 @@
 |**2024-01-17**|**VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models**|Haoxin Chen et.al.|[2401.09047v1](http://arxiv.org/abs/2401.09047v1)|**[link](https://github.com/ailab-cvc/videocrafter)**|
 |**2024-01-17**|**Data Attribution for Diffusion Models: Timestep-induced Bias in Influence Estimation**|Tong Xie et.al.|[2401.09031v1](http://arxiv.org/abs/2401.09031v1)|null|
 |**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977v1](http://arxiv.org/abs/2401.08977v1)|**[link](https://github.com/zackzikaixiao/fedloge)**|
-|**2024-01-17**|**AntiPhishStack: LSTM-based Stacked Generalization Model for Optimized Phishing URLs Detection**|Saba Aslam et.al.|[2401.08947v1](http://arxiv.org/abs/2401.08947v1)|null|
+|**2024-01-21**|**AntiPhishStack: LSTM-based Stacked Generalization Model for Optimized Phishing URL Detection**|Saba Aslam et.al.|[2401.08947v2](http://arxiv.org/abs/2401.08947v2)|null|
 |**2024-01-17**|**3D Human Pose Analysis via Diffusion Synthesis**|Haorui Ji et.al.|[2401.08930v1](http://arxiv.org/abs/2401.08930v1)|null|
 |**2024-01-17**|**Idempotence and Perceptual Image Compression**|Tongda Xu et.al.|[2401.08920v1](http://arxiv.org/abs/2401.08920v1)|**[link](https://github.com/tongdaxu/idempotence-and-perceptual-image-compression)**|
 |**2024-01-16**|**Adversarial Supervision Makes Layout-to-Image Diffusion Models Thrive**|Yumeng Li et.al.|[2401.08815v1](http://arxiv.org/abs/2401.08815v1)|**[link](https://github.com/boschresearch/aldm)**|
