@@ -1,4 +1,4 @@
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 
 ## CV
 
@@ -6970,7 +6970,7 @@
 |**2024-01-23**|**"The teachers are confused as well": A Multiple-Stakeholder Ethics Discussion on Large Language Models in Computing Education**|Kyrie Zhixuan Zhou et.al.|[2401.12453v1](http://arxiv.org/abs/2401.12453v1)|null|
 |**2024-01-22**|**Program Decomposition and Translation with Static Analysis**|Ali Reza Ibrahimzada et.al.|[2401.12412v1](http://arxiv.org/abs/2401.12412v1)|null|
 |**2024-01-22**|**Enhancing In-context Learning via Linear Probe Calibration**|Momin Abbas et.al.|[2401.12406v1](http://arxiv.org/abs/2401.12406v1)|**[link](https://github.com/mominabbass/linc)**|
-|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|null|
+|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|**[link](https://github.com/cuplv/text-to-sql-wizardcoder)**|
 |**2024-01-22**|**Fine-tuning Large Language Models for Multigenerator, Multidomain, and Multilingual Machine-Generated Text Detection**|Feng Xiong et.al.|[2401.12326v1](http://arxiv.org/abs/2401.12326v1)|null|
 |**2024-01-22**|**The outcomes of generative AI are exactly the Nash equilibria of a non-potential game**|Boualem Djehiche et.al.|[2401.12321v1](http://arxiv.org/abs/2401.12321v1)|null|
 |**2024-01-22**|**Cheap Learning: Maximising Performance of Language Models for Social Data Science Using Minimal Data**|Leonardo Castro-Gonzalez et.al.|[2401.12295v1](http://arxiv.org/abs/2401.12295v1)|**[link](https://github.com/turing-online-safety-codebase/cheap_learning)**|
