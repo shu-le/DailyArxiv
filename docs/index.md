@@ -7106,7 +7106,7 @@ layout: default
 |**2024-01-24**|**The Calibration Gap between Model and Human Confidence in Large Language Models**|Mark Steyvers et.al.|[2401.13835v1](http://arxiv.org/abs/2401.13835v1)|null|
 |**2024-01-24**|**Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4**|Xuchao Zhang et.al.|[2401.13810v1](http://arxiv.org/abs/2401.13810v1)|null|
 |**2024-01-24**|**Synergizing Human Expertise and AI Efficiency with Language Model for Microscopy Operation and Automated Experiment Design**|Yongtao Liu et.al.|[2401.13803v1](http://arxiv.org/abs/2401.13803v1)|null|
-|**2024-01-24**|**Investigating the Efficacy of Large Language Models for Code Clone Detection**|Mohamad Khajezade et.al.|[2401.13802v1](http://arxiv.org/abs/2401.13802v1)|null|
+|**2024-01-24**|**Investigating the Efficacy of Large Language Models for Code Clone Detection**|Mohamad Khajezade et.al.|[2401.13802v1](http://arxiv.org/abs/2401.13802v1)|**[link](https://github.com/mkhfring/largelanguagemodels)**|
 |**2024-01-24**|**Supporting Sensemaking of Large Language Model Outputs at Scale**|Katy Ilonka Gero et.al.|[2401.13726v1](http://arxiv.org/abs/2401.13726v1)|null|
 |**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641v1](http://arxiv.org/abs/2401.13641v1)|null|
 |**2024-01-25**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601v2](http://arxiv.org/abs/2401.13601v2)|null|
@@ -11313,7 +11313,7 @@ layout: default
 |**2024-01-24**|**Emergence of anti-coordinated patterns in snowdrift game by reinforcement learning**|Zhen-Wei Ding et.al.|[2401.13497v1](http://arxiv.org/abs/2401.13497v1)|null|
 |**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492v1](http://arxiv.org/abs/2401.13492v1)|null|
 |**2024-01-24**|**Multi-Agent Diagnostics for Robustness via Illuminated Diversity**|Mikayel Samvelyan et.al.|[2401.13460v1](http://arxiv.org/abs/2401.13460v1)|null|
-|**2024-01-24**|**Generating random Gaussian states**|Leevi Leppäjärvi et.al.|[2401.13435v1](http://arxiv.org/abs/2401.13435v1)|null|
+|**2024-01-24**|**Generating random Gaussian states**|Leevi Leppäjärvi et.al.|[2401.13435v1](http://arxiv.org/abs/2401.13435v1)|**[link](https://github.com/leevi-leppajarvi/random-quantum-covariance-matrices)**|
 |**2024-01-25**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v2](http://arxiv.org/abs/2401.13388v2)|null|
 |**2024-01-24**|**Randomized learning-augmented auctions with revenue guarantees**|Ioannis Caragiannis et.al.|[2401.13384v1](http://arxiv.org/abs/2401.13384v1)|null|
 |**2024-01-24**|**Dynamic Epistemic Logic of Resource Bounded Information Mining Agents**|Vitaliy Dolgorukov et.al.|[2401.13369v1](http://arxiv.org/abs/2401.13369v1)|null|
@@ -15915,11 +15915,11 @@ layout: default
 |**2024-01-25**|**Momentum power spectrum of SDSS galaxies by massE cosmic ruler: 2.1x improvement in measure of growth rate**|Yong Shi et.al.|[2401.13871v1](http://arxiv.org/abs/2401.13871v1)|null|
 |**2024-01-24**|**TransientX: A high performance single pulse search package**|Yunpeng Men et.al.|[2401.13834v1](http://arxiv.org/abs/2401.13834v1)|null|
 |**2024-01-24**|**Entrywise Inference for Causal Panel Data: A Simple and Instance-Optimal Approach**|Yuling Yan et.al.|[2401.13665v1](http://arxiv.org/abs/2401.13665v1)|null|
-|**2024-01-24**|**Observations of scattered light from exoplanet atmospheres**|Brett M. Morris et.al.|[2401.13635v1](http://arxiv.org/abs/2401.13635v1)|null|
+|**2024-01-24**|**Observations of scattered light from exoplanet atmospheres**|Brett M. Morris et.al.|[2401.13635v1](http://arxiv.org/abs/2401.13635v1)|**[link](https://github.com/bmorris3/kelp)**|
 |**2024-01-24**|**Revisiting the warm sub-Saturn TOI-1710b**|J. Orell-Miquel et.al.|[2401.13574v1](http://arxiv.org/abs/2401.13574v1)|null|
 |**2024-01-24**|**Studying the interaction between charm and light-flavor mesons**|ALICE Collaboration et.al.|[2401.13541v1](http://arxiv.org/abs/2401.13541v1)|null|
 |**2024-01-24**|**Variational Quantum Eigensolvers with Quantum Gaussian Filters for solving ground-state problems in quantum many-body systems**|Yihao Liu et.al.|[2401.13459v1](http://arxiv.org/abs/2401.13459v1)|null|
-|**2024-01-24**|**Generating random Gaussian states**|Leevi Leppäjärvi et.al.|[2401.13435v1](http://arxiv.org/abs/2401.13435v1)|null|
+|**2024-01-24**|**Generating random Gaussian states**|Leevi Leppäjärvi et.al.|[2401.13435v1](http://arxiv.org/abs/2401.13435v1)|**[link](https://github.com/leevi-leppajarvi/random-quantum-covariance-matrices)**|
 |**2024-01-24**|**Tracer diffusion beyond Gaussian behavior: explicit results for general single-file systems**|Aurélien Grabsch et.al.|[2401.13409v1](http://arxiv.org/abs/2401.13409v1)|null|
 |**2024-01-24**|**A Mathematical Theory of Semantic Communication**|Kai Niu et.al.|[2401.13387v1](http://arxiv.org/abs/2401.13387v1)|null|
 |**2024-01-24**|**EndoGaussians: Single View Dynamic Gaussian Splatting for Deformable Endoscopic Tissues Reconstruction**|Yangsen Chen et.al.|[2401.13352v1](http://arxiv.org/abs/2401.13352v1)|null|
