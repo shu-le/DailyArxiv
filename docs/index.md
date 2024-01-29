@@ -38,7 +38,7 @@ layout: default
 |**2024-01-25**|**Attention-based Efficient Classification for 3D MRI Image of Alzheimer's Disease**|Yihao Lin et.al.|[2401.14130v1](http://arxiv.org/abs/2401.14130v1)|null|
 |**2024-01-25**|**Incorporating Exemplar Optimization into Training with Dual Networks for Human Mesh Recovery**|Yongwei Nie et.al.|[2401.14121v1](http://arxiv.org/abs/2401.14121v1)|null|
 |**2024-01-25**|**MIFI: MultI-camera Feature Integration for Roust 3D Distracted Driver Activity Recognition**|Jian Kuang et.al.|[2401.14115v1](http://arxiv.org/abs/2401.14115v1)|**[link](https://github.com/john828/mifi)**|
-|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111v1](http://arxiv.org/abs/2401.14111v1)|null|
+|**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
 |**2024-01-25**|**GQHAN: A Grover-inspired Quantum Hard Attention Network**|Ren-Xin Zhao et.al.|[2401.14089v1](http://arxiv.org/abs/2401.14089v1)|null|
 |**2024-01-25**|**Double Trouble? Impact and Detection of Duplicates in Face Image Datasets**|Torsten Schlett et.al.|[2401.14088v1](http://arxiv.org/abs/2401.14088v1)|**[link](https://github.com/dasec/dataset-duplicates)**|
 |**2024-01-25**|**ProCNS: Progressive Prototype Calibration and Noise Suppression for Weakly-Supervised Medical Image Segmentation**|Y. Liu et.al.|[2401.14074v1](http://arxiv.org/abs/2401.14074v1)|**[link](https://github.com/lyxdlii/procns)**|
@@ -4606,7 +4606,7 @@ layout: default
 |**2024-01-25**|**UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models**|Timo Kapsalis et.al.|[2401.14379v1](http://arxiv.org/abs/2401.14379v1)|null|
 |**2024-01-25**|**Combined Generative and Predictive Modeling for Speech Super-resolution**|Heming Wang et.al.|[2401.14269v1](http://arxiv.org/abs/2401.14269v1)|null|
 |**2024-01-25**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v1](http://arxiv.org/abs/2401.14257v1)|null|
-|**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111v1](http://arxiv.org/abs/2401.14111v1)|null|
+|**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Influence of climate variability on the potential forage production of a mown permanent grassland in the French Massif Central**|Iñigo Gómara et.al.|[2401.14053v1](http://arxiv.org/abs/2401.14053v1)|null|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
@@ -7079,7 +7079,7 @@ layout: default
 |**2024-01-25**|**GPTVoiceTasker: LLM-Powered Virtual Assistant for Smartphone**|Minh Duc Vu et.al.|[2401.14268v1](http://arxiv.org/abs/2401.14268v1)|null|
 |**2024-01-25**|**Transformers and Cortical Waves: Encoders for Pulling In Context Across Time**|Lyle Muller et.al.|[2401.14267v1](http://arxiv.org/abs/2401.14267v1)|null|
 |**2024-01-25**|**Improving Natural Language Capability of Code Large Language Model**|Wei Li et.al.|[2401.14242v1](http://arxiv.org/abs/2401.14242v1)|**[link](https://github.com/nl2code/attentioncoder)**|
-|**2024-01-25**|**DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence**|Daya Guo et.al.|[2401.14196v1](http://arxiv.org/abs/2401.14196v1)|**[link](https://github.com/deepseek-ai/DeepSeek-Coder)**|
+|**2024-01-26**|**DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence**|Daya Guo et.al.|[2401.14196v2](http://arxiv.org/abs/2401.14196v2)|**[link](https://github.com/deepseek-ai/DeepSeek-Coder)**|
 |**2024-01-25**|**How Can Large Language Models Understand Spatial-Temporal Data?**|Lei Liu et.al.|[2401.14192v1](http://arxiv.org/abs/2401.14192v1)|null|
 |**2024-01-25**|**Copilot Refinement: Addressing Code Smells in Copilot-Generated Python Code**|Beiqi Zhang et.al.|[2401.14176v1](http://arxiv.org/abs/2401.14176v1)|null|
 |**2024-01-25**|**True Knowledge Comes from Practice: Aligning LLMs with Embodied Environments via Reinforcement Learning**|Weihao Tan et.al.|[2401.14151v1](http://arxiv.org/abs/2401.14151v1)|**[link](https://github.com/weihaotan/twosome)**|
@@ -7089,7 +7089,7 @@ layout: default
 |**2024-01-25**|**Towards Goal-oriented Large Language Model Prompting: A Survey**|Haochen Li et.al.|[2401.14043v1](http://arxiv.org/abs/2401.14043v1)|null|
 |**2024-01-25**|**(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection**|Francesco Periti et.al.|[2401.14040v1](http://arxiv.org/abs/2401.14040v1)|null|
 |**2024-01-25**|**Towards Uncertainty-Aware Language Agent**|Jiuzhou Han et.al.|[2401.14016v1](http://arxiv.org/abs/2401.14016v1)|null|
-|**2024-01-25**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v1](http://arxiv.org/abs/2401.14011v1)|null|
+|**2024-01-26**|**CMMU: A Benchmark for Chinese Multi-modal Multi-type Question Understanding and Reasoning**|Zheqi He et.al.|[2401.14011v2](http://arxiv.org/abs/2401.14011v2)|null|
 |**2024-01-25**|**ConstraintChecker: A Plugin for Large Language Models to Reason on Commonsense Knowledge Bases**|Quyet V. Do et.al.|[2401.14003v1](http://arxiv.org/abs/2401.14003v1)|**[link](https://github.com/hkust-knowcomp/constraintchecker)**|
 |**2024-01-25**|**Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning**|Yanda Chen et.al.|[2401.13986v1](http://arxiv.org/abs/2401.13986v1)|**[link](https://github.com/yandachen/explanation-consistency-finetuning)**|
 |**2024-01-25**|**CUI@CHI 2024: Building Trust in CUIs-From Design to Deployment**|Smit Desai et.al.|[2401.13970v1](http://arxiv.org/abs/2401.13970v1)|null|
@@ -11284,7 +11284,7 @@ layout: default
 |**2024-01-25**|**LanDA: Language-Guided Multi-Source Domain Adaptation**|Zhenbin Wang et.al.|[2401.14148v1](http://arxiv.org/abs/2401.14148v1)|null|
 |**2024-01-25**|**Mathematical Tri-State Model for Bee Shimmering Propagation Dynamics**|Navin Patel et.al.|[2401.14145v1](http://arxiv.org/abs/2401.14145v1)|null|
 |**2024-01-25**|**A facile one-pot hydrothermal synthesis as an efficient method to modulate the potassium content of cryptomelane and its effects on the redox and catalytic properties**|Huiyan Pan et.al.|[2401.14144v1](http://arxiv.org/abs/2401.14144v1)|null|
-|**2024-01-25**|**Label-free detection of exosomes from different cellular sources based on surface-enhanced Raman spectroscopy combined with machine learning models**|Yang Lia et.al.|[2401.14104v1](http://arxiv.org/abs/2401.14104v1)|null|
+|**2024-01-26**|**Label-free detection of exosomes from different cellular sources based on surface-enhanced Raman spectroscopy combined with machine learning models**|Yang Li et.al.|[2401.14104v2](http://arxiv.org/abs/2401.14104v2)|null|
 |**2024-01-25**|**Optical phase encoding in pulsed approach to reservoir computing**|Johan Henaff et.al.|[2401.14073v1](http://arxiv.org/abs/2401.14073v1)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|**[link](https://github.com/haha-lisa/creativesynth)**|
 |**2024-01-25**|**Towards Uncertainty-Aware Language Agent**|Jiuzhou Han et.al.|[2401.14016v1](http://arxiv.org/abs/2401.14016v1)|null|
