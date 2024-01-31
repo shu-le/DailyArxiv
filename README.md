@@ -30,7 +30,7 @@
 |**2024-01-29**|**FIMP: Future Interaction Modeling for Multi-Agent Motion Prediction**|Sungmin Woo et.al.|[2401.16189v1](http://arxiv.org/abs/2401.16189v1)|null|
 |**2024-01-29**|**A Survey on Structure-Preserving Graph Transformers**|Van Thuy Hoang et.al.|[2401.16176v1](http://arxiv.org/abs/2401.16176v1)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|null|
-|**2024-01-29**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v1](http://arxiv.org/abs/2401.16160v1)|null|
+|**2024-01-30**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v2](http://arxiv.org/abs/2401.16160v2)|null|
 |**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158v1](http://arxiv.org/abs/2401.16158v1)|null|
 |**2024-01-29**|**Spatial-Aware Latent Initialization for Controllable Image Generation**|Wenqiang Sun et.al.|[2401.16157v1](http://arxiv.org/abs/2401.16157v1)|null|
 |**2024-01-29**|**Divide and Conquer: Rethinking the Training Paradigm of Neural Radiance Fields**|Rongkai Ma et.al.|[2401.16144v1](http://arxiv.org/abs/2401.16144v1)|null|
@@ -4707,14 +4707,14 @@
 |**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977v1](http://arxiv.org/abs/2401.15977v1)|null|
 |**2024-01-29**|**StableIdentity: Inserting Anybody into Anywhere at First Sight**|Qinghe Wang et.al.|[2401.15975v1](http://arxiv.org/abs/2401.15975v1)|null|
 |**2024-01-29**|**AdvNF: Reducing Mode Collapse in Conditional Normalising Flows using Adversarial Learning**|Vikas Kanaujia et.al.|[2401.15948v1](http://arxiv.org/abs/2401.15948v1)|null|
-|**2024-01-29**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935v1](http://arxiv.org/abs/2401.15935v1)|null|
+|**2024-01-30**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935v2](http://arxiv.org/abs/2401.15935v2)|null|
 |**2024-01-29**|**EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization**|Xueming Yan et.al.|[2401.15931v1](http://arxiv.org/abs/2401.15931v1)|null|
 |**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914v1](http://arxiv.org/abs/2401.15914v1)|null|
 |**2024-01-29**|**Toward the Identifiability of Comparative Deep Generative Models**|Romain Lopez et.al.|[2401.15903v1](http://arxiv.org/abs/2401.15903v1)|null|
 |**2024-01-29**|**Sliced Wasserstein with Random-Path Projecting Directions**|Khai Nguyen et.al.|[2401.15889v1](http://arxiv.org/abs/2401.15889v1)|null|
 |**2024-01-28**|**Object-Driven One-Shot Fine-tuning of Text-to-Image Diffusion with Prototypical Embedding**|Jianxiang Lu et.al.|[2401.15708v1](http://arxiv.org/abs/2401.15708v1)|null|
-|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v1](http://arxiv.org/abs/2401.15688v1)|null|
-|**2024-01-28**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687v1](http://arxiv.org/abs/2401.15687v1)|null|
+|**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v2](http://arxiv.org/abs/2401.15688v2)|null|
+|**2024-01-30**|**Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**|Qingcheng Zhao et.al.|[2401.15687v2](http://arxiv.org/abs/2401.15687v2)|null|
 |**2024-01-28**|**Data-Free Generalized Zero-Shot Learning**|Bowen Tang et.al.|[2401.15657v1](http://arxiv.org/abs/2401.15657v1)|null|
 |**2024-01-28**|**Continuous-Multiple Image Outpainting in One-Step via Positional Query and A Diffusion-based Approach**|Shaofeng Zhang et.al.|[2401.15652v1](http://arxiv.org/abs/2401.15652v1)|null|
 |**2024-01-28**|**CPDM: Content-Preserving Diffusion Model for Underwater Image Enhancement**|Xiaowen Shi et.al.|[2401.15649v1](http://arxiv.org/abs/2401.15649v1)|null|
@@ -4745,7 +4745,7 @@
 |**2024-01-25**|**Combined Generative and Predictive Modeling for Speech Super-resolution**|Heming Wang et.al.|[2401.14269v1](http://arxiv.org/abs/2401.14269v1)|null|
 |**2024-01-27**|**Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation**|Minglin Chen et.al.|[2401.14257v2](http://arxiv.org/abs/2401.14257v2)|null|
 |**2024-01-26**|**Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs**|Rameshwar Mishra et.al.|[2401.14111v2](http://arxiv.org/abs/2401.14111v2)|null|
-|**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v1](http://arxiv.org/abs/2401.14066v1)|null|
+|**2024-01-30**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066v2](http://arxiv.org/abs/2401.14066v2)|null|
 |**2024-01-25**|**Influence of climate variability on the potential forage production of a mown permanent grassland in the French Massif Central**|Iñigo Gómara et.al.|[2401.14053v1](http://arxiv.org/abs/2401.14053v1)|null|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992v1](http://arxiv.org/abs/2401.13992v1)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974v1](http://arxiv.org/abs/2401.13974v1)|null|
@@ -7223,7 +7223,7 @@
 |**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185v1](http://arxiv.org/abs/2401.16185v1)|null|
 |**2024-01-29**|**LLaMandement: Large Language Models for Summarization of French Legislative Proposals**|Joseph Gesnouin et.al.|[2401.16182v1](http://arxiv.org/abs/2401.16182v1)|null|
 |**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167v1](http://arxiv.org/abs/2401.16167v1)|null|
-|**2024-01-29**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v1](http://arxiv.org/abs/2401.16160v1)|null|
+|**2024-01-30**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v2](http://arxiv.org/abs/2401.16160v2)|null|
 |**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158v1](http://arxiv.org/abs/2401.16158v1)|null|
 |**2024-01-29**|**Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis**|Haochun Wang et.al.|[2401.16107v1](http://arxiv.org/abs/2401.16107v1)|null|
 |**2024-01-29**|**Probabilistic Abduction for Visual Abstract Reasoning via Learning Rules in Vector-symbolic Architectures**|Michael Hersche et.al.|[2401.16024v1](http://arxiv.org/abs/2401.16024v1)|null|
@@ -7236,7 +7236,7 @@
 |**2024-01-29**|**Transparency Attacks: How Imperceptible Image Layers Can Fool AI Perception**|Forrest McKee et.al.|[2401.15817v1](http://arxiv.org/abs/2401.15817v1)|null|
 |**2024-01-29**|**Green Runner: A tool for efficient deep learning component selection**|Jai Kannan et.al.|[2401.15810v1](http://arxiv.org/abs/2401.15810v1)|null|
 |**2024-01-28**|**Fine-Tuned Large Language Models for Symptom Recognition from Spanish Clinical Text**|Mai A. Shaaban et.al.|[2401.15780v1](http://arxiv.org/abs/2401.15780v1)|null|
-|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v1](http://arxiv.org/abs/2401.15688v1)|null|
+|**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v2](http://arxiv.org/abs/2401.15688v2)|null|
 |**2024-01-28**|**From Word Embedding to Reading Embedding Using Large Language Model, EEG and Eye-tracking**|Yuhong Zhang et.al.|[2401.15681v1](http://arxiv.org/abs/2401.15681v1)|null|
 |**2024-01-28**|**YODA: Teacher-Student Progressive Learning for Language Models**|Jianqiao Lu et.al.|[2401.15670v1](http://arxiv.org/abs/2401.15670v1)|null|
 |**2024-01-28**|**LLsM: Generative Linguistic Steganography with Large Language Model**|Yihao Wang et.al.|[2401.15656v1](http://arxiv.org/abs/2401.15656v1)|null|
@@ -7258,7 +7258,7 @@
 |**2024-01-27**|**MultiHop-RAG: Benchmarking Retrieval-Augmented Generation for Multi-Hop Queries**|Yixuan Tang et.al.|[2401.15391v1](http://arxiv.org/abs/2401.15391v1)|**[link](https://github.com/yixuantt/MultiHop-RAG)**|
 |**2024-01-27**|**A Comprehensive Survey of Compression Algorithms for Language Models**|Seungcheol Park et.al.|[2401.15347v1](http://arxiv.org/abs/2401.15347v1)|null|
 |**2024-01-27**|**L-AutoDA: Leveraging Large Language Models for Automated Decision-based Adversarial Attacks**|Ping Guo et.al.|[2401.15335v1](http://arxiv.org/abs/2401.15335v1)|null|
-|**2024-01-27**|**Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**|Adrian Theuma et.al.|[2401.15328v1](http://arxiv.org/abs/2401.15328v1)|null|
+|**2024-01-30**|**Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance**|Adrian Theuma et.al.|[2401.15328v2](http://arxiv.org/abs/2401.15328v2)|null|
 |**2024-01-27**|**Building ethical guidelines for generative AI in scientific research**|Zhicheng Lin et.al.|[2401.15284v1](http://arxiv.org/abs/2401.15284v1)|null|
 |**2024-01-27**|**Improving Medical Reasoning through Retrieval and Self-Reflection with Retrieval-Augmented Large Language Models**|Minbyul Jeong et.al.|[2401.15269v1](http://arxiv.org/abs/2401.15269v1)|null|
 |**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v1](http://arxiv.org/abs/2401.15077v1)|null|
@@ -11515,7 +11515,7 @@
 |**2024-01-29**|**Zero-shot Imitation Policy via Search in Demonstration Dataset**|Federco Malato et.al.|[2401.16398v1](http://arxiv.org/abs/2401.16398v1)|null|
 |**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355v1](http://arxiv.org/abs/2401.16355v1)|null|
 |**2024-01-29**|**Prepare Non-classical Collective Spin State by Reinforcement Learning**|X. L. Zhao et.al.|[2401.16320v1](http://arxiv.org/abs/2401.16320v1)|null|
-|**2024-01-29**|**Collaboration Petri Nets: Verification, Equivalence, and Discovery (Extended Version)**|Janik-Vasily Benzin et.al.|[2401.16263v1](http://arxiv.org/abs/2401.16263v1)|null|
+|**2024-01-30**|**Collaboration Petri Nets: Verification, Equivalence, and Discovery (Extended Version)**|Janik-Vasily Benzin et.al.|[2401.16263v2](http://arxiv.org/abs/2401.16263v2)|null|
 |**2024-01-29**|**Towards Red Teaming in Multimodal and Multilingual Translation**|Christophe Ropers et.al.|[2401.16247v1](http://arxiv.org/abs/2401.16247v1)|null|
 |**2024-01-29**|**Effective Communication with Dynamic Feature Compression**|Pietro Talli et.al.|[2401.16236v1](http://arxiv.org/abs/2401.16236v1)|null|
 |**2024-01-29**|**A mechanism for discovering semantic relationships among agent communication protocols**|Idoia Berges et.al.|[2401.16216v1](http://arxiv.org/abs/2401.16216v1)|null|
@@ -11525,7 +11525,7 @@
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183v1](http://arxiv.org/abs/2401.16183v1)|null|
 |**2024-01-29**|**Multimode fiber speckle Stokes polarimeter**|Yuxuan Xiong et.al.|[2401.16168v1](http://arxiv.org/abs/2401.16168v1)|null|
 |**2024-01-29**|**"You tell me": A Dataset of GPT-4-Based Behaviour Change Support Conversations**|Selina Meyer et.al.|[2401.16167v1](http://arxiv.org/abs/2401.16167v1)|null|
-|**2024-01-29**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v1](http://arxiv.org/abs/2401.16160v1)|null|
+|**2024-01-30**|**LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**|Shaoxiang Chen et.al.|[2401.16160v2](http://arxiv.org/abs/2401.16160v2)|null|
 |**2024-01-29**|**Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**|Junyang Wang et.al.|[2401.16158v1](http://arxiv.org/abs/2401.16158v1)|null|
 |**2024-01-29**|**Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers**|Amr Gomaa et.al.|[2401.16123v1](http://arxiv.org/abs/2401.16123v1)|**[link](https://github.com/amrgomaaelhady/icregress)**|
 |**2024-01-29**|**Bandwidth-induced saturation in multimode fiber-based absorbers**|Kfir Sulimany et.al.|[2401.16121v1](http://arxiv.org/abs/2401.16121v1)|null|
@@ -11534,7 +11534,7 @@
 |**2024-01-29**|**Fairness in Algorithmic Recourse Through the Lens of Substantive Equality of Opportunity**|Andrew Bell et.al.|[2401.16088v1](http://arxiv.org/abs/2401.16088v1)|null|
 |**2024-01-29**|**${\mathrm{\textit{In situ}}}$ preparation of superconducting infinite-layer nickelate thin films with atomically flat surface**|Wenjie Sun et.al.|[2401.15979v1](http://arxiv.org/abs/2401.15979v1)|null|
 |**2024-01-29**|**Imitation vs serendipity in ranking dynamics**|Federica De Domenico et.al.|[2401.15968v1](http://arxiv.org/abs/2401.15968v1)|null|
-|**2024-01-29**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935v1](http://arxiv.org/abs/2401.15935v1)|null|
+|**2024-01-30**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935v2](http://arxiv.org/abs/2401.15935v2)|null|
 |**2024-01-29**|**HICH Image/Text (HICH-IT): Comprehensive Text and Image Datasets for Hypertensive Intracerebral Hemorrhage Research**|Jie Li et.al.|[2401.15934v1](http://arxiv.org/abs/2401.15934v1)|null|
 |**2024-01-29**|**$\boldsymbol{M^2}$-Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining**|Qingpei Guo et.al.|[2401.15896v1](http://arxiv.org/abs/2401.15896v1)|null|
 |**2024-01-29**|**CMA-ES with Learning Rate Adaptation**|Masahiro Nomura et.al.|[2401.15876v1](http://arxiv.org/abs/2401.15876v1)|null|
@@ -11544,7 +11544,7 @@
 |**2024-01-29**|**LCVO: An Efficient Pretraining-Free Framework for Visual Question Answering Grounding**|Yuhan Chen et.al.|[2401.15842v1](http://arxiv.org/abs/2401.15842v1)|null|
 |**2024-01-28**|**ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing**|Varundev Sukhil et.al.|[2401.15783v1](http://arxiv.org/abs/2401.15783v1)|null|
 |**2024-01-28**|**A Centralized Reinforcement Learning Framework for Adaptive Clustering with Low Control Overhead in IoT Networks**|F. Fernando Jurado-Lasso et.al.|[2401.15767v1](http://arxiv.org/abs/2401.15767v1)|null|
-|**2024-01-28**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v1](http://arxiv.org/abs/2401.15688v1)|null|
+|**2024-01-30**|**Divide and Conquer: Language Models can Plan and Self-Correct for Compositional Text-to-Image Generation**|Zhenyu Wang et.al.|[2401.15688v2](http://arxiv.org/abs/2401.15688v2)|null|
 |**2024-01-28**|**Cooperative Receding Horizon 3D Coverage Control with a Team of Networked Aerial Agents**|Savvas Papaioannou et.al.|[2401.15674v1](http://arxiv.org/abs/2401.15674v1)|null|
 |**2024-01-28**|**YODA: Teacher-Student Progressive Learning for Language Models**|Jianqiao Lu et.al.|[2401.15670v1](http://arxiv.org/abs/2401.15670v1)|null|
 |**2024-01-28**|**A Mean Field Game Approach to Relative Investment-Consumption Games with Habit Formation**|Zongxia Liang et.al.|[2401.15659v1](http://arxiv.org/abs/2401.15659v1)|null|
