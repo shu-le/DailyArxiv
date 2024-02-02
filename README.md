@@ -1,4 +1,4 @@
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 
 ## CV
 
@@ -4799,7 +4799,7 @@
 |---|---|---|---|---|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
 |**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041v1](http://arxiv.org/abs/2401.18041v1)|null|
-|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|null|
+|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|**[link](https://github.com/chujiezheng/llm-safeguard)**|
 |**2024-01-31**|**Diagnosing the particle transport mechanism in the pulsar halo via X-ray observations**|Qi-Zuo Wu et.al.|[2401.17982v1](http://arxiv.org/abs/2401.17982v1)|null|
 |**2024-01-31**|**Convergence Analysis for General Probability Flow ODEs of Diffusion Models in Wasserstein Distances**|Xuefeng Gao et.al.|[2401.17958v1](http://arxiv.org/abs/2401.17958v1)|null|
 |**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879v1](http://arxiv.org/abs/2401.17879v1)|null|
@@ -7361,7 +7361,7 @@
 |**2024-01-31**|**LongAlign: A Recipe for Long Context Alignment of Large Language Models**|Yushi Bai et.al.|[2401.18058v1](http://arxiv.org/abs/2401.18058v1)|**[link](https://github.com/thudm/longalign)**|
 |**2024-01-31**|**Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models**|Mitodru Niyogi et.al.|[2401.18034v1](http://arxiv.org/abs/2401.18034v1)|null|
 |**2024-01-31**|**Supporting Anticipatory Governance using LLMs: Evaluating and Aligning Large Language Models with the News Media to Anticipate the Negative Impacts of AI**|Mowafak Allaham et.al.|[2401.18028v1](http://arxiv.org/abs/2401.18028v1)|null|
-|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|null|
+|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018v1](http://arxiv.org/abs/2401.18018v1)|**[link](https://github.com/chujiezheng/llm-safeguard)**|
 |**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006v1](http://arxiv.org/abs/2401.18006v1)|null|
 |**2024-01-31**|**Evaluating the Effectiveness of GPT-4 Turbo in Creating Defeaters for Assurance Cases**|Kimya Khakzad Shahandashti et.al.|[2401.17991v1](http://arxiv.org/abs/2401.17991v1)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981v1](http://arxiv.org/abs/2401.17981v1)|null|
