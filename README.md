@@ -9,7 +9,7 @@
 |**2024-02-01**|**Towards Optimal Feature-Shaping Methods for Out-of-Distribution Detection**|Qinyu Zhao et.al.|[2402.00865v1](http://arxiv.org/abs/2402.00865v1)|**[link](https://github.com/qinyu-allen-zhao/optfsood)**|
 |**2024-02-01**|**ViCA-NeRF: View-Consistency-Aware 3D Editing of Neural Radiance Fields**|Jiahua Dong et.al.|[2402.00864v1](http://arxiv.org/abs/2402.00864v1)|**[link](https://github.com/dongjiahua/vica-nerf)**|
 |**2024-02-01**|**Geometry Transfer for Stylizing Radiance Fields**|Hyunyoung Jung et.al.|[2402.00863v1](http://arxiv.org/abs/2402.00863v1)|null|
-|**2024-02-01**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847v1](http://arxiv.org/abs/2402.00847v1)|null|
+|**2024-02-01**|**BootsTAP: Bootstrapped Training for Tracking-Any-Point**|Carl Doersch et.al.|[2402.00847v1](http://arxiv.org/abs/2402.00847v1)|**[link](https://github.com/google-deepmind/tapnet)**|
 |**2024-02-01**|**Emo-Avatar: Efficient Monocular Video Style Avatar through Texture Rendering**|Pinxin Liu et.al.|[2402.00827v1](http://arxiv.org/abs/2402.00827v1)|null|
 |**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769v1](http://arxiv.org/abs/2402.00769v1)|**[link](https://github.com/g-u-n/animatelcm)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763v1](http://arxiv.org/abs/2402.00763v1)|null|
@@ -7436,7 +7436,7 @@
 |**2024-02-01**|**Common errors in Generative AI systems used for knowledge extraction in the climate action domain**|Denis Havlik et.al.|[2402.00830v1](http://arxiv.org/abs/2402.00830v1)|null|
 |**2024-02-01**|**Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents**|Zelong Li et.al.|[2402.00798v1](http://arxiv.org/abs/2402.00798v1)|**[link](https://github.com/agiresearch/formal-llm)**|
 |**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795v1](http://arxiv.org/abs/2402.00795v1)|null|
-|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786v1](http://arxiv.org/abs/2402.00786v1)|null|
+|**2024-02-01**|**CroissantLLM: A Truly Bilingual French-English Language Model**|Manuel Faysse et.al.|[2402.00786v1](http://arxiv.org/abs/2402.00786v1)|**[link](https://github.com/coderpat/croissant-llm-training)**|
 |**2024-02-01**|**Dense Reward for Free in Reinforcement Learning from Human Feedback**|Alex J. Chan et.al.|[2402.00782v1](http://arxiv.org/abs/2402.00782v1)|**[link](https://github.com/xanderjc/attention-based-credit)**|
 |**2024-02-01**|**Unlearnable Algorithms for In-context Learning**|Andrei Muresanu et.al.|[2402.00751v1](http://arxiv.org/abs/2402.00751v1)|null|
 |**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|**[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)**|
@@ -7445,7 +7445,7 @@
 |**2024-02-01**|**PeaTMOSS: A Dataset and Initial Analysis of Pre-Trained Models in Open-Source Software**|Wenxin Jiang et.al.|[2402.00699v1](http://arxiv.org/abs/2402.00699v1)|**[link](https://github.com/purduedualitylab/peatmoss-artifact)**|
 |**2024-02-01**|**Comparative Study of Large Language Model Architectures on Frontier**|Junqi Yin et.al.|[2402.00691v1](http://arxiv.org/abs/2402.00691v1)|null|
 |**2024-02-01**|**Ocassionally Secure: A Comparative Analysis of Code Generation Assistants**|Ran Elgedawy et.al.|[2402.00689v1](http://arxiv.org/abs/2402.00689v1)|null|
-|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|null|
+|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|**[link](https://github.com/sparkjiao/rl-trajectory-reasoning)**|
 |**2024-02-01**|**Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks**|Maan Qraitem et.al.|[2402.00626v1](http://arxiv.org/abs/2402.00626v1)|null|
 |**2024-02-01**|**EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models**|Xuchen Pan et.al.|[2402.00518v1](http://arxiv.org/abs/2402.00518v1)|**[link](https://github.com/pan-x-c/ee-llm)**|
 |**2024-02-01**|**SA-MDKIF: A Scalable and Adaptable Medical Domain Knowledge Injection Framework for Large Language Models**|Tianhan Xu et.al.|[2402.00474v1](http://arxiv.org/abs/2402.00474v1)|null|
@@ -16702,7 +16702,7 @@
 |**2024-01-30**|**CALM: Convolution As Local Mixture**|Lifan Liang et.al.|[2401.17400v1](http://arxiv.org/abs/2401.17400v1)|null|
 |**2024-01-30**|**Estimating the EVSI with Gaussian Approximations and Spline-Based Series Methods**|Linke Li et.al.|[2401.17393v1](http://arxiv.org/abs/2401.17393v1)|null|
 |**2024-01-30**|**A Spectral Library and Method for Sparse Unmixing of Hyperspectral Images in Fluorescence Guided Resection of Brain Tumors**|David Black et.al.|[2401.17388v1](http://arxiv.org/abs/2401.17388v1)|**[link](https://github.com/dgblack/hsibrain)**|
-|**2024-01-30**|**Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression**|Xiaoxu Chen et.al.|[2401.17387v1](http://arxiv.org/abs/2401.17387v1)|null|
+|**2024-01-30**|**Conditional forecasting of bus travel time and passenger occupancy with Bayesian Markov regime-switching vector autoregression**|Xiaoxu Chen et.al.|[2401.17387v1](http://arxiv.org/abs/2401.17387v1)|**[link](https://github.com/xiaoxuchen/markov-regime-switching-model)**|
 |**2024-01-30**|**First Study of the Supernova Remnant Population in the Large Magellanic Cloud with eROSITA**|Federico Zangrandi et.al.|[2401.17307v1](http://arxiv.org/abs/2401.17307v1)|null|
 |**2024-01-30**|**SRG/eROSITA 3D mapping of the ISM using X-ray absorption spectroscopy**|E. Gatuzz et.al.|[2401.17284v1](http://arxiv.org/abs/2401.17284v1)|null|
 |**2024-01-30**|**Towards Quantum Simulation of Non-Markovian Open Quantum Dynamics: A Universal and Compact Theory**|Xiang Li et.al.|[2401.17255v1](http://arxiv.org/abs/2401.17255v1)|null|
