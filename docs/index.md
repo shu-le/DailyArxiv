@@ -7516,7 +7516,7 @@ layout: default
 |**2024-02-02**|**K-Level Reasoning with Large Language Models**|Yadong Zhang et.al.|[2402.01521v1](http://arxiv.org/abs/2402.01521v1)|null|
 |**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495v1](http://arxiv.org/abs/2402.01495v1)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
 |**2024-02-02**|**AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback**|Jian Guan et.al.|[2402.01469v1](http://arxiv.org/abs/2402.01469v1)|null|
-|**2024-02-02**|**Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach**|Masayuki Takayama et.al.|[2402.01454v1](http://arxiv.org/abs/2402.01454v1)|null|
+|**2024-02-02**|**Integrating Large Language Models in Causal Discovery: A Statistical Causal Approach**|Masayuki Takayama et.al.|[2402.01454v1](http://arxiv.org/abs/2402.01454v1)|**[link](https://github.com/mas-takayama/LLM-and-SCD/tree/main/codes)**|
 |**2024-02-02**|**From Words to Molecules: A Survey of Large Language Models in Chemistry**|Chang Liao et.al.|[2402.01439v1](http://arxiv.org/abs/2402.01439v1)|null|
 |**2024-02-02**|**CodePori: Large Scale Model for Autonomous Software Development by Using Multi-Agents**|Zeeshan Rasheed et.al.|[2402.01411v1](http://arxiv.org/abs/2402.01411v1)|null|
 |**2024-02-02**|**StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback**|Shihan Dou et.al.|[2402.01391v1](http://arxiv.org/abs/2402.01391v1)|null|
