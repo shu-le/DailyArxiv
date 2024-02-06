@@ -4938,7 +4938,7 @@ layout: default
 |**2024-02-02**|**Machine Unlearning for Image-to-Image Generative Models**|Guihong Li et.al.|[2402.00351v2](http://arxiv.org/abs/2402.00351v2)|null|
 |**2024-02-01**|**PAM: Prompting Audio-Language Models for Audio Quality Assessment**|Soham Deshmukh et.al.|[2402.00282v1](http://arxiv.org/abs/2402.00282v1)|**[link](https://github.com/soham97/pam)**|
 |**2024-02-01**|**LRDif: Diffusion Models for Under-Display Camera Emotion Recognition**|Zhifeng Wang et.al.|[2402.00250v1](http://arxiv.org/abs/2402.00250v1)|null|
-|**2024-01-31**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198v1](http://arxiv.org/abs/2402.00198v1)|null|
+|**2024-02-02**|**SuperDiff: Diffusion Models for Conditional Generation of Hypothetical New Families of Superconductors**|Samuel Yuan et.al.|[2402.00198v2](http://arxiv.org/abs/2402.00198v2)|null|
 |**2024-01-31**|**De-identification is not always enough**|Atiquer Rahman Sarkar et.al.|[2402.00179v1](http://arxiv.org/abs/2402.00179v1)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
 |**2024-01-31**|**Ljusternik-Schnirelmann eigenvalues for the fractional $m-$Laplacian without the $Δ_2$ condition**|Julian Fernandez Bonder et.al.|[2401.18041v1](http://arxiv.org/abs/2401.18041v1)|null|
@@ -11268,9 +11268,9 @@ layout: default
 |**2024-01-29**|**InternLM-XComposer2: Mastering Free-form Text-Image Composition and Comprehension in Vision-Language Large Model**|Xiaoyi Dong et.al.|[2401.16420v1](http://arxiv.org/abs/2401.16420v1)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355v1](http://arxiv.org/abs/2401.16355v1)|**[link](https://github.com/PathMMU-Benchmark/PathMMU)**|
 |**2024-01-29**|**CognitiveOS: Large Multimodal Model based System to Endow Any Type of Robot with Generative AI**|Artem Lykov et.al.|[2401.16205v1](http://arxiv.org/abs/2401.16205v1)|null|
-|**2024-01-29**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947v1](http://arxiv.org/abs/2401.15947v1)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
+|**2024-02-04**|**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**|Bin Lin et.al.|[2401.15947v2](http://arxiv.org/abs/2401.15947v2)|**[link](https://github.com/PKU-YuanGroup/MoE-LLaVA)**|
 |**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914v1](http://arxiv.org/abs/2401.15914v1)|null|
-|**2024-01-29**|**$\boldsymbol{M^2}$-Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining**|Qingpei Guo et.al.|[2401.15896v1](http://arxiv.org/abs/2401.15896v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder)**|
+|**2024-02-04**|**M2-Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining**|Qingpei Guo et.al.|[2401.15896v2](http://arxiv.org/abs/2401.15896v2)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder)**|
 |**2024-01-29**|**Muffin or Chihuahua? Challenging Large Vision-Language Models with Multipanel VQA**|Yue Fan et.al.|[2401.15847v1](http://arxiv.org/abs/2401.15847v1)|null|
 |**2024-01-29**|**LCVO: An Efficient Pretraining-Free Framework for Visual Question Answering Grounding**|Yuhan Chen et.al.|[2401.15842v1](http://arxiv.org/abs/2401.15842v1)|null|
 |**2024-01-27**|**Exploring the Transferability of a Foundation Model for Fundus Images: Application to Hypertensive Retinopathy**|Julio Silva-Rodriguez et.al.|[2401.15526v1](http://arxiv.org/abs/2401.15526v1)|null|
