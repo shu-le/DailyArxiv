@@ -1,4 +1,4 @@
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 
 ## CV
 
@@ -42,7 +42,7 @@
 |**2024-02-02**|**Spiking CenterNet: A Distillation-boosted Spiking Neural Network for Object Detection**|Lennard Bodden et.al.|[2402.01287v1](http://arxiv.org/abs/2402.01287v1)|null|
 |**2024-02-02**|**Spectrum-guided Feature Enhancement Network for Event Person Re-Identification**|Hongchen Tan et.al.|[2402.01269v1](http://arxiv.org/abs/2402.01269v1)|null|
 |**2024-02-02**|**Direct side information learning for zero-shot regression**|Miriam Fdez-Díaz et.al.|[2402.01264v1](http://arxiv.org/abs/2402.01264v1)|**[link](https://github.com/uo231492/dsilzsr)**|
-|**2024-02-02**|**Cascaded Scaling Classifier: class incremental learning with probability scaling**|Jary Pomponi et.al.|[2402.01262v1](http://arxiv.org/abs/2402.01262v1)|null|
+|**2024-02-02**|**Cascaded Scaling Classifier: class incremental learning with probability scaling**|Jary Pomponi et.al.|[2402.01262v1](http://arxiv.org/abs/2402.01262v1)|**[link](https://github.com/jaryP/Cascaded-Scaling-Classifier)**|
 |**2024-02-02**|**Can Shape-Infused Joint Embeddings Improve Image-Conditioned 3D Diffusion?**|Cristian Sbrolli et.al.|[2402.01241v1](http://arxiv.org/abs/2402.01241v1)|null|
 |**2024-02-02**|**PRIME: Protect Your Videos From Malicious Editing**|Guanlin Li et.al.|[2402.01239v1](http://arxiv.org/abs/2402.01239v1)|null|
 |**2024-02-02**|**Delving into Decision-based Black-box Attacks on Semantic Segmentation**|Zhaoyu Chen et.al.|[2402.01220v1](http://arxiv.org/abs/2402.01220v1)|null|
