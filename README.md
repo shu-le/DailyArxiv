@@ -5020,10 +5020,10 @@
 |**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445v1](http://arxiv.org/abs/2402.03445v1)|null|
 |**2024-02-04**|**Overcoming Order in Autoregressive Graph Generation**|Edo Cohen-Karlik et.al.|[2402.03387v1](http://arxiv.org/abs/2402.03387v1)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305v1](http://arxiv.org/abs/2402.03305v1)|null|
-|**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v1](http://arxiv.org/abs/2402.03292v1)|null|
+|**2024-02-07**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v2](http://arxiv.org/abs/2402.03292v2)|null|
 |**2024-02-05**|**InstanceDiffusion: Instance-level Control for Image Generation**|Xudong Wang et.al.|[2402.03290v1](http://arxiv.org/abs/2402.03290v1)|null|
 |**2024-02-05**|**MobilityGPT: Enhanced Human Mobility Modeling with a GPT model**|Ammar Haydari et.al.|[2402.03264v1](http://arxiv.org/abs/2402.03264v1)|null|
-|**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214v1](http://arxiv.org/abs/2402.03214v1)|null|
+|**2024-02-06**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214v2](http://arxiv.org/abs/2402.03214v2)|null|
 |**2024-02-05**|**Light and Optimal Schrödinger Bridge Matching**|Nikita Gushchin et.al.|[2402.03207v1](http://arxiv.org/abs/2402.03207v1)|null|
 |**2024-02-05**|**Guidance with Spherical Gaussian Constraint for Conditional Diffusion**|Lingxiao Yang et.al.|[2402.03201v1](http://arxiv.org/abs/2402.03201v1)|null|
 |**2024-02-05**|**Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion**|Shiyuan Yang et.al.|[2402.03162v1](http://arxiv.org/abs/2402.03162v1)|null|
@@ -7695,7 +7695,7 @@
 |**2024-02-06**|**Systematic Biases in LLM Simulations of Debates**|Amir Taubenfeld et.al.|[2402.04049v1](http://arxiv.org/abs/2402.04049v1)|null|
 |**2024-02-06**|**Understanding the Effect of Noise in LLM Training Data with Algorithmic Chains of Thought**|Alex Havrilla et.al.|[2402.04004v1](http://arxiv.org/abs/2402.04004v1)|null|
 |**2024-02-06**|**In-context learning agents are asymmetric belief updaters**|Johannes A. Schubert et.al.|[2402.03969v1](http://arxiv.org/abs/2402.03969v1)|null|
-|**2024-02-06**|**Position Paper: Against Spurious Sparks-Dovelating Inflated AI Claims**|Patrick Altmeyer et.al.|[2402.03962v1](http://arxiv.org/abs/2402.03962v1)|null|
+|**2024-02-07**|**Position Paper: Against Spurious Sparks $-$ Dovelating Inflated AI Claims**|Patrick Altmeyer et.al.|[2402.03962v2](http://arxiv.org/abs/2402.03962v2)|null|
 |**2024-02-06**|**Discovery of the Hidden World with Large Language Models**|Chenxi Liu et.al.|[2402.03941v1](http://arxiv.org/abs/2402.03941v1)|null|
 |**2024-02-06**|**Leak, Cheat, Repeat: Data Contamination and Evaluation Malpractices in Closed-Source LLMs**|Simone Balloccu et.al.|[2402.03927v1](http://arxiv.org/abs/2402.03927v1)|null|
 |**2024-02-06**|**Large Language Models to Enhance Bayesian Optimization**|Tennison Liu et.al.|[2402.03921v1](http://arxiv.org/abs/2402.03921v1)|null|
@@ -7724,7 +7724,7 @@
 |**2024-02-06**|**Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation**|Lingxiao Zhao et.al.|[2402.03687v1](http://arxiv.org/abs/2402.03687v1)|null|
 |**2024-02-06**|**Minds versus Machines: Rethinking Entailment Verification with Language Models**|Soumya Sanyal et.al.|[2402.03686v1](http://arxiv.org/abs/2402.03686v1)|null|
 |**2024-02-06**|**Large Language Models as an Indirect Reasoner: Contrapositive and Contradiction for Automated Reasoning**|Yanfang Zhang et.al.|[2402.03667v1](http://arxiv.org/abs/2402.03667v1)|null|
-|**2024-02-06**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v1](http://arxiv.org/abs/2402.03659v1)|null|
+|**2024-02-07**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v2](http://arxiv.org/abs/2402.03659v2)|null|
 |**2024-02-06**|**Enhancing LLM-Based Coding Tools through Native Integration of IDE-Derived Static Context**|Yichen Li et.al.|[2402.03630v1](http://arxiv.org/abs/2402.03630v1)|null|
 |**2024-02-06**|**Professional Agents -- Evolving Large Language Models into Autonomous Experts with Human-Level Competencies**|Zhixuan Chu et.al.|[2402.03628v1](http://arxiv.org/abs/2402.03628v1)|null|
 |**2024-02-06**|**Partially Recentralization Softmax Loss for Vision-Language Models Robustness**|Hao Wang et.al.|[2402.03627v1](http://arxiv.org/abs/2402.03627v1)|null|
@@ -11537,7 +11537,7 @@
 |**2024-02-05**|**Image-Caption Encoding for Improving Zero-Shot Generalization**|Eric Yang Yu et.al.|[2402.02662v1](http://arxiv.org/abs/2402.02662v1)|**[link](https://github.com/chris210634/ice)**|
 |**2024-02-05**|**Vision-Language Models Provide Promptable Representations for Reinforcement Learning**|William Chen et.al.|[2402.02651v1](http://arxiv.org/abs/2402.02651v1)|null|
 |**2024-02-04**|**Generalizable Entity Grounding via Assistance of Large Language Model**|Lu Qi et.al.|[2402.02555v1](http://arxiv.org/abs/2402.02555v1)|null|
-|**2024-02-04**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Dilxat Muhtar et.al.|[2402.02544v1](http://arxiv.org/abs/2402.02544v1)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
+|**2024-02-07**|**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**|Dilxat Muhtar et.al.|[2402.02544v2](http://arxiv.org/abs/2402.02544v2)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
 |**2024-02-04**|**Video Editing for Video Retrieval**|Bin Zhu et.al.|[2402.02335v1](http://arxiv.org/abs/2402.02335v1)|null|
 |**2024-02-03**|**Image Fusion via Vision-Language Model**|Zixiang Zhao et.al.|[2402.02235v1](http://arxiv.org/abs/2402.02235v1)|null|
 |**2024-02-03**|**Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models**|Yongshuo Zong et.al.|[2402.02207v1](http://arxiv.org/abs/2402.02207v1)|null|
@@ -11546,7 +11546,7 @@
 |**2024-02-02**|**The Role of Foundation Models in Neuro-Symbolic Learning and Reasoning**|Daniel Cunnington et.al.|[2402.01889v1](http://arxiv.org/abs/2402.01889v1)|null|
 |**2024-02-02**|**Explaining latent representations of generative models with large multimodal models**|Mengdan Zhu et.al.|[2402.01858v1](http://arxiv.org/abs/2402.01858v1)|null|
 |**2024-01-25**|**Not My Voice! A Taxonomy of Ethical and Safety Harms of Speech Generators**|Wiebke Hutiri et.al.|[2402.01708v1](http://arxiv.org/abs/2402.01708v1)|null|
-|**2024-02-06**|**Skip \n: A simple method to reduce hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345v2](http://arxiv.org/abs/2402.01345v2)|**[link](https://github.com/hanmenghan/mihio)**|
+|**2024-02-07**|**Skip \n: A Simple Method to Reduce Hallucination in Large Vision-Language Models**|Zongbo Han et.al.|[2402.01345v3](http://arxiv.org/abs/2402.01345v3)|**[link](https://github.com/hanmenghan/mihio)**|
 |**2024-02-02**|**2AFC Prompting of Large Multimodal Models for Image Quality Assessment**|Hanwei Zhu et.al.|[2402.01162v1](http://arxiv.org/abs/2402.01162v1)|null|
 |**2024-02-01**|**Exploring Spatial Schema Intuitions in Large Language and Vision Models**|Philipp Wicke et.al.|[2402.00956v1](http://arxiv.org/abs/2402.00956v1)|null|
 |**2024-02-01**|**Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks**|Maan Qraitem et.al.|[2402.00626v1](http://arxiv.org/abs/2402.00626v1)|null|
@@ -12320,7 +12320,7 @@
 |**2024-02-06**|**Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**|Spyridon Mouselinos et.al.|[2402.03877v1](http://arxiv.org/abs/2402.03877v1)|null|
 |**2024-02-06**|**Controlling Inter-Particle Distances in Crowds of Motile, Cognitive, Active Particles**|Rajendra Singh Negi et.al.|[2402.03851v1](http://arxiv.org/abs/2402.03851v1)|null|
 |**2024-02-06**|**A call for embodied AI**|Giuseppe Paolo et.al.|[2402.03824v1](http://arxiv.org/abs/2402.03824v1)|null|
-|**2024-02-06**|**Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification**|Géraud Faye et.al.|[2402.03780v1](http://arxiv.org/abs/2402.03780v1)|null|
+|**2024-02-07**|**Exposing propaganda: an analysis of stylistic cues comparing human annotations and machine classification**|Géraud Faye et.al.|[2402.03780v2](http://arxiv.org/abs/2402.03780v2)|null|
 |**2024-02-06**|**Reinforcement Learning from Bagged Reward: A Transformer-based Approach for Instance-Level Reward Redistribution**|Yuting Tang et.al.|[2402.03771v1](http://arxiv.org/abs/2402.03771v1)|null|
 |**2024-02-06**|**QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model**|Saizhuo Wang et.al.|[2402.03755v1](http://arxiv.org/abs/2402.03755v1)|null|
 |**2024-02-06**|**Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback**|Daechul Ahn et.al.|[2402.03746v1](http://arxiv.org/abs/2402.03746v1)|null|
@@ -12329,7 +12329,7 @@
 |**2024-02-06**|**Hierarchical Large Language Models in Cloud Edge End Architecture for Heterogeneous Robot Cluster Control**|Zhirong Luan et.al.|[2402.03703v1](http://arxiv.org/abs/2402.03703v1)|null|
 |**2024-02-06**|**RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback**|Yufei Wang et.al.|[2402.03681v1](http://arxiv.org/abs/2402.03681v1)|null|
 |**2024-02-06**|**Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents**|Yash Shukla et.al.|[2402.03678v1](http://arxiv.org/abs/2402.03678v1)|null|
-|**2024-02-06**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v1](http://arxiv.org/abs/2402.03659v1)|null|
+|**2024-02-07**|**Learning to Generate Explainable Stock Predictions using Self-Reflective Large Language Models**|Kelvin J. L. Koa et.al.|[2402.03659v2](http://arxiv.org/abs/2402.03659v2)|null|
 |**2024-02-06**|**Sentiment-enhanced Graph-based Sarcasm Explanation in Dialogue**|Kun Ouyang et.al.|[2402.03658v1](http://arxiv.org/abs/2402.03658v1)|null|
 |**2024-02-06**|**Agent-Based Triangle Counting and its Applications in Anonymous Graphs**|Prabhat Kumar Chand et.al.|[2402.03653v1](http://arxiv.org/abs/2402.03653v1)|null|
 |**2024-02-06**|**Professional Agents -- Evolving Large Language Models into Autonomous Experts with Human-Level Competencies**|Zhixuan Chu et.al.|[2402.03628v1](http://arxiv.org/abs/2402.03628v1)|null|
