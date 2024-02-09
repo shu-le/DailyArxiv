@@ -5057,7 +5057,7 @@
 |**2024-02-07**|**Towards Biologically Plausible and Private Gene Expression Data Generation**|Dingfan Chen et.al.|[2402.04912v1](http://arxiv.org/abs/2402.04912v1)|**[link](https://github.com/marieoestreich/pro-gene-gen)**|
 |**2024-02-07**|**AlphaFold Meets Flow Matching for Generating Protein Ensembles**|Bowen Jing et.al.|[2402.04845v1](http://arxiv.org/abs/2402.04845v1)|**[link](https://github.com/bjing2016/alphaflow)**|
 |**2024-02-07**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v1](http://arxiv.org/abs/2402.04838v1)|null|
-|**2024-02-07**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825v1](http://arxiv.org/abs/2402.04825v1)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
+|**2024-02-08**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825v2](http://arxiv.org/abs/2402.04825v2)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
 |**2024-02-07**|**How Realistic Is Your Synthetic Data? Constraining Deep Generative Models for Tabular Data**|Mihaela Cătălina Stoian et.al.|[2402.04823v1](http://arxiv.org/abs/2402.04823v1)|**[link](https://github.com/mihaela-stoian/constraineddgm)**|
 |**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754v1](http://arxiv.org/abs/2402.04754v1)|null|
 |**2024-02-07**|**Cortical Surface Diffusion Generative Models**|Zhenshan Xie et.al.|[2402.04753v1](http://arxiv.org/abs/2402.04753v1)|null|
@@ -7760,7 +7760,7 @@
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110v1](http://arxiv.org/abs/2402.05110v1)|null|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102v1](http://arxiv.org/abs/2402.05102v1)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099v1](http://arxiv.org/abs/2402.05099v1)|null|
-|**2024-02-07**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044v1](http://arxiv.org/abs/2402.05044v1)|**[link](https://github.com/opensafetylab/salad-bench)**|
+|**2024-02-08**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044v2](http://arxiv.org/abs/2402.05044v2)|**[link](https://github.com/opensafetylab/salad-bench)**|
 |**2024-02-07**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et.al.|[2402.05015v1](http://arxiv.org/abs/2402.05015v1)|**[link](https://github.com/wiseodd/lapeft-bayesopt)**|
 |**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000v1](http://arxiv.org/abs/2402.05000v1)|null|
 |**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978v1](http://arxiv.org/abs/2402.04978v1)|null|
@@ -7772,7 +7772,7 @@
 |**2024-02-07**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902v1](http://arxiv.org/abs/2402.04902v1)|null|
 |**2024-02-07**|**Detecting Generated Native Ads in Conversational Search**|Sebastian Schmidt et.al.|[2402.04889v1](http://arxiv.org/abs/2402.04889v1)|null|
 |**2024-02-07**|**Multimodal Query Suggestion with Multi-Agent Reinforcement Learning from Human Feedback**|Zheng Wang et.al.|[2402.04867v1](http://arxiv.org/abs/2402.04867v1)|null|
-|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v1](http://arxiv.org/abs/2402.04863v1)|null|
+|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v2](http://arxiv.org/abs/2402.04863v2)|null|
 |**2024-02-07**|**CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay**|Natasha Butt et.al.|[2402.04858v1](http://arxiv.org/abs/2402.04858v1)|null|
 |**2024-02-07**|**Leveraging LLMs for Unsupervised Dense Retriever Ranking**|Ekaterina Khramtsova et.al.|[2402.04853v1](http://arxiv.org/abs/2402.04853v1)|null|
 |**2024-02-07**|**Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning**|Yuxuan Bian et.al.|[2402.04852v1](http://arxiv.org/abs/2402.04852v1)|null|
@@ -7788,7 +7788,7 @@
 |**2024-02-07**|**InfLLM: Unveiling the Intrinsic Capacity of LLMs for Understanding Extremely Long Sequences with Training-Free Memory**|Chaojun Xiao et.al.|[2402.04617v1](http://arxiv.org/abs/2402.04617v1)|null|
 |**2024-02-07**|**TinyLLM: Learning a Small Student from Multiple Large Language Models**|Yijun Tian et.al.|[2402.04616v1](http://arxiv.org/abs/2402.04616v1)|null|
 |**2024-02-07**|**ScreenAI: A Vision-Language Model for UI and Infographics Understanding**|Gilles Baechler et.al.|[2402.04615v1](http://arxiv.org/abs/2402.04615v1)|null|
-|**2024-02-07**|**Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models**|Chirag Agarwal et.al.|[2402.04614v1](http://arxiv.org/abs/2402.04614v1)|null|
+|**2024-02-08**|**Faithfulness vs. Plausibility: On the (Un)Reliability of Explanations from Large Language Models**|Chirag Agarwal et.al.|[2402.04614v2](http://arxiv.org/abs/2402.04614v2)|null|
 |**2024-02-07**|**Improving Cross-Domain Low-Resource Text Generation through LLM Post-Editing: A Programmer-Interpreter Approach**|Zhuang Li et.al.|[2402.04609v1](http://arxiv.org/abs/2402.04609v1)|null|
 |**2024-02-07**|**Alirector: Alignment-Enhanced Chinese Grammatical Error Corrector**|Haihui Yang et.al.|[2402.04601v1](http://arxiv.org/abs/2402.04601v1)|null|
 |**2024-02-07**|**UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset**|Haoyu Wang et.al.|[2402.04588v1](http://arxiv.org/abs/2402.04588v1)|**[link](https://github.com/openbmb/ultralink)**|
@@ -11654,7 +11654,7 @@
 |---|---|---|---|---|
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090v1](http://arxiv.org/abs/2402.05090v1)|null|
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997v1](http://arxiv.org/abs/2402.04997v1)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
-|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v1](http://arxiv.org/abs/2402.04863v1)|null|
+|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v2](http://arxiv.org/abs/2402.04863v2)|null|
 |**2024-02-07**|**MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark**|Dongping Chen et.al.|[2402.04788v1](http://arxiv.org/abs/2402.04788v1)|null|
 |**2024-02-07**|**Code as Reward: Empowering Reinforcement Learning with VLMs**|David Venuto et.al.|[2402.04764v1](http://arxiv.org/abs/2402.04764v1)|null|
 |**2024-02-07**|**InstructScene: Instruction-Driven 3D Indoor Scene Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2402.04717v1](http://arxiv.org/abs/2402.04717v1)|null|
@@ -12442,7 +12442,7 @@
 |**2024-02-07**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027v1](http://arxiv.org/abs/2402.05027v1)|**[link](https://github.com/jw3il/graph-marl)**|
 |**2024-02-07**|**Randomized Confidence Bounds for Stochastic Partial Monitoring**|Maxime Heuillet et.al.|[2402.05002v1](http://arxiv.org/abs/2402.05002v1)|null|
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997v1](http://arxiv.org/abs/2402.04997v1)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
-|**2024-02-07**|**Multi-Sender Persuasion -- A Computational Perspective**|Safwan Hossain et.al.|[2402.04971v1](http://arxiv.org/abs/2402.04971v1)|null|
+|**2024-02-08**|**Multi-Sender Persuasion -- A Computational Perspective**|Safwan Hossain et.al.|[2402.04971v2](http://arxiv.org/abs/2402.04971v2)|null|
 |**2024-02-07**|**Text or Image? What is More Important in Cross-Domain Generalization Capabilities of Hate Meme Detection Models?**|Piush Aggarwal et.al.|[2402.04967v1](http://arxiv.org/abs/2402.04967v1)|null|
 |**2024-02-07**|**Convergence of Approximate and Packet Routing Equilibria to Nash Flows Over Time**|Neil Olver et.al.|[2402.04935v1](http://arxiv.org/abs/2402.04935v1)|null|
 |**2024-02-07**|**Dynamic Coalition Portfolio Selection with Recursive Utility**|Hanxiao Wang et.al.|[2402.04895v1](http://arxiv.org/abs/2402.04895v1)|null|
@@ -12450,7 +12450,7 @@
 |**2024-02-07**|**Learning by Doing: An Online Causal Reinforcement Learning Framework with Causal-Aware Policy**|Ruichu Cai et.al.|[2402.04869v1](http://arxiv.org/abs/2402.04869v1)|null|
 |**2024-02-07**|**Multimodal Query Suggestion with Multi-Agent Reinforcement Learning from Human Feedback**|Zheng Wang et.al.|[2402.04867v1](http://arxiv.org/abs/2402.04867v1)|null|
 |**2024-02-07**|**Collaborative Computing in Non-Terrestrial Networks: A Multi-Time-Scale Deep Reinforcement Learning Approach**|Yang Cao et.al.|[2402.04865v1](http://arxiv.org/abs/2402.04865v1)|null|
-|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v1](http://arxiv.org/abs/2402.04863v1)|null|
+|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863v2](http://arxiv.org/abs/2402.04863v2)|null|
 |**2024-02-07**|**Efficient Estimation of a Gaussian Mean with Local Differential Privacy**|Nikita Kalinin et.al.|[2402.04840v1](http://arxiv.org/abs/2402.04840v1)|null|
 |**2024-02-07**|**Learning Communication Policies for Different Follower Behaviors in a Collaborative Reference Game**|Philipp Sadler et.al.|[2402.04824v1](http://arxiv.org/abs/2402.04824v1)|null|
 |**2024-02-07**|**MLLM-as-a-Judge: Assessing Multimodal LLM-as-a-Judge with Vision-Language Benchmark**|Dongping Chen et.al.|[2402.04788v1](http://arxiv.org/abs/2402.04788v1)|null|
@@ -17457,7 +17457,7 @@
 |**2024-02-06**|**Provably learning a multi-head attention layer**|Sitan Chen et.al.|[2402.04084v1](http://arxiv.org/abs/2402.04084v1)|null|
 |**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080v1](http://arxiv.org/abs/2402.04080v1)|null|
 |**2024-02-06**|**Bulk Universality for Real Matrices with Independent and Identically Distributed Entries**|Mohammed Osman et.al.|[2402.04071v1](http://arxiv.org/abs/2402.04071v1)|null|
-|**2024-02-07**|**A General Theory for Kernel Packets: from state space model to compactly supported basis**|Liang Ding et.al.|[2402.04022v2](http://arxiv.org/abs/2402.04022v2)|null|
+|**2024-02-08**|**A General Theory for Kernel Packets: from state space model to compactly supported basis**|Liang Ding et.al.|[2402.04022v3](http://arxiv.org/abs/2402.04022v3)|null|
 |**2024-02-06**|**On Convergence of Adam for Stochastic Optimization under Relaxed Assumptions**|Yusu Hong et.al.|[2402.03982v1](http://arxiv.org/abs/2402.03982v1)|null|
 |**2024-02-06**|**Smoothed analysis of deterministic discounted and mean-payoff games**|Bruno Loff et.al.|[2402.03975v1](http://arxiv.org/abs/2402.03975v1)|null|
 |**2024-02-06**|**Sensing Mutual Information with Random Signals in Gaussian Channels: Bridging Sensing and Communication Metrics**|Lei Xie et.al.|[2402.03919v1](http://arxiv.org/abs/2402.03919v1)|null|
