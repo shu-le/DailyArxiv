@@ -35,7 +35,7 @@ layout: default
 |**2024-02-08**|**Hidden in Plain Sight: Undetectable Adversarial Bias Attacks on Vulnerable Patient Populations**|Pranav Kulkarni et.al.|[2402.05713v1](http://arxiv.org/abs/2402.05713v1)|**[link](https://github.com/um2ii/hiddeninplainsight)**|
 |**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712v1](http://arxiv.org/abs/2402.05712v1)|**[link](https://github.com/theericma/diffspeaker)**|
 |**2024-02-08**|**An Ordinal Regression Framework for a Deep Learning Based Severity Assessment for Chest Radiographs**|Patrick Wienholt et.al.|[2402.05685v1](http://arxiv.org/abs/2402.05685v1)|**[link](https://github.com/paddyongithub/ordinal_regression)**|
-|**2024-02-08**|**Real-time Holistic Robot Pose Estimation with Unknown States**|Shikun Ban et.al.|[2402.05655v1](http://arxiv.org/abs/2402.05655v1)|null|
+|**2024-02-08**|**Real-time Holistic Robot Pose Estimation with Unknown States**|Shikun Ban et.al.|[2402.05655v1](http://arxiv.org/abs/2402.05655v1)|**[link](https://github.com/Oliverbansk/Hollistic-Robot-Pose-Estimation)**|
 |**2024-02-08**|**FuncGrasp: Learning Object-Centric Neural Grasp Functions from Single Annotated Example Object**|Hanzhi Chen et.al.|[2402.05644v1](http://arxiv.org/abs/2402.05644v1)|null|
 |**2024-02-08**|**An Optimization-based Baseline for Rigid 2D/3D Registration Applied to Spine Surgical Navigation Using CMA-ES**|Minheng Chen et.al.|[2402.05642v1](http://arxiv.org/abs/2402.05642v1)|null|
 |**2024-02-08**|**Learning pseudo-contractive denoisers for inverse problems**|Deliang Wei et.al.|[2402.05637v1](http://arxiv.org/abs/2402.05637v1)|null|
