@@ -52,7 +52,7 @@ layout: default
 |**2024-02-08**|**On Convolutional Vision Transformers for Yield Prediction**|Alvin Inderka et.al.|[2402.05557v1](http://arxiv.org/abs/2402.05557v1)|null|
 |**2024-02-08**|**One-Stop Automated Diagnostic System for Carpal Tunnel Syndrome in Ultrasound Images Using Deep Learning**|Jiayu Peng et.al.|[2402.05554v1](http://arxiv.org/abs/2402.05554v1)|null|
 |**2024-02-08**|**Efficient Expression Neutrality Estimation with Application to Face Recognition Utility Prediction**|Marcel Grimmer et.al.|[2402.05548v1](http://arxiv.org/abs/2402.05548v1)|null|
-|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v1](http://arxiv.org/abs/2402.05532v1)|null|
+|**2024-02-09**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-08**|**Question Aware Vision Transformer for Multimodal Reasoning**|Roy Ganz et.al.|[2402.05472v1](http://arxiv.org/abs/2402.05472v1)|null|
 |**2024-02-08**|**Engineering End-to-End Remote Labs using IoT-based Retrofitting**|K. S. Viswanadh et.al.|[2402.05466v1](http://arxiv.org/abs/2402.05466v1)|null|
 |**2024-02-08**|**Minecraft-ify: Minecraft Style Image Generation with Text-guided Image Editing for In-Game Application**|Bumsoo Kim et.al.|[2402.05448v1](http://arxiv.org/abs/2402.05448v1)|null|
@@ -5129,7 +5129,7 @@ layout: default
 |**2024-02-07**|**Personalized Text Generation with Fine-Grained Linguistic Control**|Bashar Alhafni et.al.|[2402.04914v1](http://arxiv.org/abs/2402.04914v1)|**[link](https://github.com/balhafni/personalized-gen)**|
 |**2024-02-07**|**Towards Biologically Plausible and Private Gene Expression Data Generation**|Dingfan Chen et.al.|[2402.04912v1](http://arxiv.org/abs/2402.04912v1)|**[link](https://github.com/marieoestreich/pro-gene-gen)**|
 |**2024-02-07**|**AlphaFold Meets Flow Matching for Generating Protein Ensembles**|Bowen Jing et.al.|[2402.04845v1](http://arxiv.org/abs/2402.04845v1)|**[link](https://github.com/bjing2016/alphaflow)**|
-|**2024-02-07**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v1](http://arxiv.org/abs/2402.04838v1)|null|
+|**2024-02-09**|**PaDeLLM-NER: Parallel Decoding in Large Language Models for Named Entity Recognition**|Jinghui Lu et.al.|[2402.04838v2](http://arxiv.org/abs/2402.04838v2)|null|
 |**2024-02-08**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825v2](http://arxiv.org/abs/2402.04825v2)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
 |**2024-02-07**|**How Realistic Is Your Synthetic Data? Constraining Deep Generative Models for Tabular Data**|Mihaela Cătălina Stoian et.al.|[2402.04823v1](http://arxiv.org/abs/2402.04823v1)|**[link](https://github.com/mihaela-stoian/constraineddgm)**|
 |**2024-02-07**|**Towards Aligned Layout Generation via Diffusion Model with Aesthetic Constraints**|Jian Chen et.al.|[2402.04754v1](http://arxiv.org/abs/2402.04754v1)|null|
@@ -7837,7 +7837,7 @@ layout: default
 |**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926v1](http://arxiv.org/abs/2402.05926v1)|null|
 |**2024-02-08**|**Efficient Stagewise Pretraining via Progressive Subnetworks**|Abhishek Panigrahi et.al.|[2402.05913v1](http://arxiv.org/abs/2402.05913v1)|null|
 |**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904v1](http://arxiv.org/abs/2402.05904v1)|null|
-|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
+|**2024-02-09**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v2](http://arxiv.org/abs/2402.05894v2)|null|
 |**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880v1](http://arxiv.org/abs/2402.05880v1)|null|
 |**2024-02-08**|**PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868v1](http://arxiv.org/abs/2402.05868v1)|**[link](https://github.com/agiresearch/promptcrypt)**|
 |**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|**[link](https://github.com/vinid/negotiationarena)**|
@@ -7853,7 +7853,7 @@ layout: default
 |**2024-02-08**|**Unified Speech-Text Pretraining for Spoken Dialog Modeling**|Heeseung Kim et.al.|[2402.05706v1](http://arxiv.org/abs/2402.05706v1)|null|
 |**2024-02-08**|**Self-Alignment of Large Language Models via Monopolylogue-based Social Scene Simulation**|Xianghe Pang et.al.|[2402.05699v1](http://arxiv.org/abs/2402.05699v1)|null|
 |**2024-02-08**|**Comprehensive Assessment of Jailbreak Attacks Against LLMs**|Junjie Chu et.al.|[2402.05668v1](http://arxiv.org/abs/2402.05668v1)|null|
-|**2024-02-08**|**Rocks Coding, Not Development--A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks**|Wei Wang et.al.|[2402.05650v1](http://arxiv.org/abs/2402.05650v1)|null|
+|**2024-02-09**|**Rocks Coding, Not Development--A Human-Centric, Experimental Evaluation of LLM-Supported SE Tasks**|Wei Wang et.al.|[2402.05650v2](http://arxiv.org/abs/2402.05650v2)|null|
 |**2024-02-08**|**The Impact of AI Tool on Engineering at ANZ Bank An Emperical Study on GitHub Copilot within Coporate Environment**|Sayan Chatterjee et.al.|[2402.05636v1](http://arxiv.org/abs/2402.05636v1)|null|
 |**2024-02-08**|**Merging Facts, Crafting Fallacies: Evaluating the Contradictory Nature of Aggregated Factual Claims in Long-Form Generations**|Cheng-Han Chiang et.al.|[2402.05629v1](http://arxiv.org/abs/2402.05629v1)|null|
 |**2024-02-08**|**Efficient Models for the Detection of Hate, Abuse and Profanity**|Christoph Tillmann et.al.|[2402.05624v1](http://arxiv.org/abs/2402.05624v1)|null|
@@ -7867,7 +7867,7 @@ layout: default
 |**2024-02-08**|**Large Language Models for Psycholinguistic Plausibility Pretesting**|Samuel Joseph Amouyal et.al.|[2402.05455v1](http://arxiv.org/abs/2402.05455v1)|null|
 |**2024-02-08**|**GPT-4 Generated Narratives of Life Events using a Structured Narrative Prompt: A Validation Study**|Christopher J. Lynch et.al.|[2402.05435v1](http://arxiv.org/abs/2402.05435v1)|null|
 |**2024-02-08**|**Enhancing Zero-shot Counting via Language-guided Exemplar Learning**|Mingjie Wang et.al.|[2402.05394v1](http://arxiv.org/abs/2402.05394v1)|null|
-|**2024-02-08**|**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**|Zhuo Chen et.al.|[2402.05391v1](http://arxiv.org/abs/2402.05391v1)|**[link](https://github.com/zjukg/kg-mm-survey)**|
+|**2024-02-09**|**Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey**|Zhuo Chen et.al.|[2402.05391v2](http://arxiv.org/abs/2402.05391v2)|**[link](https://github.com/zjukg/kg-mm-survey)**|
 |**2024-02-08**|**Zero-Shot Chain-of-Thought Reasoning Guided by Evolutionary Algorithms in Large Language Models**|Feihu Jin et.al.|[2402.05376v1](http://arxiv.org/abs/2402.05376v1)|**[link](https://github.com/stan-anony/zero-shot-eot-prompting)**|
 |**2024-02-08**|**CIC: A framework for Culturally-aware Image Captioning**|Youngsik Yun et.al.|[2402.05374v1](http://arxiv.org/abs/2402.05374v1)|null|
 |**2024-02-08**|**Guiding Large Language Models with Divide-and-Conquer Program for Discerning Problem Solving**|Yizhou Zhang et.al.|[2402.05359v1](http://arxiv.org/abs/2402.05359v1)|null|
@@ -12609,7 +12609,7 @@ layout: default
 |**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090v1](http://arxiv.org/abs/2402.05090v1)|null|
 |**2024-02-07**|**Markovian Analysis of Information Cascades with Fake Agents**|Yuming Han et.al.|[2402.05076v1](http://arxiv.org/abs/2402.05076v1)|null|
 |**2024-02-07**|**Quantifying Population Exposure to Long-term PM10: A City-wide Agent-based Assessment**|Hyesop Shin et.al.|[2402.05029v1](http://arxiv.org/abs/2402.05029v1)|null|
-|**2024-02-07**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027v1](http://arxiv.org/abs/2402.05027v1)|**[link](https://github.com/jw3il/graph-marl)**|
+|**2024-02-09**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027v2](http://arxiv.org/abs/2402.05027v2)|**[link](https://github.com/jw3il/graph-marl)**|
 |**2024-02-07**|**Randomized Confidence Bounds for Stochastic Partial Monitoring**|Maxime Heuillet et.al.|[2402.05002v1](http://arxiv.org/abs/2402.05002v1)|null|
 |**2024-02-07**|**Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design**|Andrew Campbell et.al.|[2402.04997v1](http://arxiv.org/abs/2402.04997v1)|**[link](https://github.com/andrew-cr/discrete_flow_models)**|
 |**2024-02-08**|**Multi-Sender Persuasion -- A Computational Perspective**|Safwan Hossain et.al.|[2402.04971v2](http://arxiv.org/abs/2402.04971v2)|null|
@@ -17623,7 +17623,7 @@ layout: default
 |**2024-02-07**|**Gaussian Process-Based Nonlinear Moving Horizon Estimation**|Tobias M. Wolff et.al.|[2402.04665v1](http://arxiv.org/abs/2402.04665v1)|null|
 |**2024-02-07**|**Some obstructions to contraction theorems on the half-sphere**|Max Fathi et.al.|[2402.04649v1](http://arxiv.org/abs/2402.04649v1)|null|
 |**2024-02-07**|**Dimensionality reduction can be used as a surrogate model for high-dimensional forward uncertainty quantification**|Jungho Kim et.al.|[2402.04582v1](http://arxiv.org/abs/2402.04582v1)|null|
-|**2024-02-06**|**Optimal Binary Signaling for a Two Sensor Gaussian MAC Network**|Luca Sardellitti et.al.|[2402.04424v1](http://arxiv.org/abs/2402.04424v1)|null|
+|**2024-02-09**|**Optimal Binary Signaling for a Two Sensor Gaussian MAC Network**|Luca Sardellitti et.al.|[2402.04424v2](http://arxiv.org/abs/2402.04424v2)|null|
 |**2024-02-06**|**The wave function of a photoelectron near the center of a quantum vortex**|N. V. Larionov et.al.|[2402.04414v1](http://arxiv.org/abs/2402.04414v1)|null|
 |**2024-02-06**|**The VampPrior Mixture Model**|Andrew Stirn et.al.|[2402.04412v1](http://arxiv.org/abs/2402.04412v1)|**[link](https://github.com/astirn/vampprior-mixture-model)**|
 |**2024-02-08**|**Quadrature Coherence Scale of Linear Combinations of Gaussian Functions in Phase Space**|Anaelle Hertz et.al.|[2402.04404v2](http://arxiv.org/abs/2402.04404v2)|null|
