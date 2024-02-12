@@ -1,4 +1,4 @@
-## Updated on 2024.02.11
+## Updated on 2024.02.12
 
 ## CV
 
@@ -7836,7 +7836,7 @@
 |**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v1](http://arxiv.org/abs/2402.05894v1)|null|
 |**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880v1](http://arxiv.org/abs/2402.05880v1)|null|
 |**2024-02-08**|**PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868v1](http://arxiv.org/abs/2402.05868v1)|**[link](https://github.com/agiresearch/promptcrypt)**|
-|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|null|
+|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|**[link](https://github.com/vinid/negotiationarena)**|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862v1](http://arxiv.org/abs/2402.05862v1)|null|
 |**2024-02-08**|**Is it Possible to Edit Large Language Models Robustly?**|Xinbei Ma et.al.|[2402.05827v1](http://arxiv.org/abs/2402.05827v1)|null|
 |**2024-02-08**|**Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models**|Lingzhi Wang et.al.|[2402.05813v1](http://arxiv.org/abs/2402.05813v1)|null|
@@ -7872,7 +7872,7 @@
 |**2024-02-07**|**The Effect of Sampling Temperature on Problem Solving in Large Language Models**|Matthew Renze et.al.|[2402.05201v1](http://arxiv.org/abs/2402.05201v1)|**[link](https://github.com/matthewrenze/jhu-llm-temperature)**|
 |**2024-02-07**|**Are LLMs Ready for Real-World Materials Discovery?**|Santiago Miret et.al.|[2402.05200v1](http://arxiv.org/abs/2402.05200v1)|null|
 |**2024-02-07**|**Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications**|Boyi Wei et.al.|[2402.05162v1](http://arxiv.org/abs/2402.05162v1)|null|
-|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110v1](http://arxiv.org/abs/2402.05110v1)|null|
+|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110v1](http://arxiv.org/abs/2402.05110v1)|**[link](https://github.com/ejmichaud/neural-verification)**|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102v1](http://arxiv.org/abs/2402.05102v1)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099v1](http://arxiv.org/abs/2402.05099v1)|null|
 |**2024-02-08**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044v2](http://arxiv.org/abs/2402.05044v2)|**[link](https://github.com/opensafetylab/salad-bench)**|
@@ -12566,9 +12566,9 @@
 |**2024-02-08**|**CREMA: Multimodal Compositional Video Reasoning via Efficient Modular Adaptation and Fusion**|Shoubin Yu et.al.|[2402.05889v1](http://arxiv.org/abs/2402.05889v1)|null|
 |**2024-02-08**|**Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing**|Anthony J. Brady et.al.|[2402.05888v1](http://arxiv.org/abs/2402.05888v1)|null|
 |**2024-02-08**|**Cutsets and EF1 Fair Division of Graphs**|Jiehua Chen et.al.|[2402.05884v1](http://arxiv.org/abs/2402.05884v1)|null|
-|**2024-02-08**|**GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**|Gabriela Pinto et.al.|[2402.05882v1](http://arxiv.org/abs/2402.05882v1)|null|
+|**2024-02-08**|**GET-Tok: A GenAI-Enriched Multimodal TikTok Dataset Documenting the 2022 Attempted Coup in Peru**|Gabriela Pinto et.al.|[2402.05882v1](http://arxiv.org/abs/2402.05882v1)|**[link](https://github.com/gabbypinto/get-tok-peru)**|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876v1](http://arxiv.org/abs/2402.05876v1)|null|
-|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|null|
+|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|**[link](https://github.com/vinid/negotiationarena)**|
 |**2024-02-08**|**Limitations of Agents Simulated by Predictive Models**|Raymond Douglas et.al.|[2402.05829v1](http://arxiv.org/abs/2402.05829v1)|null|
 |**2024-02-08**|**Discovering Temporally-Aware Reinforcement Learning Algorithms**|Matthew Thomas Jackson et.al.|[2402.05828v1](http://arxiv.org/abs/2402.05828v1)|**[link](https://github.com/EmptyJackson/groove)**|
 |**2024-02-08**|**Analysing the Sample Complexity of Opponent Shaping**|Kitty Fung et.al.|[2402.05782v1](http://arxiv.org/abs/2402.05782v1)|null|
