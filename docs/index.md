@@ -5181,7 +5181,7 @@ layout: default
 |**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350v1](http://arxiv.org/abs/2402.05350v1)|null|
 |**2024-02-07**|**Investigating Generalization Behaviours of Generative Flow Networks**|Lazar Atanackovic et.al.|[2402.05309v1](http://arxiv.org/abs/2402.05309v1)|**[link](https://github.com/lazaratan/gflownet-generalization)**|
 |**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235v1](http://arxiv.org/abs/2402.05235v1)|null|
-|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210v1](http://arxiv.org/abs/2402.05210v1)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
+|**2024-02-09**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210v2](http://arxiv.org/abs/2402.05210v2)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|**$λ$-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space**|Maitreya Patel et.al.|[2402.05195v1](http://arxiv.org/abs/2402.05195v1)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098v1](http://arxiv.org/abs/2402.05098v1)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073v1](http://arxiv.org/abs/2402.05073v1)|null|
@@ -7942,7 +7942,7 @@ layout: default
 |**2024-02-08**|**Efficient Stagewise Pretraining via Progressive Subnetworks**|Abhishek Panigrahi et.al.|[2402.05913v1](http://arxiv.org/abs/2402.05913v1)|null|
 |**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904v1](http://arxiv.org/abs/2402.05904v1)|null|
 |**2024-02-09**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894v2](http://arxiv.org/abs/2402.05894v2)|null|
-|**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880v1](http://arxiv.org/abs/2402.05880v1)|null|
+|**2024-02-10**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880v2](http://arxiv.org/abs/2402.05880v2)|null|
 |**2024-02-08**|**PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868v1](http://arxiv.org/abs/2402.05868v1)|**[link](https://github.com/agiresearch/promptcrypt)**|
 |**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863v1](http://arxiv.org/abs/2402.05863v1)|**[link](https://github.com/vinid/negotiationarena)**|
 |**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862v1](http://arxiv.org/abs/2402.05862v1)|null|
@@ -11907,7 +11907,7 @@ layout: default
 |**2024-02-06**|**Exploring Low-Resource Medical Image Classification with Weakly Supervised Prompt Learning**|Fudan Zheng et.al.|[2402.03783v1](http://arxiv.org/abs/2402.03783v1)|null|
 |**2024-02-06**|**MobileVLM V2: Faster and Stronger Baseline for Vision Language Model**|Xiangxiang Chu et.al.|[2402.03766v1](http://arxiv.org/abs/2402.03766v1)|**[link](https://github.com/meituan-automl/mobilevlm)**|
 |**2024-02-06**|**Tuning Large Multimodal Models for Videos using Reinforcement Learning from AI Feedback**|Daechul Ahn et.al.|[2402.03746v1](http://arxiv.org/abs/2402.03746v1)|null|
-|**2024-02-06**|**RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback**|Yufei Wang et.al.|[2402.03681v1](http://arxiv.org/abs/2402.03681v1)|null|
+|**2024-02-10**|**RL-VLM-F: Reinforcement Learning from Vision Language Foundation Model Feedback**|Yufei Wang et.al.|[2402.03681v2](http://arxiv.org/abs/2402.03681v2)|null|
 |**2024-02-06**|**Partially Recentralization Softmax Loss for Vision-Language Models Robustness**|Hao Wang et.al.|[2402.03627v1](http://arxiv.org/abs/2402.03627v1)|null|
 |**2024-02-05**|**GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of Large Language Models**|Haibo Jin et.al.|[2402.03299v1](http://arxiv.org/abs/2402.03299v1)|null|
 |**2024-02-05**|**CLIP Can Understand Depth**|Dunam Kim et.al.|[2402.03251v1](http://arxiv.org/abs/2402.03251v1)|null|
