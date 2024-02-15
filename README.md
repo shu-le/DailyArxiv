@@ -1,4 +1,4 @@
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 
 ## CV
 
@@ -8068,12 +8068,12 @@
 |**2024-02-13**|**Eliciting Big Five Personality Traits in Large Language Models: A Textual Analysis with Classifier-Driven Approach**|Airlie Hilliard et.al.|[2402.08341v1](http://arxiv.org/abs/2402.08341v1)|null|
 |**2024-02-13**|**Mapping the Ethics of Generative AI: A Comprehensive Scoping Review**|Thilo Hagendorff et.al.|[2402.08323v1](http://arxiv.org/abs/2402.08323v1)|null|
 |**2024-02-13**|**Prompted Contextual Vectors for Spear-Phishing Detection**|Daniel Nahmias et.al.|[2402.08309v1](http://arxiv.org/abs/2402.08309v1)|null|
-|**2024-02-13**|**ChatCell: Facilitating Single-Cell Analysis with Natural Language**|Yin Fang et.al.|[2402.08303v1](http://arxiv.org/abs/2402.08303v1)|null|
+|**2024-02-13**|**ChatCell: Facilitating Single-Cell Analysis with Natural Language**|Yin Fang et.al.|[2402.08303v1](http://arxiv.org/abs/2402.08303v1)|**[link](https://github.com/zjunlp/chatcell)**|
 |**2024-02-13**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277v1](http://arxiv.org/abs/2402.08277v1)|null|
 |**2024-02-13**|**A Survey of Table Reasoning with Large Language Models**|Xuanliang Zhang et.al.|[2402.08259v1](http://arxiv.org/abs/2402.08259v1)|null|
 |**2024-02-13**|**BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models**|Haotian Sun et.al.|[2402.08219v1](http://arxiv.org/abs/2402.08219v1)|null|
 |**2024-02-13**|**Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs**|Karthik Sreedhar et.al.|[2402.08189v1](http://arxiv.org/abs/2402.08189v1)|null|
-|**2024-02-13**|**LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents**|Jae-Woo Choi et.al.|[2402.08178v1](http://arxiv.org/abs/2402.08178v1)|null|
+|**2024-02-13**|**LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents**|Jae-Woo Choi et.al.|[2402.08178v1](http://arxiv.org/abs/2402.08178v1)|**[link](https://github.com/lbaa2022/llmtaskplanning)**|
 |**2024-02-13**|**LLaGA: Large Language and Graph Assistant**|Runjin Chen et.al.|[2402.08170v1](http://arxiv.org/abs/2402.08170v1)|**[link](https://github.com/chenrunjin/llaga)**|
 |**2024-02-13**|**On Limitations of the Transformer Architecture**|Binghui Peng et.al.|[2402.08164v1](http://arxiv.org/abs/2402.08164v1)|null|
 |**2024-02-13**|**Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search**|David Brandfonbrener et.al.|[2402.08147v1](http://arxiv.org/abs/2402.08147v1)|**[link](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)**|
@@ -12960,7 +12960,7 @@
 |**2024-02-13**|**BBSEA: An Exploration of Brain-Body Synchronization for Embodied Agents**|Sizhe Yang et.al.|[2402.08212v1](http://arxiv.org/abs/2402.08212v1)|null|
 |**2024-02-13**|**Simulating Human Strategic Behavior: Comparing Single and Multi-agent LLMs**|Karthik Sreedhar et.al.|[2402.08189v1](http://arxiv.org/abs/2402.08189v1)|null|
 |**2024-02-13**|**Enabling Multi-Agent Transfer Reinforcement Learning via Scenario Independent Representation**|Ayesha Siddika Nipu et.al.|[2402.08184v1](http://arxiv.org/abs/2402.08184v1)|null|
-|**2024-02-13**|**LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents**|Jae-Woo Choi et.al.|[2402.08178v1](http://arxiv.org/abs/2402.08178v1)|null|
+|**2024-02-13**|**LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents**|Jae-Woo Choi et.al.|[2402.08178v1](http://arxiv.org/abs/2402.08178v1)|**[link](https://github.com/lbaa2022/llmtaskplanning)**|
 |**2024-02-13**|**Group Decision-Making among Privacy-Aware Agents**|Marios Papachristou et.al.|[2402.08156v1](http://arxiv.org/abs/2402.08156v1)|null|
 |**2024-02-13**|**Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings**|Rushang Karia et.al.|[2402.08145v1](http://arxiv.org/abs/2402.08145v1)|null|
 |**2024-02-13**|**Average-Case Analysis of Iterative Voting**|Joshua Kavner et.al.|[2402.08144v1](http://arxiv.org/abs/2402.08144v1)|null|
@@ -18118,10 +18118,10 @@
 |**2024-02-10**|**Correlated Binomial Process**|Moïse Blanchard et.al.|[2402.07058v1](http://arxiv.org/abs/2402.07058v1)|null|
 |**2024-02-10**|**A Factor Graph Model of Trust for a Collaborative Multi-Agent System**|Behzad Akbari et.al.|[2402.07049v1](http://arxiv.org/abs/2402.07049v1)|null|
 |**2024-02-10**|**Logistic-beta processes for modeling dependent random probabilities with beta marginals**|Changwoo J. Lee et.al.|[2402.07048v1](http://arxiv.org/abs/2402.07048v1)|**[link](https://github.com/changwoo-lee/logisticbeta-reproduce)**|
-|**2024-02-10**|**Unified Inverse Dynamics of Modular Serial Mechanical Systems with Application to Soft Robotics**|Pietro Pustina et.al.|[2402.07037v1](http://arxiv.org/abs/2402.07037v1)|null|
+|**2024-02-10**|**Unified Inverse Dynamics of Modular Serial Mechanical Systems with Application to Soft Robotics**|Pietro Pustina et.al.|[2402.07037v1](http://arxiv.org/abs/2402.07037v1)|**[link](https://github.com/piepustina/jelly)**|
 |**2024-02-10**|**Bayesian Optimization with Adaptive Kernels for Robot Control**|Ruben Martinez-Cantin et.al.|[2402.07021v1](http://arxiv.org/abs/2402.07021v1)|null|
 |**2024-02-10**|**Photonic quantum information processing using the frequency continuous-variable of single photons**|Nicolas Fabre et.al.|[2402.06962v1](http://arxiv.org/abs/2402.06962v1)|null|
-|**2024-02-10**|**Detection and inference of changes in high-dimensional linear regression with non-sparse structures**|Haeran Cho et.al.|[2402.06915v1](http://arxiv.org/abs/2402.06915v1)|null|
+|**2024-02-10**|**Detection and inference of changes in high-dimensional linear regression with non-sparse structures**|Haeran Cho et.al.|[2402.06915v1](http://arxiv.org/abs/2402.06915v1)|**[link](https://github.com/tobiaskley/inferchange)**|
 |**2024-02-10**|**Multi-User SR-LDPC Codes via Coded Demixing with Applications to Cell-Free Systems**|Jamison R. Ebert et.al.|[2402.06881v1](http://arxiv.org/abs/2402.06881v1)|null|
 |**2024-02-10**|**On the space-time fluctuations of the SHE and KPZ equation in the entire $L^{2}$-regime for spatial dimensions $d \geq 3$**|Te-Chun Wang et.al.|[2402.06874v1](http://arxiv.org/abs/2402.06874v1)|null|
 |**2024-02-10**|**Semi-classical Schrödinger numerics in the residual representation**|Christoph Nölle et.al.|[2402.06847v1](http://arxiv.org/abs/2402.06847v1)|null|
