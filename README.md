@@ -13,11 +13,11 @@
 |**2024-02-13**|**Learned Image Compression with Text Quality Enhancement**|Chih-Yu Lai et.al.|[2402.08643v1](http://arxiv.org/abs/2402.08643v1)|null|
 |**2024-02-13**|**BdSLW60: A Word-Level Bangla Sign Language Dataset**|Husne Ara Rubaiyeat et.al.|[2402.08635v1](http://arxiv.org/abs/2402.08635v1)|**[link](https://github.com/hasanssl/bdslw60_code)**|
 |**2024-02-13**|**NeRF Analogies: Example-Based Visual Attribute Transfer for NeRFs**|Michael Fischer et.al.|[2402.08622v1](http://arxiv.org/abs/2402.08622v1)|null|
-|**2024-02-13**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601v1](http://arxiv.org/abs/2402.08601v1)|null|
+|**2024-02-14**|**Latent Inversion with Timestep-aware Sampling for Training-free Non-rigid Editing**|Yunji Jung et.al.|[2402.08601v2](http://arxiv.org/abs/2402.08601v2)|null|
 |**2024-02-13**|**Convolutional Neural Networks Towards Facial Skin Lesions Detection**|Reza Sarshar et.al.|[2402.08592v1](http://arxiv.org/abs/2402.08592v1)|null|
 |**2024-02-13**|**FESS Loss: Feature-Enhanced Spatial Segmentation Loss for Optimizing Medical Image Analysis**|Charulkumar Chodvadiya et.al.|[2402.08582v1](http://arxiv.org/abs/2402.08582v1)|null|
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577v1](http://arxiv.org/abs/2402.08577v1)|**[link](https://github.com/sail-sg/anydoor)**|
-|**2024-02-13**|**Glass Segmentation with Multi Scales and Primary Prediction Guiding**|Zhiyu Xu et.al.|[2402.08571v1](http://arxiv.org/abs/2402.08571v1)|null|
+|**2024-02-14**|**Glass Segmentation with Multi Scales and Primary Prediction Guiding**|Zhiyu Xu et.al.|[2402.08571v2](http://arxiv.org/abs/2402.08571v2)|null|
 |**2024-02-13**|**Online Foundation Model Selection in Robotics**|Po-han Li et.al.|[2402.08570v1](http://arxiv.org/abs/2402.08570v1)|null|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567v1](http://arxiv.org/abs/2402.08567v1)|**[link](https://github.com/sail-sg/agent-smith)**|
 |**2024-02-13**|**Denoising Diffusion Restoration Tackles Forward and Inverse Problems for the Laplace Operator**|Amartya Mukherjee et.al.|[2402.08563v1](http://arxiv.org/abs/2402.08563v1)|null|
@@ -5262,7 +5262,7 @@
 |**2024-02-13**|**Quantum Computing-Enhanced Algorithm Unveils Novel Inhibitors for KRAS**|Mohammad Ghazi Vakili et.al.|[2402.08210v1](http://arxiv.org/abs/2402.08210v1)|null|
 |**2024-02-13**|**Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation**|AprilPyone MaungMaung et.al.|[2402.08200v1](http://arxiv.org/abs/2402.08200v1)|null|
 |**2024-02-13**|**Poisson flow consistency models for low-dose CT image denoising**|Dennis Hein et.al.|[2402.08159v1](http://arxiv.org/abs/2402.08159v1)|null|
-|**2024-02-12**|**Convergence Analysis of Discrete Diffusion Model: Exact Implementation through Uniformization**|Hongrui Chen et.al.|[2402.08095v1](http://arxiv.org/abs/2402.08095v1)|null|
+|**2024-02-14**|**Convergence Analysis of Discrete Diffusion Model: Exact Implementation through Uniformization**|Hongrui Chen et.al.|[2402.08095v2](http://arxiv.org/abs/2402.08095v2)|null|
 |**2024-02-12**|**Score-based generative models break the curse of dimensionality in learning a family of sub-Gaussian probability distributions**|Frank Cole et.al.|[2402.08082v1](http://arxiv.org/abs/2402.08082v1)|null|
 |**2024-02-12**|**ReNeLiB: Real-time Neural Listening Behavior Generation for Socially Interactive Agents**|Daksitha Withanage Don et.al.|[2402.08079v1](http://arxiv.org/abs/2402.08079v1)|null|
 |**2024-02-12**|**Diffeomorphic Measure Matching with Kernels for Generative Modeling**|Biraj Pandey et.al.|[2402.08077v1](http://arxiv.org/abs/2402.08077v1)|null|
@@ -5283,7 +5283,7 @@
 |**2024-02-13**|**SALAD: Smart AI Language Assistant Daily**|Ragib Amin Nihal et.al.|[2402.07431v2](http://arxiv.org/abs/2402.07431v2)|null|
 |**2024-02-12**|**Conditional Generative Models are Sufficient to Sample from Any Causal Effect Estimand**|Md Musfiqur Rahman et.al.|[2402.07419v1](http://arxiv.org/abs/2402.07419v1)|null|
 |**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369v1](http://arxiv.org/abs/2402.07369v1)|null|
-|**2024-02-12**|**Re-DiffiNet: Modeling discrepancies in tumor segmentation using diffusion**|Tianyi Ren et.al.|[2402.07354v1](http://arxiv.org/abs/2402.07354v1)|null|
+|**2024-02-14**|**Re-DiffiNet: Modeling discrepancies loss in tumor segmentation using diffusion models**|Tianyi Ren et.al.|[2402.07354v2](http://arxiv.org/abs/2402.07354v2)|null|
 |**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226v1](http://arxiv.org/abs/2402.07226v1)|**[link](https://github.com/rlatjddbs/ssd)**|
 |**2024-02-13**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211v2](http://arxiv.org/abs/2402.07211v2)|null|
 |**2024-02-11**|**The Aleph & Other Metaphors for Image Generation**|Gonzalo Ramos et.al.|[2402.07104v1](http://arxiv.org/abs/2402.07104v1)|null|
@@ -8051,7 +8051,7 @@
 |**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658v1](http://arxiv.org/abs/2402.08658v1)|null|
 |**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657v1](http://arxiv.org/abs/2402.08657v1)|null|
 |**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644v1](http://arxiv.org/abs/2402.08644v1)|null|
-|**2024-02-13**|**SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages**|Nedjma Ousidhoum et.al.|[2402.08638v1](http://arxiv.org/abs/2402.08638v1)|null|
+|**2024-02-14**|**SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages**|Nedjma Ousidhoum et.al.|[2402.08638v2](http://arxiv.org/abs/2402.08638v2)|null|
 |**2024-02-13**|**Knowledge Editing on Black-box Large Language Models**|Xiaoshuai Song et.al.|[2402.08631v1](http://arxiv.org/abs/2402.08631v1)|null|
 |**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577v1](http://arxiv.org/abs/2402.08577v1)|**[link](https://github.com/sail-sg/anydoor)**|
 |**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567v1](http://arxiv.org/abs/2402.08567v1)|**[link](https://github.com/sail-sg/agent-smith)**|
@@ -8067,8 +8067,8 @@
 |**2024-02-13**|**Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks**|Jusung Lee et.al.|[2402.08360v1](http://arxiv.org/abs/2402.08360v1)|null|
 |**2024-02-13**|**Eliciting Big Five Personality Traits in Large Language Models: A Textual Analysis with Classifier-Driven Approach**|Airlie Hilliard et.al.|[2402.08341v1](http://arxiv.org/abs/2402.08341v1)|null|
 |**2024-02-13**|**Mapping the Ethics of Generative AI: A Comprehensive Scoping Review**|Thilo Hagendorff et.al.|[2402.08323v1](http://arxiv.org/abs/2402.08323v1)|null|
-|**2024-02-13**|**Prompted Contextual Vectors for Spear-Phishing Detection**|Daniel Nahmias et.al.|[2402.08309v1](http://arxiv.org/abs/2402.08309v1)|null|
-|**2024-02-13**|**ChatCell: Facilitating Single-Cell Analysis with Natural Language**|Yin Fang et.al.|[2402.08303v1](http://arxiv.org/abs/2402.08303v1)|**[link](https://github.com/zjunlp/chatcell)**|
+|**2024-02-14**|**Prompted Contextual Vectors for Spear-Phishing Detection**|Daniel Nahmias et.al.|[2402.08309v2](http://arxiv.org/abs/2402.08309v2)|null|
+|**2024-02-14**|**ChatCell: Facilitating Single-Cell Analysis with Natural Language**|Yin Fang et.al.|[2402.08303v2](http://arxiv.org/abs/2402.08303v2)|**[link](https://github.com/zjunlp/chatcell)**|
 |**2024-02-13**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277v1](http://arxiv.org/abs/2402.08277v1)|null|
 |**2024-02-13**|**A Survey of Table Reasoning with Large Language Models**|Xuanliang Zhang et.al.|[2402.08259v1](http://arxiv.org/abs/2402.08259v1)|null|
 |**2024-02-13**|**BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models**|Haotian Sun et.al.|[2402.08219v1](http://arxiv.org/abs/2402.08219v1)|null|
@@ -8077,7 +8077,7 @@
 |**2024-02-13**|**LLaGA: Large Language and Graph Assistant**|Runjin Chen et.al.|[2402.08170v1](http://arxiv.org/abs/2402.08170v1)|**[link](https://github.com/chenrunjin/llaga)**|
 |**2024-02-13**|**On Limitations of the Transformer Architecture**|Binghui Peng et.al.|[2402.08164v1](http://arxiv.org/abs/2402.08164v1)|null|
 |**2024-02-13**|**Verified Multi-Step Synthesis using Large Language Models and Monte Carlo Tree Search**|David Brandfonbrener et.al.|[2402.08147v1](http://arxiv.org/abs/2402.08147v1)|**[link](https://github.com/namin/llm-verified-with-monte-carlo-tree-search)**|
-|**2024-02-12**|**On the Resurgence of Recurrent Models for Long Sequences: Survey and Research Opportunities in the Transformer Era**|Matteo Tiezzi et.al.|[2402.08132v1](http://arxiv.org/abs/2402.08132v1)|null|
+|**2024-02-14**|**On the Resurgence of Recurrent Models for Long Sequences -- Survey and Research Opportunities in the Transformer Era**|Matteo Tiezzi et.al.|[2402.08132v2](http://arxiv.org/abs/2402.08132v2)|null|
 |**2024-02-12**|**On the Self-Verification Limitations of Large Language Models on Reasoning and Planning Tasks**|Kaya Stechly et.al.|[2402.08115v1](http://arxiv.org/abs/2402.08115v1)|null|
 |**2024-02-12**|**Active Preference Learning for Large Language Models**|William Muldrew et.al.|[2402.08114v1](http://arxiv.org/abs/2402.08114v1)|null|
 |**2024-02-12**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113v1](http://arxiv.org/abs/2402.08113v1)|null|
@@ -12978,7 +12978,7 @@
 |**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890v1](http://arxiv.org/abs/2402.07890v1)|null|
 |**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884v1](http://arxiv.org/abs/2402.07884v1)|null|
 |**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877v1](http://arxiv.org/abs/2402.07877v1)|null|
-|**2024-02-12**|**Generalising Planning Environment Redesign**|Alberto Pozanco et.al.|[2402.07799v1](http://arxiv.org/abs/2402.07799v1)|null|
+|**2024-02-14**|**Generalising Planning Environment Redesign**|Alberto Pozanco et.al.|[2402.07799v2](http://arxiv.org/abs/2402.07799v2)|null|
 |**2024-02-12**|**Continuous Assurance of Autonomous Vehicle Behavior Through Machine Learned Correctness Properties**|Matthew Litton et.al.|[2402.07791v1](http://arxiv.org/abs/2402.07791v1)|null|
 |**2024-02-12**|**IR-Aware ECO Timing Optimization Using Reinforcement Learning**|Vidya A. Chhabria et.al.|[2402.07781v1](http://arxiv.org/abs/2402.07781v1)|null|
 |**2024-02-12**|**Mixed Q-Functionals: Advancing Value-Based Methods in Cooperative MARL with Continuous Action Domains**|Yasin Findik et.al.|[2402.07752v1](http://arxiv.org/abs/2402.07752v1)|null|
@@ -18079,7 +18079,7 @@
 |**2024-02-13**|**A short review on Improvements and stability for some interpolation inequalities**|Jean Dolbeault et.al.|[2402.08527v1](http://arxiv.org/abs/2402.08527v1)|null|
 |**2024-02-13**|**Shadows of rotating hairy Kerr black holes coupled to time periodic scalar fields with non-flat target space**|Galin N. Gyulchev et.al.|[2402.08469v1](http://arxiv.org/abs/2402.08469v1)|null|
 |**2024-02-13**|**The discrete direct deconvolution model in the large eddy simulation of turbulence**|Ning Chang et.al.|[2402.08442v1](http://arxiv.org/abs/2402.08442v1)|null|
-|**2024-02-13**|**\texttt{VAMPyR} -- A High-Level Python Library for Mathematical Operations in a Multiwavelets Representation**|Magnar Bjørgve et.al.|[2402.08377v1](http://arxiv.org/abs/2402.08377v1)|null|
+|**2024-02-14**|**VAMPyR -- A High-Level Python Library for Mathematical Operations in a Multiwavelets Representation**|Magnar Bjørgve et.al.|[2402.08377v2](http://arxiv.org/abs/2402.08377v2)|null|
 |**2024-02-13**|**Small-scale dynamo with nonzero correlation time**|Kishore Gopalakrishnan et.al.|[2402.08366v1](http://arxiv.org/abs/2402.08366v1)|null|
 |**2024-02-13**|**Wireless Channel Prediction via Gaussian Mixture Models**|Nurettin Turan et.al.|[2402.08351v1](http://arxiv.org/abs/2402.08351v1)|null|
 |**2024-02-13**|**Implicit Bias in Noisy-SGD: With Applications to Differentially Private Training**|Tom Sander et.al.|[2402.08344v1](http://arxiv.org/abs/2402.08344v1)|null|
