@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 
 ## CV
 
@@ -12255,7 +12255,7 @@ layout: default
 |**2024-02-13**|**Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models**|Shaeke Salman et.al.|[2402.08473v1](http://arxiv.org/abs/2402.08473v1)|null|
 |**2024-02-13**|**One-shot Imitation in a Non-Stationary Environment via Multi-Modal Skill**|Sangwoo Shin et.al.|[2402.08369v1](http://arxiv.org/abs/2402.08369v1)|null|
 |**2024-02-13**|**Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks**|Jusung Lee et.al.|[2402.08360v1](http://arxiv.org/abs/2402.08360v1)|null|
-|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|null|
+|**2024-02-13**|**PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers**|Weizhe Lin et.al.|[2402.08327v1](http://arxiv.org/abs/2402.08327v1)|**[link](https://github.com/linweizhedragon/retrieval-augmented-visual-question-answering)**|
 |**2024-02-13**|**World Model on Million-Length Video And Language With RingAttention**|Hao Liu et.al.|[2402.08268v1](http://arxiv.org/abs/2402.08268v1)|**[link](https://github.com/LargeWorldModel/LWM)**|
 |**2024-02-09**|**ScreenAgent: A Vision Language Model-driven Computer Control Agent**|Runliang Niu et.al.|[2402.07945v1](http://arxiv.org/abs/2402.07945v1)|**[link](https://github.com/niuzaisheng/screenagent)**|
 |**2024-02-05**|**A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications**|Pranab Sahoo et.al.|[2402.07927v1](http://arxiv.org/abs/2402.07927v1)|null|
@@ -12274,7 +12274,7 @@ layout: default
 |**2024-02-08**|**CLIP-Loc: Multi-modal Landmark Association for Global Localization in Object-based Maps**|Shigemichi Matsuzaki et.al.|[2402.06092v1](http://arxiv.org/abs/2402.06092v1)|null|
 |**2024-02-08**|**Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing**|Yong Cao et.al.|[2402.06015v1](http://arxiv.org/abs/2402.06015v1)|null|
 |**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935v1](http://arxiv.org/abs/2402.05935v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
-|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|**[link](https://github.com/McGill-NLP/weblinx)**|
 |**2024-02-08**|**Examining Gender and Racial Bias in Large Vision-Language Models Using a Novel Dataset of Parallel Images**|Kathleen C. Fraser et.al.|[2402.05779v1](http://arxiv.org/abs/2402.05779v1)|**[link](https://github.com/katiefraser/pairs)**|
 |**2024-02-08**|**Real-World Robot Applications of Foundation Models: A Review**|Kento Kawaharazuka et.al.|[2402.05741v1](http://arxiv.org/abs/2402.05741v1)|null|
 |**2024-02-08**|**RepQuant: Towards Accurate Post-Training Quantization of Large Transformer Models via Scale Reparameterization**|Zhikai Li et.al.|[2402.05628v1](http://arxiv.org/abs/2402.05628v1)|null|
@@ -13083,7 +13083,7 @@ layout: default
 |**2024-02-14**|**Time preference, wealth and utility inequality: A microeconomic interaction and dynamic macroeconomic model connection approach**|Takeshi Kato et.al.|[2402.08905v1](http://arxiv.org/abs/2402.08905v1)|null|
 |**2024-02-14**|**Auto-Encoding Bayesian Inverse Games**|Xinjie Liu et.al.|[2402.08902v1](http://arxiv.org/abs/2402.08902v1)|null|
 |**2024-02-14**|**Distributed Secret Securing in Discrete-Event Systems**|Shoma Matsui et.al.|[2402.08878v1](http://arxiv.org/abs/2402.08878v1)|null|
-|**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841v1](http://arxiv.org/abs/2402.08841v1)|null|
+|**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841v1](http://arxiv.org/abs/2402.08841v1)|**[link](https://github.com/sisl/InformativePathPlanning)**|
 |**2024-02-13**|**Learning to Generate Context-Sensitive Backchannel Smiles for Embodied AI Agents with Applications in Mental Health Dialogues**|Maneesh Bilalpur et.al.|[2402.08837v1](http://arxiv.org/abs/2402.08837v1)|null|
 |**2024-02-13**|**Intelligent Agricultural Management Considering N$_2$O Emission and Climate Variability with Uncertainties**|Zhaoan Wang et.al.|[2402.08832v1](http://arxiv.org/abs/2402.08832v1)|null|
 |**2024-02-13**|**An Adaptive System Architecture for Multimodal Intelligent Transportation Systems**|Muhammad Farooq et.al.|[2402.08817v1](http://arxiv.org/abs/2402.08817v1)|null|
