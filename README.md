@@ -5367,7 +5367,7 @@
 |**2024-02-14**|**Arrange, Inpaint, and Refine: Steerable Long-term Music Audio Generation and Editing via Content-based Controls**|Liwei Lin et.al.|[2402.09508v1](http://arxiv.org/abs/2402.09508v1)|null|
 |**2024-02-14**|**Exploring the Flavor Symmetry Landscape**|Alfredo Glioti et.al.|[2402.09503v1](http://arxiv.org/abs/2402.09503v1)|null|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
-|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|null|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|
 |**2024-02-14**|**Monoidal model structures on filtered chain complexes relating to spectral sequences**|James A. Brotherston et.al.|[2402.09207v1](http://arxiv.org/abs/2402.09207v1)|null|
 |**2024-02-14**|**Semi-Supervised Diffusion Model for Brain Age Prediction**|Ayodeji Ijishakin et.al.|[2402.09137v1](http://arxiv.org/abs/2402.09137v1)|null|
@@ -13218,7 +13218,7 @@
 |**2024-02-14**|**Persuasion, Delegation, and Private Information in Algorithm-Assisted Decisions**|Ruqing Xu et.al.|[2402.09384v1](http://arxiv.org/abs/2402.09384v1)|null|
 |**2024-02-14**|**Single-Reset Divide & Conquer Imitation Learning**|Alexandre Chenu et.al.|[2402.09355v1](http://arxiv.org/abs/2402.09355v1)|null|
 |**2024-02-14**|**Who Plays First? Optimizing the Order of Play in Stackelberg Games with Many Robots**|Haimin Hu et.al.|[2402.09246v1](http://arxiv.org/abs/2402.09246v1)|null|
-|**2024-02-15**|**Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents**|Cheng Qian et.al.|[2402.09205v2](http://arxiv.org/abs/2402.09205v2)|null|
+|**2024-02-15**|**Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents**|Cheng Qian et.al.|[2402.09205v2](http://arxiv.org/abs/2402.09205v2)|**[link](https://github.com/hbx-hbx/mistral-interact)**|
 |**2024-02-14**|**Discovering Command and Control (C2) Channels on Tor and Public Networks Using Reinforcement Learning**|Cheng Wang et.al.|[2402.09200v1](http://arxiv.org/abs/2402.09200v1)|null|
 |**2024-02-14**|**OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM**|Yutao Hu et.al.|[2402.09181v1](http://arxiv.org/abs/2402.09181v1)|null|
 |**2024-02-14**|**Headset: Human emotion awareness under partial occlusions multimodal dataset**|Fatemeh Ghorbani Lohesara et.al.|[2402.09107v1](http://arxiv.org/abs/2402.09107v1)|null|
@@ -13226,7 +13226,7 @@
 |**2024-02-14**|**Selective decision making and collective behavior of fish by the motion of visual attention**|Susumu Ito et.al.|[2402.09073v1](http://arxiv.org/abs/2402.09073v1)|null|
 |**2024-02-14**|**L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects**|Yutaro Yamada et.al.|[2402.09052v1](http://arxiv.org/abs/2402.09052v1)|null|
 |**2024-02-15**|**FGeo-DRL: Deductive Reasoning for Geometric Problems through Deep Reinforcement Learning**|Jia Zou et.al.|[2402.09051v2](http://arxiv.org/abs/2402.09051v2)|null|
-|**2024-02-14**|**Unified Opinion Dynamic Modeling as Concurrent Set Relations in Rewriting Logic**|Carlos Olarte et.al.|[2402.09021v1](http://arxiv.org/abs/2402.09021v1)|null|
+|**2024-02-14**|**Unified Opinion Dynamic Modeling as Concurrent Set Relations in Rewriting Logic**|Carlos Olarte et.al.|[2402.09021v1](http://arxiv.org/abs/2402.09021v1)|**[link](https://github.com/promueva/maude-opinion-model)**|
 |**2024-02-15**|**Towards better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications**|Negar Arabzadeh et.al.|[2402.09015v2](http://arxiv.org/abs/2402.09015v2)|null|
 |**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999v1](http://arxiv.org/abs/2402.08999v1)|null|
 |**2024-02-14**|**Nearly Minimax Optimal Regret for Learning Linear Mixture Stochastic Shortest Path**|Qiwei Di et.al.|[2402.08998v1](http://arxiv.org/abs/2402.08998v1)|null|
@@ -18407,7 +18407,7 @@
 |**2024-02-14**|**Exact, Fast and Expressive Poisson Point Processes via Squared Neural Families**|Russell Tsuchida et.al.|[2402.09608v1](http://arxiv.org/abs/2402.09608v1)|**[link](https://github.com/russelltsuchida/snefy)**|
 |**2024-02-14**|**Why Does Differential Privacy with Large Epsilon Defend Against Practical Membership Inference Attacks?**|Andrew Lowy et.al.|[2402.09540v1](http://arxiv.org/abs/2402.09540v1)|null|
 |**2024-02-14**|**C3NN: Cosmological Correlator Convolutional Neural Network -- an interpretable machine learning tool for cosmological analyses**|Zhengyangguang Gong et.al.|[2402.09526v1](http://arxiv.org/abs/2402.09526v1)|null|
-|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|null|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-14**|**Registration of Longitudinal Spine CTs for Monitoring Lesion Growth**|Malika Sanhinova et.al.|[2402.09341v1](http://arxiv.org/abs/2402.09341v1)|null|
 |**2024-02-15**|**Neural Networks Asymptotic Behaviours for the Resolution of Inverse Problems**|Luigi Del Debbio et.al.|[2402.09338v2](http://arxiv.org/abs/2402.09338v2)|null|
 |**2024-02-14**|**Efficient Unitary T-designs from Random Sums**|Chi-Fang Chen et.al.|[2402.09335v1](http://arxiv.org/abs/2402.09335v1)|null|
@@ -18429,7 +18429,7 @@
 |**2024-02-13**|**Space-Time Bridge-Diffusion**|Hamidreza Behjoo et.al.|[2402.08847v1](http://arxiv.org/abs/2402.08847v1)|null|
 |**2024-02-13**|**Syllable based DNN-HMM Cantonese Speech to Text System**|Timothy Wong et.al.|[2402.08788v1](http://arxiv.org/abs/2402.08788v1)|null|
 |**2024-02-13**|**Concentration of the number of real roots of random polynomials**|Ander Aguirre et.al.|[2402.08773v1](http://arxiv.org/abs/2402.08773v1)|null|
-|**2024-02-13**|**Introducing RSESS: An Open Source Enumerative Sphere Shaping Implementation Coded in Rust**|Frederik Ritter et.al.|[2402.08771v1](http://arxiv.org/abs/2402.08771v1)|null|
+|**2024-02-13**|**Introducing RSESS: An Open Source Enumerative Sphere Shaping Implementation Coded in Rust**|Frederik Ritter et.al.|[2402.08771v1](http://arxiv.org/abs/2402.08771v1)|**[link](https://github.com/kit-cel/rsess)**|
 |**2024-02-13**|**Trained quantum neural networks are Gaussian processes**|Filippo Girardi et.al.|[2402.08726v1](http://arxiv.org/abs/2402.08726v1)|null|
 |**2024-02-12**|**Inference Stage Denoising for Undersampled MRI Reconstruction**|Yuyang Xue et.al.|[2402.08692v1](http://arxiv.org/abs/2402.08692v1)|**[link](https://github.com/vios-s/Inference_Denoising_MRI_Recon)**|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682v1](http://arxiv.org/abs/2402.08682v1)|null|
