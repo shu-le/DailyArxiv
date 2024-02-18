@@ -34,6 +34,7 @@
 |**2024-02-15**|**Characterizing Accuracy Trade-offs of EEG Applications on Embedded HMPs**|Zain Taufique et.al.|[2402.09867v1](http://arxiv.org/abs/2402.09867v1)|null|
 |**2024-02-15**|**Beyond Kalman Filters: Deep Learning-Based Filters for Improved Object Tracking**|Momir Adžemović et.al.|[2402.09865v1](http://arxiv.org/abs/2402.09865v1)|null|
 |**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844v1](http://arxiv.org/abs/2402.09844v1)|null|
+|**2024-02-15**|**LAPDoc: Layout-Aware Prompting for Documents**|Marcel Lamott et.al.|[2402.09841v1](http://arxiv.org/abs/2402.09841v1)|null|
 |**2024-02-15**|**All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**|Haihong Zhao et.al.|[2402.09834v1](http://arxiv.org/abs/2402.09834v1)|null|
 |**2024-02-15**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al.|[2402.09816v1](http://arxiv.org/abs/2402.09816v1)|null|
 |**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|null|
