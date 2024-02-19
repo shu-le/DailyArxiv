@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 
 ## CV
 
@@ -5369,7 +5369,7 @@ layout: default
 |**2024-02-15**|**Diffusion Models for Audio Restoration**|Jean-Marie Lemercier et.al.|[2402.09821v1](http://arxiv.org/abs/2402.09821v1)|null|
 |**2024-02-15**|**DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization**|Jisu Nam et.al.|[2402.09812v1](http://arxiv.org/abs/2402.09812v1)|null|
 |**2024-02-15**|**Diffusion Model with Cross Attention as an Inductive Bias for Disentanglement**|Tao Yang et.al.|[2402.09712v1](http://arxiv.org/abs/2402.09712v1)|null|
-|**2024-02-14**|**Arrange, Inpaint, and Refine: Steerable Long-term Music Audio Generation and Editing via Content-based Controls**|Liwei Lin et.al.|[2402.09508v1](http://arxiv.org/abs/2402.09508v1)|null|
+|**2024-02-14**|**Arrange, Inpaint, and Refine: Steerable Long-term Music Audio Generation and Editing via Content-based Controls**|Liwei Lin et.al.|[2402.09508v1](http://arxiv.org/abs/2402.09508v1)|**[link](https://github.com/kikyo-16/airgen)**|
 |**2024-02-14**|**Exploring the Flavor Symmetry Landscape**|Alfredo Glioti et.al.|[2402.09503v1](http://arxiv.org/abs/2402.09503v1)|null|
 |**2024-02-14**|**Reinforcement Learning from Human Feedback with Active Queries**|Kaixuan Ji et.al.|[2402.09401v1](http://arxiv.org/abs/2402.09401v1)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368v1](http://arxiv.org/abs/2402.09368v1)|**[link](https://github.com/zhen-dong/magic-me)**|
@@ -5388,7 +5388,7 @@ layout: default
 |**2024-02-13**|**Towards the Detection of AI-Synthesized Human Face Images**|Yuhang Lu et.al.|[2402.08750v1](http://arxiv.org/abs/2402.08750v1)|null|
 |**2024-02-13**|**Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs**|Daniel D. Johnson et.al.|[2402.08733v1](http://arxiv.org/abs/2402.08733v1)|null|
 |**2024-02-13**|**PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models**|Fei Deng et.al.|[2402.08714v1](http://arxiv.org/abs/2402.08714v1)|null|
-|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708v1](http://arxiv.org/abs/2402.08708v1)|**[link](https://github.com/rokasel/simgen)**|
+|**2024-02-13**|**Zero Shot Molecular Generation via Similarity Kernels**|Rokas Elijošius et.al.|[2402.08708v1](http://arxiv.org/abs/2402.08708v1)|**[link](https://github.com/zincware/zndraw)**|
 |**2024-02-13**|**A Survey of Generative AI for De Novo Drug Design: New Frontiers in Molecule and Protein Generation**|Xiangru Tang et.al.|[2402.08703v1](http://arxiv.org/abs/2402.08703v1)|**[link](https://github.com/gersteinlab/genai4drug)**|
 |**2024-02-13**|**Chain Reaction of Ideas: Can Radioactive Decay Predict Technological Innovation?**|Guilherme S. Y. Giardini et.al.|[2402.08681v1](http://arxiv.org/abs/2402.08681v1)|null|
 |**2024-02-13**|**Target Score Matching**|Valentin De Bortoli et.al.|[2402.08667v1](http://arxiv.org/abs/2402.08667v1)|null|
