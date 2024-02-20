@@ -13347,7 +13347,7 @@ layout: default
 |**2024-02-15**|**Knowledge-Infused LLM-Powered Conversational Health Agent: A Case Study for Diabetes Patients**|Mahyar Abbasian et.al.|[2402.10153v1](http://arxiv.org/abs/2402.10153v1)|null|
 |**2024-02-15**|**SwissNYF: Tool Grounded LLM Agents for Black Box Setting**|Somnath Sendhil Kumar et.al.|[2402.10051v1](http://arxiv.org/abs/2402.10051v1)|null|
 |**2024-02-15**|**Approximating Competitive Equilibrium by Nash Welfare**|Jugal Garg et.al.|[2402.09994v1](http://arxiv.org/abs/2402.09994v1)|null|
-|**2024-02-15**|**LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition**|Jinyuan Li et.al.|[2402.09989v1](http://arxiv.org/abs/2402.09989v1)|null|
+|**2024-02-17**|**LLMs as Bridges: Reformulating Grounded Multimodal Named Entity Recognition**|Jinyuan Li et.al.|[2402.09989v2](http://arxiv.org/abs/2402.09989v2)|null|
 |**2024-02-15**|**Symmetry-Breaking Augmentations for Ad Hoc Teamwork**|Ravi Hammond et.al.|[2402.09984v1](http://arxiv.org/abs/2402.09984v1)|null|
 |**2024-02-15**|**Identifying and modelling cognitive biases in mobility choices**|Chloe Conrad et.al.|[2402.09921v1](http://arxiv.org/abs/2402.09921v1)|null|
 |**2024-02-15**|**On Computing Plans with Uniform Action Costs**|Alberto Pozanco et.al.|[2402.09877v1](http://arxiv.org/abs/2402.09877v1)|null|
