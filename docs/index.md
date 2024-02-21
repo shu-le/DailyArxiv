@@ -50,7 +50,7 @@ layout: default
 |**2024-02-19**|**PhySU-Net: Long Temporal Context Transformer for rPPG with Self-Supervised Pre-training**|Marko Savic et.al.|[2402.11913v1](http://arxiv.org/abs/2402.11913v1)|null|
 |**2024-02-19**|**One2Avatar: Generative Implicit Head Avatar For Few-shot User Adaptation**|Zhixuan Yu et.al.|[2402.11909v1](http://arxiv.org/abs/2402.11909v1)|null|
 |**2024-02-19**|**Semantic Textual Similarity Assessment in Chest X-ray Reports Using a Domain-Specific Cosine-Based Metric**|Sayeh Gholipour Picha et.al.|[2402.11908v1](http://arxiv.org/abs/2402.11908v1)|**[link](https://github.com/sayeh1994/medical-corpus-semantic-similarity-evaluation)**|
-|**2024-02-19**|**InMD-X: Large Language Models for Internal Medicine Doctors**|Hansle Gwon et.al.|[2402.11883v1](http://arxiv.org/abs/2402.11883v1)|null|
+|**2024-02-20**|**InMD-X: Large Language Models for Internal Medicine Doctors**|Hansle Gwon et.al.|[2402.11883v2](http://arxiv.org/abs/2402.11883v2)|null|
 |**2024-02-19**|**NOTE: Notable generation Of patient Text summaries through Efficient approach based on direct preference optimization**|Imjin Ahn et.al.|[2402.11882v1](http://arxiv.org/abs/2402.11882v1)|null|
 |**2024-02-19**|**Language-guided Image Reflection Separation**|Haofeng Zhong et.al.|[2402.11874v1](http://arxiv.org/abs/2402.11874v1)|null|
 |**2024-02-19**|**Two Online Map Matching Algorithms Based on Analytic Hierarchy Process and Fuzzy Logic**|Jeremy J. Lin et.al.|[2402.11866v1](http://arxiv.org/abs/2402.11866v1)|null|
@@ -13493,11 +13493,11 @@ layout: default
 |**2024-02-19**|**M2K-VDG: Model-Adaptive Multimodal Knowledge Anchor Enhanced Video-grounded Dialogue Generation**|Hongcheng Liu et.al.|[2402.11875v1](http://arxiv.org/abs/2402.11875v1)|null|
 |**2024-02-19**|**Easy as ABCs: Unifying Boltzmann Q-Learning and Counterfactual Regret Minimization**|Luca D'Amico-Wong et.al.|[2402.11835v1](http://arxiv.org/abs/2402.11835v1)|null|
 |**2024-02-19**|**Stochastic Approximation with Delayed Updates: Finite-Time Rates under Markovian Sampling**|Arman Adibi et.al.|[2402.11800v1](http://arxiv.org/abs/2402.11800v1)|null|
-|**2024-02-19**|**SInViG: A Self-Evolving Interactive Visual Agent for Human-Robot Interaction**|Jie Xu et.al.|[2402.11792v1](http://arxiv.org/abs/2402.11792v1)|null|
+|**2024-02-20**|**SInViG: A Self-Evolving Interactive Visual Agent for Human-Robot Interaction**|Jie Xu et.al.|[2402.11792v2](http://arxiv.org/abs/2402.11792v2)|null|
 |**2024-02-19**|**MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.11788v1](http://arxiv.org/abs/2402.11788v1)|null|
 |**2024-02-19**|**Spatiotemporal Control of Ultrafast Pulses in Multimode Optical Fibers**|Daniel Cruz-Delgado et.al.|[2402.11783v1](http://arxiv.org/abs/2402.11783v1)|null|
 |**2024-02-19**|**Evaluating the Effectiveness of Index-Based Treatment Allocation**|Niclas Boehmer et.al.|[2402.11771v1](http://arxiv.org/abs/2402.11771v1)|null|
-|**2024-02-19**|**Structured Chain-of-Thought Prompting for Few-Shot Generation of Content-Grounded QA Conversations**|Md Arafat Sultan et.al.|[2402.11770v1](http://arxiv.org/abs/2402.11770v1)|null|
+|**2024-02-20**|**Structured Chain-of-Thought Prompting for Few-Shot Generation of Content-Grounded QA Conversations**|Md Arafat Sultan et.al.|[2402.11770v2](http://arxiv.org/abs/2402.11770v2)|null|
 |**2024-02-19**|**Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning**|Teng Guo et.al.|[2402.11768v1](http://arxiv.org/abs/2402.11768v1)|null|
 |**2024-02-18**|**Modelling Political Coalition Negotiations Using LLM-based Agents**|Farhad Moghimifar et.al.|[2402.11712v1](http://arxiv.org/abs/2402.11712v1)|null|
 |**2024-02-18**|**ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model**|Guiming Hardy Chen et.al.|[2402.11684v1](http://arxiv.org/abs/2402.11684v1)|null|
