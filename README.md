@@ -1,4 +1,4 @@
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 
 ## CV
 
@@ -5516,11 +5516,11 @@
 |**2024-02-20**|**DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation**|Takuya Ikeda et.al.|[2402.12647v1](http://arxiv.org/abs/2402.12647v1)|null|
 |**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537v1](http://arxiv.org/abs/2402.12537v1)|null|
 |**2024-02-19**|**Improving Deep Generative Models on Many-To-One Image-to-Image Translation**|Sagar Saxena et.al.|[2402.12531v1](http://arxiv.org/abs/2402.12531v1)|null|
-|**2024-02-19**|**GalaPy, the highly optimised C++/Python spectral modelling tool for galaxies - I - Library presentation and photometric fitting**|Tommaso Ronconi et.al.|[2402.12427v1](http://arxiv.org/abs/2402.12427v1)|null|
+|**2024-02-19**|**GalaPy, the highly optimised C++/Python spectral modelling tool for galaxies -- I. Library presentation and photometric fitting**|Tommaso Ronconi et.al.|[2402.12427v1](http://arxiv.org/abs/2402.12427v1)|null|
 |**2024-02-19**|**On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models**|Miri Varshavsky Hassid et.al.|[2402.12423v1](http://arxiv.org/abs/2402.12423v1)|null|
 |**2024-02-19**|**Dynamic and Super-Personalized Media Ecosystem Driven by Generative AI: Unpredictable Plays Never Repeating The Same**|Sungjun Ahn et.al.|[2402.12412v1](http://arxiv.org/abs/2402.12412v1)|null|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376v1](http://arxiv.org/abs/2402.12376v1)|**[link](https://github.com/whlzy/fit)**|
-|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242v1](http://arxiv.org/abs/2402.12242v1)|null|
+|**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242v1](http://arxiv.org/abs/2402.12242v1)|**[link](https://github.com/irmlma/mobility-simulation-cdpm)**|
 |**2024-02-19**|**Mixed Gaussian Flow for Diverse Trajectory Prediction**|Jiahe Chen et.al.|[2402.12238v1](http://arxiv.org/abs/2402.12238v1)|null|
 |**2024-02-19**|**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**|Jun Zhan et.al.|[2402.12226v1](http://arxiv.org/abs/2402.12226v1)|null|
 |**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187v1](http://arxiv.org/abs/2402.12187v1)|null|
@@ -8215,11 +8215,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-20**|**GlórIA - A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
+|**2024-02-20**|**GlórIA -- A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
 |**2024-02-20**|**ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic**|Fajri Koto et.al.|[2402.12840v1](http://arxiv.org/abs/2402.12840v1)|**[link](https://github.com/mbzuai-nlp/arabicmmlu)**|
 |**2024-02-18**|**KMMLU: Measuring Massive Multitask Language Understanding in Korean**|Guijin Son et.al.|[2402.11548v1](http://arxiv.org/abs/2402.11548v1)|null|
 |**2024-02-18**|**Benchmarking Knowledge Boundary for Large Language Model: A Different Perspective on Model Evaluation**|Xunjian Yin et.al.|[2402.11493v1](http://arxiv.org/abs/2402.11493v1)|null|
-|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229v1](http://arxiv.org/abs/2402.10229v1)|null|
+|**2024-02-08**|**Mixture-Models: a one-stop Python Library for Model-based Clustering using various Mixture Models**|Siva Rajesh Kasa et.al.|[2402.10229v1](http://arxiv.org/abs/2402.10229v1)|**[link](https://github.com/kasakh/mixture-models)**|
 |**2024-02-15**|**Generative AI in the Construction Industry: A State-of-the-art Analysis**|Ridwan Taiwo et.al.|[2402.09939v1](http://arxiv.org/abs/2402.09939v1)|null|
 |**2024-02-13**|**Auditing Counterfire: Evaluating Advanced Counterargument Generation with Evidence and Style**|Preetika Verma et.al.|[2402.08498v1](http://arxiv.org/abs/2402.08498v1)|null|
 |**2024-02-13**|**Deep learning enhanced cost-aware multi-fidelity uncertainty quantification of a computational model for radiotherapy**|Piermario Vitullo et.al.|[2402.08494v1](http://arxiv.org/abs/2402.08494v1)|null|
@@ -8458,7 +8458,7 @@
 |**2024-02-20**|**TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification**|Martin Gubri et.al.|[2402.12991v1](http://arxiv.org/abs/2402.12991v1)|**[link](https://github.com/framartin/trap)**|
 |**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
 |**2024-02-20**|**The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis**|Miaoran Zhang et.al.|[2402.12976v1](http://arxiv.org/abs/2402.12976v1)|null|
-|**2024-02-20**|**GlórIA - A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
+|**2024-02-20**|**GlórIA -- A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
 |**2024-02-20**|**Prompt Stealing Attacks Against Large Language Models**|Zeyang Sha et.al.|[2402.12959v1](http://arxiv.org/abs/2402.12959v1)|null|
 |**2024-02-20**|**Go Static: Contextualized Logging Statement Generation**|Yichen Li et.al.|[2402.12958v1](http://arxiv.org/abs/2402.12958v1)|null|
 |**2024-02-20**|**GumbelSoft: Diversified Language Model Watermarking via the GumbelMax-trick**|Jiayi Fu et.al.|[2402.12948v1](http://arxiv.org/abs/2402.12948v1)|null|
@@ -12767,7 +12767,7 @@
 |**2024-02-19**|**Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models**|Xuanyu Lei et.al.|[2402.12058v1](http://arxiv.org/abs/2402.12058v1)|**[link](https://github.com/leixy20/scaffold)**|
 |**2024-02-19**|**LEMMA: Towards LVLM-Enhanced Multimodal Misinformation Detection with External Knowledge Augmentation**|Keyang Xuan et.al.|[2402.11943v1](http://arxiv.org/abs/2402.11943v1)|null|
 |**2024-02-18**|**Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning**|Zhiyang Xu et.al.|[2402.11690v1](http://arxiv.org/abs/2402.11690v1)|null|
-|**2024-02-18**|**ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model**|Guiming Hardy Chen et.al.|[2402.11684v1](http://arxiv.org/abs/2402.11684v1)|**[link](https://github.com/freedomintelligence/allava)**|
+|**2024-02-18**|**ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model**|Guiming Hardy Chen et.al.|[2402.11684v1](http://arxiv.org/abs/2402.11684v1)|null|
 |**2024-02-18**|**Logical Closed Loop: Uncovering Object Hallucinations in Large Vision-Language Models**|Junfei Wu et.al.|[2402.11622v1](http://arxiv.org/abs/2402.11622v1)|**[link](https://github.com/hyperwjf/logiccheckgpt)**|
 |**2024-02-18**|**Visual In-Context Learning for Large Vision-Language Models**|Yucheng Zhou et.al.|[2402.11574v1](http://arxiv.org/abs/2402.11574v1)|null|
 |**2024-02-17**|**ChatEarthNet: A Global-Scale, High-Quality Image-Text Dataset for Remote Sensing**|Zhenghang Yuan et.al.|[2402.11325v1](http://arxiv.org/abs/2402.11325v1)|null|
