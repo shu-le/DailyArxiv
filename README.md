@@ -5497,7 +5497,7 @@
 |**2024-02-20**|**RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**|Adrian Cosma et.al.|[2402.13222v1](http://arxiv.org/abs/2402.13222v1)|**[link](https://github.com/cosmaadrian/rocode)**|
 |**2024-02-20**|**Tiny Reinforcement Learning for Quadruped Locomotion using Decision Transformers**|Orhan Eren Akgün et.al.|[2402.13201v1](http://arxiv.org/abs/2402.13201v1)|**[link](https://github.com/dagabo98/dt-quadruped-locomotion)**|
 |**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185v1](http://arxiv.org/abs/2402.13185v1)|null|
-|**2024-02-20**|**CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation**|Yujie Shao et.al.|[2402.13145v1](http://arxiv.org/abs/2402.13145v1)|null|
+|**2024-02-21**|**CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation**|Yujie Shao et.al.|[2402.13145v2](http://arxiv.org/abs/2402.13145v2)|null|
 |**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144v1](http://arxiv.org/abs/2402.13144v1)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
 |**2024-02-20**|**Are ELECTRA's Sentence Embeddings Beyond Repair? The Case of Semantic Textual Similarity**|Ivan Rep et.al.|[2402.13130v1](http://arxiv.org/abs/2402.13130v1)|null|
 |**2024-02-20**|**VGMShield: Mitigating Misuse of Video Generative Models**|Yan Pang et.al.|[2402.13126v1](http://arxiv.org/abs/2402.13126v1)|null|
@@ -8436,7 +8436,7 @@
 |**2024-02-20**|**Soft Self-Consistency Improves Language Model Agents**|Han Wang et.al.|[2402.13212v1](http://arxiv.org/abs/2402.13212v1)|**[link](https://github.com/hannight/soft_self_consistency)**|
 |**2024-02-20**|**Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation**|Dongjin Kang et.al.|[2402.13211v1](http://arxiv.org/abs/2402.13211v1)|null|
 |**2024-02-20**|**Bayesian Reward Models for LLM Alignment**|Adam X. Yang et.al.|[2402.13210v1](http://arxiv.org/abs/2402.13210v1)|null|
-|**2024-02-20**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184v1](http://arxiv.org/abs/2402.13184v1)|null|
+|**2024-02-21**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184v2](http://arxiv.org/abs/2402.13184v2)|null|
 |**2024-02-20**|**Benchmarking Retrieval-Augmented Generation for Medicine**|Guangzhi Xiong et.al.|[2402.13178v1](http://arxiv.org/abs/2402.13178v1)|null|
 |**2024-02-20**|**Defending Jailbreak Prompts via In-Context Adversarial Game**|Yujun Zhou et.al.|[2402.13148v1](http://arxiv.org/abs/2402.13148v1)|null|
 |**2024-02-20**|**OLViT: Multi-Modal State Tracking via Attention-Based Embeddings for Video-Grounded Dialog**|Adnen Abdessaied et.al.|[2402.13146v1](http://arxiv.org/abs/2402.13146v1)|null|
@@ -13607,7 +13607,7 @@
 |**2024-02-20**|**How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts**|Yusu Qian et.al.|[2402.13220v1](http://arxiv.org/abs/2402.13220v1)|null|
 |**2024-02-20**|**Soft Self-Consistency Improves Language Model Agents**|Han Wang et.al.|[2402.13212v1](http://arxiv.org/abs/2402.13212v1)|**[link](https://github.com/hannight/soft_self_consistency)**|
 |**2024-02-20**|**SONATA: Self-adaptive Evolutionary Framework for Hardware-aware Neural Architecture Search**|Halima Bouzidi et.al.|[2402.13204v1](http://arxiv.org/abs/2402.13204v1)|null|
-|**2024-02-20**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184v1](http://arxiv.org/abs/2402.13184v1)|null|
+|**2024-02-21**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184v2](http://arxiv.org/abs/2402.13184v2)|null|
 |**2024-02-20**|**Order-Optimal Regret in Distributed Kernel Bandits using Uniform Sampling with Shared Randomness**|Nikola Pavlovic et.al.|[2402.13182v1](http://arxiv.org/abs/2402.13182v1)|null|
 |**2024-02-20**|**Formal Verification for Blockchain-based Insurance Claims Processing**|Roshan Lal Neupane et.al.|[2402.13169v1](http://arxiv.org/abs/2402.13169v1)|null|
 |**2024-02-20**|**Regret-Minimizing Contracts: Agency Under Uncertainty**|Martino Bernasconi et.al.|[2402.13156v1](http://arxiv.org/abs/2402.13156v1)|null|
