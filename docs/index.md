@@ -33,7 +33,7 @@ layout: default
 |**2024-02-21**|**Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**|Zechen Bai et.al.|[2402.13724v1](http://arxiv.org/abs/2402.13724v1)|null|
 |**2024-02-21**|**Explainable Classification Techniques for Quantum Dot Device Measurements**|Daniel Schug et.al.|[2402.13699v1](http://arxiv.org/abs/2402.13699v1)|null|
 |**2024-02-21**|**Generalizable Semantic Vision Query Generation for Zero-shot Panoptic and Semantic Segmentation**|Jialei Chen et.al.|[2402.13697v1](http://arxiv.org/abs/2402.13697v1)|null|
-|**2024-02-21**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651v1](http://arxiv.org/abs/2402.13651v1)|null|
+|**2024-02-22**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651v2](http://arxiv.org/abs/2402.13651v2)|null|
 |**2024-02-21**|**Class-Aware Mask-Guided Feature Refinement for Scene Text Recognition**|Mingkun Yang et.al.|[2402.13643v1](http://arxiv.org/abs/2402.13643v1)|**[link](https://github.com/melosy/cam)**|
 |**2024-02-21**|**Green AI: A Preliminary Empirical Study on Energy Consumption in DL Models Across Different Runtime Infrastructures**|Negar Alizadeh et.al.|[2402.13640v1](http://arxiv.org/abs/2402.13640v1)|null|
 |**2024-02-21**|**A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models**|Ashutosh Sathe et.al.|[2402.13636v1](http://arxiv.org/abs/2402.13636v1)|null|
@@ -53,7 +53,7 @@ layout: default
 |**2024-02-21**|**Event-aware Video Corpus Moment Retrieval**|Danyang Hou et.al.|[2402.13566v1](http://arxiv.org/abs/2402.13566v1)|null|
 |**2024-02-21**|**Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment**|Yunxin Li et.al.|[2402.13561v1](http://arxiv.org/abs/2402.13561v1)|null|
 |**2024-02-21**|**LLMs Meet Long Video: Advancing Long Video Comprehension with An Interactive Visual Adapter in LLMs**|Yunxin Li et.al.|[2402.13546v1](http://arxiv.org/abs/2402.13546v1)|null|
-|**2024-02-21**|**A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition**|Guandong Li et.al.|[2402.13545v1](http://arxiv.org/abs/2402.13545v1)|null|
+|**2024-02-22**|**A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition**|Guandong Li et.al.|[2402.13545v2](http://arxiv.org/abs/2402.13545v2)|null|
 |**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537v1](http://arxiv.org/abs/2402.13537v1)|null|
 |**2024-02-21**|**Exploring the Limits of Semantic Image Compression at Micro-bits per Pixel**|Jordan Dotzel et.al.|[2402.13536v1](http://arxiv.org/abs/2402.13536v1)|null|
 |**2024-02-21**|**SealD-NeRF: Interactive Pixel-Level Editing for Dynamic Scenes by Neural Radiance Fields**|Zhentao Huang et.al.|[2402.13510v1](http://arxiv.org/abs/2402.13510v1)|null|
@@ -5551,7 +5551,7 @@ layout: default
 |**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901v1](http://arxiv.org/abs/2402.13901v1)|null|
 |**2024-02-21**|**Science Checker Reloaded: A Bidirectional Paradigm for Transparency and Logical Reasoning**|Loïc Rakotoson et.al.|[2402.13897v1](http://arxiv.org/abs/2402.13897v1)|null|
 |**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809v1](http://arxiv.org/abs/2402.13809v1)|null|
-|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v1](http://arxiv.org/abs/2402.13777v1)|null|
+|**2024-02-22**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v2](http://arxiv.org/abs/2402.13777v2)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
 |**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737v1](http://arxiv.org/abs/2402.13737v1)|null|
@@ -5569,7 +5569,7 @@ layout: default
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254v1](http://arxiv.org/abs/2402.13254v1)|null|
 |**2024-02-20**|**RoCode: A Dataset for Measuring Code Intelligence from Problem Definitions in Romanian**|Adrian Cosma et.al.|[2402.13222v1](http://arxiv.org/abs/2402.13222v1)|**[link](https://github.com/cosmaadrian/rocode)**|
 |**2024-02-20**|**Tiny Reinforcement Learning for Quadruped Locomotion using Decision Transformers**|Orhan Eren Akgün et.al.|[2402.13201v1](http://arxiv.org/abs/2402.13201v1)|**[link](https://github.com/dagabo98/dt-quadruped-locomotion)**|
-|**2024-02-20**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185v1](http://arxiv.org/abs/2402.13185v1)|null|
+|**2024-02-22**|**UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing**|Jianhong Bai et.al.|[2402.13185v2](http://arxiv.org/abs/2402.13185v2)|null|
 |**2024-02-21**|**CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation**|Yujie Shao et.al.|[2402.13145v2](http://arxiv.org/abs/2402.13145v2)|**[link](https://github.com/jasonshao55/chinese_metaphor_explanation)**|
 |**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144v1](http://arxiv.org/abs/2402.13144v1)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
 |**2024-02-20**|**Are ELECTRA's Sentence Embeddings Beyond Repair? The Case of Semantic Textual Similarity**|Ivan Rep et.al.|[2402.13130v1](http://arxiv.org/abs/2402.13130v1)|null|
@@ -8516,14 +8516,14 @@ layout: default
 |**2024-02-21**|**Large Language Models are Advanced Anonymizers**|Robin Staab et.al.|[2402.13846v1](http://arxiv.org/abs/2402.13846v1)|null|
 |**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840v1](http://arxiv.org/abs/2402.13840v1)|null|
 |**2024-02-21**|**Using Large Language Models for Natural Language Processing Tasks in Requirements Engineering: A Systematic Guideline**|Andreas Vogelsang et.al.|[2402.13823v1](http://arxiv.org/abs/2402.13823v1)|null|
-|**2024-02-21**|**CriticBench: Evaluating Large Language Models as Critic**|Tian Lan et.al.|[2402.13764v1](http://arxiv.org/abs/2402.13764v1)|null|
+|**2024-02-22**|**CriticBench: Evaluating Large Language Models as Critic**|Tian Lan et.al.|[2402.13764v2](http://arxiv.org/abs/2402.13764v2)|null|
 |**2024-02-21**|**Factual Consistency Evaluation of Summarisation in the Era of Large Language Models**|Zheheng Luo et.al.|[2402.13758v1](http://arxiv.org/abs/2402.13758v1)|null|
 |**2024-02-21**|**LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens**|Yiran Ding et.al.|[2402.13753v1](http://arxiv.org/abs/2402.13753v1)|null|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750v1](http://arxiv.org/abs/2402.13750v1)|null|
 |**2024-02-21**|**Unlocking Instructive In-Context Learning with Tabular Prompting for Relational Triple Extraction**|Guozheng Li et.al.|[2402.13741v1](http://arxiv.org/abs/2402.13741v1)|null|
 |**2024-02-21**|**From Text to CQL: Bridging Natural Language and Corpus Search Engine**|Luming Lu et.al.|[2402.13740v1](http://arxiv.org/abs/2402.13740v1)|null|
 |**2024-02-21**|**Ouroboros: Speculative Decoding with Large Model Enhanced Drafting**|Weilin Zhao et.al.|[2402.13720v1](http://arxiv.org/abs/2402.13720v1)|**[link](https://github.com/thunlp/ouroboros)**|
-|**2024-02-21**|**$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**|Xinrong Zhang et.al.|[2402.13718v1](http://arxiv.org/abs/2402.13718v1)|null|
+|**2024-02-22**|**$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**|Xinrong Zhang et.al.|[2402.13718v2](http://arxiv.org/abs/2402.13718v2)|null|
 |**2024-02-21**|**Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**|Xiaoyan Yu et.al.|[2402.13717v1](http://arxiv.org/abs/2402.13717v1)|**[link](https://github.com/weiyifan1023/neeko)**|
 |**2024-02-21**|**An Evaluation of Large Language Models in Bioinformatics Research**|Hengchuang Yin et.al.|[2402.13714v1](http://arxiv.org/abs/2402.13714v1)|null|
 |**2024-02-21**|**SaGE: Evaluating Moral Consistency in Large Language Models**|Vamshi Krishna Bonagiri et.al.|[2402.13709v1](http://arxiv.org/abs/2402.13709v1)|null|
@@ -13741,7 +13741,7 @@ layout: default
 |**2024-02-21**|**Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments**|Lukas Schmid et.al.|[2402.13817v1](http://arxiv.org/abs/2402.13817v1)|null|
 |**2024-02-21**|**Synthesis of Hierarchical Controllers Based on Deep Reinforcement Learning Policies**|Florent Delgrange et.al.|[2402.13785v1](http://arxiv.org/abs/2402.13785v1)|null|
 |**2024-02-21**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754v1](http://arxiv.org/abs/2402.13754v1)|null|
-|**2024-02-21**|**$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**|Xinrong Zhang et.al.|[2402.13718v1](http://arxiv.org/abs/2402.13718v1)|null|
+|**2024-02-22**|**$\infty$Bench: Extending Long Context Evaluation Beyond 100K Tokens**|Xinrong Zhang et.al.|[2402.13718v2](http://arxiv.org/abs/2402.13718v2)|null|
 |**2024-02-21**|**Neeko: Leveraging Dynamic LoRA for Efficient Multi-Character Role-Playing Agent**|Xiaoyan Yu et.al.|[2402.13717v1](http://arxiv.org/abs/2402.13717v1)|**[link](https://github.com/weiyifan1023/neeko)**|
 |**2024-02-21**|**CMNER: A Chinese Multimodal NER Dataset based on Social Media**|Yuanze Ji et.al.|[2402.13693v1](http://arxiv.org/abs/2402.13693v1)|null|
 |**2024-02-21**|**A Pontryagin Maximum Principle for agent-based models with convex state space**|Stefano Almi et.al.|[2402.13680v1](http://arxiv.org/abs/2402.13680v1)|null|
@@ -13758,7 +13758,7 @@ layout: default
 |**2024-02-20**|**Reward Bound for Behavioral Guarantee of Model-based Planning Agents**|Zhiyu An et.al.|[2402.13419v1](http://arxiv.org/abs/2402.13419v1)|null|
 |**2024-02-20**|**Learning and Sustaining Shared Normative Systems via Bayesian Rule Induction in Markov Games**|Ninell Oldenburg et.al.|[2402.13399v1](http://arxiv.org/abs/2402.13399v1)|null|
 |**2024-02-20**|**A new characterization of second-order stochastic dominance**|Yuanying Guan et.al.|[2402.13355v1](http://arxiv.org/abs/2402.13355v1)|null|
-|**2024-02-20**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349v1](http://arxiv.org/abs/2402.13349v1)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
+|**2024-02-22**|**Aria Everyday Activities Dataset**|Zhaoyang Lv et.al.|[2402.13349v2](http://arxiv.org/abs/2402.13349v2)|**[link](https://github.com/facebookresearch/projectaria_tools)**|
 |**2024-02-20**|**Incentivized Exploration via Filtered Posterior Sampling**|Anand Kalvit et.al.|[2402.13338v1](http://arxiv.org/abs/2402.13338v1)|null|
 |**2024-02-20**|**CounterCurate: Enhancing Physical and Semantic Visio-Linguistic Compositional Reasoning via Counterfactual Examples**|Jianrui Zhang et.al.|[2402.13254v1](http://arxiv.org/abs/2402.13254v1)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232v1](http://arxiv.org/abs/2402.13232v1)|null|
