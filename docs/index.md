@@ -51,10 +51,10 @@ layout: default
 |**2024-02-22**|**Modeling 3D Infant Kinetics Using Adaptive Graph Convolutional Networks**|Daniel Holmberg et.al.|[2402.14400v1](http://arxiv.org/abs/2402.14400v1)|**[link](https://github.com/deinal/infant-aagcn)**|
 |**2024-02-22**|**Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing**|Hao Li et.al.|[2402.14398v1](http://arxiv.org/abs/2402.14398v1)|null|
 |**2024-02-22**|**Semantic Image Synthesis with Unconditional Generator**|Jungwoo Chae et.al.|[2402.14395v1](http://arxiv.org/abs/2402.14395v1)|null|
-|**2024-02-22**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392v1](http://arxiv.org/abs/2402.14392v1)|null|
+|**2024-02-23**|**Reading Relevant Feature from Global Representation Memory for Visual Object Tracking**|Xinyu Zhou et.al.|[2402.14392v2](http://arxiv.org/abs/2402.14392v2)|null|
 |**2024-02-22**|**HR-APR: APR-agnostic Framework with Uncertainty Estimation and Hierarchical Refinement for Camera Relocalisation**|Changkun Liu et.al.|[2402.14371v1](http://arxiv.org/abs/2402.14371v1)|null|
 |**2024-02-22**|**GAM-Depth: Self-Supervised Indoor Depth Estimation Leveraging a Gradient-Aware Mask and Semantic Constraints**|Anqi Cheng et.al.|[2402.14354v1](http://arxiv.org/abs/2402.14354v1)|null|
-|**2024-02-22**|**Uncertainty-driven and Adversarial Calibration Learning for Epicardial Adipose Tissue Segmentation**|Kai Zhao et.al.|[2402.14349v1](http://arxiv.org/abs/2402.14349v1)|null|
+|**2024-02-23**|**Uncertainty-driven and Adversarial Calibration Learning for Epicardial Adipose Tissue Segmentation**|Kai Zhao et.al.|[2402.14349v2](http://arxiv.org/abs/2402.14349v2)|null|
 |**2024-02-22**|**An Error-Matching Exclusion Method for Accelerating Visual SLAM**|Shaojie Zhang et.al.|[2402.14345v1](http://arxiv.org/abs/2402.14345v1)|null|
 |**2024-02-22**|**TIE-KD: Teacher-Independent and Explainable Knowledge Distillation for Monocular Depth Estimation**|Sangwon Choi et.al.|[2402.14340v1](http://arxiv.org/abs/2402.14340v1)|null|
 |**2024-02-22**|**Subobject-level Image Tokenization**|Delong Chen et.al.|[2402.14327v1](http://arxiv.org/abs/2402.14327v1)|**[link](https://github.com/chendelong1999/subobjects)**|
@@ -5612,7 +5612,7 @@ layout: default
 |**2024-02-22**|**Structure-Based Drug Design via 3D Molecular Generative Pre-training and Sampling**|Yuwei Yang et.al.|[2402.14315v1](http://arxiv.org/abs/2402.14315v1)|null|
 |**2024-02-22**|**Typographic Text Generation with Off-the-Shelf Diffusion Model**|KhayTze Peong et.al.|[2402.14314v1](http://arxiv.org/abs/2402.14314v1)|null|
 |**2024-02-22**|**Font Style Interpolation with Diffusion Models**|Tetta Kondo et.al.|[2402.14311v1](http://arxiv.org/abs/2402.14311v1)|null|
-|**2024-02-22**|**Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion**|Yujia Huang et.al.|[2402.14285v1](http://arxiv.org/abs/2402.14285v1)|**[link](https://github.com/yjhuangcd/rule-guided-music)**|
+|**2024-02-23**|**Symbolic Music Generation with Non-Differentiable Rule Guided Diffusion**|Yujia Huang et.al.|[2402.14285v2](http://arxiv.org/abs/2402.14285v2)|**[link](https://github.com/yjhuangcd/rule-guided-music)**|
 |**2024-02-22**|**Qsnail: A Questionnaire Dataset for Sequential Question Generation**|Yan Lei et.al.|[2402.14272v1](http://arxiv.org/abs/2402.14272v1)|**[link](https://github.com/leiyangithub/qsnail)**|
 |**2024-02-22**|**MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion**|Xin-Yang Zheng et.al.|[2402.14253v1](http://arxiv.org/abs/2402.14253v1)|null|
 |**2024-02-21**|**T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**|Zizheng Pan et.al.|[2402.14167v1](http://arxiv.org/abs/2402.14167v1)|**[link](https://github.com/nvlabs/t-stitch)**|
@@ -5621,7 +5621,7 @@ layout: default
 |**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901v1](http://arxiv.org/abs/2402.13901v1)|null|
 |**2024-02-21**|**Science Checker Reloaded: A Bidirectional Paradigm for Transparency and Logical Reasoning**|Loïc Rakotoson et.al.|[2402.13897v1](http://arxiv.org/abs/2402.13897v1)|null|
 |**2024-02-21**|**NeuralDiffuser: Controllable fMRI Reconstruction with Primary Visual Feature Guided Diffusion**|Haoyu Li et.al.|[2402.13809v1](http://arxiv.org/abs/2402.13809v1)|null|
-|**2024-02-22**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v2](http://arxiv.org/abs/2402.13777v2)|null|
+|**2024-02-23**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777v3](http://arxiv.org/abs/2402.13777v3)|null|
 |**2024-02-21**|**Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion**|Lianghu Guo et.al.|[2402.13776v1](http://arxiv.org/abs/2402.13776v1)|null|
 |**2024-02-21**|**Music Style Transfer with Time-Varying Inversion of Diffusion Models**|Sifei Li et.al.|[2402.13763v1](http://arxiv.org/abs/2402.13763v1)|null|
 |**2024-02-21**|**SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model**|Xudong Ling et.al.|[2402.13737v1](http://arxiv.org/abs/2402.13737v1)|null|
@@ -8583,14 +8583,14 @@ layout: default
 |**2024-02-22**|**Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs**|Arash Ahmadian et.al.|[2402.14740v1](http://arxiv.org/abs/2402.14740v1)|null|
 |**2024-02-22**|**Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models**|Seungduk Kim et.al.|[2402.14714v1](http://arxiv.org/abs/2402.14714v1)|null|
 |**2024-02-22**|**IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus**|Honghao Gui et.al.|[2402.14710v1](http://arxiv.org/abs/2402.14710v1)|**[link](https://github.com/zjunlp/iepile)**|
-|**2024-02-22**|**An LLM-Enhanced Adversarial Editing System for Lexical Simplification**|Keren Tan et.al.|[2402.14704v1](http://arxiv.org/abs/2402.14704v1)|null|
+|**2024-02-23**|**An LLM-Enhanced Adversarial Editing System for Lexical Simplification**|Keren Tan et.al.|[2402.14704v2](http://arxiv.org/abs/2402.14704v2)|null|
 |**2024-02-22**|**COMPASS: Computational Mapping of Patient-Therapist Alliance Strategies with Language Modeling**|Baihan Lin et.al.|[2402.14701v1](http://arxiv.org/abs/2402.14701v1)|null|
 |**2024-02-22**|**Unveiling Linguistic Regions in Large Language Models**|Zhihao Zhang et.al.|[2402.14700v1](http://arxiv.org/abs/2402.14700v1)|null|
 |**2024-02-22**|**UFO: a Unified and Flexible Framework for Evaluating Factuality of Large Language Models**|Zhaoheng Huang et.al.|[2402.14690v1](http://arxiv.org/abs/2402.14690v1)|**[link](https://github.com/waldenruc/ufo)**|
 |**2024-02-22**|**Visual Hallucinations of Multi-modal Large Language Models**|Wen Huang et.al.|[2402.14683v1](http://arxiv.org/abs/2402.14683v1)|**[link](https://github.com/wenhuang2000/vhtest)**|
 |**2024-02-22**|**Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality**|Yiming Ai et.al.|[2402.14679v1](http://arxiv.org/abs/2402.14679v1)|null|
 |**2024-02-22**|**Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments**|Yu Gu et.al.|[2402.14672v1](http://arxiv.org/abs/2402.14672v1)|null|
-|**2024-02-22**|**ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models**|Yanan Wu et.al.|[2402.14660v1](http://arxiv.org/abs/2402.14660v1)|**[link](https://github.com/conceptmath/conceptmath)**|
+|**2024-02-23**|**ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models**|Yanan Wu et.al.|[2402.14660v2](http://arxiv.org/abs/2402.14660v2)|**[link](https://github.com/conceptmath/conceptmath)**|
 |**2024-02-22**|**OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement**|Tianyu Zheng et.al.|[2402.14658v1](http://arxiv.org/abs/2402.14658v1)|null|
 |**2024-02-22**|**From Keywords to Structured Summaries: Streamlining Scholarly Knowledge Access**|Mahsa Shamsabadi et.al.|[2402.14622v1](http://arxiv.org/abs/2402.14622v1)|null|
 |**2024-02-22**|**LLM-DA: Data Augmentation via Large Language Models for Few-Shot Named Entity Recognition**|Junjie Ye et.al.|[2402.14568v1](http://arxiv.org/abs/2402.14568v1)|null|
@@ -19263,7 +19263,7 @@ layout: default
 |**2024-02-22**|**Global Safe Sequential Learning via Efficient Knowledge Transfer**|Cen-You Li et.al.|[2402.14402v1](http://arxiv.org/abs/2402.14402v1)|**[link](https://github.com/boschresearch/transfersafesequentiallearning)**|
 |**2024-02-22**|**Time-domain programmable beam-splitter operations for an optical phase-sensitive non-Gaussian state**|Daichi Okuno et.al.|[2402.14372v1](http://arxiv.org/abs/2402.14372v1)|null|
 |**2024-02-22**|**Parsimonious Generative Machine Learning for Non-Gaussian Tail Modeling and Risk-Neutral Distribution Extraction**|Qi Wu et.al.|[2402.14368v1](http://arxiv.org/abs/2402.14368v1)|null|
-|**2024-02-22**|**Uncertainty-driven and Adversarial Calibration Learning for Epicardial Adipose Tissue Segmentation**|Kai Zhao et.al.|[2402.14349v1](http://arxiv.org/abs/2402.14349v1)|null|
+|**2024-02-23**|**Uncertainty-driven and Adversarial Calibration Learning for Epicardial Adipose Tissue Segmentation**|Kai Zhao et.al.|[2402.14349v2](http://arxiv.org/abs/2402.14349v2)|null|
 |**2024-02-22**|**Convergence of cones of metric measure spaces and its application to Cauchy distribution**|Syota Esaki et.al.|[2402.14331v1](http://arxiv.org/abs/2402.14331v1)|null|
 |**2024-02-22**|**Quiver Brascamp-Lieb inequalities**|Nicholas Hu et.al.|[2402.14291v1](http://arxiv.org/abs/2402.14291v1)|null|
 |**2024-02-22**|**Quasinormal modes of a charged black hole with scalar hair**|Wen-Di Guo et.al.|[2402.14265v1](http://arxiv.org/abs/2402.14265v1)|null|
