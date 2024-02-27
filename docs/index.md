@@ -14014,7 +14014,7 @@ layout: default
 |**2024-02-22**|**Data Augmentation is Dead, Long Live Data Augmentation**|Frédéric Piedboeuf et.al.|[2402.14895v1](http://arxiv.org/abs/2402.14895v1)|null|
 |**2024-02-22**|**LLMBind: A Unified Modality-Task Integration Framework**|Bin Zhu et.al.|[2402.14891v1](http://arxiv.org/abs/2402.14891v1)|null|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818v1](http://arxiv.org/abs/2402.14818v1)|**[link](https://github.com/mbzuai-oryx/palo)**|
-|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807v1](http://arxiv.org/abs/2402.14807v1)|null|
+|**2024-02-23**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807v2](http://arxiv.org/abs/2402.14807v2)|null|
 |**2024-02-22**|**Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**|Ke Wang et.al.|[2402.14804v1](http://arxiv.org/abs/2402.14804v1)|null|
 |**2024-02-22**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744v1](http://arxiv.org/abs/2402.14744v1)|null|
 |**2024-02-22**|**Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments**|Yu Gu et.al.|[2402.14672v1](http://arxiv.org/abs/2402.14672v1)|null|
