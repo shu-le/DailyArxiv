@@ -19619,7 +19619,7 @@
 |**2024-02-23**|**Mixing cutoff for simple random walks on the Chung-Lu digraph**|Alessandra Bianchi et.al.|[2402.15356v1](http://arxiv.org/abs/2402.15356v1)|null|
 |**2024-02-23**|**Information-Theoretic Safe Bayesian Optimization**|Alessandro G. Bottero et.al.|[2402.15347v1](http://arxiv.org/abs/2402.15347v1)|null|
 |**2024-02-23**|**Dynamical stability of bootstrapped Newtonian stars**|Octavian Micu et.al.|[2402.15323v1](http://arxiv.org/abs/2402.15323v1)|null|
-|**2024-02-23**|**Adversarial Robustness of Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267v1](http://arxiv.org/abs/2402.15267v1)|null|
+|**2024-02-26**|**A Robust Defense against Adversarial Attacks on Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267v2](http://arxiv.org/abs/2402.15267v2)|null|
 |**2024-02-23**|**Exploring Gamma-Ray Burst Diversity: Clustering analysis of emission characteristics of Fermi and BATSE detected GRBs**|Nishil Mehta et.al.|[2402.15260v1](http://arxiv.org/abs/2402.15260v1)|null|
 |**2024-02-23**|**How do wavelength correlations affect your transmission spectrum? Application of a new fast and flexible 2D Gaussian process framework to transiting exoplanet spectroscopy**|Mark Fortune et.al.|[2402.15204v1](http://arxiv.org/abs/2402.15204v1)|**[link](https://github.com/markfortune/luas)**|
 |**2024-02-23**|**A Linear Inverse Model for Colored-Gaussian Noise**|Justin Lien et.al.|[2402.15184v1](http://arxiv.org/abs/2402.15184v1)|null|
