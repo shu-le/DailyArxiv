@@ -8866,7 +8866,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v1](http://arxiv.org/abs/2402.18571v1)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-29**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571v2](http://arxiv.org/abs/2402.18571v2)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
 |**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566v1](http://arxiv.org/abs/2402.18566v1)|null|
 |**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551v1](http://arxiv.org/abs/2402.18551v1)|null|
 |**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502v1](http://arxiv.org/abs/2402.18502v1)|null|
