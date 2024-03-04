@@ -8,7 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481v1](http://arxiv.org/abs/2402.19481v1)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481v1](http://arxiv.org/abs/2402.19481v1)|null|
 |**2024-02-29**|**Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers**|Tsai-Shien Chen et.al.|[2402.19479v1](http://arxiv.org/abs/2402.19479v1)|null|
 |**2024-02-29**|**Learning a Generalized Physical Face Model From Data**|Lingchen Yang et.al.|[2402.19477v1](http://arxiv.org/abs/2402.19477v1)|null|
 |**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474v1](http://arxiv.org/abs/2402.19474v1)|**[link](https://github.com/opengvlab/all-seeing)**|
@@ -54,7 +54,7 @@ layout: default
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186v1](http://arxiv.org/abs/2402.19186v1)|null|
 |**2024-02-29**|**MemoNav: Working Memory Model for Visual Navigation**|Hongxin Li et.al.|[2402.19161v1](http://arxiv.org/abs/2402.19161v1)|null|
 |**2024-02-29**|**Effective Message Hiding with Order-Preserving Mechanisms**|Gao Yu et.al.|[2402.19160v1](http://arxiv.org/abs/2402.19160v1)|null|
-|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159v1](http://arxiv.org/abs/2402.19159v1)|null|
+|**2024-02-29**|**Trajectory Consistency Distillation**|Jianbin Zheng et.al.|[2402.19159v1](http://arxiv.org/abs/2402.19159v1)|**[link](https://github.com/jabir-zheng/TCD)**|
 |**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150v1](http://arxiv.org/abs/2402.19150v1)|null|
 |**2024-02-29**|**A SAM-guided Two-stream Lightweight Model for Anomaly Detection**|Chenghao Li et.al.|[2402.19145v1](http://arxiv.org/abs/2402.19145v1)|**[link](https://github.com/stitchkoala/stlm)**|
 |**2024-02-29**|**Weakly Supervised Monocular 3D Detection with a Single-View Image**|Xueying Jiang et.al.|[2402.19144v1](http://arxiv.org/abs/2402.19144v1)|null|
@@ -5848,7 +5848,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481v1](http://arxiv.org/abs/2402.19481v1)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481v1](http://arxiv.org/abs/2402.19481v1)|null|
 |**2024-02-29**|**Towards Generalizable Tumor Synthesis**|Qi Chen et.al.|[2402.19470v1](http://arxiv.org/abs/2402.19470v1)|null|
 |**2024-02-29**|**Humanoid Locomotion as Next Token Prediction**|Ilija Radosavovic et.al.|[2402.19469v1](http://arxiv.org/abs/2402.19469v1)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455v1](http://arxiv.org/abs/2402.19455v1)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
@@ -5863,7 +5863,7 @@ layout: default
 |**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043v1](http://arxiv.org/abs/2402.19043v1)|**[link](https://github.com/pfriedri/wdm-3d)**|
 |**2024-02-29**|**Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding**|Guangyi Liu et.al.|[2402.19009v1](http://arxiv.org/abs/2402.19009v1)|null|
 |**2024-02-29**|**Graph Generation via Spectral Diffusion**|Giorgia Minello et.al.|[2402.18974v1](http://arxiv.org/abs/2402.18974v1)|null|
-|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842v1](http://arxiv.org/abs/2402.18842v1)|null|
+|**2024-02-29**|**ViewFusion: Towards Multi-View Consistency via Interpolated Denoising**|Xianghui Yang et.al.|[2402.18842v1](http://arxiv.org/abs/2402.18842v1)|**[link](https://github.com/Wi-sc/ViewFusion)**|
 |**2024-02-29**|**Extended Flow Matching: a Method of Conditional Generation with Generalized Continuity Equation**|Noboru Isobe et.al.|[2402.18839v1](http://arxiv.org/abs/2402.18839v1)|null|
 |**2024-02-29**|**Envisioning the Applications and Implications of Generative AI for News Media**|Sachita Nishal et.al.|[2402.18835v1](http://arxiv.org/abs/2402.18835v1)|null|
 |**2024-02-29**|**A Quantitative Evaluation of Score Distillation Sampling Based Text-to-3D**|Xiaohan Fei et.al.|[2402.18780v1](http://arxiv.org/abs/2402.18780v1)|null|
@@ -5873,7 +5873,7 @@ layout: default
 |**2024-02-28**|**Leveraging Diverse Modeling Contexts with Collaborating Learning for Neural Machine Translation**|Yusheng Liao et.al.|[2402.18428v1](http://arxiv.org/abs/2402.18428v1)|null|
 |**2024-02-28**|**Deep Confident Steps to New Pockets: Strategies for Docking Generalization**|Gabriele Corso et.al.|[2402.18396v1](http://arxiv.org/abs/2402.18396v1)|**[link](https://github.com/gcorso/diffdock)**|
 |**2024-02-28**|**Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model**|Sangjoon Park et.al.|[2402.18362v1](http://arxiv.org/abs/2402.18362v1)|null|
-|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331v1](http://arxiv.org/abs/2402.18331v1)|null|
+|**2024-02-28**|**FineDiffusion: Scaling up Diffusion Models for Fine-grained Image Generation with 10,000 Classes**|Ziying Pan et.al.|[2402.18331v1](http://arxiv.org/abs/2402.18331v1)|**[link](https://github.com/FineDiffusion/FineDiffusion)**|
 |**2024-02-28**|**Balancing Act: Distribution-Guided Debiasing in Diffusion Models**|Rishubh Parihar et.al.|[2402.18206v1](http://arxiv.org/abs/2402.18206v1)|null|
 |**2024-02-28**|**Diffusion-based Neural Network Weights Generation**|Bedionita Soro et.al.|[2402.18153v1](http://arxiv.org/abs/2402.18153v1)|null|
 |**2024-02-28**|**Context-aware Talking Face Video Generation**|Meidai Xuanyuan et.al.|[2402.18092v1](http://arxiv.org/abs/2402.18092v1)|null|
