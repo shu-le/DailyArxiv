@@ -8726,7 +8726,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-29**|**Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress**|Ameya Prabhu et.al.|[2402.19472v1](http://arxiv.org/abs/2402.19472v1)|**[link](https://github.com/bethgelab/sort-and-search)**|
-|**2024-02-28**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204v2](http://arxiv.org/abs/2402.17204v2)|null|
+|**2024-03-01**|**Advancing Generative Model Evaluation: A Novel Algorithm for Realistic Image Synthesis and Comparison in OCR System**|Majid Memari et.al.|[2402.17204v3](http://arxiv.org/abs/2402.17204v3)|null|
 |**2024-02-24**|**HD-Eval: Aligning Large Language Model Evaluators Through Hierarchical Criteria Decomposition**|Yuxuan Liu et.al.|[2402.15754v1](http://arxiv.org/abs/2402.15754v1)|null|
 |**2024-02-24**|**GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation**|Yi Zong et.al.|[2402.15745v1](http://arxiv.org/abs/2402.15745v1)|**[link](https://github.com/openmoss/gaokao-mm)**|
 |**2024-02-23**|**Physics-constrained polynomial chaos expansion for scientific machine learning and uncertainty quantification**|Himanshu Sharma et.al.|[2402.15115v1](http://arxiv.org/abs/2402.15115v1)|null|
@@ -8959,7 +8959,7 @@ layout: default
 |**2024-02-29**|**RL-GPT: Integrating Reinforcement Learning and Code-as-policy**|Shaoteng Liu et.al.|[2402.19299v1](http://arxiv.org/abs/2402.19299v1)|null|
 |**2024-02-29**|**PlanGPT: Enhancing Urban Planning with Tailored Language Model and Efficient Retrieval**|He Zhu et.al.|[2402.19273v1](http://arxiv.org/abs/2402.19273v1)|null|
 |**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255v1](http://arxiv.org/abs/2402.19255v1)|**[link](https://github.com/qtli/gsm-plus)**|
-|**2024-02-29**|**Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark**|Zhikun Xu et.al.|[2402.19248v1](http://arxiv.org/abs/2402.19248v1)|**[link](https://github.com/alibaba-nlp/cdqa)**|
+|**2024-03-02**|**Let LLMs Take on the Latest Challenges! A Chinese Dynamic Question Answering Benchmark**|Zhikun Xu et.al.|[2402.19248v2](http://arxiv.org/abs/2402.19248v2)|**[link](https://github.com/alibaba-nlp/cdqa)**|
 |**2024-02-29**|**Memory-Augmented Generative Adversarial Transformers**|Stephan Raaijmakers et.al.|[2402.19218v1](http://arxiv.org/abs/2402.19218v1)|null|
 |**2024-02-29**|**PeLLE: Encoder-based language models for Brazilian Portuguese based on open data**|Guilherme Lamartine de Mello et.al.|[2402.19204v1](http://arxiv.org/abs/2402.19204v1)|null|
 |**2024-02-29**|**PRSA: Prompt Reverse Stealing Attacks against Large Language Models**|Yong Yang et.al.|[2402.19200v1](http://arxiv.org/abs/2402.19200v1)|null|
