@@ -44,7 +44,7 @@
 |**2024-03-02**|**Beyond Night Visibility: Adaptive Multi-Scale Fusion of Infrared and Visible Images**|Shufan Pei et.al.|[2403.01083v1](http://arxiv.org/abs/2403.01083v1)|null|
 |**2024-03-02**|**Extracting Usable Predictions from Quantized Networks through Uncertainty Quantification for OOD Detection**|Rishi Singhal et.al.|[2403.01076v1](http://arxiv.org/abs/2403.01076v1)|null|
 |**2024-03-02**|**Neural Field Classifiers via Target Encoding and Classification Loss**|Xindi Yang et.al.|[2403.01058v1](http://arxiv.org/abs/2403.01058v1)|null|
-|**2024-03-02**|**Seeing Unseen: Discover Novel Biomedical Concepts via GeometryConstrained Probabilistic Modeling**|Jianan Fan et.al.|[2403.01053v1](http://arxiv.org/abs/2403.01053v1)|null|
+|**2024-03-05**|**Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling**|Jianan Fan et.al.|[2403.01053v2](http://arxiv.org/abs/2403.01053v2)|null|
 |**2024-03-01**|**SELFI: Autonomous Self-Improvement with Reinforcement Learning for Social Navigation**|Noriaki Hirose et.al.|[2403.00991v1](http://arxiv.org/abs/2403.00991v1)|null|
 |**2024-03-01**|**Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor**|Junlin Song et.al.|[2403.00976v1](http://arxiv.org/abs/2403.00976v1)|null|
 |**2024-03-01**|**Fine-tuning with Very Large Dropout**|Jianyu Zhang et.al.|[2403.00946v1](http://arxiv.org/abs/2403.00946v1)|null|
@@ -5920,7 +5920,7 @@
 |**2024-03-01**|**Abductive Ego-View Accident Video Understanding for Safe Driving Perception**|Jianwu Fang et.al.|[2403.00436v1](http://arxiv.org/abs/2403.00436v1)|null|
 |**2024-03-01**|**Provably Robust DPO: Aligning Language Models with Noisy Feedback**|Sayak Ray Chowdhury et.al.|[2403.00409v1](http://arxiv.org/abs/2403.00409v1)|null|
 |**2024-03-01**|**HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation**|Zhiying Leng et.al.|[2403.00372v1](http://arxiv.org/abs/2403.00372v1)|null|
-|**2024-03-01**|**Robust Policy Learning via Offline Skill Diffusion**|Woo Kyung Kim et.al.|[2403.00225v1](http://arxiv.org/abs/2403.00225v1)|null|
+|**2024-03-05**|**Robust Policy Learning via Offline Skill Diffusion**|Woo Kyung Kim et.al.|[2403.00225v2](http://arxiv.org/abs/2403.00225v2)|null|
 |**2024-02-29**|**Learning to Find Missing Video Frames with Synthetic Data Augmentation: A General Framework and Application in Generating Thermal Images Using RGB Cameras**|Mathias Viborg Andersen et.al.|[2403.00196v1](http://arxiv.org/abs/2403.00196v1)|null|
 |**2024-02-29**|**Analysis of Kernel Mirror Prox for Measure Optimization**|Pavel Dvurechensky et.al.|[2403.00147v1](http://arxiv.org/abs/2403.00147v1)|null|
 |**2024-02-29**|**Synthesizing study-specific controls using generative models on open access datasets for harmonized multi-study analyses**|Shruti P. Gadewar et.al.|[2403.00093v1](http://arxiv.org/abs/2403.00093v1)|null|
@@ -5934,7 +5934,7 @@
 |**2024-02-29**|**DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly**|Gianluca Scarpellini et.al.|[2402.19302v1](http://arxiv.org/abs/2402.19302v1)|**[link](https://github.com/iit-pavis/diffassemble)**|
 |**2024-02-29**|**Generative models struggle with kirigami metamaterials**|Gerrit Felsch et.al.|[2402.19196v1](http://arxiv.org/abs/2402.19196v1)|null|
 |**2024-02-29**|**Disentangling representations of retinal images with generative models**|Sarah Müller et.al.|[2402.19186v1](http://arxiv.org/abs/2402.19186v1)|null|
-|**2024-02-29**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala et.al.|[2402.19170v1](http://arxiv.org/abs/2402.19170v1)|null|
+|**2024-03-04**|**Improving Legal Judgement Prediction in Romanian with Long Text Encoders**|Mihai Masala et.al.|[2402.19170v2](http://arxiv.org/abs/2402.19170v2)|null|
 |**2024-02-29**|**TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings**|Alexander Shabalin et.al.|[2402.19097v1](http://arxiv.org/abs/2402.19097v1)|null|
 |**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v2](http://arxiv.org/abs/2402.19062v2)|null|
 |**2024-02-29**|**WDM: 3D Wavelet Diffusion Models for High-Resolution Medical Image Synthesis**|Paul Friedrich et.al.|[2402.19043v1](http://arxiv.org/abs/2402.19043v1)|**[link](https://github.com/pfriedri/wdm-3d)**|
@@ -9063,7 +9063,7 @@
 |**2024-03-01**|**AtP*: An efficient and scalable method for localizing LLM behaviour to components**|János Kramár et.al.|[2403.00745v1](http://arxiv.org/abs/2403.00745v1)|null|
 |**2024-03-01**|**Self-Consistent Decoding for More Factual Open Responses**|Christopher Malon et.al.|[2403.00696v1](http://arxiv.org/abs/2403.00696v1)|**[link](https://github.com/cdmalon/selfconsistent)**|
 |**2024-03-01**|**Playing NetHack with LLMs: Potential & Limitations as Zero-Shot Agents**|Dominik Jeurissen et.al.|[2403.00690v1](http://arxiv.org/abs/2403.00690v1)|null|
-|**2024-03-01**|**NeuPIMs: A NPU-PIM Heterogeneous Acceleration for Batched Inference of Large Language Model**|Guseul Heo et.al.|[2403.00579v1](http://arxiv.org/abs/2403.00579v1)|null|
+|**2024-03-05**|**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**|Guseul Heo et.al.|[2403.00579v2](http://arxiv.org/abs/2403.00579v2)|null|
 |**2024-03-01**|**Standardizing the Measurement of Text Diversity: A Tool and a Comparative Analysis of Scores**|Chantal Shaib et.al.|[2403.00553v1](http://arxiv.org/abs/2403.00553v1)|null|
 |**2024-03-01**|**Large Language Models for Simultaneous Named Entity Extraction and Spelling Correction**|Edward Whittaker et.al.|[2403.00528v1](http://arxiv.org/abs/2403.00528v1)|null|
 |**2024-03-01**|**VisionLLaMA: A Unified LLaMA Interface for Vision Tasks**|Xiangxiang Chu et.al.|[2403.00522v1](http://arxiv.org/abs/2403.00522v1)|**[link](https://github.com/meituan-automl/visionllama)**|
@@ -13760,7 +13760,7 @@
 |**2024-02-29**|**Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**|Xin Li et.al.|[2402.19014v1](http://arxiv.org/abs/2402.19014v1)|null|
 |**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476v1](http://arxiv.org/abs/2402.18476v1)|null|
 |**2024-02-29**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409v2](http://arxiv.org/abs/2402.18409v2)|null|
-|**2024-02-28**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068v1](http://arxiv.org/abs/2402.18068v1)|null|
+|**2024-03-05**|**SynArtifact: Classifying and Alleviating Artifacts in Synthetic Images via Vision-Language Model**|Bin Cao et.al.|[2402.18068v2](http://arxiv.org/abs/2402.18068v2)|null|
 |**2024-02-28**|**All in a Single Image: Large Multimodal Models are In-Image Learners**|Lei Wang et.al.|[2402.17971v1](http://arxiv.org/abs/2402.17971v1)|**[link](https://github.com/agi-edgerunners/iil)**|
 |**2024-02-28**|**Vision Language Model-based Caption Evaluation Method Leveraging Visual Context Extraction**|Koki Maeda et.al.|[2402.17969v1](http://arxiv.org/abs/2402.17969v1)|null|
 |**2024-02-28**|**OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web**|Raghav Kapoor et.al.|[2402.17553v2](http://arxiv.org/abs/2402.17553v2)|null|
@@ -20330,7 +20330,7 @@
 |**2024-02-29**|**Estimating the linear relation between variables that are never jointly observed: an application in in vivo experiments**|Polina Arsenteva et.al.|[2403.00140v1](http://arxiv.org/abs/2403.00140v1)|null|
 |**2024-02-29**|**The Physical Properties of Changing-look Blazars**|Shi-Ju Kang et.al.|[2403.00078v1](http://arxiv.org/abs/2403.00078v1)|null|
 |**2024-02-29**|**Learning interacting fermionic Hamiltonians at the Heisenberg limit**|Arjun Mirani et.al.|[2403.00069v1](http://arxiv.org/abs/2403.00069v1)|null|
-|**2024-03-04**|**The Multi-layer Nature of Molecular Gas toward the Cygnus Region**|Shiyu Zhang et.al.|[2403.00061v2](http://arxiv.org/abs/2403.00061v2)|null|
+|**2024-03-05**|**The Multi-layer Nature of Molecular Gas toward the Cygnus Region**|Shiyu Zhang et.al.|[2403.00061v3](http://arxiv.org/abs/2403.00061v3)|null|
 |**2024-02-29**|**Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm**|Leo Zhou et.al.|[2402.19456v1](http://arxiv.org/abs/2402.19456v1)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455v1](http://arxiv.org/abs/2402.19455v1)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
 |**2024-02-29**|**3D Gaussian Model for Animation and Texturing**|Xiangzhi Eric Wang et.al.|[2402.19441v1](http://arxiv.org/abs/2402.19441v1)|null|
@@ -20345,7 +20345,7 @@
 |**2024-02-29**|**Enhancing the Power of Gaussian Graphical Model Inference by Modeling the Graph Structure**|Valentin Kilian et.al.|[2402.19021v1](http://arxiv.org/abs/2402.19021v1)|null|
 |**2024-02-29**|**Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding**|Guangyi Liu et.al.|[2402.19009v1](http://arxiv.org/abs/2402.19009v1)|null|
 |**2024-02-29**|**Helper Data Schemes for Coded Modulation and Shaping in Physical Unclonable Functions**|Robert F. H. Fischer et.al.|[2402.18980v1](http://arxiv.org/abs/2402.18980v1)|null|
-|**2024-02-29**|**Real-Time Adaptive Safety-Critical Control with Gaussian Processes in High-Order Uncertain Models**|Yu Zhang et.al.|[2402.18946v1](http://arxiv.org/abs/2402.18946v1)|null|
+|**2024-03-05**|**Real-Time Adaptive Safety-Critical Control with Gaussian Processes in High-Order Uncertain Models**|Yu Zhang et.al.|[2402.18946v2](http://arxiv.org/abs/2402.18946v2)|null|
 |**2024-02-29**|**Realization of Non-diffracting and Self-healing Optical Skyrmions**|A. Srinivasa Rao et.al.|[2402.18938v1](http://arxiv.org/abs/2402.18938v1)|null|
 |**2024-02-29**|**Benchmarking phonon anharmonicity in machine learning interatomic potentials**|Sasaank Bandi et.al.|[2402.18891v1](http://arxiv.org/abs/2402.18891v1)|null|
 |**2024-02-29**|**Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling**|Ruijia Niu et.al.|[2402.18846v1](http://arxiv.org/abs/2402.18846v1)|null|
