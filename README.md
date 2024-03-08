@@ -22,7 +22,7 @@
 |**2024-03-06**|**Unifying Generation and Compression: Ultra-low bitrate Image Coding Via Multi-stage Transformer**|Naifu Xue et.al.|[2403.03736v1](http://arxiv.org/abs/2403.03736v1)|null|
 |**2024-03-06**|**Learning 3D object-centric representation through prediction**|John Day et.al.|[2403.03730v1](http://arxiv.org/abs/2403.03730v1)|null|
 |**2024-03-06**|**Bridging Diversity and Uncertainty in Active learning with Self-Supervised Pre-Training**|Paul Doucet et.al.|[2403.03728v1](http://arxiv.org/abs/2403.03728v1)|null|
-|**2024-03-06**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721v1](http://arxiv.org/abs/2403.03721v1)|null|
+|**2024-03-07**|**CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection**|Gyusam Chang et.al.|[2403.03721v2](http://arxiv.org/abs/2403.03721v2)|null|
 |**2024-03-06**|**Multimodal Transformer for Comics Text-Cloze**|Emanuele Vivoli et.al.|[2403.03719v1](http://arxiv.org/abs/2403.03719v1)|null|
 |**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715v1](http://arxiv.org/abs/2403.03715v1)|null|
 |**2024-03-06**|**Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision**|Yajie Liu et.al.|[2403.03707v1](http://arxiv.org/abs/2403.03707v1)|null|
@@ -52,7 +52,7 @@
 |**2024-03-06**|**Interactive Continual Learning Architecture for Long-Term Personalization of Home Service Robots**|Ali Ayub et.al.|[2403.03462v1](http://arxiv.org/abs/2403.03462v1)|null|
 |**2024-03-06**|**A Density-Guided Temporal Attention Transformer for Indiscernible Object Counting in Underwater Video**|Cheng-Yen Yang et.al.|[2403.03461v1](http://arxiv.org/abs/2403.03461v1)|null|
 |**2024-03-06**|**Slot Abstractors: Toward Scalable Abstract Visual Reasoning**|Shanka Subhra Mondal et.al.|[2403.03458v1](http://arxiv.org/abs/2403.03458v1)|**[link](https://github.com/slotabstractor/slotabstractor)**|
-|**2024-03-06**|**DLP-GAN: Learning to Draw Modern Chinese Landscape Photos with Generative Adversarial Network**|Xiangquan Gui et.al.|[2403.03456v1](http://arxiv.org/abs/2403.03456v1)|null|
+|**2024-03-07**|**DLP-GAN: learning to draw modern Chinese landscape photos with generative adversarial network**|Xiangquan Gui et.al.|[2403.03456v2](http://arxiv.org/abs/2403.03456v2)|null|
 |**2024-03-06**|**D4C glove-train: solving the RPM and Bongard-logo problem by distributing and Circumscribing concepts**|Ruizhuo Song et.al.|[2403.03452v1](http://arxiv.org/abs/2403.03452v1)|null|
 |**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221v1](http://arxiv.org/abs/2403.03221v1)|null|
 |**2024-03-05**|**Self-supervised 3D Patient Modeling with Multi-modal Attentive Fusion**|Meng Zheng et.al.|[2403.03217v1](http://arxiv.org/abs/2403.03217v1)|null|
@@ -6015,7 +6015,7 @@
 |**2024-03-05**|**Generic models for genus 2 curves with real multiplication**|Alex Cowan et.al.|[2403.03191v1](http://arxiv.org/abs/2403.03191v1)|null|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181v1](http://arxiv.org/abs/2403.03181v1)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
 |**2024-03-05**|**Reaching Consensus in Cooperative Multi-Agent Reinforcement Learning with Goal Imagination**|Liangzhou Wang et.al.|[2403.03172v1](http://arxiv.org/abs/2403.03172v1)|null|
-|**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167v1](http://arxiv.org/abs/2403.03167v1)|**[link](https://github.com/gglab-ku/paradise)**|
+|**2024-03-06**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoglu et.al.|[2403.03167v2](http://arxiv.org/abs/2403.03167v2)|**[link](https://github.com/gglab-ku/paradise)**|
 |**2024-03-05**|**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**|Yannan He et.al.|[2403.03122v1](http://arxiv.org/abs/2403.03122v1)|null|
 |**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100v1](http://arxiv.org/abs/2403.03100v1)|null|
 |**2024-03-05**|**Global N-body Simulation of Gap Edge Structures Created by Perturbations from a Small Satellite Embedded in Saturn's Rings**|Naoya Torii et.al.|[2403.03012v1](http://arxiv.org/abs/2403.03012v1)|null|
@@ -9190,7 +9190,7 @@
 |**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952v1](http://arxiv.org/abs/2403.03952v1)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
 |**2024-03-06**|**Did Translation Models Get More Robust Without Anyone Even Noticing?**|Ben Peters et.al.|[2403.03923v1](http://arxiv.org/abs/2403.03923v1)|null|
 |**2024-03-06**|**Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing**|Asmita et.al.|[2403.03897v1](http://arxiv.org/abs/2403.03897v1)|null|
-|**2024-03-06**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883v1](http://arxiv.org/abs/2403.03883v1)|null|
+|**2024-03-07**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883v2](http://arxiv.org/abs/2403.03883v2)|null|
 |**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870v1](http://arxiv.org/abs/2403.03870v1)|**[link](https://github.com/clinicalml/co-llm)**|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867v1](http://arxiv.org/abs/2403.03867v1)|null|
 |**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866v1](http://arxiv.org/abs/2403.03866v1)|null|
@@ -9233,7 +9233,7 @@
 |**2024-03-05**|**Book2Dial: Generating Teacher-Student Interactions from Textbooks for Cost-Effective Development of Educational Chatbots**|Junling Wang et.al.|[2403.03307v1](http://arxiv.org/abs/2403.03307v1)|null|
 |**2024-03-05**|**"It's the only thing I can trust": Envisioning Large Language Model Use by Autistic Workers for Communication Assistance**|JiWoong Jang et.al.|[2403.03297v1](http://arxiv.org/abs/2403.03297v1)|null|
 |**2024-03-05**|**Should We Fear Large Language Models? A Structural Analysis of the Human Reasoning System for Elucidating LLM Capabilities and Risks Through the Lens of Heidegger's Philosophy**|Jianqiiu Zhang et.al.|[2403.03288v1](http://arxiv.org/abs/2403.03288v1)|null|
-|**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218v1](http://arxiv.org/abs/2403.03218v1)|null|
+|**2024-03-06**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218v2](http://arxiv.org/abs/2403.03218v2)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203v1](http://arxiv.org/abs/2403.03203v1)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188v1](http://arxiv.org/abs/2403.03188v1)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
 |**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170v1](http://arxiv.org/abs/2403.03170v1)|null|
@@ -14020,7 +14020,7 @@
 |**2024-03-06**|**ImgTrojan: Jailbreaking Vision-Language Models with ONE Image**|Xijia Tao et.al.|[2403.02910v2](http://arxiv.org/abs/2403.02910v2)|null|
 |**2024-03-05**|**Domain-Agnostic Mutual Prompting for Unsupervised Domain Adaptation**|Zhekai Du et.al.|[2403.02899v1](http://arxiv.org/abs/2403.02899v1)|null|
 |**2024-03-05**|**Enhancing Conceptual Understanding in Multimodal Contrastive Learning through Hard Negative Samples**|Philipp J. Rösch et.al.|[2403.02875v1](http://arxiv.org/abs/2403.02875v1)|null|
-|**2024-03-06**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al.|[2403.02781v2](http://arxiv.org/abs/2403.02781v2)|**[link](https://github.com/zhengli97/promptkd)**|
+|**2024-03-07**|**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**|Zheng Li et.al.|[2403.02781v3](http://arxiv.org/abs/2403.02781v3)|**[link](https://github.com/zhengli97/promptkd)**|
 |**2024-03-05**|**DomainVerse: A Benchmark Towards Real-World Distribution Shifts For Tuning-Free Adaptive Domain Generalization**|Feng Hou et.al.|[2403.02714v1](http://arxiv.org/abs/2403.02714v1)|null|
 |**2024-03-05**|**Enhancing Generalization in Medical Visual Question Answering Tasks via Gradient-Guided Model Perturbation**|Gang Liu et.al.|[2403.02707v1](http://arxiv.org/abs/2403.02707v1)|null|
 |**2024-03-05**|**Modeling Collaborator: Enabling Subjective Vision Classification With Minimal Human Effort via LLM Tool-Use**|Imad Eddine Toubal et.al.|[2403.02626v1](http://arxiv.org/abs/2403.02626v1)|null|
@@ -14952,7 +14952,7 @@
 |**2024-03-06**|**Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation**|Xiao Ma et.al.|[2403.03890v1](http://arxiv.org/abs/2403.03890v1)|null|
 |**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866v1](http://arxiv.org/abs/2403.03866v1)|null|
 |**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864v1](http://arxiv.org/abs/2403.03864v1)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
-|**2024-03-06**|**A Modular Approach for Multimodal Summarization of TV Shows**|Louis Mahon et.al.|[2403.03823v1](http://arxiv.org/abs/2403.03823v1)|null|
+|**2024-03-07**|**A Modular Approach for Multimodal Summarization of TV Shows**|Louis Mahon et.al.|[2403.03823v2](http://arxiv.org/abs/2403.03823v2)|null|
 |**2024-03-06**|**Incentivized Learning in Principal-Agent Bandit Games**|Antoine Scheid et.al.|[2403.03811v1](http://arxiv.org/abs/2403.03811v1)|null|
 |**2024-03-06**|**Confidence-Aware Decision-Making and Control for Tool Selection**|Ajith Anil Meera et.al.|[2403.03808v1](http://arxiv.org/abs/2403.03808v1)|null|
 |**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788v1](http://arxiv.org/abs/2403.03788v1)|**[link](https://github.com/zekaigalaxy/pptcr)**|
@@ -20690,7 +20690,7 @@
 |**2024-03-06**|**Online Photon Guiding with 3D Gaussians for Caustics Rendering**|Jiawei Huang et.al.|[2403.03641v1](http://arxiv.org/abs/2403.03641v1)|null|
 |**2024-03-06**|**Stochastic partial differential equations for superprocesses in random environments**|Jieliang Hong et.al.|[2403.03638v1](http://arxiv.org/abs/2403.03638v1)|null|
 |**2024-03-06**|**Data-Driven Superstabilizing Control under Quadratically-Bounded Errors-in-Variables Noise**|Jared Miller et.al.|[2403.03624v1](http://arxiv.org/abs/2403.03624v1)|null|
-|**2024-03-06**|**Data-Based In-Cylinder Pressure Model with Cyclic Variations for Combustion Control: A RCCI Engine Application**|Maarten Vlaswinkel et.al.|[2403.03602v1](http://arxiv.org/abs/2403.03602v1)|null|
+|**2024-03-07**|**Data-Based In-Cylinder Pressure Model with Cyclic Variations for Combustion Control: A RCCI Engine Application**|Maarten Vlaswinkel et.al.|[2403.03602v2](http://arxiv.org/abs/2403.03602v2)|null|
 |**2024-03-06**|**Correlations of vorticity inside a coherent vortex**|Igor V. Kolokolov et.al.|[2403.03591v1](http://arxiv.org/abs/2403.03591v1)|null|
 |**2024-03-06**|**Low-Dose CT Image Reconstruction by Fine-Tuning a UNet Pretrained for Gaussian Denoising for the Downstream Task of Image Enhancement**|Tim Selig et.al.|[2403.03551v1](http://arxiv.org/abs/2403.03551v1)|null|
 |**2024-03-06**|**Contraction rates and projection subspace estimation with Gaussian process priors in high dimension**|Elie Odin et.al.|[2403.03540v1](http://arxiv.org/abs/2403.03540v1)|null|
